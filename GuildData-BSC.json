@@ -1,0 +1,5290 @@
+{
+  "guild": {
+    "member": [
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "279",
+            "lifetimeValue": "678590"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "671"
+          },
+          {
+            "type": 2,
+            "currentValue": "600",
+            "lifetimeValue": "452328"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 5214,
+            "division": 25,
+            "joinTime": "1713820529000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 6531
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 4447,
+            "division": 10,
+            "joinTime": "1716238813000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 8491
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 10,
+            "joinTime": "1718662489000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "ByxcbWEpTMeoMlt76vOB1g",
+        "playerName": "XxNobleYodaxX",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718729571000",
+        "squadPower": 180381,
+        "guildJoinTime": "1652378136",
+        "galacticPower": "8219594",
+        "playerTitle": "PLAYERTITLE_BEEDEE",
+        "playerPortrait": "PLAYERPORTRAIT_GRANDARENA_ADVANCED",
+        "lifetimeSeasonScore": "133464",
+        "leagueId": "KYBER",
+        "shipGalacticPower": "3420510",
+        "characterGalacticPower": "4799084",
+        "nucleusId": "1013236522174"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "408",
+            "lifetimeValue": "764470"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "415"
+          },
+          {
+            "type": 2,
+            "currentValue": "600",
+            "lifetimeValue": "454394"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 8417,
+            "division": 20,
+            "joinTime": "1713824494000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 23741
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 6922,
+            "division": 20,
+            "joinTime": "1716249620000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 22030
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 20,
+            "joinTime": "1718669320000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "oMyga3XtT1-W9oUmsC1XBA",
+        "playerName": "Zolo",
+        "playerLevel": 85,
+        "memberLevel": 3,
+        "guildXp": 0,
+        "lastActivityTime": "1718740066000",
+        "squadPower": 160875,
+        "guildJoinTime": "1652378137",
+        "galacticPower": "9310534",
+        "playerTitle": "PLAYERTITLE_DARKLORD",
+        "playerPortrait": "PLAYERPORTRAIT_BASTILASHAN_DARK",
+        "lifetimeSeasonScore": "435103",
+        "leagueId": "KYBER",
+        "shipGalacticPower": "3847797",
+        "characterGalacticPower": "5462737",
+        "nucleusId": "1010173622817"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "248",
+            "lifetimeValue": "567782"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "84"
+          },
+          {
+            "type": 2,
+            "currentValue": "510",
+            "lifetimeValue": "439830"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 2128,
+            "division": 15,
+            "joinTime": "1713883132000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 22853
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 2557,
+            "division": 10,
+            "joinTime": "1716269546000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 6367
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 10,
+            "joinTime": "1718707712000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "7PonITD4SseOJhbwRh9GdA",
+        "playerName": "Ozoran",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718741699000",
+        "squadPower": 185404,
+        "guildJoinTime": "1652378139",
+        "galacticPower": "8531833",
+        "playerTitle": "PLAYERTITLE_GAC_SERVANTOFTHEEMPIRE",
+        "playerPortrait": "PLAYERPORTRAIT_BD1",
+        "lifetimeSeasonScore": "311344",
+        "leagueId": "KYBER",
+        "shipGalacticPower": "3562205",
+        "characterGalacticPower": "4969628",
+        "nucleusId": "2432736547"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "302",
+            "lifetimeValue": "495340"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "84"
+          },
+          {
+            "type": 2,
+            "currentValue": "500",
+            "lifetimeValue": "334308"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 1145,
+            "division": 5,
+            "joinTime": "1713828624000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 9433
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "BRONZIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 6544,
+            "division": 20,
+            "joinTime": "1716242659000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 3258
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "BRONZIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 20,
+            "joinTime": "1718662189000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "Csdn6mbFSj-VPGSp5Oweog",
+        "playerName": "Baristalorian",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718729886000",
+        "squadPower": 178071,
+        "guildJoinTime": "1652378140",
+        "galacticPower": "4914053",
+        "playerTitle": "PLAYERTITLE_GLJMK_QUEST_001",
+        "playerPortrait": "PLAYERPORTRAIT_MANDALORIAN",
+        "lifetimeSeasonScore": "32765",
+        "leagueId": "BRONZIUM",
+        "shipGalacticPower": "1772379",
+        "characterGalacticPower": "3141674",
+        "nucleusId": "1009248688405"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "268",
+            "lifetimeValue": "509661"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "63"
+          },
+          {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "227178"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 1321,
+            "division": 5,
+            "joinTime": "1713828839000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 317
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "BRONZIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 20,
+            "joinTime": "1716371747000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 3390
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "BRONZIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 10,
+            "joinTime": "1718660867000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "8EyBsj2oTG2HRZRURe4eSg",
+        "playerName": "barkasy",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718733811000",
+        "squadPower": 183753,
+        "guildJoinTime": "1652378143",
+        "galacticPower": "7179767",
+        "playerTitle": "PLAYERTITLE_GLLV_QUEST_001",
+        "playerPortrait": "PLAYERPORTRAIT_SITHTROOPER",
+        "lifetimeSeasonScore": "376160",
+        "leagueId": "BRONZIUM",
+        "shipGalacticPower": "2794393",
+        "characterGalacticPower": "4385374",
+        "nucleusId": "2251581904"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "0",
+            "lifetimeValue": "418092"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "156"
+          },
+          {
+            "type": 2,
+            "currentValue": "600",
+            "lifetimeValue": "371306"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 6032,
+            "division": 20,
+            "joinTime": "1713822402000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 12492
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 1229,
+            "division": 15,
+            "joinTime": "1716299511000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 85
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 15,
+            "joinTime": "1718673487000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "BAW4RHfkSXCoTfFpVkuILA",
+        "playerName": "Ajax Fardreamer",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718720885000",
+        "squadPower": 185216,
+        "guildJoinTime": "1652378144",
+        "galacticPower": "6439413",
+        "playerTitle": "PLAYERTITLE_GLJMLS_QUEST_003",
+        "playerPortrait": "PLAYERPORTRAIT_JEDIKNIGHTLUKE",
+        "lifetimeSeasonScore": "433570",
+        "leagueId": "CHROMIUM",
+        "shipGalacticPower": "2402715",
+        "characterGalacticPower": "4036698",
+        "nucleusId": "2257730654"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "268",
+            "lifetimeValue": "671788"
+          },
+          {
+            "type": 3,
+            "currentValue": "1",
+            "lifetimeValue": "2213"
+          },
+          {
+            "type": 2,
+            "currentValue": "600",
+            "lifetimeValue": "429860"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 4635,
+            "division": 20,
+            "joinTime": "1713825711000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 2956
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 4382,
+            "division": 20,
+            "joinTime": "1716240565000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 3707
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 20,
+            "joinTime": "1718658466000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "qf6rWDopQxy2oiBkZsuBCA",
+        "playerName": "Canuck",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718734342000",
+        "squadPower": 175250,
+        "guildJoinTime": "1652378145",
+        "galacticPower": "8111787",
+        "playerTitle": "PLAYERTITLE_GRANDARENA_CHALLENGE_GENERALKENOBI",
+        "playerPortrait": "PLAYERPORTRAIT_BD1",
+        "lifetimeSeasonScore": "327135",
+        "leagueId": "AURODIUM",
+        "shipGalacticPower": "3388837",
+        "characterGalacticPower": "4722950",
+        "nucleusId": "1011382011127"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "386",
+            "lifetimeValue": "750815"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "248"
+          },
+          {
+            "type": 2,
+            "currentValue": "600",
+            "lifetimeValue": "452782"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 6457,
+            "division": 20,
+            "joinTime": "1713822363000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 26726
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 6986,
+            "division": 15,
+            "joinTime": "1716251295000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 18362
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 15,
+            "joinTime": "1718661267000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "0E8USWQhTJ6Jv7gpFmZX4w",
+        "playerName": "DarthNoying",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718738903000",
+        "squadPower": 169402,
+        "guildJoinTime": "1652378146",
+        "galacticPower": "8253760",
+        "playerTitle": "PLAYERTITLE_GENERAL",
+        "playerPortrait": "PLAYERPORTRAIT_OURIDENTITY",
+        "lifetimeSeasonScore": "299748",
+        "leagueId": "KYBER",
+        "shipGalacticPower": "3448684",
+        "characterGalacticPower": "4805076",
+        "nucleusId": "1013183379390"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "343",
+            "lifetimeValue": "433779"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "1034"
+          },
+          {
+            "type": 2,
+            "currentValue": "260",
+            "lifetimeValue": "304260"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 5340,
+            "division": 20,
+            "joinTime": "1713825210000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 9472
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 7336,
+            "division": 25,
+            "joinTime": "1716251814000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 1172
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 20,
+            "joinTime": "1718658141000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "1YTk7DFFTsaoRUve-jsnrg",
+        "playerName": "DarlingOfDathomir",
+        "playerLevel": 85,
+        "memberLevel": 3,
+        "guildXp": 0,
+        "lastActivityTime": "1718684016000",
+        "squadPower": 180389,
+        "guildJoinTime": "1652381188",
+        "galacticPower": "7321133",
+        "playerTitle": "PLAYERTITLE_GENERAL",
+        "playerPortrait": "PLAYERPORTRAIT_NIGHTSISTERS_VENTRESS",
+        "lifetimeSeasonScore": "384786",
+        "leagueId": "AURODIUM",
+        "shipGalacticPower": "2876815",
+        "characterGalacticPower": "4444318",
+        "nucleusId": "1015609730918"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "248",
+            "lifetimeValue": "478257"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "532"
+          },
+          {
+            "type": 2,
+            "currentValue": "60",
+            "lifetimeValue": "238318"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "BRONZIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 1240,
+            "division": 20,
+            "joinTime": "1713840121000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 7045
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "BRONZIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 20,
+            "joinTime": "1716290707000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 13476
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "BRONZIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 10,
+            "joinTime": "1718670854000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "OG7XnYLETF-I8SdoRPoKwQ",
+        "playerName": "Spacedog593",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718671837000",
+        "squadPower": 151081,
+        "guildJoinTime": "1652388655",
+        "galacticPower": "5993248",
+        "playerTitle": "PLAYERTITLE_DARKSIDEHISTORIAN",
+        "playerPortrait": "PLAYERPORTRAIT_YOUNGLANDO",
+        "lifetimeSeasonScore": "104697",
+        "leagueId": "BRONZIUM",
+        "shipGalacticPower": "2412926",
+        "characterGalacticPower": "3580322",
+        "nucleusId": "2850605791"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "251",
+            "lifetimeValue": "614543"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "17"
+          },
+          {
+            "type": 2,
+            "currentValue": "600",
+            "lifetimeValue": "425786"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 2991,
+            "division": 25,
+            "joinTime": "1713824422000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 2957
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 1305,
+            "division": 15,
+            "joinTime": "1716239528000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 21179
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 15,
+            "joinTime": "1718662260000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "JtS3n3dCRkGFkJFucDH9PQ",
+        "playerName": "San Holo",
+        "playerLevel": 85,
+        "memberLevel": 3,
+        "guildXp": 0,
+        "lastActivityTime": "1718741102000",
+        "squadPower": 167460,
+        "guildJoinTime": "1652388658",
+        "galacticPower": "6619340",
+        "playerTitle": "PLAYERTITLE_LOYAL_FRIEND",
+        "playerPortrait": "PLAYERPORTRAIT_GIFT_02",
+        "lifetimeSeasonScore": "0",
+        "leagueId": "KYBER",
+        "shipGalacticPower": "2448981",
+        "characterGalacticPower": "4170359",
+        "nucleusId": "2257746075"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "268",
+            "lifetimeValue": "634180"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "145"
+          },
+          {
+            "type": 2,
+            "currentValue": "408",
+            "lifetimeValue": "327658"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "BRONZIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 20,
+            "joinTime": "1713839992000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 13961
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "BRONZIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 20,
+            "joinTime": "1716256885000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 9905
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "BRONZIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 20,
+            "joinTime": "1718678015000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "zNapRkTOTeuJfldI7WFhJw",
+        "playerName": "N3XU5",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718721490000",
+        "squadPower": 152755,
+        "guildJoinTime": "1652388659",
+        "galacticPower": "6449070",
+        "playerTitle": "PLAYERTITLE_MARQUEE_CAPTAINREX",
+        "playerPortrait": "PLAYERPORTRAIT_JEDI_GENERAL",
+        "lifetimeSeasonScore": "10142",
+        "leagueId": "BRONZIUM",
+        "shipGalacticPower": "2691737",
+        "characterGalacticPower": "3757333",
+        "nucleusId": "1012848095393"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "0",
+            "lifetimeValue": "379045"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "206"
+          },
+          {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "209872"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_51a",
+            "eventInstanceId": "GA2_SEASON_51A:O1711400400000",
+            "league": "CARBONITE",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 20,
+            "joinTime": "1711525353000",
+            "endTime": "1713733200000",
+            "remove": false,
+            "rank": 6716
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "CARBONITE",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 15,
+            "joinTime": "1713853692000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 12784
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "CARBONITE",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 15,
+            "joinTime": "1716827244000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 5226
+          }
+        ],
+        "playerId": "jVUpeArMTcuLFCzdAmUDkg",
+        "playerName": "Salacious B Crumb",
+        "playerLevel": 85,
+        "memberLevel": 3,
+        "guildXp": 0,
+        "lastActivityTime": "1718548179000",
+        "squadPower": 164913,
+        "guildJoinTime": "1652388661",
+        "galacticPower": "6825573",
+        "playerTitle": "PLAYERTITLE_MARQUEE_BOUSHH",
+        "playerPortrait": "PLAYERPORTRAIT_JEDIKNIGHTLUKE",
+        "lifetimeSeasonScore": "443778",
+        "leagueId": "CARBONITE",
+        "shipGalacticPower": "2646325",
+        "characterGalacticPower": "4179248",
+        "nucleusId": ""
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "335",
+            "lifetimeValue": "674968"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "57"
+          },
+          {
+            "type": 2,
+            "currentValue": "600",
+            "lifetimeValue": "449760"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 8474,
+            "division": 15,
+            "joinTime": "1713824042000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 10735
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 11569,
+            "division": 20,
+            "joinTime": "1716242436000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 20300
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 20,
+            "joinTime": "1718661706000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "IdqKE8x2SdmI-TCRrcN5iA",
+        "playerName": "Pneumothorax",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718739361000",
+        "squadPower": 156108,
+        "guildJoinTime": "1652389663",
+        "galacticPower": "8635313",
+        "playerTitle": "PLAYERTITLE_GLJMLS_QUEST_001",
+        "playerPortrait": "PLAYERPORTRAIT_DESTROYER",
+        "lifetimeSeasonScore": "457362",
+        "leagueId": "KYBER",
+        "shipGalacticPower": "3555289",
+        "characterGalacticPower": "5080024",
+        "nucleusId": "1011146434783"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "236",
+            "lifetimeValue": "642151"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "10"
+          },
+          {
+            "type": 2,
+            "currentValue": "384",
+            "lifetimeValue": "370844"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 1384,
+            "division": 15,
+            "joinTime": "1713840119000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 7431
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 1614,
+            "division": 15,
+            "joinTime": "1716271178000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 7305
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 15,
+            "joinTime": "1718682349000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "gOtk1oPUSHySNJPlWEc9Sg",
+        "playerName": "Macgyver",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718737695000",
+        "squadPower": 188602,
+        "guildJoinTime": "1652390081",
+        "galacticPower": "9515781",
+        "playerTitle": "PLAYERTITLE_DARKLORD",
+        "playerPortrait": "PLAYERPORTRAIT_MANDO",
+        "lifetimeSeasonScore": "325437",
+        "leagueId": "AURODIUM",
+        "shipGalacticPower": "3933844",
+        "characterGalacticPower": "5581937",
+        "nucleusId": "2821950066"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "279",
+            "lifetimeValue": "642414"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "30"
+          },
+          {
+            "type": 2,
+            "currentValue": "600",
+            "lifetimeValue": "404268"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 4125,
+            "division": 20,
+            "joinTime": "1713885919000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 345
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 3029,
+            "division": 15,
+            "joinTime": "1716393629000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 9764
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 15,
+            "joinTime": "1718730796000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "UcU5Se5_Q3q4H055ztFsPw",
+        "playerName": "Damar",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718737742000",
+        "squadPower": 176955,
+        "guildJoinTime": "1652391094",
+        "galacticPower": "9169331",
+        "playerTitle": "PLAYERTITLE_GLSEE_QUEST_002",
+        "playerPortrait": "PLAYERPORTRAIT_GIFT_01",
+        "lifetimeSeasonScore": "315587",
+        "leagueId": "AURODIUM",
+        "shipGalacticPower": "3728933",
+        "characterGalacticPower": "5440398",
+        "nucleusId": "1015470129282"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "0",
+            "lifetimeValue": "610358"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "19"
+          },
+          {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "327944"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_51a",
+            "eventInstanceId": "GA2_SEASON_51A:O1711400400000",
+            "league": "CARBONITE",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 3181,
+            "division": 25,
+            "joinTime": "1711473962000",
+            "endTime": "1713733200000",
+            "remove": false,
+            "rank": 639
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "BRONZIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 3915,
+            "division": 15,
+            "joinTime": "1714391379000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 12678
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "BRONZIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 4409,
+            "division": 20,
+            "joinTime": "1716248696000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 6787
+          }
+        ],
+        "playerId": "-T0ojlj4SfK5kPJWMSaIKA",
+        "playerName": "jojo",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718657252000",
+        "squadPower": 174244,
+        "guildJoinTime": "1652392947",
+        "galacticPower": "8468917",
+        "playerTitle": "PLAYERTITLE_GRANDARENA_ADVANCED",
+        "playerPortrait": "PLAYERPORTRAIT_MANDO",
+        "lifetimeSeasonScore": "562231",
+        "leagueId": "BRONZIUM",
+        "shipGalacticPower": "3615595",
+        "characterGalacticPower": "4853322",
+        "nucleusId": "2508957029"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "0",
+            "lifetimeValue": "576662"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "1156"
+          },
+          {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "427092"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_51a",
+            "eventInstanceId": "GA2_SEASON_51A:O1711400400000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 3484,
+            "division": 15,
+            "joinTime": "1711418752000",
+            "endTime": "1713733200000",
+            "remove": false,
+            "rank": 4668
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 7022,
+            "division": 25,
+            "joinTime": "1713824727000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 4394
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 2262,
+            "division": 5,
+            "joinTime": "1716255708000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 6969
+          }
+        ],
+        "playerId": "xKo7YMR-QTazH3aWQ6YUvA",
+        "playerName": "GreengD2",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718164982000",
+        "squadPower": 148436,
+        "guildJoinTime": "1652394669",
+        "galacticPower": "5300770",
+        "playerTitle": "PLAYERTITLE_GENERAL",
+        "playerPortrait": "PLAYERPORTRAIT_GENERAL",
+        "lifetimeSeasonScore": "179051",
+        "leagueId": "CHROMIUM",
+        "shipGalacticPower": "2018893",
+        "characterGalacticPower": "3281877",
+        "nucleusId": ""
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "0",
+            "lifetimeValue": "524983"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "258"
+          },
+          {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "283812"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 772,
+            "division": 20,
+            "joinTime": "1713893318000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 7311
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 4287,
+            "division": 10,
+            "joinTime": "1716267951000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 2008
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 10,
+            "joinTime": "1718661722000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "-CK2zBNgRHOtCX0TwGeuYw",
+        "playerName": "Juice",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718662700000",
+        "squadPower": 93752,
+        "guildJoinTime": "1652395129",
+        "galacticPower": "4917503",
+        "playerTitle": "PLAYERTITLE_SEASON001_CARBONITE_ALL",
+        "playerPortrait": "PLAYERPORTRAIT_MISSION",
+        "lifetimeSeasonScore": "80464",
+        "leagueId": "CHROMIUM",
+        "shipGalacticPower": "2064317",
+        "characterGalacticPower": "2853186",
+        "nucleusId": "1012266494632"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "0",
+            "lifetimeValue": "289434"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "59"
+          },
+          {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "283244"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_51a",
+            "eventInstanceId": "GA2_SEASON_51A:O1711400400000",
+            "league": "BRONZIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 2515,
+            "division": 25,
+            "joinTime": "1711406429000",
+            "endTime": "1713733200000",
+            "remove": false,
+            "rank": 8932
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 1565,
+            "division": 5,
+            "joinTime": "1713824583000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 3538
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "BRONZIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 1808,
+            "division": 15,
+            "joinTime": "1716254768000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 9556
+          }
+        ],
+        "playerId": "stvSkkaOSb65GLx-ucia4g",
+        "playerName": "Aria33PO",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718152024000",
+        "squadPower": 155254,
+        "guildJoinTime": "1652398608",
+        "galacticPower": "4303637",
+        "playerTitle": "PLAYERTITLE_SEASON001_CARBONITE_ALL",
+        "playerPortrait": "PLAYERPORTRAIT_PADMEAMIDALA",
+        "lifetimeSeasonScore": "227774",
+        "leagueId": "BRONZIUM",
+        "shipGalacticPower": "1651388",
+        "characterGalacticPower": "2652249",
+        "nucleusId": ""
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "236",
+            "lifetimeValue": "648012"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "711"
+          },
+          {
+            "type": 2,
+            "currentValue": "142",
+            "lifetimeValue": "141132"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "CARBONITE",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 1778,
+            "division": 5,
+            "joinTime": "1713828600000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 53542
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "CARBONITE",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 5,
+            "joinTime": "1716248282000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 71155
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "CARBONITE",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 5,
+            "joinTime": "1718661586000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "aXlrpBPnRWOcP2KKFib9oQ",
+        "playerName": "Karcs",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718724274000",
+        "squadPower": 135621,
+        "guildJoinTime": "1652398609",
+        "galacticPower": "7484202",
+        "playerTitle": "PLAYERTITLE_GENERAL",
+        "playerPortrait": "PLAYERPORTRAIT_MANDO",
+        "lifetimeSeasonScore": "16164",
+        "leagueId": "CARBONITE",
+        "shipGalacticPower": "3052334",
+        "characterGalacticPower": "4431868",
+        "nucleusId": "1004594206148"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "236",
+            "lifetimeValue": "501137"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "519"
+          },
+          {
+            "type": 2,
+            "currentValue": "600",
+            "lifetimeValue": "323240"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "CARBONITE",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 2202,
+            "division": 25,
+            "joinTime": "1713834459000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 5470
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "BRONZIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 1446,
+            "division": 10,
+            "joinTime": "1716251352000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 7349
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "BRONZIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 10,
+            "joinTime": "1718673507000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "8uoWFFpYTN60iLGqSATw2A",
+        "playerName": "cello",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718674463000",
+        "squadPower": 189111,
+        "guildJoinTime": "1652405190",
+        "galacticPower": "7599395",
+        "playerTitle": "PLAYERTITLE_GENERAL",
+        "playerPortrait": "PLAYERPORTRAIT_JEDICONSULAR",
+        "lifetimeSeasonScore": "431638",
+        "leagueId": "BRONZIUM",
+        "shipGalacticPower": "2866880",
+        "characterGalacticPower": "4732515",
+        "nucleusId": "1012990516631"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "335",
+            "lifetimeValue": "675928"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "2597"
+          },
+          {
+            "type": 2,
+            "currentValue": "600",
+            "lifetimeValue": "453244"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 9089,
+            "division": 20,
+            "joinTime": "1713825526000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 23941
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 10822,
+            "division": 20,
+            "joinTime": "1716238891000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 4300
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 20,
+            "joinTime": "1718665236000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "WmTDkargRK6K21fw2Wb72Q",
+        "playerName": "Only One Cannoli",
+        "playerLevel": 85,
+        "memberLevel": 4,
+        "guildXp": 0,
+        "lastActivityTime": "1718741991000",
+        "squadPower": 166260,
+        "guildJoinTime": "1652405906",
+        "galacticPower": "10123966",
+        "playerTitle": "PLAYERTITLE_MARQUEE_CAPTAINREX",
+        "playerPortrait": "PLAYERPORTRAIT_BINARY_SUNSET",
+        "lifetimeSeasonScore": "655674",
+        "leagueId": "KYBER",
+        "shipGalacticPower": "4209264",
+        "characterGalacticPower": "5914702",
+        "nucleusId": "1007207654737"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "279",
+            "lifetimeValue": "603935"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "935"
+          },
+          {
+            "type": 2,
+            "currentValue": "600",
+            "lifetimeValue": "392778"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 2864,
+            "division": 5,
+            "joinTime": "1713819609000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 2100
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 3630,
+            "division": 20,
+            "joinTime": "1716300227000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 5990
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 20,
+            "joinTime": "1718660072000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "6c4YofsaTgqZPyiSXKnjBw",
+        "playerName": "XxGMGxX",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718734516000",
+        "squadPower": 149919,
+        "guildJoinTime": "1652406414",
+        "galacticPower": "5823696",
+        "playerTitle": "PLAYERTITLE_GRANDARENA_CHALLENGE_HANSOLO",
+        "playerPortrait": "PLAYERPORTRAIT_MILLENNIUMFALCONLEGENDARY",
+        "lifetimeSeasonScore": "8588",
+        "leagueId": "CHROMIUM",
+        "shipGalacticPower": "2516104",
+        "characterGalacticPower": "3307592",
+        "nucleusId": "1010704601041"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "251",
+            "lifetimeValue": "672040"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "383"
+          },
+          {
+            "type": 2,
+            "currentValue": "324",
+            "lifetimeValue": "368852"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 6507,
+            "division": 20,
+            "joinTime": "1713820244000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 6228
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 7385,
+            "division": 15,
+            "joinTime": "1716258323000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 11537
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 15,
+            "joinTime": "1718660515000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "YBttkd-7RD6zqqRUnvAM7g",
+        "playerName": "Invisable gamer",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718726542000",
+        "squadPower": 140645,
+        "guildJoinTime": "1652409478",
+        "galacticPower": "6089419",
+        "playerTitle": "PLAYERTITLE_GENERAL",
+        "playerPortrait": "PLAYERPORTRAIT_GENERAL",
+        "lifetimeSeasonScore": "5401",
+        "leagueId": "AURODIUM",
+        "shipGalacticPower": "2721534",
+        "characterGalacticPower": "3367885",
+        "nucleusId": "1011001092511"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "302",
+            "lifetimeValue": "636819"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "633"
+          },
+          {
+            "type": 2,
+            "currentValue": "454",
+            "lifetimeValue": "354670"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 8344,
+            "division": 15,
+            "joinTime": "1713826623000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 22418
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 1866,
+            "division": 5,
+            "joinTime": "1716303899000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 19380
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 25,
+            "joinTime": "1718669884000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "ubhRfbeWSbCAUsFinXP5MQ",
+        "playerName": "Fat hippo",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718730580000",
+        "squadPower": 68096,
+        "guildJoinTime": "1652417325",
+        "galacticPower": "7959026",
+        "playerTitle": "PLAYERTITLE_GAC_DROIDS2",
+        "playerPortrait": "PLAYERPORTRAIT_GENERAL_GRIEVOUS",
+        "lifetimeSeasonScore": "323294",
+        "leagueId": "AURODIUM",
+        "shipGalacticPower": "3354863",
+        "characterGalacticPower": "4604163",
+        "nucleusId": "1011344019319"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "335",
+            "lifetimeValue": "711299"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "49"
+          },
+          {
+            "type": 2,
+            "currentValue": "600",
+            "lifetimeValue": "444638"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 2252,
+            "division": 15,
+            "joinTime": "1713819841000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 12221
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 5217,
+            "division": 20,
+            "joinTime": "1716244826000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 19301
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 20,
+            "joinTime": "1718658394000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "R9KXU7eOR72ntijz8X1Xvg",
+        "playerName": "MINI TeaKFourTwoOne",
+        "playerLevel": 85,
+        "memberLevel": 3,
+        "guildXp": 0,
+        "lastActivityTime": "1718741289000",
+        "squadPower": 177275,
+        "guildJoinTime": "1652444079",
+        "galacticPower": "8321475",
+        "playerTitle": "",
+        "playerPortrait": "",
+        "lifetimeSeasonScore": "99683",
+        "leagueId": "KYBER",
+        "shipGalacticPower": "3643039",
+        "characterGalacticPower": "4678436",
+        "nucleusId": "1013260075685"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "279",
+            "lifetimeValue": "666043"
+          },
+          {
+            "type": 3,
+            "currentValue": "1",
+            "lifetimeValue": "1731"
+          },
+          {
+            "type": 2,
+            "currentValue": "600",
+            "lifetimeValue": "442162"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 4217,
+            "division": 15,
+            "joinTime": "1713833769000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 10697
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 5752,
+            "division": 10,
+            "joinTime": "1716246231000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 7526
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 10,
+            "joinTime": "1718667015000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "YVORuahkS6KjWOi3UBuZ5A",
+        "playerName": "XxGrandMastaGxX",
+        "playerLevel": 85,
+        "memberLevel": 3,
+        "guildXp": 0,
+        "lastActivityTime": "1718729233000",
+        "squadPower": 186819,
+        "guildJoinTime": "1652459799",
+        "galacticPower": "9098607",
+        "playerTitle": "PLAYERTITLE_GLJMK_QUEST_002",
+        "playerPortrait": "PLAYERPORTRAIT_GLKENOBI",
+        "lifetimeSeasonScore": "410093",
+        "leagueId": "KYBER",
+        "shipGalacticPower": "3544776",
+        "characterGalacticPower": "5553831",
+        "nucleusId": "1002896993515"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "251",
+            "lifetimeValue": "597968"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "87"
+          },
+          {
+            "type": 2,
+            "currentValue": "284",
+            "lifetimeValue": "357902"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 3942,
+            "division": 20,
+            "joinTime": "1713843555000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 4436
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 3522,
+            "division": 15,
+            "joinTime": "1716244204000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 9457
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 15,
+            "joinTime": "1718727444000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "JsN7cG4YRYSU7_nGqD4U4A",
+        "playerName": "Dega Ju",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718737866000",
+        "squadPower": 170283,
+        "guildJoinTime": "1652475576",
+        "galacticPower": "8883864",
+        "playerTitle": "PLAYERTITLE_NOEQUAL",
+        "playerPortrait": "PLAYERPORTRAIT_DARKSIDEHISTORIAN",
+        "lifetimeSeasonScore": "456663",
+        "leagueId": "AURODIUM",
+        "shipGalacticPower": "3582897",
+        "characterGalacticPower": "5300967",
+        "nucleusId": ""
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "268",
+            "lifetimeValue": "671375"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "36"
+          },
+          {
+            "type": 2,
+            "currentValue": "524",
+            "lifetimeValue": "399342"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 3658,
+            "division": 10,
+            "joinTime": "1713829565000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 2245
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 6613,
+            "division": 20,
+            "joinTime": "1716246082000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 3887
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 20,
+            "joinTime": "1718668747000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "EWjZNuw_RIy6B9rl7fHPAA",
+        "playerName": "Dwarvesta",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718721899000",
+        "squadPower": 186754,
+        "guildJoinTime": "1653076184",
+        "galacticPower": "7897458",
+        "playerTitle": "PLAYERTITLE_MARQUEE_SEVENTHSISTER",
+        "playerPortrait": "PLAYERPORTRAIT_DARTHREVAN",
+        "lifetimeSeasonScore": "349166",
+        "leagueId": "CHROMIUM",
+        "shipGalacticPower": "3238483",
+        "characterGalacticPower": "4658975",
+        "nucleusId": "1000990746730"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "248",
+            "lifetimeValue": "475656"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "33"
+          },
+          {
+            "type": 2,
+            "currentValue": "372",
+            "lifetimeValue": "294466"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 9487,
+            "division": 25,
+            "joinTime": "1713865299000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 6138
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 3796,
+            "division": 20,
+            "joinTime": "1716298336000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 6976
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 20,
+            "joinTime": "1718705959000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "LsNf2ooUT9yvsoc-ChAepw",
+        "playerName": "Cimer",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718741003000",
+        "squadPower": 156363,
+        "guildJoinTime": "1655045637",
+        "galacticPower": "6391044",
+        "playerTitle": "PLAYERTITLE_PRODIGALKNIGHT",
+        "playerPortrait": "PLAYERPORTRAIT_JEDIKNIGHTLUKE",
+        "lifetimeSeasonScore": "34068",
+        "leagueId": "AURODIUM",
+        "shipGalacticPower": "2786175",
+        "characterGalacticPower": "3604869",
+        "nucleusId": "1002066532528"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "268",
+            "lifetimeValue": "566092"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "83"
+          },
+          {
+            "type": 2,
+            "currentValue": "184",
+            "lifetimeValue": "326318"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 4981,
+            "division": 10,
+            "joinTime": "1713825696000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 10447
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 6138,
+            "division": 10,
+            "joinTime": "1716256992000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 6054
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 10,
+            "joinTime": "1718689630000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "OMIO0AG1TZyJWSPueCgh7Q",
+        "playerName": "Juan So Low",
+        "playerLevel": 85,
+        "memberLevel": 3,
+        "guildXp": 0,
+        "lastActivityTime": "1718720729000",
+        "squadPower": 167568,
+        "guildJoinTime": "1658162525",
+        "galacticPower": "7865015",
+        "playerTitle": "PLAYERTITLE_LOYAL_FRIEND",
+        "playerPortrait": "PLAYERPORTRAIT_CHEWIE",
+        "lifetimeSeasonScore": "503159",
+        "leagueId": "CHROMIUM",
+        "shipGalacticPower": "3323288",
+        "characterGalacticPower": "4541727",
+        "nucleusId": ""
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "248",
+            "lifetimeValue": "445685"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "113"
+          },
+          {
+            "type": 2,
+            "currentValue": "396",
+            "lifetimeValue": "294268"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 1574,
+            "division": 10,
+            "joinTime": "1713873947000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 5192
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 6216,
+            "division": 25,
+            "joinTime": "1716259207000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 1847
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 10,
+            "joinTime": "1718672910000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "xD0TAq44SceC-2XTB7Y5xw",
+        "playerName": "Meetra Surik",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718711356000",
+        "squadPower": 188217,
+        "guildJoinTime": "1664292655",
+        "galacticPower": "8280477",
+        "playerTitle": "",
+        "playerPortrait": "PLAYERPORTRAIT_THECHOSENONE",
+        "lifetimeSeasonScore": "95268",
+        "leagueId": "AURODIUM",
+        "shipGalacticPower": "3445691",
+        "characterGalacticPower": "4834786",
+        "nucleusId": "1015394781436"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "251",
+            "lifetimeValue": "375563"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "94"
+          },
+          {
+            "type": 2,
+            "currentValue": "264",
+            "lifetimeValue": "154288"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 7564,
+            "division": 15,
+            "joinTime": "1713834087000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 7599
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 7548,
+            "division": 10,
+            "joinTime": "1716255057000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 5135
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 10,
+            "joinTime": "1718663828000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "DtNglIyJSG667KbQ2QGOIw",
+        "playerName": "The Rogues",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718738837000",
+        "squadPower": 183825,
+        "guildJoinTime": "1668027171",
+        "galacticPower": "5987745",
+        "playerTitle": "PLAYERTITLE_GLSEE_QUEST_003",
+        "playerPortrait": "PLAYERPORTRAIT_GENERAL",
+        "lifetimeSeasonScore": "368722",
+        "leagueId": "AURODIUM",
+        "shipGalacticPower": "2502146",
+        "characterGalacticPower": "3485599",
+        "nucleusId": ""
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "0",
+            "lifetimeValue": "87406"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "18"
+          },
+          {
+            "type": 2,
+            "currentValue": "284",
+            "lifetimeValue": "80040"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "CARBONITE",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 5,
+            "joinTime": "1713839160000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 35261
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "CARBONITE",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 5,
+            "joinTime": "1716492773000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 53771
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "CARBONITE",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 5,
+            "joinTime": "1718675348000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "Zqr3hM9RRb6OIGbvv7_SwQ",
+        "playerName": "Minismalls1",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718677657000",
+        "squadPower": 137363,
+        "guildJoinTime": "1668360124",
+        "galacticPower": "4830095",
+        "playerTitle": "PLAYERTITLE_A_NEW_HOPE",
+        "playerPortrait": "PLAYERPORTRAIT_VISAS",
+        "lifetimeSeasonScore": "4212",
+        "leagueId": "CARBONITE",
+        "shipGalacticPower": "1881269",
+        "characterGalacticPower": "2948826",
+        "nucleusId": ""
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "354",
+            "lifetimeValue": "418661"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "134"
+          },
+          {
+            "type": 2,
+            "currentValue": "280",
+            "lifetimeValue": "314740"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 1127,
+            "division": 10,
+            "joinTime": "1713821756000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 5083
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 5782,
+            "division": 5,
+            "joinTime": "1716239883000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 6795
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 15,
+            "joinTime": "1718658068000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "If750bioTUGkAb6xQyeMhA",
+        "playerName": "Stebadie",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718717682000",
+        "squadPower": 171068,
+        "guildJoinTime": "1668472151",
+        "galacticPower": "7581852",
+        "playerTitle": "PLAYERTITLE_GLSLKR_QUEST_004",
+        "playerPortrait": "PLAYERPORTRAIT_MISSION",
+        "lifetimeSeasonScore": "0",
+        "leagueId": "CHROMIUM",
+        "shipGalacticPower": "3210146",
+        "characterGalacticPower": "4371706",
+        "nucleusId": "2325963156"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "312",
+            "lifetimeValue": "348477"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "26"
+          },
+          {
+            "type": 2,
+            "currentValue": "360",
+            "lifetimeValue": "260032"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 4646,
+            "division": 15,
+            "joinTime": "1713833342000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 10921
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 5426,
+            "division": 15,
+            "joinTime": "1716250773000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 3741
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 15,
+            "joinTime": "1718661757000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "mZiGJ5XOQUyH9F5CLs6uhg",
+        "playerName": "Tri",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718723470000",
+        "squadPower": 186864,
+        "guildJoinTime": "1672607377",
+        "galacticPower": "8657586",
+        "playerTitle": "PLAYERTITLE_GLLV_QUEST_003",
+        "playerPortrait": "PLAYERPORTRAIT_WICKET",
+        "lifetimeSeasonScore": "453547",
+        "leagueId": "AURODIUM",
+        "shipGalacticPower": "3405785",
+        "characterGalacticPower": "5251801",
+        "nucleusId": "2250745814"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "248",
+            "lifetimeValue": "356262"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "175"
+          },
+          {
+            "type": 2,
+            "currentValue": "536",
+            "lifetimeValue": "298554"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 1317,
+            "division": 15,
+            "joinTime": "1713825931000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 11267
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 2450,
+            "division": 15,
+            "joinTime": "1716245058000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 4962
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 10,
+            "joinTime": "1718671625000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "6aDQneNDQcSfzaYIZ0PKMw",
+        "playerName": "TSwag",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718732321000",
+        "squadPower": 142070,
+        "guildJoinTime": "1672860944",
+        "galacticPower": "8399305",
+        "playerTitle": "PLAYERTITLE_LOYAL_FRIEND",
+        "playerPortrait": "PLAYERPORTRAIT_GLKYLOREN",
+        "lifetimeSeasonScore": "5880",
+        "leagueId": "CHROMIUM",
+        "shipGalacticPower": "3551455",
+        "characterGalacticPower": "4847850",
+        "nucleusId": ""
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "0",
+            "lifetimeValue": "179565"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "28"
+          },
+          {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "168954"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 1166,
+            "division": 10,
+            "joinTime": "1713917713000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 8870
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 475,
+            "division": 5,
+            "joinTime": "1716241415000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 8527
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "BRONZIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 15,
+            "joinTime": "1718684290000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "OqXO8SROSTKYxOpE0t1BBg",
+        "playerName": "KifoFox",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718684860000",
+        "squadPower": 163874,
+        "guildJoinTime": "1675577477",
+        "galacticPower": "5777927",
+        "playerTitle": "PLAYERTITLE_JEDI_GENERAL",
+        "playerPortrait": "PLAYERPORTRAIT_SCOUTTROOPER",
+        "lifetimeSeasonScore": "58496",
+        "leagueId": "BRONZIUM",
+        "shipGalacticPower": "2165074",
+        "characterGalacticPower": "3612853",
+        "nucleusId": "2813628124"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "279",
+            "lifetimeValue": "130521"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "57"
+          },
+          {
+            "type": 2,
+            "currentValue": "600",
+            "lifetimeValue": "231484"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 2723,
+            "division": 20,
+            "joinTime": "1713890601000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 1393
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 730,
+            "division": 10,
+            "joinTime": "1716328933000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 7741
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 10,
+            "joinTime": "1718726330000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "uWF4ZjawRF6OJ7lyRQx7XQ",
+        "playerName": "TR8R",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718726891000",
+        "squadPower": 192941,
+        "guildJoinTime": "1683481945",
+        "galacticPower": "9529803",
+        "playerTitle": "PLAYERTITLE_MARQUEE_CAPTAINREX",
+        "playerPortrait": "PLAYERPORTRAIT_GLKENOBI",
+        "lifetimeSeasonScore": "267623",
+        "leagueId": "AURODIUM",
+        "shipGalacticPower": "3868680",
+        "characterGalacticPower": "5661123",
+        "nucleusId": "1000280999855"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "268",
+            "lifetimeValue": "178979"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "735"
+          },
+          {
+            "type": 2,
+            "currentValue": "480",
+            "lifetimeValue": "220266"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 6757,
+            "division": 25,
+            "joinTime": "1713819614000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 2079
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 5322,
+            "division": 15,
+            "joinTime": "1716238801000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 20998
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 15,
+            "joinTime": "1718658633000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "Tc5abeUfS_i43fhqAp-O5Q",
+        "playerName": "Nema Flash",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718742086000",
+        "squadPower": 157969,
+        "guildJoinTime": "1686252099",
+        "galacticPower": "7645646",
+        "playerTitle": "PLAYERTITLE_BROTHERHOOD_OF_DARKNESS",
+        "playerPortrait": "PLAYERPORTRAIT_L337",
+        "lifetimeSeasonScore": "80356",
+        "leagueId": "KYBER",
+        "shipGalacticPower": "3323944",
+        "characterGalacticPower": "4321702",
+        "nucleusId": "2794343642"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "0",
+            "lifetimeValue": "131379"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "209"
+          },
+          {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "146186"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 2985,
+            "division": 10,
+            "joinTime": "1713819867000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 27518
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "KYBER",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 213,
+            "division": 5,
+            "joinTime": "1716238801000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 9137
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 20,
+            "joinTime": "1718731713000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "0KLevRJ5Q7SXVLMWT4kn1w",
+        "playerName": "Zork Sr",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718731745000",
+        "squadPower": 185083,
+        "guildJoinTime": "1691032532",
+        "galacticPower": "8766721",
+        "playerTitle": "PLAYERTITLE_DARKLORD",
+        "playerPortrait": "PLAYERPORTRAIT_DARTHREVAN",
+        "lifetimeSeasonScore": "209909",
+        "leagueId": "AURODIUM",
+        "shipGalacticPower": "3764822",
+        "characterGalacticPower": "5001899",
+        "nucleusId": "1015027358556"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "0",
+            "lifetimeValue": "96072"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "61"
+          },
+          {
+            "type": 2,
+            "currentValue": "600",
+            "lifetimeValue": "125254"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 944,
+            "division": 10,
+            "joinTime": "1713824226000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 1934
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 2167,
+            "division": 15,
+            "joinTime": "1716239657000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 2923
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 15,
+            "joinTime": "1718700877000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "Tz4DSTSoQjWxMFVulnXa_A",
+        "playerName": "Mini DarthJorJor",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718707054000",
+        "squadPower": 158766,
+        "guildJoinTime": "1698120186",
+        "galacticPower": "8306776",
+        "playerTitle": "PLAYERTITLE_BETTERGENERAL",
+        "playerPortrait": "PLAYERPORTRAIT_BD1",
+        "lifetimeSeasonScore": "440323",
+        "leagueId": "CHROMIUM",
+        "shipGalacticPower": "3491289",
+        "characterGalacticPower": "4815487",
+        "nucleusId": "1013283347668"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "268",
+            "lifetimeValue": "81115"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "8"
+          },
+          {
+            "type": 2,
+            "currentValue": "600",
+            "lifetimeValue": "100840"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 4300,
+            "division": 15,
+            "joinTime": "1713823535000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 969
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 5424,
+            "division": 10,
+            "joinTime": "1716244116000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 2850
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 10,
+            "joinTime": "1718670216000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "tcQ0XJ3gQpmiYnsuG4zDCw",
+        "playerName": "Chewblocka",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718719264000",
+        "squadPower": 174155,
+        "guildJoinTime": "1704054010",
+        "galacticPower": "7047993",
+        "playerTitle": "PLAYERTITLE_GLLUKE_EVENT",
+        "playerPortrait": "PLAYERPORTRAIT_CHEWBACCA",
+        "lifetimeSeasonScore": "0",
+        "leagueId": "AURODIUM",
+        "shipGalacticPower": "2860443",
+        "characterGalacticPower": "4187550",
+        "nucleusId": "2305956388"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "251",
+            "lifetimeValue": "67388"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "0"
+          },
+          {
+            "type": 2,
+            "currentValue": "248",
+            "lifetimeValue": "52824"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 1766,
+            "division": 10,
+            "joinTime": "1713831534000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 7775
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 2886,
+            "division": 5,
+            "joinTime": "1716256705000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 10770
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "BRONZIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 20,
+            "joinTime": "1718662379000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "Pfubf0B6RACLGISkuZ6pKg",
+        "playerName": "Morichard",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718738137000",
+        "squadPower": 162311,
+        "guildJoinTime": "1705687572",
+        "galacticPower": "5238543",
+        "playerTitle": "PLAYERTITLE_JEDIKNIGHT",
+        "playerPortrait": "PLAYERPORTRAIT_BASTILA",
+        "lifetimeSeasonScore": "0",
+        "leagueId": "BRONZIUM",
+        "shipGalacticPower": "2285802",
+        "characterGalacticPower": "2952741",
+        "nucleusId": "1000074183462"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "302",
+            "lifetimeValue": "55326"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "338"
+          },
+          {
+            "type": 2,
+            "currentValue": "240",
+            "lifetimeValue": "80342"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 791,
+            "division": 15,
+            "joinTime": "1713819680000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 6811
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 4427,
+            "division": 5,
+            "joinTime": "1716248000000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 5865
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "BRONZIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 15,
+            "joinTime": "1718678465000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "3B_WewjCQFep9WCxf4dfdw",
+        "playerName": "420AARon",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718724009000",
+        "squadPower": 103126,
+        "guildJoinTime": "1705863900",
+        "galacticPower": "6264893",
+        "playerTitle": "PLAYERTITLE_GRANDARENA_INTRO",
+        "playerPortrait": "PLAYERPORTRAIT_MANDALORIAN",
+        "lifetimeSeasonScore": "0",
+        "leagueId": "BRONZIUM",
+        "shipGalacticPower": "2477915",
+        "characterGalacticPower": "3786978",
+        "nucleusId": "1015933933071"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "365",
+            "lifetimeValue": "42481"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "11"
+          },
+          {
+            "type": 2,
+            "currentValue": "600",
+            "lifetimeValue": "54474"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 4936,
+            "division": 10,
+            "joinTime": "1713900027000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 8359
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 5973,
+            "division": 15,
+            "joinTime": "1716268102000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 2638
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 15,
+            "joinTime": "1718739932000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "RyzqkmwHQr2ZjWcD_4UZhQ",
+        "playerName": "LJAutomatic",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718741800000",
+        "squadPower": 172796,
+        "guildJoinTime": "1708889700",
+        "galacticPower": "5892687",
+        "playerTitle": "PLAYERTITLE_GLJMK_QUEST_002",
+        "playerPortrait": "PLAYERPORTRAIT_GLKENOBI",
+        "lifetimeSeasonScore": "60035",
+        "leagueId": "AURODIUM",
+        "shipGalacticPower": "2507813",
+        "characterGalacticPower": "3384874",
+        "nucleusId": "1013006075567"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "268",
+            "lifetimeValue": "46656"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "0"
+          },
+          {
+            "type": 2,
+            "currentValue": "370",
+            "lifetimeValue": "42454"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 3400,
+            "division": 25,
+            "joinTime": "1713844764000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 7786
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 3723,
+            "division": 15,
+            "joinTime": "1716249071000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 9995
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 15,
+            "joinTime": "1718668532000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "X1yz_-aBQTutJ9IVk1COzA",
+        "playerName": "Fulcrum",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718731542000",
+        "squadPower": 182205,
+        "guildJoinTime": "1709059659",
+        "galacticPower": "10041911",
+        "playerTitle": "PLAYERTITLE_BETTERGENERAL",
+        "playerPortrait": "PLAYERPORTRAIT_JEDI_GENERAL",
+        "lifetimeSeasonScore": "216188",
+        "leagueId": "CHROMIUM",
+        "shipGalacticPower": "4106773",
+        "characterGalacticPower": "5935138",
+        "nucleusId": "2316078750"
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "0",
+            "lifetimeValue": "26752"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "16"
+          },
+          {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "33342"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 7490,
+            "division": 20,
+            "joinTime": "1713887965000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 5325
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 7583,
+            "division": 15,
+            "joinTime": "1716257919000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 11062
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 15,
+            "joinTime": "1718666684000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "0--h5AjhS5CTVKtbeXk1aQ",
+        "playerName": "NoellesBelles",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718666924000",
+        "squadPower": 180100,
+        "guildJoinTime": "1712604515",
+        "galacticPower": "8802686",
+        "playerTitle": "PLAYERTITLE_PRINCESS",
+        "playerPortrait": "PLAYERPORTRAIT_PRINCESS_LEIA",
+        "lifetimeSeasonScore": "449442",
+        "leagueId": "AURODIUM",
+        "shipGalacticPower": "3529639",
+        "characterGalacticPower": "5273047",
+        "nucleusId": ""
+      },
+      {
+        "memberContribution": [
+          {
+            "type": 1,
+            "currentValue": "268",
+            "lifetimeValue": "15914"
+          },
+          {
+            "type": 3,
+            "currentValue": "0",
+            "lifetimeValue": "18"
+          },
+          {
+            "type": 2,
+            "currentValue": "600",
+            "lifetimeValue": "23174"
+          }
+        ],
+        "seasonStatus": [
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_52a",
+            "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
+            "league": "CHROMIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 5138,
+            "division": 25,
+            "joinTime": "1713835986000",
+            "endTime": "1716152400000",
+            "remove": false,
+            "rank": 129
+          },
+          {
+            "seasonId": "4zone_3v3_ga2_c3s1_53a",
+            "eventInstanceId": "GA2_SEASON_53A:O1716238800000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 1095,
+            "division": 10,
+            "joinTime": "1716239038000",
+            "endTime": "1718571600000",
+            "remove": false,
+            "rank": 826
+          },
+          {
+            "seasonId": "4zone_5v5_ga2_c3s1_54a",
+            "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+            "league": "AURODIUM",
+            "wins": 0,
+            "losses": 0,
+            "seasonPoints": 0,
+            "division": 10,
+            "joinTime": "1718658179000",
+            "endTime": "1720990800000",
+            "remove": false,
+            "rank": 0
+          }
+        ],
+        "playerId": "zV7WcffvTL6h0mQJxnHPUw",
+        "playerName": "The UnknownMaster",
+        "playerLevel": 85,
+        "memberLevel": 2,
+        "guildXp": 0,
+        "lastActivityTime": "1718742099000",
+        "squadPower": 154897,
+        "guildJoinTime": "1715387579",
+        "galacticPower": "4984030",
+        "playerTitle": "PLAYERTITLE_GLKYLOREN_EVENT",
+        "playerPortrait": "PLAYERPORTRAIT_DARTHREVAN",
+        "lifetimeSeasonScore": "0",
+        "leagueId": "AURODIUM",
+        "shipGalacticPower": "2160598",
+        "characterGalacticPower": "2823432",
+        "nucleusId": "2302710608"
+      }
+    ],
+    "inviteStatus": [],
+    "raidStatus": [],
+    "raidResult": [],
+    "territoryBattleStatus": [],
+    "guildEvents": [],
+    "territoryBattleResult": [],
+    "territoryWarStatus": [],
+    "roomAvailable": [],
+    "stat": [],
+    "recentRaidResult": [
+      {
+        "raidMember": [
+          {
+            "playerId": "IdqKE8x2SdmI-TCRrcN5iA",
+            "memberProgress": "4155250",
+            "memberRank": 7,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "qf6rWDopQxy2oiBkZsuBCA",
+            "memberProgress": "3068750",
+            "memberRank": 11,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "xD0TAq44SceC-2XTB7Y5xw",
+            "memberProgress": "444500",
+            "memberRank": 38,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "EWjZNuw_RIy6B9rl7fHPAA",
+            "memberProgress": "1460500",
+            "memberRank": 28,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "aXlrpBPnRWOcP2KKFib9oQ",
+            "memberProgress": "1535500",
+            "memberRank": 26,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "6aDQneNDQcSfzaYIZ0PKMw",
+            "memberProgress": "1884250",
+            "memberRank": 20,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "WmTDkargRK6K21fw2Wb72Q",
+            "memberProgress": "8834000",
+            "memberRank": 1,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "zV7WcffvTL6h0mQJxnHPUw",
+            "memberProgress": "1504500",
+            "memberRank": 27,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "1YTk7DFFTsaoRUve-jsnrg",
+            "memberProgress": "1171500",
+            "memberRank": 32,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "UcU5Se5_Q3q4H055ztFsPw",
+            "memberProgress": "0",
+            "memberRank": 44,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "oMyga3XtT1-W9oUmsC1XBA",
+            "memberProgress": "7119750",
+            "memberRank": 4,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "0E8USWQhTJ6Jv7gpFmZX4w",
+            "memberProgress": "6915000",
+            "memberRank": 5,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "Csdn6mbFSj-VPGSp5Oweog",
+            "memberProgress": "1312000",
+            "memberRank": 30,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "DtNglIyJSG667KbQ2QGOIw",
+            "memberProgress": "69500",
+            "memberRank": 41,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "LsNf2ooUT9yvsoc-ChAepw",
+            "memberProgress": "2353750",
+            "memberRank": 15,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "ubhRfbeWSbCAUsFinXP5MQ",
+            "memberProgress": "2311000",
+            "memberRank": 17,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "X1yz_-aBQTutJ9IVk1COzA",
+            "memberProgress": "1631500",
+            "memberRank": 25,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "If750bioTUGkAb6xQyeMhA",
+            "memberProgress": "2777750",
+            "memberRank": 12,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "tcQ0XJ3gQpmiYnsuG4zDCw",
+            "memberProgress": "2312000",
+            "memberRank": 16,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "YVORuahkS6KjWOi3UBuZ5A",
+            "memberProgress": "8135500",
+            "memberRank": 2,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "ByxcbWEpTMeoMlt76vOB1g",
+            "memberProgress": "7837500",
+            "memberRank": 3,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "OMIO0AG1TZyJWSPueCgh7Q",
+            "memberProgress": "1648000",
+            "memberRank": 23,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "YBttkd-7RD6zqqRUnvAM7g",
+            "memberProgress": "4114000",
+            "memberRank": 8,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "gOtk1oPUSHySNJPlWEc9Sg",
+            "memberProgress": "2447250",
+            "memberRank": 14,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "zNapRkTOTeuJfldI7WFhJw",
+            "memberProgress": "0",
+            "memberRank": 46,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "R9KXU7eOR72ntijz8X1Xvg",
+            "memberProgress": "6638500",
+            "memberRank": 6,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "Zqr3hM9RRb6OIGbvv7_SwQ",
+            "memberProgress": "0",
+            "memberRank": 45,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "JsN7cG4YRYSU7_nGqD4U4A",
+            "memberProgress": "0",
+            "memberRank": 48,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "Pfubf0B6RACLGISkuZ6pKg",
+            "memberProgress": "1038500",
+            "memberRank": 34,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "8uoWFFpYTN60iLGqSATw2A",
+            "memberProgress": "2239750",
+            "memberRank": 18,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "3B_WewjCQFep9WCxf4dfdw",
+            "memberProgress": "1634000",
+            "memberRank": 24,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "6c4YofsaTgqZPyiSXKnjBw",
+            "memberProgress": "708000",
+            "memberRank": 35,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "0KLevRJ5Q7SXVLMWT4kn1w",
+            "memberProgress": "3737000",
+            "memberRank": 9,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "Tc5abeUfS_i43fhqAp-O5Q",
+            "memberProgress": "2689750",
+            "memberRank": 13,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "mZiGJ5XOQUyH9F5CLs6uhg",
+            "memberProgress": "1897500",
+            "memberRank": 19,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "JtS3n3dCRkGFkJFucDH9PQ",
+            "memberProgress": "1755000",
+            "memberRank": 21,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "7PonITD4SseOJhbwRh9GdA",
+            "memberProgress": "686000",
+            "memberRank": 37,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "OG7XnYLETF-I8SdoRPoKwQ",
+            "memberProgress": "688000",
+            "memberRank": 36,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "0--h5AjhS5CTVKtbeXk1aQ",
+            "memberProgress": "1662000",
+            "memberRank": 22,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "BAW4RHfkSXCoTfFpVkuILA",
+            "memberProgress": "444000",
+            "memberRank": 39,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "-T0ojlj4SfK5kPJWMSaIKA",
+            "memberProgress": "241000",
+            "memberRank": 40,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "jVUpeArMTcuLFCzdAmUDkg",
+            "memberProgress": "0",
+            "memberRank": 42,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "8EyBsj2oTG2HRZRURe4eSg",
+            "memberProgress": "0",
+            "memberRank": 47,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "RyzqkmwHQr2ZjWcD_4UZhQ",
+            "memberProgress": "1054000",
+            "memberRank": 33,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "OqXO8SROSTKYxOpE0t1BBg",
+            "memberProgress": "1430000",
+            "memberRank": 29,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "uWF4ZjawRF6OJ7lyRQx7XQ",
+            "memberProgress": "1225750",
+            "memberRank": 31,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "-CK2zBNgRHOtCX0TwGeuYw",
+            "memberProgress": "0",
+            "memberRank": 43,
+            "memberAttempt": 0
+          },
+          {
+            "playerId": "Tz4DSTSoQjWxMFVulnXa_A",
+            "memberProgress": "3381500",
+            "memberRank": 10,
+            "memberAttempt": 0
+          }
+        ],
+        "encounterProgress": [],
+        "raidId": "speederbike",
+        "identifier": {
+          "campaignId": "GUILD",
+          "campaignMapId": "RAIDS",
+          "campaignNodeId": "ROTJ",
+          "campaignNodeDifficulty": 4,
+          "campaignMissionId": "SPEEDERBIKE"
+        },
+        "duration": "255896",
+        "progress": null,
+        "endTime": "1718578040",
+        "outcome": 1,
+        "guildRewardScore": "108193500",
+        "cachedRewards": {
+          "rankRewardPreview": [
+            {
+              "primaryReward": [
+                {
+                  "id": "mysterybox_guildraid_rotj_guild_1",
+                  "type": 14,
+                  "minQuantity": 1,
+                  "maxQuantity": 1,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "detailedReward": [
+                {
+                  "id": "mysterybox_guildraid_rotj_guild_1",
+                  "type": 14,
+                  "minQuantity": 1,
+                  "maxQuantity": 1,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "rankStart": 16000000,
+              "rankEnd": 23199999
+            },
+            {
+              "primaryReward": [
+                {
+                  "id": "mysterybox_guildraid_rotj_guild_2",
+                  "type": 14,
+                  "minQuantity": 1,
+                  "maxQuantity": 1,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "detailedReward": [
+                {
+                  "id": "mysterybox_guildraid_rotj_guild_2",
+                  "type": 14,
+                  "minQuantity": 1,
+                  "maxQuantity": 1,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "rankStart": 23200000,
+              "rankEnd": 35999999
+            },
+            {
+              "primaryReward": [
+                {
+                  "id": "mysterybox_guildraid_rotj_guild_3",
+                  "type": 14,
+                  "minQuantity": 1,
+                  "maxQuantity": 1,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "detailedReward": [
+                {
+                  "id": "mysterybox_guildraid_rotj_guild_3",
+                  "type": 14,
+                  "minQuantity": 1,
+                  "maxQuantity": 1,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "rankStart": 36000000,
+              "rankEnd": 107999999
+            },
+            {
+              "primaryReward": [
+                {
+                  "id": "mysterybox_guildraid_rotj_guild_4",
+                  "type": 14,
+                  "minQuantity": 1,
+                  "maxQuantity": 1,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "detailedReward": [
+                {
+                  "id": "mysterybox_guildraid_rotj_guild_4",
+                  "type": 14,
+                  "minQuantity": 1,
+                  "maxQuantity": 1,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "rankStart": 108000000,
+              "rankEnd": 125599999
+            },
+            {
+              "primaryReward": [
+                {
+                  "id": "mysterybox_guildraid_rotj_guild_5",
+                  "type": 14,
+                  "minQuantity": 1,
+                  "maxQuantity": 1,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "detailedReward": [
+                {
+                  "id": "mysterybox_guildraid_rotj_guild_5",
+                  "type": 14,
+                  "minQuantity": 1,
+                  "maxQuantity": 1,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "rankStart": 125600000,
+              "rankEnd": 143999999
+            },
+            {
+              "primaryReward": [
+                {
+                  "id": "mysterybox_guildraid_rotj_guild_6",
+                  "type": 14,
+                  "minQuantity": 1,
+                  "maxQuantity": 1,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "detailedReward": [
+                {
+                  "id": "mysterybox_guildraid_rotj_guild_6",
+                  "type": 14,
+                  "minQuantity": 1,
+                  "maxQuantity": 1,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "rankStart": 144000000,
+              "rankEnd": 207999999
+            },
+            {
+              "primaryReward": [
+                {
+                  "id": "mysterybox_guildraid_rotj_guild_7",
+                  "type": 14,
+                  "minQuantity": 1,
+                  "maxQuantity": 1,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "detailedReward": [
+                {
+                  "id": "mysterybox_guildraid_rotj_guild_7",
+                  "type": 14,
+                  "minQuantity": 1,
+                  "maxQuantity": 1,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "rankStart": 208000000,
+              "rankEnd": 423999999
+            },
+            {
+              "primaryReward": [
+                {
+                  "id": "mysterybox_guildraid_rotj_guild_8",
+                  "type": 14,
+                  "minQuantity": 1,
+                  "maxQuantity": 1,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "detailedReward": [
+                {
+                  "id": "mysterybox_guildraid_rotj_guild_8",
+                  "type": 14,
+                  "minQuantity": 1,
+                  "maxQuantity": 1,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "rankStart": 424000000,
+              "rankEnd": 665599999
+            },
+            {
+              "primaryReward": [
+                {
+                  "id": "mysterybox_guildraid_rotj_guild_9",
+                  "type": 14,
+                  "minQuantity": 1,
+                  "maxQuantity": 1,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "detailedReward": [
+                {
+                  "id": "mysterybox_guildraid_rotj_guild_9",
+                  "type": 14,
+                  "minQuantity": 1,
+                  "maxQuantity": 1,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "rankStart": 665600000,
+              "rankEnd": 831999999
+            },
+            {
+              "primaryReward": [
+                {
+                  "id": "mysterybox_guildraid_rotj_guild_10",
+                  "type": 14,
+                  "minQuantity": 1,
+                  "maxQuantity": 1,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "detailedReward": [
+                {
+                  "id": "mysterybox_guildraid_rotj_guild_10",
+                  "type": 14,
+                  "minQuantity": 1,
+                  "maxQuantity": 1,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "rankStart": 832000000,
+              "rankEnd": 0
+            }
+          ],
+          "immediateRegularRankRewardPreview": [
+            {
+              "primaryReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_01",
+                  "type": 3,
+                  "minQuantity": 450,
+                  "maxQuantity": 450,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "detailedReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_01",
+                  "type": 3,
+                  "minQuantity": 450,
+                  "maxQuantity": 450,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "rankStart": 104000,
+              "rankEnd": 135999
+            },
+            {
+              "primaryReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_02",
+                  "type": 3,
+                  "minQuantity": 100,
+                  "maxQuantity": 100,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                },
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 40,
+                  "maxQuantity": 40,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "detailedReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_02",
+                  "type": 3,
+                  "minQuantity": 100,
+                  "maxQuantity": 100,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                },
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 40,
+                  "maxQuantity": 40,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "rankStart": 136000,
+              "rankEnd": 271999
+            },
+            {
+              "primaryReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_02",
+                  "type": 3,
+                  "minQuantity": 100,
+                  "maxQuantity": 100,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                },
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 40,
+                  "maxQuantity": 40,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "detailedReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_02",
+                  "type": 3,
+                  "minQuantity": 100,
+                  "maxQuantity": 100,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                },
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 40,
+                  "maxQuantity": 40,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "rankStart": 272000,
+              "rankEnd": 407999
+            },
+            {
+              "primaryReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_02",
+                  "type": 3,
+                  "minQuantity": 100,
+                  "maxQuantity": 100,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                },
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 40,
+                  "maxQuantity": 40,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "detailedReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_02",
+                  "type": 3,
+                  "minQuantity": 100,
+                  "maxQuantity": 100,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                },
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 40,
+                  "maxQuantity": 40,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "rankStart": 408000,
+              "rankEnd": 543999
+            },
+            {
+              "primaryReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_02",
+                  "type": 3,
+                  "minQuantity": 200,
+                  "maxQuantity": 200,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                },
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 80,
+                  "maxQuantity": 80,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "detailedReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_02",
+                  "type": 3,
+                  "minQuantity": 200,
+                  "maxQuantity": 200,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                },
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 80,
+                  "maxQuantity": 80,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "rankStart": 544000,
+              "rankEnd": 799999
+            },
+            {
+              "primaryReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_02",
+                  "type": 3,
+                  "minQuantity": 200,
+                  "maxQuantity": 200,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                },
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 80,
+                  "maxQuantity": 80,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "detailedReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_02",
+                  "type": 3,
+                  "minQuantity": 200,
+                  "maxQuantity": 200,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                },
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 80,
+                  "maxQuantity": 80,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "rankStart": 800000,
+              "rankEnd": 1599999
+            },
+            {
+              "primaryReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_02",
+                  "type": 3,
+                  "minQuantity": 200,
+                  "maxQuantity": 200,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                },
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 80,
+                  "maxQuantity": 80,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "detailedReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_02",
+                  "type": 3,
+                  "minQuantity": 200,
+                  "maxQuantity": 200,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                },
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 80,
+                  "maxQuantity": 80,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "rankStart": 1600000,
+              "rankEnd": 2719999
+            },
+            {
+              "primaryReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_02",
+                  "type": 3,
+                  "minQuantity": 150,
+                  "maxQuantity": 150,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                },
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 80,
+                  "maxQuantity": 80,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "detailedReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_02",
+                  "type": 3,
+                  "minQuantity": 150,
+                  "maxQuantity": 150,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                },
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 80,
+                  "maxQuantity": 80,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "rankStart": 2720000,
+              "rankEnd": 3519999
+            },
+            {
+              "primaryReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_02",
+                  "type": 3,
+                  "minQuantity": 150,
+                  "maxQuantity": 150,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                },
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 80,
+                  "maxQuantity": 80,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "detailedReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_02",
+                  "type": 3,
+                  "minQuantity": 150,
+                  "maxQuantity": 150,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                },
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 80,
+                  "maxQuantity": 80,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "rankStart": 3520000,
+              "rankEnd": 4799999
+            },
+            {
+              "primaryReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 100,
+                  "maxQuantity": 100,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "detailedReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 100,
+                  "maxQuantity": 100,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "rankStart": 4800000,
+              "rankEnd": 6799999
+            },
+            {
+              "primaryReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 100,
+                  "maxQuantity": 100,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "detailedReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 100,
+                  "maxQuantity": 100,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "rankStart": 6800000,
+              "rankEnd": 8751999
+            },
+            {
+              "primaryReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 100,
+                  "maxQuantity": 100,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "detailedReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 100,
+                  "maxQuantity": 100,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "rankStart": 8752000,
+              "rankEnd": 9919999
+            },
+            {
+              "primaryReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 100,
+                  "maxQuantity": 100,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "detailedReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 100,
+                  "maxQuantity": 100,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "rankStart": 9920000,
+              "rankEnd": 13615999
+            },
+            {
+              "primaryReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 100,
+                  "maxQuantity": 100,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "detailedReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 100,
+                  "maxQuantity": 100,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "rankStart": 13616000,
+              "rankEnd": 15551999
+            },
+            {
+              "primaryReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 100,
+                  "maxQuantity": 100,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "detailedReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 100,
+                  "maxQuantity": 100,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "rankStart": 15552000,
+              "rankEnd": 19439999
+            },
+            {
+              "primaryReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 110,
+                  "maxQuantity": 110,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "detailedReward": [
+                {
+                  "id": "RAID_REWARD_CURRENCY_03",
+                  "type": 3,
+                  "minQuantity": 110,
+                  "maxQuantity": 110,
+                  "rarity": 8,
+                  "statMod": null,
+                  "previewPriority": 0,
+                  "unitLevel": 0,
+                  "unitTier": 0,
+                  "primaryReward": true
+                }
+              ],
+              "rankStart": 19440000,
+              "rankEnd": 0
+            }
+          ]
+        }
+      }
+    ],
+    "recentTerritoryWarResult": [
+      {
+        "territoryWarId": "tw01A",
+        "score": "14366",
+        "power": 324386180,
+        "opponentScore": "11457",
+        "endTimeSeconds": "1714323600"
+      },
+      {
+        "territoryWarId": "tw01A",
+        "score": "15102",
+        "power": 353696619,
+        "opponentScore": "23861",
+        "endTimeSeconds": "1715533220"
+      },
+      {
+        "territoryWarId": "tw01D",
+        "score": "12874",
+        "power": 332786541,
+        "opponentScore": "18184",
+        "endTimeSeconds": "1716400802"
+      },
+      {
+        "territoryWarId": "tw01C",
+        "score": "10110",
+        "power": 323063303,
+        "opponentScore": "13282",
+        "endTimeSeconds": "1716742809"
+      },
+      {
+        "territoryWarId": "tw01D",
+        "score": "13968",
+        "power": 367290460,
+        "opponentScore": "15634",
+        "endTimeSeconds": "1717610400"
+      },
+      {
+        "territoryWarId": "tw01B",
+        "score": "14029",
+        "power": 341393180,
+        "opponentScore": "21955",
+        "endTimeSeconds": "1713981694"
+      },
+      {
+        "territoryWarId": "tw01C",
+        "score": "13190",
+        "power": 327580327,
+        "opponentScore": "11133",
+        "endTimeSeconds": "1717952702"
+      },
+      {
+        "territoryWarId": "tw01B",
+        "score": "14827",
+        "power": 344777839,
+        "opponentScore": "23538",
+        "endTimeSeconds": "1715191202"
+      }
+    ],
+    "lastRaidPointsSummary": [
+      {
+        "identifier": {
+          "campaignId": "GUILD",
+          "campaignMapId": "RAIDS",
+          "campaignNodeId": "ROTJ",
+          "campaignNodeDifficulty": 4,
+          "campaignMissionId": "SPEEDERBIKE"
+        },
+        "totalPoints": "118908250"
+      }
+    ],
+    "profile": {
+      "messageCriteriaKey": [],
+      "raidLaunchConfig": [],
+      "guildEventTracker": [
+        {
+          "definitionId": "t05D",
+          "completedStars": "24",
+          "endTime": "1718557200000"
+        }
+      ],
+      "id": "8qYzrHcISr-VJgiyDdMldw",
+      "name": "GiD Bleeps Sweeps & Creeps",
+      "externalMessageKey": "Discord & .GG Accounts Mandatory, 3 day inactive dismissal, featured raid, RotE TB, 300 daily min",
+      "logoBackground": "",
+      "enrollmentStatus": 2,
+      "trophy": 0,
+      "memberCount": 50,
+      "memberMax": 50,
+      "level": 1,
+      "rank": 0,
+      "levelRequirement": 85,
+      "raidWin": 0,
+      "leaderboardScore": "0",
+      "bannerColorId": "red_white",
+      "bannerLogoId": "guild_icon_Rebel",
+      "guildGalacticPower": "370054200",
+      "chatChannelId": "guild-{8qYzrHcISr-VJgiyDdMldw}",
+      "guildType": "",
+      "guildGalacticPowerForRequirement": "370054200",
+      "singleLaunchConfig": {
+        "raidId": "speederbike",
+        "campaignMissionIdentifier": {
+          "campaignId": "GUILD",
+          "campaignMapId": "RAIDS",
+          "campaignNodeId": "ROTJ",
+          "campaignNodeDifficulty": 4,
+          "campaignMissionId": "SPEEDERBIKE"
+        },
+        "autoLaunch": false,
+        "autoLaunchImmediately": false,
+        "autoLaunchTime": "0",
+        "joinPeriodDuration": "0",
+        "autoSimEnabled": false,
+        "immediate": true,
+        "scheduledUtcOffsetSeconds": "0"
+      },
+      "autoLaunchConfig": {
+        "raidId": "speederbike",
+        "campaignMissionIdentifier": {
+          "campaignId": "GUILD",
+          "campaignMapId": "RAIDS",
+          "campaignNodeId": "ROTJ",
+          "campaignNodeDifficulty": 4,
+          "campaignMissionId": "SPEEDERBIKE"
+        },
+        "autoLaunch": true,
+        "autoLaunchImmediately": false,
+        "autoLaunchTime": "0",
+        "joinPeriodDuration": "0",
+        "autoSimEnabled": false,
+        "immediate": true,
+        "scheduledUtcOffsetSeconds": "0"
+      }
+    },
+    "inventory": null,
+    "progress": null,
+    "nextChallengesRefresh": "1718749800"
+  }
+}
