@@ -11,8 +11,11 @@ The repository uses the following file/folder structure:
 
 memberJsons: Contains JSON files with data about guild member rosters. Each file is titled as the players' Ally Code, and contains all the data pulled from the COMLINK 
              /player endpoint.
+
 GuildData-BSC.json: JSON file with complete data about the guild pulled from the COMLINK /guild endpoint.
+
 GuildData-BSC_Lite.json: JSON file with a lighter amount of data for the guild only including .member and .profile.
+
 UnitsLite.json: JSON file that contains unit (character/ships) information. This is an extremely light version of the units.json file collected from the COMLINK /data endpoint.
                 The keys for the file are the CG named units, and the corresponding values are the actual in-game names in English(US) of the units.
 
