@@ -146002,7 +146002,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53433",
+      "value": "53452",
       "index": 8
     },
     {
@@ -146014,7 +146014,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1312759",
+      "value": "1312873",
       "index": 11
     },
     {
@@ -146044,7 +146044,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "157001",
+      "value": "157020",
       "index": 7
     },
     {
@@ -146099,7 +146099,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1718730385000",
+        "lastSaveTime": "1718754616000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -147183,7 +147183,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1718730580000",
+  "lastActivityTime": "1718754695000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL_GRIEVOUS"
   },
