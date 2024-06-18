@@ -145435,7 +145435,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "164285",
+      "value": "164287",
       "index": 7
     },
     {
@@ -146833,7 +146833,7 @@
   "selectedPlayerTitle": null,
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -60,
-  "lastActivityTime": "1718746309000",
+  "lastActivityTime": "1718746852000",
   "selectedPlayerPortrait": null,
   "lifetimeSeasonScore": "99683",
   "playerRating": {
