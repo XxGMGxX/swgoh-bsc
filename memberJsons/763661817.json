@@ -2436,7 +2436,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 26063
+      "gp": 26310
     },
     {
       "skill": [
@@ -36639,11 +36639,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 3,
+      "currentTier": 4,
       "relic": {
         "currentTier": 1
       },
-      "gp": 6891
+      "gp": 7143
     },
     {
       "skill": [
@@ -36702,7 +36702,7 @@
       "skill": [
         {
           "id": "uniqueskill_RAZORCREST01",
-          "tier": 2
+          "tier": 6
         },
         {
           "id": "specialskill_RAZORCREST01",
@@ -36730,7 +36730,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 46531
+      "gp": 49332
     },
     {
       "skill": [
@@ -40848,6 +40848,10 @@
           "slot": 0
         },
         {
+          "equipmentId": "107",
+          "slot": 3
+        },
+        {
           "equipmentId": "117",
           "slot": 4
         },
@@ -41589,7 +41593,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 15174
+      "gp": 15316
     },
     {
       "skill": [
@@ -44971,7 +44975,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 32247
+      "gp": 32514
     },
     {
       "skill": [
@@ -52209,23 +52213,19 @@
       ],
       "equipment": [
         {
-          "equipmentId": "120",
-          "slot": 0
-        },
-        {
-          "equipmentId": "173",
-          "slot": 1
-        },
-        {
           "equipmentId": "138",
-          "slot": 3
-        },
-        {
-          "equipmentId": "135",
-          "slot": 4
+          "slot": 2
         },
         {
           "equipmentId": "139",
+          "slot": 3
+        },
+        {
+          "equipmentId": "116",
+          "slot": 4
+        },
+        {
+          "equipmentId": "142",
           "slot": 5
         }
       ],
@@ -52958,11 +52958,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 10,
+      "currentTier": 11,
       "relic": {
         "currentTier": 1
       },
-      "gp": 18684
+      "gp": 19653
     },
     {
       "skill": [
@@ -66264,7 +66264,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 45406
+      "gp": 53945
     },
     {
       "skill": [
@@ -89978,6 +89978,10 @@
         {
           "equipmentId": "117",
           "slot": 2
+        },
+        {
+          "equipmentId": "108",
+          "slot": 3
         }
       ],
       "equippedStatModOld": [],
@@ -89994,7 +89998,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 12505
+      "gp": 12648
     },
     {
       "skill": [],
@@ -92296,9 +92300,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 3
+        "currentTier": 7
       },
-      "gp": 18046
+      "gp": 21841
     },
     {
       "skill": [
@@ -94647,7 +94651,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2495959",
+      "value": "2507813",
       "index": 3
     },
     {
@@ -94677,7 +94681,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "12643",
+      "value": "12703",
       "index": 9
     },
     {
@@ -94689,7 +94693,7 @@
     {
       "nameKey": "STAT_GUILD_RAID_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "688",
+      "value": "689",
       "index": 10
     },
     {
@@ -94701,13 +94705,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3379573",
+      "value": "3384874",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "32415",
+      "value": "32525",
       "index": 8
     },
     {
@@ -94719,7 +94723,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1151556",
+      "value": "1152299",
       "index": 11
     },
     {
@@ -94743,13 +94747,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5875532",
+      "value": "5892687",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "130419",
+      "value": "131000",
       "index": 7
     },
     {
@@ -95094,6 +95098,9 @@
       "id": "PLAYERTITLE_SEASON001_AURODIUM_ALL"
     },
     {
+      "id": "PLAYERTITLE_EXECUTOR_QUEST"
+    },
+    {
       "id": "PLAYERTITLE_SEASON001_CARBONITE_ALL"
     },
     {
@@ -95332,19 +95339,6 @@
   ],
   "seasonStatus": [
     {
-      "seasonId": "4zone_3v3_ga2_c3s1_51a",
-      "eventInstanceId": "GA2_SEASON_51A:O1711400400000",
-      "league": "AURODIUM",
-      "wins": 0,
-      "losses": 0,
-      "seasonPoints": 4717,
-      "division": 10,
-      "joinTime": "1711482195000",
-      "endTime": "1713733200000",
-      "remove": false,
-      "rank": 6806
-    },
-    {
       "seasonId": "4zone_5v5_ga2_c3s1_52a",
       "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
       "league": "AURODIUM",
@@ -95369,6 +95363,19 @@
       "endTime": "1718571600000",
       "remove": false,
       "rank": 2638
+    },
+    {
+      "seasonId": "4zone_5v5_ga2_c3s1_54a",
+      "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+      "league": "AURODIUM",
+      "wins": 0,
+      "losses": 0,
+      "seasonPoints": 0,
+      "division": 15,
+      "joinTime": "1718739932000",
+      "endTime": "1720990800000",
+      "remove": false,
+      "rank": 13297
     }
   ],
   "datacron": [
@@ -95541,14 +95548,14 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 360,
-  "lastActivityTime": "1718309328000",
+  "lastActivityTime": "1718741800000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GLKENOBI"
   },
   "lifetimeSeasonScore": "60035",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 2734
+      "skillRating": 2695
     },
     "playerRankStatus": {
       "leagueId": "AURODIUM",

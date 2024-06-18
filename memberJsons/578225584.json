@@ -1521,7 +1521,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 35090
+      "gp": 39995
     },
     {
       "skill": [
@@ -11598,7 +11598,7 @@
       "purchasedAbilityId": [],
       "id": "ubtHlamLTiGbodKBU9al3Q",
       "definitionId": "Imperial Probe Droid",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -11607,7 +11607,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 8101
+      "gp": 9241
     },
     {
       "skill": [
@@ -26026,7 +26026,16 @@
       "gp": 48424
     },
     {
-      "skill": [],
+      "skill": [
+        {
+          "id": "specialskill_DARTHSIDIOUS01",
+          "tier": 1
+        },
+        {
+          "id": "basicskill_DARTHSIDIOUS",
+          "tier": 1
+        }
+      ],
       "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
@@ -26042,7 +26051,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 6630
+      "gp": 6825
     },
     {
       "skill": [
@@ -27597,9 +27606,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 4
+        "currentTier": 5
       },
-      "gp": 21073
+      "gp": 21984
     },
     {
       "skill": [
@@ -33355,24 +33364,8 @@
       ],
       "equipment": [
         {
-          "equipmentId": "003",
-          "slot": 0
-        },
-        {
-          "equipmentId": "007",
-          "slot": 1
-        },
-        {
-          "equipmentId": "012",
-          "slot": 2
-        },
-        {
-          "equipmentId": "014",
+          "equipmentId": "036",
           "slot": 3
-        },
-        {
-          "equipmentId": "032",
-          "slot": 5
         }
       ],
       "equippedStatModOld": [],
@@ -33385,11 +33378,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 2,
+      "currentTier": 3,
       "relic": {
         "currentTier": 1
       },
-      "gp": 7161
+      "gp": 7236
     },
     {
       "skill": [
@@ -34122,14 +34115,19 @@
         },
         {
           "id": "leaderskill_GRIEVOUS",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "uniqueskill_GRIEVOUS01",
           "tier": 5
         }
       ],
-      "equipment": [],
+      "equipment": [
+        {
+          "equipmentId": "158",
+          "slot": 2
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -34553,7 +34551,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 16395
+      "gp": 19011
     },
     {
       "skill": [
@@ -38815,9 +38813,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 6
+        "currentTier": 7
       },
-      "gp": 20076
+      "gp": 21138
     },
     {
       "skill": [
@@ -44111,6 +44109,18 @@
         {
           "equipmentId": "083",
           "slot": 1
+        },
+        {
+          "equipmentId": "129",
+          "slot": 2
+        },
+        {
+          "equipmentId": "120",
+          "slot": 4
+        },
+        {
+          "equipmentId": "129",
+          "slot": 5
         }
       ],
       "equippedStatModOld": [],
@@ -44127,7 +44137,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 11956
+      "gp": 12487
     },
     {
       "skill": [
@@ -52542,7 +52552,12 @@
       "gp": 7498
     },
     {
-      "skill": [],
+      "skill": [
+        {
+          "id": "basicskill_JEDIKNIGHTGUARDIAN",
+          "tier": 1
+        }
+      ],
       "equipment": [
         {
           "equipmentId": "001",
@@ -52555,15 +52570,15 @@
       "id": "GMLOJ_cxTXSikO5dnZn8TQ",
       "definitionId": "Jedi Knight Guardian",
       "currentRarity": 7,
-      "currentLevel": 1,
-      "currentXp": 0,
+      "currentLevel": 85,
+      "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 1,
       "relic": {
         "currentTier": 1
       },
-      "gp": 4666
+      "gp": 6738
     },
     {
       "skill": [
@@ -56095,13 +56110,13 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2686832",
+      "value": "2691737",
       "index": 3
     },
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "421",
+      "value": "422",
       "index": 5
     },
     {
@@ -56125,7 +56140,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "13819",
+      "value": "13867",
       "index": 9
     },
     {
@@ -56137,7 +56152,7 @@
     {
       "nameKey": "STAT_GUILD_RAID_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "913",
+      "value": "914",
       "index": 10
     },
     {
@@ -56149,13 +56164,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3748731",
+      "value": "3757333",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "43622",
+      "value": "43678",
       "index": 8
     },
     {
@@ -56167,7 +56182,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1536318",
+      "value": "1536803",
       "index": 11
     },
     {
@@ -56191,13 +56206,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6435563",
+      "value": "6449070",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "149184",
+      "value": "149574",
       "index": 7
     },
     {
@@ -56216,7 +56231,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 948,
+      "rank": 1069,
       "squad": {
         "cell": [
           {
@@ -56302,7 +56317,7 @@
     },
     {
       "tab": 2,
-      "rank": 64,
+      "rank": 60,
       "squad": {
         "cell": [
           {
@@ -56443,9 +56458,6 @@
       "id": "PLAYERTITLE_PRINCESS"
     },
     {
-      "id": "PLAYERTITLE_BEEDEE"
-    },
-    {
       "id": "PLAYERTITLE_MANDO"
     },
     {
@@ -56458,19 +56470,7 @@
       "id": "PLAYERTITLE_MARQUEE_SAWGERRERA"
     },
     {
-      "id": "PLAYERTITLE_SENATOR"
-    },
-    {
-      "id": "PLAYERTITLE_HEAD_CLANKER"
-    },
-    {
-      "id": "PLAYERTITLE_MARQUEE_BOUSHH"
-    },
-    {
       "id": "PLAYERTITLE_PITFIGHTER"
-    },
-    {
-      "id": "PLAYERTITLE_BAD_BATCH"
     },
     {
       "id": "PLAYERTITLE_NOEQUAL"
@@ -56479,28 +56479,46 @@
       "id": "PLAYERTITLE_ORDER_OF_INQUISITORS"
     },
     {
-      "id": "PLAYERTITLE_SHADOW_APPRENTICE"
-    },
-    {
-      "id": "PLAYERTITLE_DARKSIDEHISTORIAN"
-    },
-    {
       "id": "PLAYERTITLE_GENERAL"
     },
     {
-      "id": "PLAYERTITLE_SPICEFREIGHTER"
-    },
-    {
       "id": "PLAYERTITLE_LOYAL_FRIEND"
-    },
-    {
-      "id": "PLAYERTITLE_SEASON001_BRONZIUM_ALL"
     },
     {
       "id": "PLAYERTITLE_SEASON001_CARBONITE_ALL"
     },
     {
       "id": "PLAYERTITLE_MARQUEE_CAPTAINREX"
+    },
+    {
+      "id": "PLAYERTITLE_BEEDEE"
+    },
+    {
+      "id": "PLAYERTITLE_SENATOR"
+    },
+    {
+      "id": "PLAYERTITLE_GLSLKR_QUEST_003"
+    },
+    {
+      "id": "PLAYERTITLE_HEAD_CLANKER"
+    },
+    {
+      "id": "PLAYERTITLE_MARQUEE_BOUSHH"
+    },
+    {
+      "id": "PLAYERTITLE_BAD_BATCH"
+    },
+    {
+      "id": "PLAYERTITLE_SHADOW_APPRENTICE"
+    },
+    {
+      "id": "PLAYERTITLE_DARKSIDEHISTORIAN"
+    },
+    {
+      "id": "PLAYERTITLE_SPICEFREIGHTER"
+    },
+    {
+      "id": "PLAYERTITLE_SEASON001_BRONZIUM_ALL"
     }
   ],
   "unlockedPlayerPortrait": [
@@ -56681,19 +56699,6 @@
   ],
   "seasonStatus": [
     {
-      "seasonId": "4zone_3v3_ga2_c3s1_51a",
-      "eventInstanceId": "GA2_SEASON_51A:O1711400400000",
-      "league": "BRONZIUM",
-      "wins": 0,
-      "losses": 0,
-      "seasonPoints": 0,
-      "division": 20,
-      "joinTime": "1711417554000",
-      "endTime": "1713733200000",
-      "remove": false,
-      "rank": 14756
-    },
-    {
       "seasonId": "4zone_5v5_ga2_c3s1_52a",
       "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
       "league": "BRONZIUM",
@@ -56718,6 +56723,19 @@
       "endTime": "1718571600000",
       "remove": false,
       "rank": 9905
+    },
+    {
+      "seasonId": "4zone_5v5_ga2_c3s1_54a",
+      "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+      "league": "BRONZIUM",
+      "wins": 0,
+      "losses": 0,
+      "seasonPoints": 0,
+      "division": 20,
+      "joinTime": "1718678015000",
+      "endTime": "1720990800000",
+      "remove": false,
+      "rank": 12610
     }
   ],
   "datacron": [
@@ -56758,7 +56776,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1718329971000",
+  "lastActivityTime": "1718721490000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDI_GENERAL"
   },

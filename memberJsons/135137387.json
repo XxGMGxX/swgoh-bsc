@@ -102334,14 +102334,14 @@
       "purchasedAbilityId": [],
       "id": "Q3tL6q_kQy-D8Ppx8Sxw2Q",
       "definitionId": "TIE Dagger",
-      "currentRarity": 4,
+      "currentRarity": 5,
       "currentLevel": 85,
       "currentXp": 873200,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 13713
+      "gp": 14529
     },
     {
       "skill": [
@@ -131699,7 +131699,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "1880453",
+      "value": "1881269",
       "index": 3
     },
     {
@@ -131729,7 +131729,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "11095",
+      "value": "11107",
       "index": 9
     },
     {
@@ -131741,7 +131741,7 @@
     {
       "nameKey": "STAT_GUILD_RAID_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "843",
+      "value": "844",
       "index": 10
     },
     {
@@ -131759,7 +131759,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "41429",
+      "value": "41441",
       "index": 8
     },
     {
@@ -131795,13 +131795,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4829279",
+      "value": "4830095",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "93391",
+      "value": "93435",
       "index": 7
     },
     {
@@ -132220,19 +132220,6 @@
   ],
   "seasonStatus": [
     {
-      "seasonId": "4zone_3v3_ga2_c3s1_51a",
-      "eventInstanceId": "GA2_SEASON_51A:O1711400400000",
-      "league": "CARBONITE",
-      "wins": 0,
-      "losses": 0,
-      "seasonPoints": 0,
-      "division": 5,
-      "joinTime": "1711413076000",
-      "endTime": "1713733200000",
-      "remove": false,
-      "rank": 36108
-    },
-    {
       "seasonId": "4zone_5v5_ga2_c3s1_52a",
       "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
       "league": "CARBONITE",
@@ -132257,6 +132244,19 @@
       "endTime": "1718571600000",
       "remove": false,
       "rank": 53771
+    },
+    {
+      "seasonId": "4zone_5v5_ga2_c3s1_54a",
+      "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+      "league": "CARBONITE",
+      "wins": 0,
+      "losses": 0,
+      "seasonPoints": 0,
+      "division": 5,
+      "joinTime": "1718675348000",
+      "endTime": "1720990800000",
+      "remove": false,
+      "rank": 28381
     }
   ],
   "datacron": [
@@ -132297,14 +132297,14 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1718331184000",
+  "lastActivityTime": "1718677657000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_VISAS"
   },
   "lifetimeSeasonScore": "4212",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 1030
+      "skillRating": 1175
     },
     "playerRankStatus": {
       "leagueId": "CARBONITE",

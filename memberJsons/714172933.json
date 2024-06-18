@@ -10875,7 +10875,7 @@
       "purchasedAbilityId": [],
       "id": "69bBYaTpS0qBHlhIdHy3DA",
       "definitionId": "Krrsantan",
-      "currentRarity": 4,
+      "currentRarity": 5,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -10884,7 +10884,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 7666
+      "gp": 8173
     },
     {
       "skill": [
@@ -12285,6 +12285,25 @@
         "currentTier": 7
       },
       "gp": 23716
+    },
+    {
+      "skill": [],
+      "equipment": [],
+      "equippedStatModOld": [],
+      "equippedStatMod": [],
+      "purchasedAbilityId": [],
+      "id": "azaEKTSzToyjbHR1ijweGw",
+      "definitionId": "Ki-Adi-Mundi",
+      "currentRarity": 4,
+      "currentLevel": 85,
+      "currentXp": 883025,
+      "promotionRecipeReference": "",
+      "unitStat": null,
+      "currentTier": 4,
+      "relic": {
+        "currentTier": 1
+      },
+      "gp": 3501
     },
     {
       "skill": [
@@ -90099,7 +90118,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "11395",
+      "value": "11419",
       "index": 9
     },
     {
@@ -90111,7 +90130,7 @@
     {
       "nameKey": "STAT_GUILD_RAID_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "522",
+      "value": "523",
       "index": 10
     },
     {
@@ -90123,13 +90142,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2849178",
+      "value": "2853186",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "33796",
+      "value": "33868",
       "index": 8
     },
     {
@@ -90141,7 +90160,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "865237",
+      "value": "865414",
       "index": 11
     },
     {
@@ -90165,13 +90184,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4913495",
+      "value": "4917503",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "90191",
+      "value": "90345",
       "index": 7
     },
     {
@@ -90190,7 +90209,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 1256,
+      "rank": 1421,
       "squad": {
         "cell": [
           {
@@ -90276,7 +90295,7 @@
     },
     {
       "tab": 2,
-      "rank": 50,
+      "rank": 60,
       "squad": {
         "cell": [
           {
@@ -90647,19 +90666,6 @@
   ],
   "seasonStatus": [
     {
-      "seasonId": "4zone_3v3_ga2_c3s1_51a",
-      "eventInstanceId": "GA2_SEASON_51A:O1711400400000",
-      "league": "BRONZIUM",
-      "wins": 0,
-      "losses": 0,
-      "seasonPoints": 3685,
-      "division": 25,
-      "joinTime": "1711469647000",
-      "endTime": "1713733200000",
-      "remove": false,
-      "rank": 1404
-    },
-    {
       "seasonId": "4zone_5v5_ga2_c3s1_52a",
       "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
       "league": "CHROMIUM",
@@ -90684,6 +90690,19 @@
       "endTime": "1718571600000",
       "remove": false,
       "rank": 2008
+    },
+    {
+      "seasonId": "4zone_5v5_ga2_c3s1_54a",
+      "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+      "league": "CHROMIUM",
+      "wins": 0,
+      "losses": 0,
+      "seasonPoints": 0,
+      "division": 10,
+      "joinTime": "1718661722000",
+      "endTime": "1720990800000",
+      "remove": false,
+      "rank": 13793
     }
   ],
   "datacron": [
@@ -90724,14 +90743,14 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -120,
-  "lastActivityTime": "1718303479000",
+  "lastActivityTime": "1718745645000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
   "lifetimeSeasonScore": "80464",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 2363
+      "skillRating": 2326
     },
     "playerRankStatus": {
       "leagueId": "CHROMIUM",

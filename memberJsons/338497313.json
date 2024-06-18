@@ -51,24 +51,7 @@
           "tier": 5
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "090",
-          "slot": 1
-        },
-        {
-          "equipmentId": "105",
-          "slot": 3
-        },
-        {
-          "equipmentId": "095",
-          "slot": 4
-        },
-        {
-          "equipmentId": "102",
-          "slot": 5
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -79,11 +62,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 9,
+      "currentTier": 12,
       "relic": {
         "currentTier": 1
       },
-      "gp": 13852
+      "gp": 16387
     },
     {
       "skill": [
@@ -2022,7 +2005,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 39133
+      "gp": 42362
     },
     {
       "skill": [
@@ -2102,7 +2085,7 @@
       "purchasedAbilityId": [],
       "id": "gtgrykAsS2mqUDHaADThTg",
       "definitionId": "Captain Tarpals",
-      "currentRarity": 4,
+      "currentRarity": 5,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -2111,7 +2094,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 5955
+      "gp": 6462
     },
     {
       "skill": [
@@ -3126,7 +3109,7 @@
         },
         {
           "id": "hardwareskill_arc170rex",
-          "tier": 0
+          "tier": 1
         },
         {
           "id": "basicskill_arc170rex",
@@ -3150,7 +3133,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 47979
+      "gp": 50066
     },
     {
       "skill": [
@@ -11086,20 +11069,7 @@
           "tier": 6
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "165",
-          "slot": 0
-        },
-        {
-          "equipmentId": "158",
-          "slot": 1
-        },
-        {
-          "equipmentId": "G12Finisher_CAPTAINDROGAN_B",
-          "slot": 5
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -11110,11 +11080,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 12,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 2
       },
-      "gp": 21045
+      "gp": 21675
     },
     {
       "skill": [],
@@ -13408,9 +13378,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 8
+        "currentTier": 10
       },
-      "gp": 29074
+      "gp": 33249
     },
     {
       "skill": [
@@ -16239,7 +16209,7 @@
         },
         {
           "id": "specialskill_CAPITALNEGOTIATOR01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_CAPITALNEGOTIATOR02",
@@ -16247,7 +16217,7 @@
         },
         {
           "id": "specialskill_CAPITALNEGOTIATOR03",
-          "tier": 5
+          "tier": 6
         }
       ],
       "equipment": [],
@@ -16263,7 +16233,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 78222
+      "gp": 78642
     },
     {
       "skill": [
@@ -18850,28 +18820,7 @@
           "tier": 5
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "113",
-          "slot": 1
-        },
-        {
-          "equipmentId": "117",
-          "slot": 2
-        },
-        {
-          "equipmentId": "108",
-          "slot": 3
-        },
-        {
-          "equipmentId": "118",
-          "slot": 4
-        },
-        {
-          "equipmentId": "118",
-          "slot": 5
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -18882,11 +18831,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 9,
+      "currentTier": 12,
       "relic": {
         "currentTier": 1
       },
-      "gp": 13995
+      "gp": 16387
     },
     {
       "skill": [
@@ -23419,13 +23368,13 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "1766643",
+      "value": "1772379",
       "index": 3
     },
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "88",
+      "value": "91",
       "index": 5
     },
     {
@@ -23449,7 +23398,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "10428",
+      "value": "10488",
       "index": 9
     },
     {
@@ -23461,7 +23410,7 @@
     {
       "nameKey": "STAT_GUILD_RAID_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "414",
+      "value": "415",
       "index": 10
     },
     {
@@ -23473,13 +23422,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3131435",
+      "value": "3141674",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "22308",
+      "value": "22371",
       "index": 8
     },
     {
@@ -23491,7 +23440,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "734048",
+      "value": "734659",
       "index": 11
     },
     {
@@ -23515,13 +23464,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4898078",
+      "value": "4914053",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "108360",
+      "value": "108895",
       "index": 7
     },
     {
@@ -23626,7 +23575,7 @@
     },
     {
       "tab": 2,
-      "rank": 67,
+      "rank": 47,
       "squad": {
         "cell": [
           {
@@ -23659,8 +23608,8 @@
           },
           {
             "crewBattleStat": [],
-            "unitId": "u_0YgGYPTfKm7Dg8D-S6JQ",
-            "unitDefId": "ARC170CLONESERGEANT:SEVEN_STAR",
+            "unitId": "SW-kqG-ESaifOWjenWBbCQ",
+            "unitDefId": "UMBARANSTARFIGHTER:SEVEN_STAR",
             "cellIndex": 2,
             "unitBattleStat": null,
             "messageReticle": "",
@@ -23673,8 +23622,8 @@
           },
           {
             "crewBattleStat": [],
-            "unitId": "lZr3146zTKy6n7RI_L1bEA",
-            "unitDefId": "JEDISTARFIGHTERAHSOKATANO:SEVEN_STAR",
+            "unitId": "kJ2kInFfRdqdXlC9S7wyug",
+            "unitDefId": "MARAUDER:FIVE_STAR",
             "cellIndex": 3,
             "unitBattleStat": null,
             "messageReticle": "",
@@ -23701,8 +23650,8 @@
           },
           {
             "crewBattleStat": [],
-            "unitId": "kJ2kInFfRdqdXlC9S7wyug",
-            "unitDefId": "MARAUDER:FIVE_STAR",
+            "unitId": "nQX47Z2KRyS4-qwz2FH7ug",
+            "unitDefId": "JEDISTARFIGHTERANAKIN:SEVEN_STAR",
             "cellIndex": 5,
             "unitBattleStat": null,
             "messageReticle": "",
@@ -23715,8 +23664,8 @@
           },
           {
             "crewBattleStat": [],
-            "unitId": "SW-kqG-ESaifOWjenWBbCQ",
-            "unitDefId": "UMBARANSTARFIGHTER:SEVEN_STAR",
+            "unitId": "u_0YgGYPTfKm7Dg8D-S6JQ",
+            "unitDefId": "ARC170CLONESERGEANT:SEVEN_STAR",
             "cellIndex": 6,
             "unitBattleStat": null,
             "messageReticle": "",
@@ -23729,8 +23678,8 @@
           },
           {
             "crewBattleStat": [],
-            "unitId": "nQX47Z2KRyS4-qwz2FH7ug",
-            "unitDefId": "JEDISTARFIGHTERANAKIN:SEVEN_STAR",
+            "unitId": "lZr3146zTKy6n7RI_L1bEA",
+            "unitDefId": "JEDISTARFIGHTERAHSOKATANO:SEVEN_STAR",
             "cellIndex": 7,
             "unitBattleStat": null,
             "messageReticle": "",
@@ -23746,7 +23695,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1718243730000",
+        "lastSaveTime": "1718549775000",
         "supportInheritFromDefinitionId": "",
         "datacron": null
       },
@@ -24005,19 +23954,6 @@
   ],
   "seasonStatus": [
     {
-      "seasonId": "4zone_3v3_ga2_c3s1_51a",
-      "eventInstanceId": "GA2_SEASON_51A:O1711400400000",
-      "league": "BRONZIUM",
-      "wins": 0,
-      "losses": 0,
-      "seasonPoints": 4548,
-      "division": 25,
-      "joinTime": "1711400563000",
-      "endTime": "1713733200000",
-      "remove": false,
-      "rank": 12013
-    },
-    {
       "seasonId": "4zone_5v5_ga2_c3s1_52a",
       "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
       "league": "CHROMIUM",
@@ -24042,6 +23978,19 @@
       "endTime": "1718571600000",
       "remove": false,
       "rank": 3258
+    },
+    {
+      "seasonId": "4zone_5v5_ga2_c3s1_54a",
+      "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+      "league": "BRONZIUM",
+      "wins": 0,
+      "losses": 0,
+      "seasonPoints": 0,
+      "division": 20,
+      "joinTime": "1718662189000",
+      "endTime": "1720990800000",
+      "remove": false,
+      "rank": 7811
     }
   ],
   "datacron": [
@@ -24247,14 +24196,14 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1718333757000",
+  "lastActivityTime": "1718729886000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MANDALORIAN"
   },
   "lifetimeSeasonScore": "32765",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 2321
+      "skillRating": 2338
     },
     "playerRankStatus": {
       "leagueId": "BRONZIUM",

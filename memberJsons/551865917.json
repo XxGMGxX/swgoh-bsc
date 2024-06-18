@@ -34958,9 +34958,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 7
+        "currentTier": 8
       },
-      "gp": 26617
+      "gp": 28135
     },
     {
       "skill": [
@@ -109598,7 +109598,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 55101
+      "gp": 56019
     },
     {
       "skill": [
@@ -120458,24 +120458,8 @@
       ],
       "equipment": [
         {
-          "equipmentId": "117",
-          "slot": 0
-        },
-        {
-          "equipmentId": "136",
-          "slot": 1
-        },
-        {
-          "equipmentId": "146",
+          "equipmentId": "161",
           "slot": 2
-        },
-        {
-          "equipmentId": "131",
-          "slot": 3
-        },
-        {
-          "equipmentId": "144",
-          "slot": 5
         }
       ],
       "equippedStatModOld": [],
@@ -121211,11 +121195,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 11,
+      "currentTier": 12,
       "relic": {
         "currentTier": 1
       },
-      "gp": 20892
+      "gp": 21300
     },
     {
       "skill": [
@@ -130954,7 +130938,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 65786
+      "gp": 69201
     },
     {
       "skill": [
@@ -141392,19 +141376,19 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3760489",
+      "value": "3764822",
       "index": 3
     },
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "2735",
+      "value": "2736",
       "index": 5
     },
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "4444",
+      "value": "4446",
       "index": 6
     },
     {
@@ -141422,7 +141406,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "19664",
+      "value": "19700",
       "index": 9
     },
     {
@@ -141434,7 +141418,7 @@
     {
       "nameKey": "STAT_GUILD_RAID_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1220",
+      "value": "1221",
       "index": 10
     },
     {
@@ -141446,13 +141430,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4999973",
+      "value": "5001899",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "60941",
+      "value": "61012",
       "index": 8
     },
     {
@@ -141464,13 +141448,13 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "2053249",
+      "value": "2053502",
       "index": 11
     },
     {
       "nameKey": "STAT_TOTAL_GUILD_EXCHANGE_DONATIONS_TU07_2",
       "versionKey": "NULL",
-      "value": "1338",
+      "value": "1340",
       "index": 12
     },
     {
@@ -141488,13 +141472,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8760462",
+      "value": "8766721",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "229490",
+      "value": "229770",
       "index": 7
     },
     {
@@ -141513,7 +141497,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 74,
+      "rank": 78,
       "squad": {
         "cell": [
           {
@@ -141591,7 +141575,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1718201224000",
+        "lastSaveTime": "1718588507000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -141671,7 +141655,7 @@
     },
     {
       "tab": 2,
-      "rank": 25,
+      "rank": 19,
       "squad": {
         "cell": [
           {
@@ -142251,19 +142235,6 @@
   ],
   "seasonStatus": [
     {
-      "seasonId": "4zone_3v3_ga2_c3s1_51a",
-      "eventInstanceId": "GA2_SEASON_51A:O1711400400000",
-      "league": "KYBER",
-      "wins": 0,
-      "losses": 0,
-      "seasonPoints": 4495,
-      "division": 10,
-      "joinTime": "1711401176000",
-      "endTime": "1713733200000",
-      "remove": false,
-      "rank": 11912
-    },
-    {
       "seasonId": "4zone_5v5_ga2_c3s1_52a",
       "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
       "league": "KYBER",
@@ -142288,6 +142259,19 @@
       "endTime": "1718571600000",
       "remove": false,
       "rank": 9137
+    },
+    {
+      "seasonId": "4zone_5v5_ga2_c3s1_54a",
+      "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+      "league": "AURODIUM",
+      "wins": 0,
+      "losses": 0,
+      "seasonPoints": 0,
+      "division": 20,
+      "joinTime": "1718731713000",
+      "endTime": "1720990800000",
+      "remove": false,
+      "rank": 15564
     }
   ],
   "datacron": [
@@ -142568,14 +142552,14 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1718304032000",
+  "lastActivityTime": "1718731745000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
   "lifetimeSeasonScore": "209909",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 2832
+      "skillRating": 2793
     },
     "playerRankStatus": {
       "leagueId": "AURODIUM",

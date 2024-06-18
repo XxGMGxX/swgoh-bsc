@@ -35543,9 +35543,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 9
+        "currentTier": 10
       },
-      "gp": 42292
+      "gp": 44569
     },
     {
       "skill": [
@@ -41402,9 +41402,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 10
+        "currentTier": 11
       },
-      "gp": 44569
+      "gp": 47076
     },
     {
       "skill": [
@@ -48607,7 +48607,7 @@
         },
         {
           "id": "uniqueskill_KELLERANBEQ01",
-          "tier": 5
+          "tier": 6
         }
       ],
       "equipment": [
@@ -49103,7 +49103,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 13105
+      "gp": 15511
     },
     {
       "skill": [
@@ -124840,7 +124840,7 @@
     {
       "nameKey": "STAT_GUILD_RAID_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "810",
+      "value": "811",
       "index": 10
     },
     {
@@ -124852,13 +124852,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4378184",
+      "value": "4385374",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "42459",
+      "value": "42489",
       "index": 8
     },
     {
@@ -124870,7 +124870,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1439169",
+      "value": "1439437",
       "index": 11
     },
     {
@@ -124894,13 +124894,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7172577",
+      "value": "7179767",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "117162",
+      "value": "117203",
       "index": 7
     },
     {
@@ -125450,19 +125450,6 @@
   ],
   "seasonStatus": [
     {
-      "seasonId": "4zone_3v3_ga2_c3s1_51a",
-      "eventInstanceId": "GA2_SEASON_51A:O1711400400000",
-      "league": "CHROMIUM",
-      "wins": 0,
-      "losses": 0,
-      "seasonPoints": 1738,
-      "division": 10,
-      "joinTime": "1711474066000",
-      "endTime": "1713733200000",
-      "remove": false,
-      "rank": 6878
-    },
-    {
       "seasonId": "4zone_5v5_ga2_c3s1_52a",
       "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
       "league": "CHROMIUM",
@@ -125487,6 +125474,19 @@
       "endTime": "1718571600000",
       "remove": false,
       "rank": 3390
+    },
+    {
+      "seasonId": "4zone_5v5_ga2_c3s1_54a",
+      "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+      "league": "BRONZIUM",
+      "wins": 0,
+      "losses": 0,
+      "seasonPoints": 0,
+      "division": 10,
+      "joinTime": "1718660867000",
+      "endTime": "1720990800000",
+      "remove": false,
+      "rank": 3250
     }
   ],
   "datacron": [
@@ -125527,14 +125527,14 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1718282441000",
+  "lastActivityTime": "1718733811000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SITHTROOPER"
   },
   "lifetimeSeasonScore": "376160",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 2166
+      "skillRating": 2167
     },
     "playerRankStatus": {
       "leagueId": "BRONZIUM",

@@ -15,24 +15,7 @@
           "tier": 6
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "099",
-          "slot": 0
-        },
-        {
-          "equipmentId": "112",
-          "slot": 2
-        },
-        {
-          "equipmentId": "112",
-          "slot": 3
-        },
-        {
-          "equipmentId": "111",
-          "slot": 4
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -43,11 +26,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 9,
+      "currentTier": 12,
       "relic": {
         "currentTier": 1
       },
-      "gp": 12703
+      "gp": 15238
     },
     {
       "skill": [
@@ -2540,7 +2523,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 36666
+      "gp": 37308
     },
     {
       "skill": [
@@ -2582,7 +2565,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 60249
+      "gp": 60438
     },
     {
       "skill": [
@@ -2647,8 +2630,16 @@
           "slot": 0
         },
         {
+          "equipmentId": "165",
+          "slot": 1
+        },
+        {
           "equipmentId": "163",
           "slot": 2
+        },
+        {
+          "equipmentId": "169",
+          "slot": 3
         },
         {
           "equipmentId": "171",
@@ -3398,7 +3389,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 20476
+      "gp": 20896
     },
     {
       "skill": [
@@ -3847,6 +3838,10 @@
         {
           "equipmentId": "164",
           "slot": 0
+        },
+        {
+          "equipmentId": "159",
+          "slot": 1
         }
       ],
       "equippedStatModOld": [],
@@ -3863,7 +3858,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 18429
+      "gp": 18639
     },
     {
       "skill": [
@@ -3877,7 +3872,7 @@
         },
         {
           "id": "specialskill_TIEFIGHTERFOSF02",
-          "tier": 3
+          "tier": 6
         },
         {
           "id": "hardwareskill_TIEFIGHTERFOSF01",
@@ -3897,7 +3892,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 35382
+      "gp": 41595
     },
     {
       "skill": [
@@ -5207,24 +5202,7 @@
           "tier": 6
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "125",
-          "slot": 0
-        },
-        {
-          "equipmentId": "109",
-          "slot": 3
-        },
-        {
-          "equipmentId": "092",
-          "slot": 4
-        },
-        {
-          "equipmentId": "103",
-          "slot": 5
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -5235,11 +5213,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 9,
+      "currentTier": 12,
       "relic": {
         "currentTier": 1
       },
-      "gp": 12703
+      "gp": 15238
     },
     {
       "skill": [
@@ -6329,21 +6307,23 @@
               "roll": [
                 "0.15542",
                 "0.13015",
-                "0.19135"
+                "0.19135",
+                "0.11964"
               ],
               "unscaledRollValue": [
                 "71493200",
                 "59869000",
-                "88021000"
+                "88021000",
+                "55034400"
               ],
               "stat": {
                 "unitStatId": 28,
-                "statValueDecimal": "21930000",
-                "unscaledDecimalValue": "219300000000",
+                "statValueDecimal": "27440000",
+                "unscaledDecimalValue": "274400000000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 3,
+              "statRolls": 4,
               "statRollerBoundsMin": "46000000",
               "statRollerBoundsMax": "92000000"
             },
@@ -6393,7 +6373,7 @@
           "id": "SkOLazNKSPi4N6b3fIM1wQ",
           "definitionId": "163",
           "level": 15,
-          "tier": 4,
+          "tier": 5,
           "sellValue": {
             "currency": 1,
             "quantity": 221000,
@@ -6454,20 +6434,22 @@
             {
               "roll": [
                 "0.16429",
-                "0.10620"
+                "0.10620",
+                "0.15888"
               ],
               "unscaledRollValue": [
                 "2464",
-                "1593"
+                "1593",
+                "2383"
               ],
               "stat": {
                 "unitStatId": 18,
-                "statValueDecimal": "405",
-                "unscaledDecimalValue": "4057000",
+                "statValueDecimal": "644",
+                "unscaledDecimalValue": "6441000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 2,
+              "statRolls": 3,
               "statRollerBoundsMin": "1500",
               "statRollerBoundsMax": "3000"
             },
@@ -6521,7 +6503,7 @@
           "id": "DEAP2FnmQu-rOJdcM6-keA",
           "definitionId": "364",
           "level": 15,
-          "tier": 4,
+          "tier": 5,
           "sellValue": {
             "currency": 1,
             "quantity": 221000,
@@ -6605,21 +6587,23 @@
               "roll": [
                 "0.11509",
                 "0.12091",
-                "0.16298"
+                "0.16298",
+                "0.11717"
               ],
               "unscaledRollValue": [
                 "2877250",
                 "3022750",
-                "4074500"
+                "4074500",
+                "2929250"
               ],
               "stat": {
                 "unitStatId": 41,
-                "statValueDecimal": "1000000",
-                "unscaledDecimalValue": "10000000000",
+                "statValueDecimal": "1300000",
+                "unscaledDecimalValue": "13000000000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 3,
+              "statRolls": 4,
               "statRollerBoundsMin": "2500000",
               "statRollerBoundsMax": "5000000"
             },
@@ -6649,7 +6633,7 @@
           "id": "7wDm-ZKRQCyO4_a7QBJPjg",
           "definitionId": "165",
           "level": 15,
-          "tier": 4,
+          "tier": 5,
           "sellValue": {
             "currency": 1,
             "quantity": 221000,
@@ -6691,21 +6675,23 @@
               "roll": [
                 "0.17506",
                 "0.19484",
-                "0.18218"
+                "0.18218",
+                "0.18285"
               ],
               "unscaledRollValue": [
                 "2626",
                 "2923",
-                "2733"
+                "2733",
+                "2743"
               ],
               "stat": {
                 "unitStatId": 18,
-                "statValueDecimal": "828",
-                "unscaledDecimalValue": "8281000",
+                "statValueDecimal": "1102",
+                "unscaledDecimalValue": "11024000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 3,
+              "statRolls": 4,
               "statRollerBoundsMin": "1500",
               "statRollerBoundsMax": "3000"
             },
@@ -6777,7 +6763,7 @@
           "id": "ACNKaL74Q6CPlRMB_pn90g",
           "definitionId": "166",
           "level": 15,
-          "tier": 4,
+          "tier": 5,
           "sellValue": {
             "currency": 1,
             "quantity": 221000,
@@ -6824,9 +6810,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 10
+        "currentTier": 11
       },
-      "gp": 32529
+      "gp": 35101
     },
     {
       "skill": [
@@ -9946,28 +9932,7 @@
           "tier": 6
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "126",
-          "slot": 0
-        },
-        {
-          "equipmentId": "091",
-          "slot": 1
-        },
-        {
-          "equipmentId": "098",
-          "slot": 2
-        },
-        {
-          "equipmentId": "079",
-          "slot": 4
-        },
-        {
-          "equipmentId": "109",
-          "slot": 5
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -9978,11 +9943,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 9,
+      "currentTier": 12,
       "relic": {
         "currentTier": 1
       },
-      "gp": 12846
+      "gp": 15238
     },
     {
       "skill": [
@@ -10648,24 +10613,8 @@
       ],
       "equipment": [
         {
-          "equipmentId": "144",
-          "slot": 0
-        },
-        {
-          "equipmentId": "116",
+          "equipmentId": "159",
           "slot": 1
-        },
-        {
-          "equipmentId": "129",
-          "slot": 2
-        },
-        {
-          "equipmentId": "125",
-          "slot": 3
-        },
-        {
-          "equipmentId": "116",
-          "slot": 4
         }
       ],
       "equippedStatModOld": [],
@@ -10678,11 +10627,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 10,
+      "currentTier": 12,
       "relic": {
         "currentTier": 1
       },
-      "gp": 16854
+      "gp": 18429
     },
     {
       "skill": [
@@ -10719,6 +10668,14 @@
         {
           "equipmentId": "159",
           "slot": 1
+        },
+        {
+          "equipmentId": "158",
+          "slot": 2
+        },
+        {
+          "equipmentId": "170",
+          "slot": 4
         }
       ],
       "equippedStatModOld": [],
@@ -10735,7 +10692,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 24600
+      "gp": 25020
     },
     {
       "skill": [
@@ -11599,6 +11556,10 @@
         {
           "equipmentId": "160",
           "slot": 2
+        },
+        {
+          "equipmentId": "170",
+          "slot": 4
         }
       ],
       "equippedStatModOld": [],
@@ -12328,7 +12289,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 21604
+      "gp": 21814
     },
     {
       "skill": [
@@ -12584,6 +12545,10 @@
         {
           "equipmentId": "159",
           "slot": 0
+        },
+        {
+          "equipmentId": "165",
+          "slot": 1
         },
         {
           "equipmentId": "164",
@@ -13219,7 +13184,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 20206
+      "gp": 20416
     },
     {
       "skill": [
@@ -13568,28 +13533,7 @@
           "tier": 6
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "084",
-          "slot": 0
-        },
-        {
-          "equipmentId": "091",
-          "slot": 1
-        },
-        {
-          "equipmentId": "113",
-          "slot": 3
-        },
-        {
-          "equipmentId": "121",
-          "slot": 4
-        },
-        {
-          "equipmentId": "116",
-          "slot": 5
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -13600,11 +13544,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 9,
+      "currentTier": 12,
       "relic": {
         "currentTier": 1
       },
-      "gp": 12846
+      "gp": 15238
     },
     {
       "skill": [
@@ -17762,28 +17706,7 @@
           "tier": 1
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "138",
-          "slot": 1
-        },
-        {
-          "equipmentId": "173",
-          "slot": 2
-        },
-        {
-          "equipmentId": "134",
-          "slot": 3
-        },
-        {
-          "equipmentId": "144",
-          "slot": 4
-        },
-        {
-          "equipmentId": "142",
-          "slot": 5
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -17794,11 +17717,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 11,
+      "currentTier": 12,
       "relic": {
         "currentTier": 1
       },
-      "gp": 19380
+      "gp": 19578
     },
     {
       "skill": [
@@ -18594,23 +18517,23 @@
       ],
       "equipment": [
         {
-          "equipmentId": "117",
+          "equipmentId": "144",
           "slot": 0
         },
         {
-          "equipmentId": "071",
-          "slot": 1
-        },
-        {
-          "equipmentId": "096",
+          "equipmentId": "173",
           "slot": 2
         },
         {
-          "equipmentId": "095",
+          "equipmentId": "125",
           "slot": 3
         },
         {
-          "equipmentId": "111",
+          "equipmentId": "173",
+          "slot": 4
+        },
+        {
+          "equipmentId": "144",
           "slot": 5
         }
       ],
@@ -18624,11 +18547,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 9,
+      "currentTier": 10,
       "relic": {
         "currentTier": 1
       },
-      "gp": 18597
+      "gp": 19624
     },
     {
       "skill": [
@@ -25394,6 +25317,10 @@
         {
           "equipmentId": "160",
           "slot": 2
+        },
+        {
+          "equipmentId": "170",
+          "slot": 4
         }
       ],
       "equippedStatModOld": [],
@@ -26143,7 +26070,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 22674
+      "gp": 22884
     },
     {
       "skill": [
@@ -27141,6 +27068,10 @@
       ],
       "equipment": [
         {
+          "equipmentId": "158",
+          "slot": 0
+        },
+        {
           "equipmentId": "164",
           "slot": 1
         },
@@ -27890,7 +27821,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 23503
+      "gp": 23713
     },
     {
       "skill": [
@@ -28007,24 +27938,7 @@
           "tier": 6
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "159",
-          "slot": 0
-        },
-        {
-          "equipmentId": "160",
-          "slot": 2
-        },
-        {
-          "equipmentId": "170",
-          "slot": 3
-        },
-        {
-          "equipmentId": "170",
-          "slot": 4
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -28646,11 +28560,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 12,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 2
       },
-      "gp": 17436
+      "gp": 17856
     },
     {
       "skill": [
@@ -29607,6 +29521,10 @@
         {
           "equipmentId": "164",
           "slot": 2
+        },
+        {
+          "equipmentId": "170",
+          "slot": 4
         }
       ],
       "equippedStatModOld": [],
@@ -30346,7 +30264,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 23916
+      "gp": 24126
     },
     {
       "skill": [
@@ -30909,7 +30827,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 82400
+      "gp": 82466
     },
     {
       "skill": [
@@ -33158,7 +33076,7 @@
       "skill": [
         {
           "id": "uniqueskill_MONMOTHMA01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_MONMOTHMA02",
@@ -33174,7 +33092,7 @@
         },
         {
           "id": "leaderskill_MONMOTHMA",
-          "tier": 5
+          "tier": 6
         }
       ],
       "equipment": [
@@ -33209,7 +33127,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 13852
+      "gp": 18664
     },
     {
       "skill": [
@@ -34882,6 +34800,10 @@
       ],
       "equipment": [
         {
+          "equipmentId": "158",
+          "slot": 1
+        },
+        {
           "equipmentId": "163",
           "slot": 2
         },
@@ -35633,7 +35555,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 23202
+      "gp": 23412
     },
     {
       "skill": [
@@ -35651,7 +35573,7 @@
         },
         {
           "id": "uniqueskill_LOGRAY01",
-          "tier": 5
+          "tier": 6
         }
       ],
       "equipment": [
@@ -35674,7 +35596,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 16023
+      "gp": 18429
     },
     {
       "skill": [
@@ -35712,7 +35634,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 53260
+      "gp": 53544
     },
     {
       "skill": [
@@ -36532,7 +36454,7 @@
       "purchasedAbilityId": [],
       "id": "0hcmJbu0SwKh7L5Gn6o_DQ",
       "definitionId": "Kelleran Beq",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -36541,7 +36463,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 10507
+      "gp": 11647
     },
     {
       "skill": [
@@ -37327,7 +37249,12 @@
           "tier": 6
         }
       ],
-      "equipment": [],
+      "equipment": [
+        {
+          "equipmentId": "159",
+          "slot": 1
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -37342,7 +37269,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 18219
+      "gp": 18429
     },
     {
       "skill": [
@@ -37797,19 +37724,21 @@
             },
             {
               "roll": [
-                "0.19681"
+                "0.19681",
+                "0.13555"
               ],
               "unscaledRollValue": [
-                "90532600"
+                "90532600",
+                "62353000"
               ],
               "stat": {
                 "unitStatId": 28,
-                "statValueDecimal": "9050000",
-                "unscaledDecimalValue": "90500000000",
+                "statValueDecimal": "15280000",
+                "unscaledDecimalValue": "152800000000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 1,
+              "statRolls": 2,
               "statRollerBoundsMin": "46000000",
               "statRollerBoundsMax": "92000000"
             },
@@ -37837,7 +37766,7 @@
           "id": "nE6c3DNlTA-Bij7qrJTkFQ",
           "definitionId": "663",
           "level": 15,
-          "tier": 4,
+          "tier": 5,
           "sellValue": {
             "currency": 1,
             "quantity": 221000,
@@ -37945,19 +37874,21 @@
             },
             {
               "roll": [
-                "0.15767"
+                "0.15767",
+                "0.14654"
               ],
               "unscaledRollValue": [
-                "2365"
+                "2365",
+                "2198"
               ],
               "stat": {
                 "unitStatId": 17,
-                "statValueDecimal": "236",
-                "unscaledDecimalValue": "2365000",
+                "statValueDecimal": "456",
+                "unscaledDecimalValue": "4563000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 1,
+              "statRolls": 2,
               "statRollerBoundsMin": "1500",
               "statRollerBoundsMax": "3000"
             }
@@ -37965,7 +37896,7 @@
           "id": "2PI9r8r9SraVeertdxN0HQ",
           "definitionId": "664",
           "level": 15,
-          "tier": 4,
+          "tier": 5,
           "sellValue": {
             "currency": 1,
             "quantity": 221000,
@@ -38072,20 +38003,22 @@
             {
               "roll": [
                 "0.16901",
-                "0.17372"
+                "0.17372",
+                "0.19103"
               ],
               "unscaledRollValue": [
                 "507030",
-                "521160"
+                "521160",
+                "573090"
               ],
               "stat": {
                 "unitStatId": 5,
-                "statValueDecimal": "110000",
-                "unscaledDecimalValue": "1100000000",
+                "statValueDecimal": "170000",
+                "unscaledDecimalValue": "1700000000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 2,
+              "statRolls": 3,
               "statRollerBoundsMin": "300000",
               "statRollerBoundsMax": "600000"
             }
@@ -38093,7 +38026,7 @@
           "id": "5aZaGmp7QpK8zXChBw5DhA",
           "definitionId": "665",
           "level": 15,
-          "tier": 4,
+          "tier": 5,
           "sellValue": {
             "currency": 1,
             "quantity": 221000,
@@ -38200,20 +38133,22 @@
             {
               "roll": [
                 "0.10591",
-                "0.18774"
+                "0.18774",
+                "0.10046"
               ],
               "unscaledRollValue": [
                 "1589",
-                "2816"
+                "2816",
+                "1507"
               ],
               "stat": {
                 "unitStatId": 17,
-                "statValueDecimal": "440",
-                "unscaledDecimalValue": "4405000",
+                "statValueDecimal": "591",
+                "unscaledDecimalValue": "5912000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 2,
+              "statRolls": 3,
               "statRollerBoundsMin": "1500",
               "statRollerBoundsMax": "3000"
             }
@@ -38221,7 +38156,7 @@
           "id": "iPs4ph-xTrSOm95V0NNmeQ",
           "definitionId": "666",
           "level": 15,
-          "tier": 4,
+          "tier": 5,
           "sellValue": {
             "currency": 1,
             "quantity": 221000,
@@ -38268,9 +38203,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 10
+        "currentTier": 11
       },
-      "gp": 35719
+      "gp": 38292
     },
     {
       "skill": [
@@ -41703,7 +41638,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 61696
+      "gp": 62074
     },
     {
       "skill": [
@@ -43207,6 +43142,10 @@
           "slot": 0
         },
         {
+          "equipmentId": "158",
+          "slot": 1
+        },
+        {
           "equipmentId": "159",
           "slot": 2
         }
@@ -43948,13 +43887,13 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 23131
+      "gp": 23341
     },
     {
       "skill": [
         {
           "id": "uniqueskill_YOUNGCHEWBACCA02",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "uniqueskill_YOUNGCHEWBACCA01",
@@ -43989,7 +43928,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 16023
+      "gp": 18429
     },
     {
       "skill": [
@@ -44869,7 +44808,12 @@
           "tier": 6
         }
       ],
-      "equipment": [],
+      "equipment": [
+        {
+          "equipmentId": "162",
+          "slot": 2
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -44884,7 +44828,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 18219
+      "gp": 18429
     },
     {
       "skill": [
@@ -44911,23 +44855,19 @@
       ],
       "equipment": [
         {
-          "equipmentId": "101",
-          "slot": 1
+          "equipmentId": "117",
+          "slot": 0
         },
         {
-          "equipmentId": "099",
-          "slot": 2
-        },
-        {
-          "equipmentId": "112",
+          "equipmentId": "117",
           "slot": 3
         },
         {
-          "equipmentId": "075",
+          "equipmentId": "106",
           "slot": 4
         },
         {
-          "equipmentId": "118",
+          "equipmentId": "111",
           "slot": 5
         }
       ],
@@ -44941,11 +44881,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 8,
+      "currentTier": 9,
       "relic": {
         "currentTier": 1
       },
-      "gp": 12984
+      "gp": 13675
     },
     {
       "skill": [
@@ -44974,6 +44914,10 @@
         {
           "equipmentId": "160",
           "slot": 1
+        },
+        {
+          "equipmentId": "170",
+          "slot": 3
         }
       ],
       "equippedStatModOld": [],
@@ -45707,7 +45651,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 22851
+      "gp": 23061
     },
     {
       "skill": [
@@ -47579,16 +47523,20 @@
       ],
       "equipment": [
         {
-          "equipmentId": "098",
-          "slot": 2
+          "equipmentId": "117",
+          "slot": 0
         },
         {
-          "equipmentId": "072",
-          "slot": 3
+          "equipmentId": "117",
+          "slot": 1
+        },
+        {
+          "equipmentId": "098",
+          "slot": 4
         },
         {
           "equipmentId": "111",
-          "slot": 4
+          "slot": 5
         }
       ],
       "equippedStatModOld": [],
@@ -47601,11 +47549,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 8,
+      "currentTier": 9,
       "relic": {
         "currentTier": 1
       },
-      "gp": 12741
+      "gp": 13675
     },
     {
       "skill": [
@@ -47844,7 +47792,7 @@
         },
         {
           "id": "uniqueskill_ENFYSNEST01",
-          "tier": 5
+          "tier": 6
         }
       ],
       "equipment": [],
@@ -47862,7 +47810,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 15813
+      "gp": 18219
     },
     {
       "skill": [
@@ -48730,8 +48678,20 @@
           "slot": 0
         },
         {
+          "equipmentId": "165",
+          "slot": 1
+        },
+        {
           "equipmentId": "160",
           "slot": 2
+        },
+        {
+          "equipmentId": "168",
+          "slot": 3
+        },
+        {
+          "equipmentId": "169",
+          "slot": 4
         }
       ],
       "equippedStatModOld": [],
@@ -49481,7 +49441,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 20268
+      "gp": 20898
     },
     {
       "skill": [
@@ -49516,6 +49476,10 @@
       ],
       "equipment": [
         {
+          "equipmentId": "159",
+          "slot": 0
+        },
+        {
           "equipmentId": "162",
           "slot": 2
         }
@@ -49534,7 +49498,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 22978
+      "gp": 23188
     },
     {
       "skill": [
@@ -52292,7 +52256,7 @@
         },
         {
           "id": "specialskill_JEDIKNIGHTCAL01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_JEDIKNIGHTCAL03",
@@ -55320,7 +55284,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 59354
+      "gp": 59826
     },
     {
       "skill": [
@@ -55445,7 +55409,28 @@
           "tier": 4
         }
       ],
-      "equipment": [],
+      "equipment": [
+        {
+          "equipmentId": "118",
+          "slot": 0
+        },
+        {
+          "equipmentId": "109",
+          "slot": 2
+        },
+        {
+          "equipmentId": "109",
+          "slot": 3
+        },
+        {
+          "equipmentId": "060",
+          "slot": 4
+        },
+        {
+          "equipmentId": "112",
+          "slot": 5
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -55456,11 +55441,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 7,
+      "currentTier": 8,
       "relic": {
         "currentTier": 1
       },
-      "gp": 7147
+      "gp": 8430
     },
     {
       "skill": [
@@ -55971,7 +55956,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 58102
+      "gp": 58575
     },
     {
       "skill": [
@@ -56821,24 +56806,16 @@
       ],
       "equipment": [
         {
-          "equipmentId": "172",
+          "equipmentId": "158",
+          "slot": 0
+        },
+        {
+          "equipmentId": "159",
           "slot": 1
         },
         {
-          "equipmentId": "105",
+          "equipmentId": "162",
           "slot": 2
-        },
-        {
-          "equipmentId": "109",
-          "slot": 3
-        },
-        {
-          "equipmentId": "106",
-          "slot": 4
-        },
-        {
-          "equipmentId": "117",
-          "slot": 5
         }
       ],
       "equippedStatModOld": [],
@@ -57442,11 +57419,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 9,
+      "currentTier": 12,
       "relic": {
         "currentTier": 1
       },
-      "gp": 20716
+      "gp": 23739
     },
     {
       "skill": [
@@ -60027,7 +60004,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 79088
+      "gp": 84875
     },
     {
       "skill": [
@@ -60832,6 +60809,10 @@
       ],
       "equipment": [
         {
+          "equipmentId": "159",
+          "slot": 1
+        },
+        {
           "equipmentId": "164",
           "slot": 2
         }
@@ -60850,7 +60831,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 18429
+      "gp": 18639
     },
     {
       "skill": [
@@ -60881,6 +60862,14 @@
           "slot": 1
         },
         {
+          "equipmentId": "117",
+          "slot": 2
+        },
+        {
+          "equipmentId": "117",
+          "slot": 3
+        },
+        {
           "equipmentId": "126",
           "slot": 5
         }
@@ -60899,7 +60888,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 12925
+      "gp": 13210
     },
     {
       "skill": [
@@ -60917,6 +60906,10 @@
         }
       ],
       "equipment": [
+        {
+          "equipmentId": "162",
+          "slot": 0
+        },
         {
           "equipmentId": "163",
           "slot": 1
@@ -60936,7 +60929,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 15448
+      "gp": 15658
     },
     {
       "skill": [
@@ -65366,7 +65359,12 @@
           "tier": 6
         }
       ],
-      "equipment": [],
+      "equipment": [
+        {
+          "equipmentId": "162",
+          "slot": 1
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -65381,7 +65379,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 15238
+      "gp": 15448
     },
     {
       "skill": [
@@ -66977,28 +66975,7 @@
           "tier": 6
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "158",
-          "slot": 0
-        },
-        {
-          "equipmentId": "162",
-          "slot": 1
-        },
-        {
-          "equipmentId": "161",
-          "slot": 2
-        },
-        {
-          "equipmentId": "171",
-          "slot": 4
-        },
-        {
-          "equipmentId": "G12Finisher_COUNTDOOKU_B",
-          "slot": 5
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -67740,11 +67717,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 12,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 2
       },
-      "gp": 21658
+      "gp": 21868
     },
     {
       "skill": [
@@ -68559,7 +68536,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 46540
+      "gp": 47485
     },
     {
       "skill": [
@@ -71790,24 +71767,8 @@
       ],
       "equipment": [
         {
-          "equipmentId": "118",
-          "slot": 0
-        },
-        {
-          "equipmentId": "112",
-          "slot": 1
-        },
-        {
-          "equipmentId": "091",
+          "equipmentId": "164",
           "slot": 2
-        },
-        {
-          "equipmentId": "108",
-          "slot": 3
-        },
-        {
-          "equipmentId": "086",
-          "slot": 5
         }
       ],
       "equippedStatModOld": [],
@@ -71820,11 +71781,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 8,
+      "currentTier": 12,
       "relic": {
         "currentTier": 1
       },
-      "gp": 12796
+      "gp": 16233
     },
     {
       "skill": [
@@ -73500,7 +73461,7 @@
         },
         {
           "id": "uniqueskill_HOTHLEIA01",
-          "tier": 5
+          "tier": 6
         }
       ],
       "equipment": [
@@ -73523,7 +73484,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 16023
+      "gp": 18429
     },
     {
       "skill": [
@@ -75383,21 +75344,23 @@
               "roll": [
                 "0.10586",
                 "0.11284",
-                "0.13944"
+                "0.13944",
+                "0.12792"
               ],
               "unscaledRollValue": [
                 "1244",
                 "1326",
-                "1638"
+                "1638",
+                "1503"
               ],
               "stat": {
                 "unitStatId": 53,
-                "statValueDecimal": "420",
-                "unscaledDecimalValue": "4208000",
+                "statValueDecimal": "571",
+                "unscaledDecimalValue": "5711000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 3,
+              "statRolls": 4,
               "statRollerBoundsMin": "1175",
               "statRollerBoundsMax": "2350"
             }
@@ -75405,7 +75368,7 @@
           "id": "KJCWr2sOQsK8w_0eilV_DQ",
           "definitionId": "261",
           "level": 15,
-          "tier": 2,
+          "tier": 3,
           "sellValue": {
             "currency": 1,
             "quantity": 221000,
@@ -75445,19 +75408,21 @@
           "secondaryStat": [
             {
               "roll": [
-                "0.19885"
+                "0.19885",
+                "0.19271"
               ],
               "unscaledRollValue": [
-                "3977"
+                "3977",
+                "3854"
               ],
               "stat": {
                 "unitStatId": 49,
-                "statValueDecimal": "397",
-                "unscaledDecimalValue": "3977000",
+                "statValueDecimal": "783",
+                "unscaledDecimalValue": "7831000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 1,
+              "statRolls": 2,
               "statRollerBoundsMin": "2000",
               "statRollerBoundsMax": "4000"
             },
@@ -75529,7 +75494,7 @@
           "id": "rD8TgWLkTACgZAKYVpfoYQ",
           "definitionId": "562",
           "level": 15,
-          "tier": 2,
+          "tier": 3,
           "sellValue": {
             "currency": 1,
             "quantity": 221000,
@@ -75735,21 +75700,23 @@
               "roll": [
                 "0.16748",
                 "0.19724",
-                "0.17320"
+                "0.17320",
+                "0.13633"
               ],
               "unscaledRollValue": [
                 "3350",
                 "3945",
-                "3464"
+                "3464",
+                "2727"
               ],
               "stat": {
                 "unitStatId": 49,
-                "statValueDecimal": "1075",
-                "unscaledDecimalValue": "10758000",
+                "statValueDecimal": "1348",
+                "unscaledDecimalValue": "13485000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 3,
+              "statRolls": 4,
               "statRollerBoundsMin": "2000",
               "statRollerBoundsMax": "4000"
             },
@@ -75777,7 +75744,7 @@
           "id": "IedX_ZEFR8uFs2mDCpu-oQ",
           "definitionId": "264",
           "level": 15,
-          "tier": 2,
+          "tier": 3,
           "sellValue": {
             "currency": 1,
             "quantity": 221000,
@@ -76074,7 +76041,7 @@
       "relic": {
         "currentTier": 7
       },
-      "gp": 26031
+      "gp": 26080
     },
     {
       "skill": [
@@ -78881,7 +78848,28 @@
           "tier": 4
         }
       ],
-      "equipment": [],
+      "equipment": [
+        {
+          "equipmentId": "096",
+          "slot": 1
+        },
+        {
+          "equipmentId": "089",
+          "slot": 2
+        },
+        {
+          "equipmentId": "083",
+          "slot": 3
+        },
+        {
+          "equipmentId": "105",
+          "slot": 4
+        },
+        {
+          "equipmentId": "072",
+          "slot": 5
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -78896,7 +78884,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 7147
+      "gp": 7710
     },
     {
       "skill": [
@@ -78923,12 +78911,20 @@
       ],
       "equipment": [
         {
+          "equipmentId": "159",
+          "slot": 0
+        },
+        {
           "equipmentId": "160",
           "slot": 1
         },
         {
           "equipmentId": "164",
           "slot": 2
+        },
+        {
+          "equipmentId": "170",
+          "slot": 4
         }
       ],
       "equippedStatModOld": [],
@@ -78945,7 +78941,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 21619
+      "gp": 22039
     },
     {
       "skill": [
@@ -79825,7 +79821,7 @@
         },
         {
           "id": "specialskill_GAUNTLETSTARFIGHTER02",
-          "tier": 2
+          "tier": 6
         }
       ],
       "equipment": [],
@@ -79841,7 +79837,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 41117
+      "gp": 46378
     },
     {
       "skill": [
@@ -80259,24 +80255,8 @@
       ],
       "equipment": [
         {
-          "equipmentId": "121",
-          "slot": 0
-        },
-        {
-          "equipmentId": "116",
-          "slot": 1
-        },
-        {
-          "equipmentId": "093",
-          "slot": 3
-        },
-        {
-          "equipmentId": "103",
-          "slot": 4
-        },
-        {
-          "equipmentId": "088",
-          "slot": 5
+          "equipmentId": "161",
+          "slot": 2
         }
       ],
       "equippedStatModOld": [],
@@ -80289,11 +80269,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 9,
+      "currentTier": 12,
       "relic": {
         "currentTier": 1
       },
-      "gp": 12846
+      "gp": 15448
     },
     {
       "skill": [
@@ -84451,7 +84431,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 42067
+      "gp": 42540
     },
     {
       "skill": [
@@ -84637,6 +84617,14 @@
         {
           "equipmentId": "160",
           "slot": 1
+        },
+        {
+          "equipmentId": "167",
+          "slot": 3
+        },
+        {
+          "equipmentId": "171",
+          "slot": 4
         }
       ],
       "equippedStatModOld": [],
@@ -85138,7 +85126,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 23442
+      "gp": 23862
     },
     {
       "skill": [
@@ -86067,6 +86055,14 @@
           "slot": 1
         },
         {
+          "equipmentId": "117",
+          "slot": 2
+        },
+        {
+          "equipmentId": "108",
+          "slot": 3
+        },
+        {
           "equipmentId": "111",
           "slot": 5
         }
@@ -86085,7 +86081,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 12925
+      "gp": 13210
     },
     {
       "skill": [
@@ -89147,11 +89143,11 @@
         },
         {
           "id": "uniqueskill_SHAAKTI01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "leaderskill_SHAAKTI",
-          "tier": 5
+          "tier": 6
         }
       ],
       "equipment": [
@@ -89186,7 +89182,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 13852
+      "gp": 18664
     },
     {
       "skill": [
@@ -89297,13 +89293,13 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3217300",
+      "value": "3238483",
       "index": 3
     },
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "994",
+      "value": "996",
       "index": 5
     },
     {
@@ -89327,7 +89323,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "30289",
+      "value": "30349",
       "index": 9
     },
     {
@@ -89339,7 +89335,7 @@
     {
       "nameKey": "STAT_GUILD_RAID_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1006",
+      "value": "1007",
       "index": 10
     },
     {
@@ -89351,13 +89347,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4601546",
+      "value": "4658975",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "122994",
+      "value": "123211",
       "index": 8
     },
     {
@@ -89369,7 +89365,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1788965",
+      "value": "1789542",
       "index": 11
     },
     {
@@ -89393,13 +89389,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7818846",
+      "value": "7897458",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "211504",
+      "value": "211861",
       "index": 7
     },
     {
@@ -89496,7 +89492,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1718254892000",
+        "lastSaveTime": "1718689782000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -89553,7 +89549,7 @@
     },
     {
       "tab": 2,
-      "rank": 11,
+      "rank": 14,
       "squad": {
         "cell": [
           {
@@ -89971,19 +89967,6 @@
   ],
   "seasonStatus": [
     {
-      "seasonId": "4zone_3v3_ga2_c3s1_51a",
-      "eventInstanceId": "GA2_SEASON_51A:O1711400400000",
-      "league": "CHROMIUM",
-      "wins": 0,
-      "losses": 0,
-      "seasonPoints": 4696,
-      "division": 15,
-      "joinTime": "1711403721000",
-      "endTime": "1713733200000",
-      "remove": false,
-      "rank": 7837
-    },
-    {
       "seasonId": "4zone_5v5_ga2_c3s1_52a",
       "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
       "league": "CHROMIUM",
@@ -90008,6 +89991,19 @@
       "endTime": "1718571600000",
       "remove": false,
       "rank": 3887
+    },
+    {
+      "seasonId": "4zone_5v5_ga2_c3s1_54a",
+      "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+      "league": "CHROMIUM",
+      "wins": 0,
+      "losses": 0,
+      "seasonPoints": 0,
+      "division": 20,
+      "joinTime": "1718668747000",
+      "endTime": "1720990800000",
+      "remove": false,
+      "rank": 11922
     }
   ],
   "datacron": [
@@ -90080,14 +90076,14 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1718330553000",
+  "lastActivityTime": "1718721899000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
   "lifetimeSeasonScore": "349166",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 2561
+      "skillRating": 2560
     },
     "playerRankStatus": {
       "leagueId": "CHROMIUM",
