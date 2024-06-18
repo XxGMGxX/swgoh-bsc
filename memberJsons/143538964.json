@@ -29012,15 +29012,15 @@
       "id": "isQe9wnMQyyeL7r2kaol8w",
       "definitionId": "Stormtrooper",
       "currentRarity": 7,
-      "currentLevel": 80,
-      "currentXp": 653025,
+      "currentLevel": 85,
+      "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 9,
       "relic": {
         "currentTier": 1
       },
-      "gp": 11880
+      "gp": 12322
     },
     {
       "skill": [
@@ -93347,7 +93347,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2823432",
+      "value": "2823874",
       "index": 2
     },
     {
@@ -93389,7 +93389,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4984030",
+      "value": "4984472",
       "index": 1
     },
     {
@@ -93951,7 +93951,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 13169
+      "rank": 13179
     }
   ],
   "datacron": [
@@ -94636,7 +94636,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1718746852000",
+  "lastActivityTime": "1718747504000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
