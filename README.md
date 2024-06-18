@@ -1,8 +1,8 @@
 SWGoH Guild Data - GiD - Bleeps, Sweeps and Creeps
+
 This repository stores JSON files containing data for the guild "GiD - Bleeps, Sweeps and Creeps" in the game Star Wars: Galaxy of Heroes (SWGoH).
 
 Purpose:
-
 These JSON files are intended for analysis by guild members to track progress, identify areas for improvement, and make informed decisions.
 
 File Structure:
