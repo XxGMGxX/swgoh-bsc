@@ -62708,19 +62708,21 @@
           "secondaryStat": [
             {
               "roll": [
-                "0.11004"
+                "0.11004",
+                "0.13406"
               ],
               "unscaledRollValue": [
-                "1100"
+                "1100",
+                "1341"
               ],
               "stat": {
                 "unitStatId": 55,
-                "statValueDecimal": "110",
-                "unscaledDecimalValue": "1100000",
+                "statValueDecimal": "244",
+                "unscaledDecimalValue": "2441000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 1,
+              "statRolls": 2,
               "statRollerBoundsMin": "1000",
               "statRollerBoundsMax": "2000"
             },
@@ -62794,7 +62796,7 @@
           "id": "itlhihM6RbqAN6rVxM_Ngg",
           "definitionId": "665",
           "level": 15,
-          "tier": 3,
+          "tier": 4,
           "sellValue": {
             "currency": 1,
             "quantity": 221000,
@@ -62965,7 +62967,7 @@
       "relic": {
         "currentTier": 9
       },
-      "gp": 32793
+      "gp": 32809
     },
     {
       "skill": [
@@ -139794,7 +139796,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1718777766000",
+  "lastActivityTime": "1718778699000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_OURIDENTITY"
   },
