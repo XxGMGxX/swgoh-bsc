@@ -466,8 +466,8 @@
           },
           {
             "type": 2,
-            "currentValue": "328",
-            "lifetimeValue": "430188"
+            "currentValue": "340",
+            "lifetimeValue": "430200"
           },
           {
             "type": 1,
@@ -521,7 +521,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1718804487000",
+        "lastActivityTime": "1718804947000",
         "squadPower": 175250,
         "guildJoinTime": "1652378145",
         "galacticPower": "8118993",
@@ -2041,7 +2041,7 @@
         "playerLevel": 85,
         "memberLevel": 3,
         "guildXp": 0,
-        "lastActivityTime": "1718804448000",
+        "lastActivityTime": "1718805051000",
         "squadPower": 177275,
         "guildJoinTime": "1652444079",
         "galacticPower": "8321475",
@@ -3181,16 +3181,16 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1718804495000",
+        "lastActivityTime": "1718804718000",
         "squadPower": 185083,
         "guildJoinTime": "1691032532",
-        "galacticPower": "8769301",
+        "galacticPower": "8769798",
         "playerTitle": "PLAYERTITLE_DARKLORD",
         "playerPortrait": "PLAYERPORTRAIT_DARTHREVAN",
         "lifetimeSeasonScore": "209909",
         "leagueId": "AURODIUM",
         "shipGalacticPower": "3765294",
-        "characterGalacticPower": "5004007",
+        "characterGalacticPower": "5004504",
         "nucleusId": "1015027358556"
       },
       {
@@ -3333,7 +3333,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1718800709000",
+        "lastActivityTime": "1718805108000",
         "squadPower": 174155,
         "guildJoinTime": "1704054010",
         "galacticPower": "7051357",
@@ -3658,8 +3658,8 @@
           },
           {
             "type": 2,
-            "currentValue": "170",
-            "lifetimeValue": "23344"
+            "currentValue": "600",
+            "lifetimeValue": "23774"
           },
           {
             "type": 1,
@@ -3713,7 +3713,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1718804456000",
+        "lastActivityTime": "1718805081000",
         "squadPower": 154897,
         "guildJoinTime": "1715387579",
         "galacticPower": "4984472",
@@ -5168,10 +5168,10 @@
       "leaderboardScore": "0",
       "bannerColorId": "red_white",
       "bannerLogoId": "guild_icon_Rebel",
-      "guildGalacticPower": "363858128",
+      "guildGalacticPower": "363858625",
       "chatChannelId": "guild-{8qYzrHcISr-VJgiyDdMldw}",
       "guildType": "",
-      "guildGalacticPowerForRequirement": "363858128",
+      "guildGalacticPowerForRequirement": "363858625",
       "singleLaunchConfig": {
         "raidId": "speederbike",
         "campaignMissionIdentifier": {
