@@ -145948,7 +145948,7 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "496",
+      "value": "497",
       "index": 5
     },
     {
@@ -145972,7 +145972,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "17860",
+      "value": "17872",
       "index": 9
     },
     {
@@ -146002,7 +146002,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53455",
+      "value": "53475",
       "index": 8
     },
     {
@@ -146044,7 +146044,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "157031",
+      "value": "157082",
       "index": 7
     },
     {
@@ -146093,13 +146093,55 @@
             "selectable": true,
             "overkillItem": false,
             "inheritFromDefinitionId": ""
+          },
+          {
+            "crewBattleStat": [],
+            "unitId": "lKEFVABFTReA4ivlrlzlpQ",
+            "unitDefId": "JEDIMASTERKENOBI:SEVEN_STAR",
+            "cellIndex": 2,
+            "unitBattleStat": null,
+            "messageReticle": "",
+            "progressItem": true,
+            "squadUnitType": 1,
+            "unitState": null,
+            "selectable": true,
+            "overkillItem": false,
+            "inheritFromDefinitionId": ""
+          },
+          {
+            "crewBattleStat": [],
+            "unitId": "M6CYpEGBRXqpIM3HKkhPYA",
+            "unitDefId": "DARTHREVAN:SEVEN_STAR",
+            "cellIndex": 3,
+            "unitBattleStat": null,
+            "messageReticle": "",
+            "progressItem": true,
+            "squadUnitType": 1,
+            "unitState": null,
+            "selectable": true,
+            "overkillItem": false,
+            "inheritFromDefinitionId": ""
+          },
+          {
+            "crewBattleStat": [],
+            "unitId": "sEV2XppfRhq1grpnq21dyw",
+            "unitDefId": "GENERALSKYWALKER:SEVEN_STAR",
+            "cellIndex": 4,
+            "unitBattleStat": null,
+            "messageReticle": "",
+            "progressItem": true,
+            "squadUnitType": 1,
+            "unitState": null,
+            "selectable": true,
+            "overkillItem": false,
+            "inheritFromDefinitionId": ""
           }
         ],
         "targetingTactic": 1,
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1718754616000",
+        "lastSaveTime": "1718808049000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -146212,7 +146254,7 @@
     },
     {
       "tab": 2,
-      "rank": 13,
+      "rank": 8,
       "squad": {
         "cell": [
           {
@@ -147183,7 +147225,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1718755790000",
+  "lastActivityTime": "1718808089000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL_GRIEVOUS"
   },
