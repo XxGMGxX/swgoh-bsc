@@ -145339,7 +145339,7 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "2166",
+      "value": "2167",
       "index": 5
     },
     {
@@ -145612,7 +145612,7 @@
     },
     {
       "tab": 2,
-      "rank": 2,
+      "rank": 1,
       "squad": {
         "cell": [
           {
@@ -146833,7 +146833,7 @@
   "selectedPlayerTitle": null,
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -60,
-  "lastActivityTime": "1718819757000",
+  "lastActivityTime": "1718827309000",
   "selectedPlayerPortrait": null,
   "lifetimeSeasonScore": "99683",
   "playerRating": {
