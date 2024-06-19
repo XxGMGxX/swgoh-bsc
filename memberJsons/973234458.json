@@ -145966,7 +145966,7 @@
     {
       "nameKey": "STAT_SEASON_FULL_CLEAR_ROUND_WINS_NAME",
       "versionKey": "NULL",
-      "value": "90",
+      "value": "91",
       "index": 17
     },
     {
@@ -146026,7 +146026,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "370323",
+      "value": "370925",
       "index": 16
     },
     {
@@ -146050,13 +146050,13 @@
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "2069",
+      "value": "2072",
       "index": 14
     },
     {
       "nameKey": "STAT_SEASON_TERRITORIES_DEFEATED_NAME",
       "versionKey": "NULL",
-      "value": "867",
+      "value": "869",
       "index": 19
     }
   ],
@@ -146755,7 +146755,7 @@
       "league": "AURODIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 918,
+      "seasonPoints": 1520,
       "division": 25,
       "joinTime": "1718669884000",
       "endTime": "1720990800000",
@@ -147183,7 +147183,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1718834427000",
+  "lastActivityTime": "1718835064000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL_GRIEVOUS"
   },

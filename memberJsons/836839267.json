@@ -145345,7 +145345,7 @@
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1417",
+      "value": "1418",
       "index": 6
     },
     {
@@ -145381,7 +145381,7 @@
     {
       "nameKey": "STAT_SEASON_UNDERSIZED_SQUAD_WINS_NAME",
       "versionKey": "NULL",
-      "value": "836",
+      "value": "837",
       "index": 18
     },
     {
@@ -145393,7 +145393,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "60243",
+      "value": "60251",
       "index": 8
     },
     {
@@ -145405,7 +145405,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1199436",
+      "value": "1201061",
       "index": 11
     },
     {
@@ -145417,7 +145417,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "243437",
+      "value": "243515",
       "index": 16
     },
     {
@@ -145435,13 +145435,13 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "164325",
+      "value": "164333",
       "index": 7
     },
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "1718",
+      "value": "1719",
       "index": 14
     },
     {
@@ -145454,7 +145454,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 84,
+      "rank": 71,
       "squad": {
         "cell": [
           {
@@ -146196,7 +146196,7 @@
       "league": "KYBER",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 0,
+      "seasonPoints": 78,
       "division": 20,
       "joinTime": "1718658394000",
       "endTime": "1720990800000",
@@ -146833,7 +146833,7 @@
   "selectedPlayerTitle": null,
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -60,
-  "lastActivityTime": "1718834503000",
+  "lastActivityTime": "1718834967000",
   "selectedPlayerPortrait": null,
   "lifetimeSeasonScore": "99683",
   "playerRating": {
