@@ -56212,7 +56212,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "149664",
+      "value": "149666",
       "index": 7
     },
     {
@@ -56776,7 +56776,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1718811687000",
+  "lastActivityTime": "1718812291000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDI_GENERAL"
   },
