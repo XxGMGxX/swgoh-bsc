@@ -25515,12 +25515,16 @@
       ],
       "equipment": [
         {
-          "equipmentId": "144",
-          "slot": 0
+          "equipmentId": "138",
+          "slot": 1
         },
         {
-          "equipmentId": "109",
-          "slot": 1
+          "equipmentId": "144",
+          "slot": 4
+        },
+        {
+          "equipmentId": "142",
+          "slot": 5
         }
       ],
       "equippedStatModOld": [],
@@ -25533,11 +25537,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 10,
+      "currentTier": 11,
       "relic": {
         "currentTier": 1
       },
-      "gp": 15276
+      "gp": 16578
     },
     {
       "skill": [
@@ -141422,7 +141426,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5004504",
+      "value": "5005806",
       "index": 2
     },
     {
@@ -141464,7 +141468,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8769798",
+      "value": "8771100",
       "index": 1
     },
     {
@@ -142544,7 +142548,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1718804718000",
+  "lastActivityTime": "1718805441000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
