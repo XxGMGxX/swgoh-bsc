@@ -143363,7 +143363,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "9571",
+      "value": "9583",
       "index": 9
     },
     {
@@ -143435,7 +143435,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "155129",
+      "value": "155140",
       "index": 7
     },
     {
@@ -143979,7 +143979,7 @@
       "joinTime": "1718684290000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 16129
+      "rank": 16137
     }
   ],
   "datacron": [
@@ -144031,7 +144031,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -480,
-  "lastActivityTime": "1718776512000",
+  "lastActivityTime": "1718811093000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SCOUTTROOPER"
   },
