@@ -73475,7 +73475,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "26498",
+      "value": "26513",
       "index": 8
     },
     {
@@ -73517,7 +73517,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "82271",
+      "value": "82297",
       "index": 7
     },
     {
@@ -74424,7 +74424,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1718813462000",
+  "lastActivityTime": "1718814044000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDIKNIGHTLUKE"
   },
