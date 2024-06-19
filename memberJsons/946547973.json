@@ -2346,14 +2346,14 @@
       "purchasedAbilityId": [],
       "id": "DC4B5VTyQBq4XB6SXhyMMQ",
       "definitionId": "TIE Echelon",
-      "currentRarity": 4,
+      "currentRarity": 5,
       "currentLevel": 85,
       "currentXp": 873200,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 43911
+      "gp": 47275
     },
     {
       "skill": [
@@ -141328,7 +141328,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2860443",
+      "value": "2863807",
       "index": 3
     },
     {
@@ -141358,7 +141358,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "8548",
+      "value": "8560",
       "index": 9
     },
     {
@@ -141388,7 +141388,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "28240",
+      "value": "28247",
       "index": 8
     },
     {
@@ -141424,13 +141424,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7047993",
+      "value": "7051357",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "99660",
+      "value": "99721",
       "index": 7
     },
     {
@@ -142092,7 +142092,7 @@
       "joinTime": "1718670216000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 9351
+      "rank": 9352
     }
   ],
   "datacron": [
@@ -142199,7 +142199,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 420,
-  "lastActivityTime": "1718775650000",
+  "lastActivityTime": "1718786860000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_CHEWBACCA"
   },
