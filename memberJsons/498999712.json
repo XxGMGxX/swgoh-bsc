@@ -108157,7 +108157,7 @@
       "joinTime": "1718660515000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 8893
+      "rank": 8894
     }
   ],
   "datacron": [
@@ -108349,7 +108349,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1718762493000",
+  "lastActivityTime": "1718763072000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
