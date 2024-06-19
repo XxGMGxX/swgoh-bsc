@@ -49888,11 +49888,11 @@
         },
         {
           "id": "leaderskill_MONMOTHMA",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "uniqueskill_MONMOTHMA01",
-          "tier": 5
+          "tier": 6
         }
       ],
       "equipment": [],
@@ -50643,7 +50643,7 @@
       "relic": {
         "currentTier": 7
       },
-      "gp": 23920
+      "gp": 28732
     },
     {
       "skill": [
@@ -137622,7 +137622,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4809498",
+      "value": "4814310",
       "index": 2
     },
     {
@@ -137664,7 +137664,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8262341",
+      "value": "8267153",
       "index": 1
     },
     {
@@ -139794,7 +139794,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1718766679000",
+  "lastActivityTime": "1718767262000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_OURIDENTITY"
   },
