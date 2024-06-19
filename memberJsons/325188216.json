@@ -73427,7 +73427,7 @@
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "473",
+      "value": "474",
       "index": 6
     },
     {
@@ -73445,7 +73445,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "8686",
+      "value": "8698",
       "index": 9
     },
     {
@@ -73517,7 +73517,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "82297",
+      "value": "82305",
       "index": 7
     },
     {
@@ -73536,7 +73536,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 215,
+      "rank": 185,
       "squad": {
         "cell": [
           {
@@ -73614,7 +73614,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1718475716000",
+        "lastSaveTime": "1718814409000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -74424,7 +74424,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1718814044000",
+  "lastActivityTime": "1718814698000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDIKNIGHTLUKE"
   },

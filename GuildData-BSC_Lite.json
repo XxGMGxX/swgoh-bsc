@@ -2,8 +2,8 @@
   "profile": {
     "id": "8qYzrHcISr-VJgiyDdMldw",
     "name": "GiD Bleeps Sweeps & Creeps",
-    "memberCount": 49,
-    "guildGalacticPower": "363877754"
+    "memberCount": 50,
+    "guildGalacticPower": "363877778"
   },
   "member": [
     {
@@ -322,9 +322,9 @@
       "playerId": "uWF4ZjawRF6OJ7lyRQx7XQ",
       "playerName": "TR8R",
       "playerLevel": 85,
-      "galacticPower": "9529803",
+      "galacticPower": "9529827",
       "shipGalacticPower": "3868680",
-      "characterGalacticPower": "5661123"
+      "characterGalacticPower": "5661147"
     },
     {
       "playerId": "Tc5abeUfS_i43fhqAp-O5Q",
@@ -397,6 +397,14 @@
       "galacticPower": "4984472",
       "shipGalacticPower": "2160598",
       "characterGalacticPower": "2823874"
+    },
+    {
+      "playerId": "TjCix1wLRW-hoK3y_F3iCA",
+      "playerName": "Secret Squirrel",
+      "playerLevel": 85,
+      "galacticPower": "7242851",
+      "shipGalacticPower": "2743880",
+      "characterGalacticPower": "4498971"
     }
   ]
 }
