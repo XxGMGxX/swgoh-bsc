@@ -293,7 +293,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1718798351000",
+        "lastActivityTime": "1718801802000",
         "squadPower": 178071,
         "guildJoinTime": "1652378140",
         "galacticPower": "4915382",
@@ -1763,8 +1763,8 @@
           },
           {
             "type": 2,
-            "currentValue": "256",
-            "lifetimeValue": "393034"
+            "currentValue": "600",
+            "lifetimeValue": "393378"
           }
         ],
         "seasonStatus": [
@@ -1813,16 +1813,16 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1718801216000",
+        "lastActivityTime": "1718802066000",
         "squadPower": 149919,
         "guildJoinTime": "1652406414",
-        "galacticPower": "5827778",
+        "galacticPower": "5828327",
         "playerTitle": "PLAYERTITLE_GRANDARENA_CHALLENGE_HANSOLO",
         "playerPortrait": "PLAYERPORTRAIT_MILLENNIUMFALCONLEGENDARY",
         "lifetimeSeasonScore": "8588",
         "leagueId": "CHROMIUM",
         "shipGalacticPower": "2518191",
-        "characterGalacticPower": "3309587",
+        "characterGalacticPower": "3310136",
         "nucleusId": "1010704601041"
       },
       {
@@ -1991,8 +1991,8 @@
           },
           {
             "type": 2,
-            "currentValue": "0",
-            "lifetimeValue": "444638"
+            "currentValue": "104",
+            "lifetimeValue": "444742"
           }
         ],
         "seasonStatus": [
@@ -2041,7 +2041,7 @@
         "playerLevel": 85,
         "memberLevel": 3,
         "guildXp": 0,
-        "lastActivityTime": "1718801401000",
+        "lastActivityTime": "1718802062000",
         "squadPower": 177275,
         "guildJoinTime": "1652444079",
         "galacticPower": "8321475",
@@ -2725,7 +2725,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1718801484000",
+        "lastActivityTime": "1718801647000",
         "squadPower": 171068,
         "guildJoinTime": "1668472151",
         "galacticPower": "7584129",
@@ -3713,7 +3713,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1718801491000",
+        "lastActivityTime": "1718802096000",
         "squadPower": 154897,
         "guildJoinTime": "1715387579",
         "galacticPower": "4984472",
