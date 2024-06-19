@@ -108157,7 +108157,7 @@
       "joinTime": "1718660515000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 8882
+      "rank": 8885
     }
   ],
   "datacron": [
@@ -108322,6 +108322,17 @@
       "locked": false,
       "rerollIndex": 0,
       "rerollCount": 0
+    },
+    {
+      "tag": [],
+      "affix": [],
+      "rerollOption": [],
+      "id": "NpsJxFzeTYudazPFghzVSw",
+      "setId": 15,
+      "templateId": "datacron_set_15_base",
+      "locked": false,
+      "rerollIndex": 0,
+      "rerollCount": 0
     }
   ],
   "name": "Invisable gamer",
@@ -108338,7 +108349,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1718758250000",
+  "lastActivityTime": "1718758398000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
