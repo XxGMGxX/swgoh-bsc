@@ -97296,6 +97296,10 @@
           "slot": 2
         },
         {
+          "equipmentId": "139",
+          "slot": 4
+        },
+        {
           "equipmentId": "141",
           "slot": 5
         }
@@ -98033,7 +98037,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 16308
+      "gp": 16506
     },
     {
       "skill": [
@@ -133366,7 +133370,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 44002
+      "gp": 44448
     },
     {
       "skill": [
@@ -142033,7 +142037,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3326908",
+      "value": "3327354",
       "index": 3
     },
     {
@@ -142087,13 +142091,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4336291",
+      "value": "4336489",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53537",
+      "value": "53542",
       "index": 8
     },
     {
@@ -142105,7 +142109,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1470056",
+      "value": "1471681",
       "index": 11
     },
     {
@@ -142129,13 +142133,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7663199",
+      "value": "7663843",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "161146",
+      "value": "161151",
       "index": 7
     },
     {
@@ -144891,7 +144895,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1718815704000",
+  "lastActivityTime": "1718820576000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
