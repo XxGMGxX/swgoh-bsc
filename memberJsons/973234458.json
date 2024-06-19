@@ -15849,7 +15849,7 @@
         },
         {
           "id": "specialskill_KYLOREN02",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_KYLOREN01",
@@ -16592,7 +16592,7 @@
       "relic": {
         "currentTier": 7
       },
-      "gp": 23067
+      "gp": 25473
     },
     {
       "skill": [
@@ -110813,7 +110813,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 55267
+      "gp": 57072
     },
     {
       "skill": [
@@ -145942,7 +145942,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3354863",
+      "value": "3356668",
       "index": 3
     },
     {
@@ -145996,13 +145996,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4604163",
+      "value": "4606569",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53452",
+      "value": "53455",
       "index": 8
     },
     {
@@ -146038,13 +146038,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7959026",
+      "value": "7963237",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "157020",
+      "value": "157031",
       "index": 7
     },
     {
@@ -146063,7 +146063,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 126,
+      "rank": 140,
       "squad": {
         "cell": [
           {
@@ -147183,7 +147183,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1718755261000",
+  "lastActivityTime": "1718755790000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL_GRIEVOUS"
   },
