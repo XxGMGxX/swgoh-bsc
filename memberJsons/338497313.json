@@ -15068,9 +15068,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 3
+        "currentTier": 4
       },
-      "gp": 21946
+      "gp": 22782
     },
     {
       "skill": [
@@ -23403,7 +23403,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "10488",
+      "value": "10500",
       "index": 9
     },
     {
@@ -23427,13 +23427,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3141884",
+      "value": "3142720",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "22371",
+      "value": "22381",
       "index": 8
     },
     {
@@ -23469,13 +23469,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4914546",
+      "value": "4915382",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "108952",
+      "value": "108977",
       "index": 7
     },
     {
@@ -23613,8 +23613,8 @@
           },
           {
             "crewBattleStat": [],
-            "unitId": "SW-kqG-ESaifOWjenWBbCQ",
-            "unitDefId": "UMBARANSTARFIGHTER:SEVEN_STAR",
+            "unitId": "lZr3146zTKy6n7RI_L1bEA",
+            "unitDefId": "JEDISTARFIGHTERAHSOKATANO:SEVEN_STAR",
             "cellIndex": 2,
             "unitBattleStat": null,
             "messageReticle": "",
@@ -23655,8 +23655,8 @@
           },
           {
             "crewBattleStat": [],
-            "unitId": "nQX47Z2KRyS4-qwz2FH7ug",
-            "unitDefId": "JEDISTARFIGHTERANAKIN:SEVEN_STAR",
+            "unitId": "SW-kqG-ESaifOWjenWBbCQ",
+            "unitDefId": "UMBARANSTARFIGHTER:SEVEN_STAR",
             "cellIndex": 5,
             "unitBattleStat": null,
             "messageReticle": "",
@@ -23683,8 +23683,8 @@
           },
           {
             "crewBattleStat": [],
-            "unitId": "lZr3146zTKy6n7RI_L1bEA",
-            "unitDefId": "JEDISTARFIGHTERAHSOKATANO:SEVEN_STAR",
+            "unitId": "nQX47Z2KRyS4-qwz2FH7ug",
+            "unitDefId": "JEDISTARFIGHTERANAKIN:SEVEN_STAR",
             "cellIndex": 7,
             "unitBattleStat": null,
             "messageReticle": "",
@@ -23700,7 +23700,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1718549775000",
+        "lastSaveTime": "1718795100000",
         "supportInheritFromDefinitionId": "",
         "datacron": null
       },
@@ -24201,7 +24201,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1718794887000",
+  "lastActivityTime": "1718795500000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MANDALORIAN"
   },
