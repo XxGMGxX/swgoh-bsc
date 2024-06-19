@@ -17748,24 +17748,16 @@
       ],
       "equipment": [
         {
-          "equipmentId": "129",
+          "equipmentId": "158",
           "slot": 0
         },
         {
-          "equipmentId": "142",
+          "equipmentId": "159",
           "slot": 1
         },
         {
-          "equipmentId": "146",
+          "equipmentId": "163",
           "slot": 2
-        },
-        {
-          "equipmentId": "144",
-          "slot": 3
-        },
-        {
-          "equipmentId": "149",
-          "slot": 4
         }
       ],
       "equippedStatModOld": [],
@@ -18013,11 +18005,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 11,
+      "currentTier": 12,
       "relic": {
         "currentTier": 1
       },
-      "gp": 19687
+      "gp": 20515
     },
     {
       "skill": [
@@ -141883,7 +141875,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4170359",
+      "value": "4171187",
       "index": 2
     },
     {
@@ -141925,13 +141917,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6619340",
+      "value": "6620168",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "170583",
+      "value": "170609",
       "index": 7
     },
     {
@@ -142036,7 +142028,7 @@
     },
     {
       "tab": 2,
-      "rank": 20,
+      "rank": 27,
       "squad": {
         "cell": [
           {
@@ -142545,7 +142537,7 @@
       "joinTime": "1718662260000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 25446
+      "rank": 25447
     }
   ],
   "datacron": [
@@ -142718,7 +142710,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 120,
-  "lastActivityTime": "1718771942000",
+  "lastActivityTime": "1718798387000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GIFT_02"
   },
