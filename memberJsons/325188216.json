@@ -73475,7 +73475,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "26513",
+      "value": "26523",
       "index": 8
     },
     {
@@ -73517,7 +73517,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "82305",
+      "value": "82317",
       "index": 7
     },
     {
@@ -73732,8 +73732,8 @@
         "cell": [
           {
             "crewBattleStat": [],
-            "unitId": "VlcbI7OHS1iurLzQ7IhRlg",
-            "unitDefId": "CAPITALNEGOTIATOR:SEVEN_STAR",
+            "unitId": "q4RnOVuaQceNMNP2N6jMAw",
+            "unitDefId": "CAPITALEXECUTOR:FOUR_STAR",
             "cellIndex": 0,
             "unitBattleStat": null,
             "messageReticle": "",
@@ -73746,8 +73746,8 @@
           },
           {
             "crewBattleStat": [],
-            "unitId": "628ZYTVvRryFxWB1WQ8aAA",
-            "unitDefId": "JEDISTARFIGHTERANAKIN:SEVEN_STAR",
+            "unitId": "PUNLMhpGR_m1L_jPsRGtOw",
+            "unitDefId": "RAZORCREST:SEVEN_STAR",
             "cellIndex": 1,
             "unitBattleStat": null,
             "messageReticle": "",
@@ -73760,8 +73760,8 @@
           },
           {
             "crewBattleStat": [],
-            "unitId": "VXP87LosQzyPD72pyoURBw",
-            "unitDefId": "MARAUDER:SEVEN_STAR",
+            "unitId": "MTObLv_uT4iNiulj5e88-Q",
+            "unitDefId": "HOUNDSTOOTH:SEVEN_STAR",
             "cellIndex": 2,
             "unitBattleStat": null,
             "messageReticle": "",
@@ -73774,8 +73774,8 @@
           },
           {
             "crewBattleStat": [],
-            "unitId": "J7q_Fd-lRD6fezjikr9llg",
-            "unitDefId": "YWINGCLONEWARS:SEVEN_STAR",
+            "unitId": "ehZ1lUd7TrqyPEacPrxBVw",
+            "unitDefId": "XANADUBLOOD:SEVEN_STAR",
             "cellIndex": 3,
             "unitBattleStat": null,
             "messageReticle": "",
@@ -73788,8 +73788,8 @@
           },
           {
             "crewBattleStat": [],
-            "unitId": "yVnX9fAfSziUO31DThwgdg",
-            "unitDefId": "JEDISTARFIGHTERAHSOKATANO:SEVEN_STAR",
+            "unitId": "F71WuD32RziytEcbK2qDPQ",
+            "unitDefId": "SLAVE1:SEVEN_STAR",
             "cellIndex": 4,
             "unitBattleStat": null,
             "messageReticle": "",
@@ -73802,37 +73802,9 @@
           },
           {
             "crewBattleStat": [],
-            "unitId": "mjOJadENSuay4nWAyq99UA",
-            "unitDefId": "BLADEOFDORIN:SEVEN_STAR",
+            "unitId": "PTExTt-yRs6BgZ4jPnrnUg",
+            "unitDefId": "IG2000:SEVEN_STAR",
             "cellIndex": 5,
-            "unitBattleStat": null,
-            "messageReticle": "",
-            "progressItem": true,
-            "squadUnitType": 5,
-            "unitState": null,
-            "selectable": true,
-            "overkillItem": false,
-            "inheritFromDefinitionId": ""
-          },
-          {
-            "crewBattleStat": [],
-            "unitId": "MTObLv_uT4iNiulj5e88-Q",
-            "unitDefId": "HOUNDSTOOTH:SEVEN_STAR",
-            "cellIndex": 6,
-            "unitBattleStat": null,
-            "messageReticle": "",
-            "progressItem": true,
-            "squadUnitType": 5,
-            "unitState": null,
-            "selectable": true,
-            "overkillItem": false,
-            "inheritFromDefinitionId": ""
-          },
-          {
-            "crewBattleStat": [],
-            "unitId": "GDU-Cm8sSjmNKspncHPcrA",
-            "unitDefId": "UMBARANSTARFIGHTER:SEVEN_STAR",
-            "cellIndex": 7,
             "unitBattleStat": null,
             "messageReticle": "",
             "progressItem": true,
@@ -73847,7 +73819,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1716466772000",
+        "lastSaveTime": "1718814854000",
         "supportInheritFromDefinitionId": "",
         "datacron": null
       },
@@ -74424,7 +74396,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1718814698000",
+  "lastActivityTime": "1718815261000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDIKNIGHTLUKE"
   },
