@@ -141176,7 +141176,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_EXCHANGE_DONATIONS_TU07_2",
       "versionKey": "NULL",
-      "value": "4978",
+      "value": "4980",
       "index": 12
     },
     {
@@ -141772,7 +141772,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1718754694000",
+  "lastActivityTime": "1718755296000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MANDALORIAN"
   },
