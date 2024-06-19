@@ -109598,7 +109598,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 56019
+      "gp": 56491
     },
     {
       "skill": [
@@ -120458,6 +120458,10 @@
       ],
       "equipment": [
         {
+          "equipmentId": "165",
+          "slot": 0
+        },
+        {
           "equipmentId": "161",
           "slot": 2
         }
@@ -121199,7 +121203,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 21300
+      "gp": 21510
     },
     {
       "skill": [
@@ -134166,9 +134170,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 8
+        "currentTier": 9
       },
-      "gp": 28153
+      "gp": 30051
     },
     {
       "skill": [
@@ -141376,7 +141380,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3764822",
+      "value": "3765294",
       "index": 3
     },
     {
@@ -141406,7 +141410,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "19700",
+      "value": "19712",
       "index": 9
     },
     {
@@ -141430,13 +141434,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5001899",
+      "value": "5004007",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "61012",
+      "value": "61023",
       "index": 8
     },
     {
@@ -141448,7 +141452,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "2053502",
+      "value": "2053828",
       "index": 11
     },
     {
@@ -141472,13 +141476,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8766721",
+      "value": "8769301",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "229781",
+      "value": "229857",
       "index": 7
     },
     {
@@ -141575,7 +141579,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1718588507000",
+        "lastSaveTime": "1718766549000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -142552,7 +142556,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1718766090000",
+  "lastActivityTime": "1718766672000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
