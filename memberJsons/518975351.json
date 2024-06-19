@@ -119294,11 +119294,11 @@
       "currentXp": 182460,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 6,
+      "currentTier": 7,
       "relic": {
         "currentTier": 1
       },
-      "gp": 6474
+      "gp": 6978
     }
   ],
   "profileStat": [
@@ -119365,13 +119365,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3485599",
+      "value": "3486103",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "26998",
+      "value": "27011",
       "index": 8
     },
     {
@@ -119383,13 +119383,13 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "2018859",
+      "value": "2018969",
       "index": 11
     },
     {
       "nameKey": "STAT_TOTAL_GUILD_EXCHANGE_DONATIONS_TU07_2",
       "versionKey": "NULL",
-      "value": "940",
+      "value": "942",
       "index": 12
     },
     {
@@ -119407,13 +119407,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5987745",
+      "value": "5988249",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "71840",
+      "value": "71870",
       "index": 7
     },
     {
@@ -119987,7 +119987,7 @@
       "joinTime": "1718663828000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 11223
+      "rank": 11225
     }
   ],
   "datacron": [
@@ -120193,7 +120193,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1718761892000",
+  "lastActivityTime": "1718762385000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
