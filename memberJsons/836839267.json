@@ -145612,7 +145612,7 @@
     },
     {
       "tab": 2,
-      "rank": 1,
+      "rank": 4,
       "squad": {
         "cell": [
           {
@@ -146833,7 +146833,7 @@
   "selectedPlayerTitle": null,
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -60,
-  "lastActivityTime": "1718830267000",
+  "lastActivityTime": "1718830871000",
   "selectedPlayerPortrait": null,
   "lifetimeSeasonScore": "99683",
   "playerRating": {
