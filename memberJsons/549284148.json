@@ -89323,7 +89323,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "30349",
+      "value": "30361",
       "index": 9
     },
     {
@@ -89395,7 +89395,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "211895",
+      "value": "211905",
       "index": 7
     },
     {
@@ -89492,7 +89492,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1718689782000",
+        "lastSaveTime": "1718777395000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -90003,7 +90003,7 @@
       "joinTime": "1718668747000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 11952
+      "rank": 11953
     }
   ],
   "datacron": [
@@ -90076,7 +90076,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1718776725000",
+  "lastActivityTime": "1718777493000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
