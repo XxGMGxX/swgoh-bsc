@@ -13062,7 +13062,7 @@
       "purchasedAbilityId": [],
       "id": "jtQfj-51SdKfyiEyjEDJ9g",
       "definitionId": "Gungan Phalanx",
-      "currentRarity": 4,
+      "currentRarity": 5,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -13071,7 +13071,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 9868
+      "gp": 10375
     },
     {
       "skill": [
@@ -43407,9 +43407,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 3
+        "currentTier": 4
       },
-      "gp": 24145
+      "gp": 24981
     },
     {
       "skill": [
@@ -49127,7 +49127,7 @@
         },
         {
           "id": "uniqueskill_OLDBENKENOBI01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "leaderskill_OLDBENKENOBI",
@@ -49887,7 +49887,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 17131
+      "gp": 19537
     },
     {
       "skill": [
@@ -107530,13 +107530,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3368095",
+      "value": "3371844",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "37564",
+      "value": "37583",
       "index": 8
     },
     {
@@ -107572,13 +107572,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6089629",
+      "value": "6093378",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "100190",
+      "value": "100236",
       "index": 7
     },
     {
@@ -107675,7 +107675,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1718861798000",
+        "lastSaveTime": "1718901062000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -108162,7 +108162,7 @@
       "joinTime": "1718660515000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 9096
+      "rank": 9098
     }
   ],
   "datacron": [
@@ -108354,7 +108354,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1718900511000",
+  "lastActivityTime": "1718901063000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },

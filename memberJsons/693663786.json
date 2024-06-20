@@ -15863,6 +15863,10 @@
         {
           "equipmentId": "102",
           "slot": 2
+        },
+        {
+          "equipmentId": "107",
+          "slot": 5
         }
       ],
       "equippedStatModOld": [],
@@ -16596,7 +16600,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 15727
+      "gp": 15870
     },
     {
       "skill": [],
@@ -110207,7 +110211,7 @@
       "purchasedAbilityId": [],
       "id": "QOjrlctnSQ2orT5E4cEovg",
       "definitionId": "Imperial Super Commando",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -110216,7 +110220,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 6957
+      "gp": 8097
     },
     {
       "skill": [
@@ -127322,7 +127326,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 23628
+      "gp": 25167
     },
     {
       "skill": [
@@ -141262,20 +141266,22 @@
             {
               "roll": [
                 "0.11579",
-                "0.12469"
+                "0.12469",
+                "0.13345"
               ],
               "unscaledRollValue": [
                 "1303",
-                "1403"
+                "1403",
+                "1501"
               ],
               "stat": {
                 "unitStatId": 56,
-                "statValueDecimal": "270",
-                "unscaledDecimalValue": "2705000",
+                "statValueDecimal": "420",
+                "unscaledDecimalValue": "4207000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 2,
+              "statRolls": 3,
               "statRollerBoundsMin": "1125",
               "statRollerBoundsMax": "2250"
             },
@@ -141341,7 +141347,7 @@
           "id": "gMBLUYKXRtWGuVBKE7RgLQ",
           "definitionId": "453",
           "level": 15,
-          "tier": 4,
+          "tier": 5,
           "sellValue": {
             "currency": 1,
             "quantity": 97200,
@@ -141750,7 +141756,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 14746
+      "gp": 14770
     },
     {
       "skill": [
@@ -143335,7 +143341,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2166776",
+      "value": "2168315",
       "index": 3
     },
     {
@@ -143365,7 +143371,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "9583",
+      "value": "9595",
       "index": 9
     },
     {
@@ -143389,13 +143395,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3614949",
+      "value": "3616256",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "44159",
+      "value": "44180",
       "index": 8
     },
     {
@@ -143431,13 +143437,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5781725",
+      "value": "5784571",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "155218",
+      "value": "155294",
       "index": 7
     },
     {
@@ -144033,7 +144039,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -480,
-  "lastActivityTime": "1718900478000",
+  "lastActivityTime": "1718901084000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SCOUTTROOPER"
   },
