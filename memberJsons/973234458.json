@@ -62630,20 +62630,7 @@
           "tier": 2
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "060",
-          "slot": 0
-        },
-        {
-          "equipmentId": "101",
-          "slot": 1
-        },
-        {
-          "equipmentId": "097",
-          "slot": 2
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -62654,11 +62641,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 8,
+      "currentTier": 11,
       "relic": {
         "currentTier": 1
       },
-      "gp": 11722
+      "gp": 14004
     },
     {
       "skill": [
@@ -92027,7 +92014,7 @@
       "purchasedAbilityId": [],
       "id": "NBrhDBYFTRK0I90jWWFtHQ",
       "definitionId": "Ninth Sister",
-      "currentRarity": 6,
+      "currentRarity": 7,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -92036,7 +92023,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 12187
+      "gp": 14182
     },
     {
       "skill": [
@@ -145944,7 +145931,7 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "497",
+      "value": "498",
       "index": 5
     },
     {
@@ -145968,7 +145955,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "17872",
+      "value": "17884",
       "index": 9
     },
     {
@@ -145992,13 +145979,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4608783",
+      "value": "4613060",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53503",
+      "value": "53524",
       "index": 8
     },
     {
@@ -146034,13 +146021,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7966435",
+      "value": "7970712",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "157139",
+      "value": "157198",
       "index": 7
     },
     {
@@ -146208,7 +146195,7 @@
     },
     {
       "tab": 2,
-      "rank": 13,
+      "rank": 8,
       "squad": {
         "cell": [
           {
@@ -147179,7 +147166,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1718867452000",
+  "lastActivityTime": "1718902910000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL_GRIEVOUS"
   },

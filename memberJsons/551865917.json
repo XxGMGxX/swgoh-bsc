@@ -141384,7 +141384,7 @@
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "4447",
+      "value": "4448",
       "index": 6
     },
     {
@@ -141402,7 +141402,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "19724",
+      "value": "19736",
       "index": 9
     },
     {
@@ -141450,7 +141450,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_EXCHANGE_DONATIONS_TU07_2",
       "versionKey": "NULL",
-      "value": "1343",
+      "value": "1345",
       "index": 12
     },
     {
@@ -141474,7 +141474,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "229943",
+      "value": "229953",
       "index": 7
     },
     {
@@ -141493,7 +141493,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 78,
+      "rank": 65,
       "squad": {
         "cell": [
           {
@@ -141571,7 +141571,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1718804051000",
+        "lastSaveTime": "1718902484000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -142548,7 +142548,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1718902311000",
+  "lastActivityTime": "1718902690000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
