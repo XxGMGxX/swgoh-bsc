@@ -1889,7 +1889,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1718863258000",
+        "lastActivityTime": "1718863877000",
         "squadPower": 140645,
         "guildJoinTime": "1652409478",
         "galacticPower": "6089629",
@@ -3050,13 +3050,13 @@
           },
           {
             "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "180721"
+            "currentValue": "521",
+            "lifetimeValue": "181242"
           },
           {
             "type": 2,
-            "currentValue": "60",
-            "lifetimeValue": "220872"
+            "currentValue": "92",
+            "lifetimeValue": "220904"
           }
         ],
         "seasonStatus": [
@@ -3105,15 +3105,15 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1718857108000",
+        "lastActivityTime": "1718863882000",
         "squadPower": 157969,
         "guildJoinTime": "1686252099",
-        "galacticPower": "7664041",
+        "galacticPower": "7664486",
         "playerTitle": "PLAYERTITLE_BROTHERHOOD_OF_DARKNESS",
         "playerPortrait": "PLAYERPORTRAIT_L337",
         "lifetimeSeasonScore": "80356",
         "leagueId": "KYBER",
-        "shipGalacticPower": "3327354",
+        "shipGalacticPower": "3327799",
         "characterGalacticPower": "4336687",
         "nucleusId": "2794343642"
       },
@@ -5244,10 +5244,10 @@
       "leaderboardScore": "0",
       "bannerColorId": "red_white",
       "bannerLogoId": "guild_icon_Rebel",
-      "guildGalacticPower": "371193794",
+      "guildGalacticPower": "371194239",
       "chatChannelId": "guild-{8qYzrHcISr-VJgiyDdMldw}",
       "guildType": "",
-      "guildGalacticPowerForRequirement": "371193794",
+      "guildGalacticPowerForRequirement": "371194239",
       "singleLaunchConfig": {
         "raidId": "speederbike",
         "campaignMissionIdentifier": {
