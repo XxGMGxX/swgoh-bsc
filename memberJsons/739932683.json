@@ -137764,9 +137764,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 2
+        "currentTier": 3
       },
-      "gp": 23458
+      "gp": 24217
     },
     {
       "skill": [
@@ -145004,7 +145004,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4499250",
+      "value": "4500009",
       "index": 2
     },
     {
@@ -145046,7 +145046,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7243184",
+      "value": "7243943",
       "index": 1
     },
     {
@@ -145919,7 +145919,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1718862659000",
+  "lastActivityTime": "1718862731000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SITHMASTER"
   },
