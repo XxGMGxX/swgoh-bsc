@@ -129403,7 +129403,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4375994",
+      "value": "4376131",
       "index": 2
     },
     {
@@ -129421,7 +129421,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "888898",
+      "value": "889639",
       "index": 11
     },
     {
@@ -129445,7 +129445,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7586176",
+      "value": "7586313",
       "index": 1
     },
     {
@@ -130570,7 +130570,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1718831696000",
+  "lastActivityTime": "1718847636000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
