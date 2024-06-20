@@ -114306,19 +114306,21 @@
             },
             {
               "roll": [
-                "0.10427"
+                "0.10427",
+                "0.12482"
               ],
               "unscaledRollValue": [
-                "2377356"
+                "2377356",
+                "2845896"
               ],
               "stat": {
                 "unitStatId": 41,
-                "statValueDecimal": "240000",
-                "unscaledDecimalValue": "2400000000",
+                "statValueDecimal": "530000",
+                "unscaledDecimalValue": "5300000000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 1,
+              "statRolls": 2,
               "statRollerBoundsMin": "2280000",
               "statRollerBoundsMax": "4560000"
             },
@@ -114346,7 +114348,7 @@
           "id": "Ply_EuGQTEmaezOA5g5raQ",
           "definitionId": "651",
           "level": 15,
-          "tier": 3,
+          "tier": 4,
           "sellValue": {
             "currency": 1,
             "quantity": 97200,
@@ -114997,7 +114999,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 20274
+      "gp": 20296
     },
     {
       "skill": [],
@@ -143393,7 +143395,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "44148",
+      "value": "44159",
       "index": 8
     },
     {
@@ -143435,7 +143437,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "155175",
+      "value": "155218",
       "index": 7
     },
     {
@@ -143979,7 +143981,7 @@
       "joinTime": "1718684290000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 16366
+      "rank": 16368
     }
   ],
   "datacron": [
@@ -144031,7 +144033,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -480,
-  "lastActivityTime": "1718857300000",
+  "lastActivityTime": "1718857543000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SCOUTTROOPER"
   },
