@@ -143389,7 +143389,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3614927",
+      "value": "3614949",
       "index": 2
     },
     {
@@ -143431,7 +143431,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5781703",
+      "value": "5781725",
       "index": 1
     },
     {
@@ -143981,7 +143981,7 @@
       "joinTime": "1718684290000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 16449
+      "rank": 16452
     }
   ],
   "datacron": [
@@ -144033,7 +144033,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -480,
-  "lastActivityTime": "1718857543000",
+  "lastActivityTime": "1718900478000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SCOUTTROOPER"
   },
