@@ -142267,7 +142267,7 @@
       "joinTime": "1718731713000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 15641
+      "rank": 15525
     }
   ],
   "datacron": [
@@ -142555,11 +142555,11 @@
   "lifetimeSeasonScore": "209909",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 2793
+      "skillRating": 2751
     },
     "playerRankStatus": {
       "leagueId": "AURODIUM",
-      "divisionId": 20
+      "divisionId": 15
     }
   },
   "nucleusId": "1015027358556"

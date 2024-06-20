@@ -76640,7 +76640,7 @@
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1049",
+      "value": "1050",
       "index": 6
     },
     {
@@ -76749,7 +76749,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 84,
+      "rank": 71,
       "squad": {
         "cell": [
           {
@@ -77419,7 +77419,7 @@
       "joinTime": "1718707712000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 11489
+      "rank": 5499
     }
   ],
   "datacron": [
@@ -77657,14 +77657,14 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 120,
-  "lastActivityTime": "1718916606000",
+  "lastActivityTime": "1718917268000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_BD1"
   },
   "lifetimeSeasonScore": "311344",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 3007
+      "skillRating": 3050
     },
     "playerRankStatus": {
       "leagueId": "KYBER",
