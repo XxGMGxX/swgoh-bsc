@@ -145073,7 +145073,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "150457",
+      "value": "150459",
       "index": 7
     },
     {
@@ -145170,7 +145170,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1718776103000",
+        "lastSaveTime": "1718861812000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -145940,7 +145940,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1718861488000",
+  "lastActivityTime": "1718862105000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SITHMASTER"
   },

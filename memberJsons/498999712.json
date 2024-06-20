@@ -6769,7 +6769,12 @@
           "tier": 6
         }
       ],
-      "equipment": [],
+      "equipment": [
+        {
+          "equipmentId": "159",
+          "slot": 0
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -7501,7 +7506,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 19707
+      "gp": 19917
     },
     {
       "skill": [
@@ -107483,7 +107488,7 @@
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1502",
+      "value": "1503",
       "index": 6
     },
     {
@@ -107525,13 +107530,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3367885",
+      "value": "3368095",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "37554",
+      "value": "37564",
       "index": 8
     },
     {
@@ -107567,13 +107572,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6089419",
+      "value": "6089629",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "100155",
+      "value": "100178",
       "index": 7
     },
     {
@@ -107592,7 +107597,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 246,
+      "rank": 241,
       "squad": {
         "cell": [
           {
@@ -107670,7 +107675,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1718726168000",
+        "lastSaveTime": "1718861798000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -108157,7 +108162,7 @@
       "joinTime": "1718660515000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 9072
+      "rank": 9073
     }
   ],
   "datacron": [
@@ -108349,7 +108354,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1718861454000",
+  "lastActivityTime": "1718862057000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
