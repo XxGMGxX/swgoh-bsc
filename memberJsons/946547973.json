@@ -8550,7 +8550,7 @@
       "purchasedAbilityId": [],
       "id": "m-nFN4UcRGuGu22-WVcw6Q",
       "definitionId": "Captain Tarpals",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -8559,7 +8559,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 6462
+      "gp": 7602
     },
     {
       "skill": [
@@ -109283,28 +109283,7 @@
           "tier": 6
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "165",
-          "slot": 0
-        },
-        {
-          "equipmentId": "160",
-          "slot": 1
-        },
-        {
-          "equipmentId": "158",
-          "slot": 2
-        },
-        {
-          "equipmentId": "171",
-          "slot": 3
-        },
-        {
-          "equipmentId": "170",
-          "slot": 4
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -110000,11 +109979,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 12,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 7
       },
-      "gp": 18778
+      "gp": 23542
     },
     {
       "skill": [
@@ -141382,13 +141361,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4188690",
+      "value": "4194594",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "28294",
+      "value": "28309",
       "index": 8
     },
     {
@@ -141424,13 +141403,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7052497",
+      "value": "7058401",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "99950",
+      "value": "100070",
       "index": 7
     },
     {
@@ -142092,7 +142071,7 @@
       "joinTime": "1718670216000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 4615
+      "rank": 4722
     }
   ],
   "datacron": [
@@ -142199,7 +142178,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 420,
-  "lastActivityTime": "1718922089000",
+  "lastActivityTime": "1718922395000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_CHEWBACCA"
   },
