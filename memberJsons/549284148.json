@@ -89299,7 +89299,7 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "997",
+      "value": "998",
       "index": 5
     },
     {
@@ -89549,7 +89549,7 @@
     },
     {
       "tab": 2,
-      "rank": 12,
+      "rank": 11,
       "squad": {
         "cell": [
           {
@@ -90076,7 +90076,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1718860270000",
+  "lastActivityTime": "1718860405000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },

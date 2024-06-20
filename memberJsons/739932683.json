@@ -144971,7 +144971,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2743880",
+      "value": "2743934",
       "index": 3
     },
     {
@@ -145025,7 +145025,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4498971",
+      "value": "4499040",
       "index": 2
     },
     {
@@ -145067,7 +145067,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7242851",
+      "value": "7242974",
       "index": 1
     },
     {
@@ -145940,7 +145940,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1718819951000",
+  "lastActivityTime": "1718860905000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SITHMASTER"
   },
