@@ -141358,7 +141358,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "8560",
+      "value": "8572",
       "index": 9
     },
     {
@@ -141388,7 +141388,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "28254",
+      "value": "28284",
       "index": 8
     },
     {
@@ -141400,7 +141400,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "590589",
+      "value": "591164",
       "index": 11
     },
     {
@@ -141430,7 +141430,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "99788",
+      "value": "99880",
       "index": 7
     },
     {
@@ -142199,7 +142199,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 420,
-  "lastActivityTime": "1718834588000",
+  "lastActivityTime": "1718861382000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_CHEWBACCA"
   },
