@@ -137769,7 +137769,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1718757100000",
+        "lastSaveTime": "1718846612000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -139818,7 +139818,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1718845559000",
+  "lastActivityTime": "1718846750000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_OURIDENTITY"
   },
