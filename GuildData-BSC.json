@@ -673,7 +673,7 @@
         "playerLevel": 85,
         "memberLevel": 3,
         "guildXp": 0,
-        "lastActivityTime": "1718919457000",
+        "lastActivityTime": "1718925090000",
         "squadPower": 180389,
         "guildJoinTime": "1652381188",
         "galacticPower": "7321343",
@@ -1530,8 +1530,8 @@
           },
           {
             "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "650215"
+            "currentValue": "177",
+            "lifetimeValue": "650392"
           },
           {
             "type": 3,
@@ -1585,7 +1585,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1718915631000",
+        "lastActivityTime": "1718924841000",
         "squadPower": 135621,
         "guildJoinTime": "1652398609",
         "galacticPower": "7485342",
@@ -1905,13 +1905,13 @@
         "memberContribution": [
           {
             "type": 2,
-            "currentValue": "0",
-            "lifetimeValue": "355860"
+            "currentValue": "70",
+            "lifetimeValue": "355930"
           },
           {
             "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "639095"
+            "currentValue": "192",
+            "lifetimeValue": "639287"
           },
           {
             "type": 3,
@@ -1965,7 +1965,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1718918661000",
+        "lastActivityTime": "1718924654000",
         "squadPower": 68096,
         "guildJoinTime": "1652417325",
         "galacticPower": "7976353",
@@ -3658,8 +3658,8 @@
           },
           {
             "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "18190"
+            "currentValue": "168",
+            "lifetimeValue": "18358"
           },
           {
             "type": 3,
@@ -3713,7 +3713,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1718903758000",
+        "lastActivityTime": "1718925050000",
         "squadPower": 154897,
         "guildJoinTime": "1715387579",
         "galacticPower": "4988048",
