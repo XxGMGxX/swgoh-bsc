@@ -15543,7 +15543,24 @@
       "gp": 26039
     },
     {
-      "skill": [],
+      "skill": [
+        {
+          "id": "basicskill_PADAWANOBIWAN",
+          "tier": 5
+        },
+        {
+          "id": "specialskill_PADAWANOBIWAN01",
+          "tier": 5
+        },
+        {
+          "id": "specialskill_PADAWANOBIWAN02",
+          "tier": 5
+        },
+        {
+          "id": "uniqueskill_PADAWANOBIWAN01",
+          "tier": 4
+        }
+      ],
       "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
@@ -15551,15 +15568,15 @@
       "id": "VHUuCelNR4Wp6rTU4utuIw",
       "definitionId": "Padawan Obi-Wan",
       "currentRarity": 3,
-      "currentLevel": 1,
-      "currentXp": 0,
+      "currentLevel": 85,
+      "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 1,
+      "currentTier": 4,
       "relic": {
         "currentTier": 1
       },
-      "gp": 676
+      "gp": 5284
     },
     {
       "skill": [
@@ -20548,7 +20565,24 @@
       "gp": 10170
     },
     {
-      "skill": [],
+      "skill": [
+        {
+          "id": "basicskill_MASTERQUIGON",
+          "tier": 5
+        },
+        {
+          "id": "specialskill_MASTERQUIGON01",
+          "tier": 5
+        },
+        {
+          "id": "specialskill_MASTERQUIGON02",
+          "tier": 5
+        },
+        {
+          "id": "uniqueskill_MASTERQUIGON01",
+          "tier": 4
+        }
+      ],
       "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
@@ -20556,15 +20590,15 @@
       "id": "AvZlSmOBQf2PumVm1Cfvaw",
       "definitionId": "Master Qui-Gon",
       "currentRarity": 3,
-      "currentLevel": 1,
-      "currentXp": 0,
+      "currentLevel": 85,
+      "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 1,
+      "currentTier": 6,
       "relic": {
         "currentTier": 1
       },
-      "gp": 676
+      "gp": 6013
     },
     {
       "skill": [
@@ -23431,7 +23465,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3142930",
+      "value": "3152875",
       "index": 2
     },
     {
@@ -23449,7 +23483,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "735357",
+      "value": "735525",
       "index": 11
     },
     {
@@ -23473,13 +23507,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4915876",
+      "value": "4925821",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "109118",
+      "value": "109132",
       "index": 7
     },
     {
@@ -23999,7 +24033,7 @@
       "joinTime": "1718662189000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 2170
+      "rank": 2154
     }
   ],
   "datacron": [
@@ -24205,7 +24239,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1718917972000",
+  "lastActivityTime": "1718922973000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MANDALORIAN"
   },

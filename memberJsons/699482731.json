@@ -120347,7 +120347,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1029016",
+      "value": "1029184",
       "index": 11
     },
     {
@@ -121112,7 +121112,7 @@
       "joinTime": "1718662489000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 13899
+      "rank": 14056
     }
   ],
   "datacron": [
@@ -121648,7 +121648,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1718920738000",
+  "lastActivityTime": "1718923234000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GRANDARENA_ADVANCED"
   },

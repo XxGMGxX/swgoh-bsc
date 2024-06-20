@@ -10,8 +10,8 @@
           },
           {
             "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "680821"
+            "currentValue": "168",
+            "lifetimeValue": "680989"
           },
           {
             "type": 3,
@@ -65,7 +65,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1718920738000",
+        "lastActivityTime": "1718923295000",
         "squadPower": 180381,
         "guildJoinTime": "1652378136",
         "galacticPower": "8221806",
@@ -233,13 +233,13 @@
         "memberContribution": [
           {
             "type": 2,
-            "currentValue": "0",
-            "lifetimeValue": "335388"
+            "currentValue": "92",
+            "lifetimeValue": "335480"
           },
           {
             "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "496038"
+            "currentValue": "168",
+            "lifetimeValue": "496206"
           },
           {
             "type": 3,
@@ -293,16 +293,16 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1718917972000",
+        "lastActivityTime": "1718922973000",
         "squadPower": 178071,
         "guildJoinTime": "1652378140",
-        "galacticPower": "4915876",
+        "galacticPower": "4925821",
         "playerTitle": "PLAYERTITLE_GLJMK_QUEST_001",
         "playerPortrait": "PLAYERPORTRAIT_MANDALORIAN",
         "lifetimeSeasonScore": "32765",
         "leagueId": "BRONZIUM",
         "shipGalacticPower": "1772946",
-        "characterGalacticPower": "3142930",
+        "characterGalacticPower": "3152875",
         "nucleusId": "1009248688405"
       },
       {
@@ -993,8 +993,8 @@
         "memberContribution": [
           {
             "type": 2,
-            "currentValue": "0",
-            "lifetimeValue": "450960"
+            "currentValue": "100",
+            "lifetimeValue": "451060"
           },
           {
             "type": 1,
@@ -1053,7 +1053,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1718922705000",
+        "lastActivityTime": "1718923246000",
         "squadPower": 67270,
         "guildJoinTime": "1652389663",
         "galacticPower": "8645204",
@@ -1150,8 +1150,8 @@
           },
           {
             "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "644683"
+            "currentValue": "181",
+            "lifetimeValue": "644864"
           },
           {
             "type": 3,
@@ -1205,16 +1205,16 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1718921836000",
+        "lastActivityTime": "1718923056000",
         "squadPower": 176955,
         "guildJoinTime": "1652391094",
-        "galacticPower": "9182229",
+        "galacticPower": "9184434",
         "playerTitle": "PLAYERTITLE_GLSEE_QUEST_002",
         "playerPortrait": "PLAYERPORTRAIT_GIFT_01",
         "lifetimeSeasonScore": "315587",
         "leagueId": "AURODIUM",
         "shipGalacticPower": "3728933",
-        "characterGalacticPower": "5453296",
+        "characterGalacticPower": "5455501",
         "nucleusId": "1015470129282"
       },
       {
@@ -1758,8 +1758,8 @@
           },
           {
             "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "606167"
+            "currentValue": "177",
+            "lifetimeValue": "606344"
           },
           {
             "type": 3,
@@ -1813,7 +1813,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1718902103000",
+        "lastActivityTime": "1718922919000",
         "squadPower": 149919,
         "guildJoinTime": "1652406414",
         "galacticPower": "5828537",
@@ -2057,13 +2057,13 @@
         "memberContribution": [
           {
             "type": 2,
-            "currentValue": "0",
-            "lifetimeValue": "443362"
+            "currentValue": "180",
+            "lifetimeValue": "443542"
           },
           {
             "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "668409"
+            "currentValue": "200",
+            "lifetimeValue": "668609"
           },
           {
             "type": 3,
@@ -2117,7 +2117,7 @@
         "playerLevel": 85,
         "memberLevel": 3,
         "guildXp": 0,
-        "lastActivityTime": "1718922688000",
+        "lastActivityTime": "1718922733000",
         "squadPower": 186819,
         "guildJoinTime": "1652459799",
         "galacticPower": "9101065",
@@ -3121,13 +3121,13 @@
         "memberContribution": [
           {
             "type": 2,
-            "currentValue": "0",
-            "lifetimeValue": "147038"
+            "currentValue": "598",
+            "lifetimeValue": "147636"
           },
           {
             "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "133941"
+            "currentValue": "168",
+            "lifetimeValue": "134109"
           },
           {
             "type": 3,
@@ -3181,16 +3181,16 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1718906799000",
+        "lastActivityTime": "1718923299000",
         "squadPower": 185083,
         "guildJoinTime": "1691032532",
-        "galacticPower": "8771100",
+        "galacticPower": "8773095",
         "playerTitle": "PLAYERTITLE_DARKLORD",
         "playerPortrait": "PLAYERPORTRAIT_DARTHREVAN",
         "lifetimeSeasonScore": "209909",
         "leagueId": "AURODIUM",
         "shipGalacticPower": "3765294",
-        "characterGalacticPower": "5005806",
+        "characterGalacticPower": "5007801",
         "nucleusId": "1015027358556"
       },
       {
@@ -5244,10 +5244,10 @@
       "leaderboardScore": "0",
       "bannerColorId": "red_white",
       "bannerLogoId": "guild_icon_Rebel",
-      "guildGalacticPower": "371246964",
+      "guildGalacticPower": "371259114",
       "chatChannelId": "guild-{8qYzrHcISr-VJgiyDdMldw}",
       "guildType": "",
-      "guildGalacticPowerForRequirement": "371246964",
+      "guildGalacticPowerForRequirement": "371259114",
       "singleLaunchConfig": {
         "raidId": "speederbike",
         "campaignMissionIdentifier": {
