@@ -23425,7 +23425,7 @@
     {
       "nameKey": "STAT_SEASON_UNDERSIZED_SQUAD_WINS_NAME",
       "versionKey": "NULL",
-      "value": "56",
+      "value": "57",
       "index": 18
     },
     {
@@ -23437,7 +23437,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "22381",
+      "value": "22391",
       "index": 8
     },
     {
@@ -23461,7 +23461,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "131758",
+      "value": "132369",
       "index": 16
     },
     {
@@ -23479,19 +23479,19 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "109045",
+      "value": "109068",
       "index": 7
     },
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "637",
+      "value": "641",
       "index": 14
     },
     {
       "nameKey": "STAT_SEASON_TERRITORIES_DEFEATED_NAME",
       "versionKey": "NULL",
-      "value": "512",
+      "value": "514",
       "index": 19
     }
   ],
@@ -23994,7 +23994,7 @@
       "league": "BRONZIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 0,
+      "seasonPoints": 611,
       "division": 20,
       "joinTime": "1718662189000",
       "endTime": "1720990800000",
@@ -24205,7 +24205,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1718892788000",
+  "lastActivityTime": "1718894483000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MANDALORIAN"
   },
