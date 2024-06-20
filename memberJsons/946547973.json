@@ -97572,7 +97572,7 @@
       "purchasedAbilityId": [],
       "id": "4Uq1swAVSR6SslTQ3rjStA",
       "definitionId": "Director Krennic",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 50,
       "currentXp": 63540,
       "promotionRecipeReference": "",
@@ -97581,7 +97581,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 1848
+      "gp": 2988
     },
     {
       "skill": [
@@ -141382,7 +141382,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4187550",
+      "value": "4188690",
       "index": 2
     },
     {
@@ -141424,7 +141424,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7051357",
+      "value": "7052497",
       "index": 1
     },
     {
@@ -142199,7 +142199,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 420,
-  "lastActivityTime": "1718881880000",
+  "lastActivityTime": "1718882441000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_CHEWBACCA"
   },
