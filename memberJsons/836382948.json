@@ -28507,6 +28507,10 @@
         {
           "equipmentId": "158",
           "slot": 2
+        },
+        {
+          "equipmentId": "169",
+          "slot": 3
         }
       ],
       "equippedStatModOld": [],
@@ -29256,7 +29260,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 23458
+      "gp": 23668
     },
     {
       "skill": [
@@ -111089,7 +111093,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 58678
+      "gp": 59151
     },
     {
       "skill": [
@@ -141197,7 +141201,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2402715",
+      "value": "2403188",
       "index": 3
     },
     {
@@ -141227,7 +141231,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "24818",
+      "value": "24830",
       "index": 9
     },
     {
@@ -141251,13 +141255,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4037653",
+      "value": "4037863",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53398",
+      "value": "53434",
       "index": 8
     },
     {
@@ -141269,7 +141273,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1521400",
+      "value": "1521937",
       "index": 11
     },
     {
@@ -141281,7 +141285,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "473130",
+      "value": "473605",
       "index": 16
     },
     {
@@ -141293,25 +141297,25 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6440368",
+      "value": "6441051",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "250781",
+      "value": "250853",
       "index": 7
     },
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "2260",
+      "value": "2264",
       "index": 14
     },
     {
       "nameKey": "STAT_SEASON_TERRITORIES_DEFEATED_NAME",
       "versionKey": "NULL",
-      "value": "956",
+      "value": "957",
       "index": 19
     }
   ],
@@ -141928,7 +141932,7 @@
       "league": "CHROMIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 0,
+      "seasonPoints": 475,
       "division": 15,
       "joinTime": "1718673487000",
       "endTime": "1720990800000",
@@ -141974,7 +141978,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1718829139000",
+  "lastActivityTime": "1718892104000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDIKNIGHTLUKE"
   },
