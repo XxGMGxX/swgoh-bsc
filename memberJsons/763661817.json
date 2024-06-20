@@ -94681,7 +94681,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "12703",
+      "value": "12715",
       "index": 9
     },
     {
@@ -94711,7 +94711,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "32525",
+      "value": "32547",
       "index": 8
     },
     {
@@ -94723,7 +94723,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1152422",
+      "value": "1154047",
       "index": 11
     },
     {
@@ -94735,7 +94735,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "188905",
+      "value": "188970",
       "index": 16
     },
     {
@@ -94753,13 +94753,13 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "131000",
+      "value": "131032",
       "index": 7
     },
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "1229",
+      "value": "1230",
       "index": 14
     },
     {
@@ -95370,7 +95370,7 @@
       "league": "AURODIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 785,
+      "seasonPoints": 850,
       "division": 15,
       "joinTime": "1718739932000",
       "endTime": "1720990800000",
@@ -95548,7 +95548,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 360,
-  "lastActivityTime": "1718872284000",
+  "lastActivityTime": "1718872883000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GLKENOBI"
   },
