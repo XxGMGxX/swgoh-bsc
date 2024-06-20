@@ -125715,7 +125715,7 @@
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "592",
+      "value": "593",
       "index": 6
     },
     {
@@ -125733,7 +125733,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "10503",
+      "value": "10515",
       "index": 9
     },
     {
@@ -125751,7 +125751,7 @@
     {
       "nameKey": "STAT_SEASON_UNDERSIZED_SQUAD_WINS_NAME",
       "versionKey": "NULL",
-      "value": "118",
+      "value": "119",
       "index": 18
     },
     {
@@ -125763,7 +125763,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "23049",
+      "value": "23057",
       "index": 8
     },
     {
@@ -125775,7 +125775,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "565401",
+      "value": "565869",
       "index": 11
     },
     {
@@ -125787,7 +125787,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "117982",
+      "value": "118125",
       "index": 16
     },
     {
@@ -125805,13 +125805,13 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "61494",
+      "value": "61512",
       "index": 7
     },
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "642",
+      "value": "644",
       "index": 14
     },
     {
@@ -125824,7 +125824,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 135,
+      "rank": 113,
       "squad": {
         "cell": [
           {
@@ -125902,7 +125902,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1718679169000",
+        "lastSaveTime": "1718857171000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -126426,7 +126426,7 @@
       "league": "BRONZIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 0,
+      "seasonPoints": 143,
       "division": 20,
       "joinTime": "1718662379000",
       "endTime": "1720990800000",
@@ -126637,7 +126637,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -480,
-  "lastActivityTime": "1718800084000",
+  "lastActivityTime": "1718857301000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_BASTILA"
   },

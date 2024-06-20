@@ -97282,28 +97282,7 @@
           "tier": 6
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "131",
-          "slot": 0
-        },
-        {
-          "equipmentId": "136",
-          "slot": 1
-        },
-        {
-          "equipmentId": "129",
-          "slot": 2
-        },
-        {
-          "equipmentId": "139",
-          "slot": 4
-        },
-        {
-          "equipmentId": "141",
-          "slot": 5
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -98033,11 +98012,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 11,
+      "currentTier": 12,
       "relic": {
         "currentTier": 1
       },
-      "gp": 16506
+      "gp": 16704
     },
     {
       "skill": [
@@ -133370,7 +133349,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 44448
+      "gp": 44893
     },
     {
       "skill": [
@@ -142067,7 +142046,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "16197",
+      "value": "16209",
       "index": 9
     },
     {
@@ -142091,13 +142070,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4336489",
+      "value": "4336687",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53557",
+      "value": "53565",
       "index": 8
     },
     {
@@ -142133,13 +142112,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7663843",
+      "value": "7664041",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "161166",
+      "value": "161182",
       "index": 7
     },
     {
@@ -144895,7 +144874,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1718832137000",
+  "lastActivityTime": "1718857108000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
