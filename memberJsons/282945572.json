@@ -142194,7 +142194,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53596",
+      "value": "53597",
       "index": 8
     },
     {
@@ -142236,7 +142236,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "161219",
+      "value": "161220",
       "index": 7
     },
     {
@@ -144759,6 +144759,29 @@
           "requiredUnitTier": 0,
           "requiredRelicTier": 5,
           "scopeIcon": ""
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 16,
+          "statValue": "13023841",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": ""
+        },
+        {
+          "tag": [
+            "inquisitorius",
+            "darkside"
+          ],
+          "targetRule": "target_datacron_inquisitorius",
+          "abilityId": "datacron_faction_generic_033",
+          "statType": 1,
+          "statValue": "0",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": "tex.datacronui_affix_inquisitorius"
         }
       ],
       "rerollOption": [],
@@ -144967,6 +144990,16 @@
           "requiredUnitTier": 0,
           "requiredRelicTier": 5,
           "scopeIcon": ""
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 16,
+          "statValue": "14190833",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": ""
         }
       ],
       "rerollOption": [],
@@ -144992,7 +145025,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1718904386000",
+  "lastActivityTime": "1718905009000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
