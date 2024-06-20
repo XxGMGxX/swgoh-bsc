@@ -137018,28 +137018,7 @@
           "tier": 5
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "158",
-          "slot": 0
-        },
-        {
-          "equipmentId": "159",
-          "slot": 1
-        },
-        {
-          "equipmentId": "162",
-          "slot": 2
-        },
-        {
-          "equipmentId": "166",
-          "slot": 3
-        },
-        {
-          "equipmentId": "168",
-          "slot": 4
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -137783,11 +137762,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 12,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 2
       },
-      "gp": 23248
+      "gp": 23458
     },
     {
       "skill": [
@@ -144977,7 +144956,7 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "778",
+      "value": "779",
       "index": 5
     },
     {
@@ -145001,7 +144980,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "19825",
+      "value": "19837",
       "index": 9
     },
     {
@@ -145025,13 +145004,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4499040",
+      "value": "4499250",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "49221",
+      "value": "49246",
       "index": 8
     },
     {
@@ -145067,13 +145046,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7242974",
+      "value": "7243184",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "150459",
+      "value": "150501",
       "index": 7
     },
     {
@@ -145260,7 +145239,7 @@
     },
     {
       "tab": 2,
-      "rank": 81,
+      "rank": 68,
       "squad": {
         "cell": [
           {
@@ -145940,7 +145919,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1718862105000",
+  "lastActivityTime": "1718862659000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SITHMASTER"
   },
