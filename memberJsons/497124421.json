@@ -142401,7 +142401,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "59184",
+      "value": "59196",
       "index": 8
     },
     {
@@ -142413,7 +142413,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1516503",
+      "value": "1518238",
       "index": 11
     },
     {
@@ -142443,7 +142443,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "197188",
+      "value": "197201",
       "index": 7
     },
     {
@@ -143877,7 +143877,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1718845270000",
+  "lastActivityTime": "1718845862000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_NIGHTSISTERS_VENTRESS"
   },
