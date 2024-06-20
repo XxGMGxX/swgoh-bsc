@@ -23389,7 +23389,7 @@
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "199",
+      "value": "200",
       "index": 6
     },
     {
@@ -23401,13 +23401,13 @@
     {
       "nameKey": "STAT_SEASON_FULL_CLEAR_ROUND_WINS_NAME",
       "versionKey": "NULL",
-      "value": "73",
+      "value": "74",
       "index": 17
     },
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "10500",
+      "value": "10512",
       "index": 9
     },
     {
@@ -23461,7 +23461,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "132369",
+      "value": "132825",
       "index": 16
     },
     {
@@ -23479,26 +23479,26 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "109068",
+      "value": "109087",
       "index": 7
     },
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "641",
+      "value": "643",
       "index": 14
     },
     {
       "nameKey": "STAT_SEASON_TERRITORIES_DEFEATED_NAME",
       "versionKey": "NULL",
-      "value": "514",
+      "value": "516",
       "index": 19
     }
   ],
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 885,
+      "rank": 758,
       "squad": {
         "cell": [
           {
@@ -23994,7 +23994,7 @@
       "league": "BRONZIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 611,
+      "seasonPoints": 1067,
       "division": 20,
       "joinTime": "1718662189000",
       "endTime": "1720990800000",
@@ -24205,7 +24205,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1718894483000",
+  "lastActivityTime": "1718895090000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MANDALORIAN"
   },
