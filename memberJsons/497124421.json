@@ -87472,6 +87472,10 @@
           "slot": 0
         },
         {
+          "equipmentId": "159",
+          "slot": 1
+        },
+        {
           "equipmentId": "160",
           "slot": 3
         },
@@ -88227,7 +88231,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 23458
+      "gp": 23668
     },
     {
       "skill": [
@@ -142395,13 +142399,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4444318",
+      "value": "4444528",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "59196",
+      "value": "59197",
       "index": 8
     },
     {
@@ -142425,7 +142429,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "342962",
+      "value": "343017",
       "index": 16
     },
     {
@@ -142437,19 +142441,19 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7321133",
+      "value": "7321343",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "197201",
+      "value": "197268",
       "index": 7
     },
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "1520",
+      "value": "1521",
       "index": 14
     },
     {
@@ -143180,12 +143184,12 @@
       "league": "AURODIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 118,
+      "seasonPoints": 173,
       "division": 20,
       "joinTime": "1718658141000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 16833
+      "rank": 16834
     }
   ],
   "datacron": [
@@ -143877,7 +143881,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1718851284000",
+  "lastActivityTime": "1718851902000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_NIGHTSISTERS_VENTRESS"
   },
