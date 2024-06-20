@@ -89179,11 +89179,11 @@
           ],
           "id": "0dCFXlomSnWV3Pkfk5ydwA",
           "definitionId": "151",
-          "level": 12,
+          "level": 15,
           "tier": 3,
           "sellValue": {
             "currency": 1,
-            "quantity": 33800,
+            "quantity": 97200,
             "bonusQuantity": 0
           },
           "removeCost": {
@@ -89197,8 +89197,8 @@
             "unscaledRollValue": [],
             "stat": {
               "unitStatId": 48,
-              "statValueDecimal": "475",
-              "unscaledDecimalValue": "4750000",
+              "statValueDecimal": "588",
+              "unscaledDecimalValue": "5880000",
               "uiDisplayOverrideValue": "-1",
               "scalar": "0"
             },
@@ -89206,10 +89206,10 @@
             "statRollerBoundsMin": "0",
             "statRollerBoundsMax": "0"
           },
-          "xp": 168750,
+          "xp": 486000,
           "levelCost": {
             "currency": 1,
-            "quantity": 1150,
+            "quantity": 0,
             "bonusQuantity": 0
           },
           "bonusQuantity": 0,
@@ -89711,7 +89711,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 11208
+      "gp": 11280
     },
     {
       "skill": [
@@ -142070,13 +142070,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4336687",
+      "value": "4336759",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53591",
+      "value": "53595",
       "index": 8
     },
     {
@@ -142112,13 +142112,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7664486",
+      "value": "7664558",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "161210",
+      "value": "161214",
       "index": 7
     },
     {
@@ -144874,7 +144874,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1718894042000",
+  "lastActivityTime": "1718895712000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
