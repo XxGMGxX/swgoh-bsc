@@ -141,7 +141,7 @@
         "playerLevel": 85,
         "memberLevel": 3,
         "guildXp": 0,
-        "lastActivityTime": "1718854317000",
+        "lastActivityTime": "1718859052000",
         "squadPower": 160875,
         "guildJoinTime": "1652378137",
         "galacticPower": "9312138",
@@ -1829,8 +1829,8 @@
         "memberContribution": [
           {
             "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "672155"
+            "currentValue": "2146",
+            "lifetimeValue": "674301"
           },
           {
             "type": 3,
@@ -1876,7 +1876,7 @@
             "league": "AURODIUM",
             "wins": 0,
             "losses": 0,
-            "seasonPoints": 0,
+            "seasonPoints": 75,
             "division": 15,
             "joinTime": "1718660515000",
             "endTime": "1720990800000",
@@ -1889,7 +1889,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1718857351000",
+        "lastActivityTime": "1718859060000",
         "squadPower": 140645,
         "guildJoinTime": "1652409478",
         "galacticPower": "6089419",
