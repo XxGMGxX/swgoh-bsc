@@ -119368,7 +119368,7 @@
     {
       "nameKey": "STAT_SEASON_UNDERSIZED_SQUAD_WINS_NAME",
       "versionKey": "NULL",
-      "value": "437",
+      "value": "440",
       "index": 18
     },
     {
@@ -119404,7 +119404,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "501218",
+      "value": "501758",
       "index": 16
     },
     {
@@ -119428,13 +119428,13 @@
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "2569",
+      "value": "2574",
       "index": 14
     },
     {
       "nameKey": "STAT_SEASON_TERRITORIES_DEFEATED_NAME",
       "versionKey": "NULL",
-      "value": "1227",
+      "value": "1228",
       "index": 19
     }
   ],
@@ -119991,7 +119991,7 @@
       "league": "AURODIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 389,
+      "seasonPoints": 929,
       "division": 10,
       "joinTime": "1718663828000",
       "endTime": "1720990800000",
@@ -120202,7 +120202,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1718901068000",
+  "lastActivityTime": "1718901692000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },

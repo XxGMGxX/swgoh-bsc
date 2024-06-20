@@ -143987,7 +143987,7 @@
       "joinTime": "1718684290000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 16452
+      "rank": 16454
     }
   ],
   "datacron": [
@@ -144039,7 +144039,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -480,
-  "lastActivityTime": "1718901084000",
+  "lastActivityTime": "1718901180000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SCOUTTROOPER"
   },
