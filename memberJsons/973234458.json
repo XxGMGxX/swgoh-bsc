@@ -146040,7 +146040,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "157130",
+      "value": "157139",
       "index": 7
     },
     {
@@ -147179,7 +147179,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1718866908000",
+  "lastActivityTime": "1718867452000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL_GRIEVOUS"
   },
