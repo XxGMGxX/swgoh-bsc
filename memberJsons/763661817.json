@@ -40667,11 +40667,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 3,
+      "currentTier": 4,
       "relic": {
         "currentTier": 1
       },
-      "gp": 4938
+      "gp": 5190
     },
     {
       "skill": [
@@ -94705,13 +94705,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3384874",
+      "value": "3385126",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "32547",
+      "value": "32569",
       "index": 8
     },
     {
@@ -94729,7 +94729,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_EXCHANGE_DONATIONS_TU07_2",
       "versionKey": "NULL",
-      "value": "1160",
+      "value": "1164",
       "index": 12
     },
     {
@@ -94747,13 +94747,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5892687",
+      "value": "5892939",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "131032",
+      "value": "131065",
       "index": 7
     },
     {
@@ -95548,7 +95548,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 360,
-  "lastActivityTime": "1718872883000",
+  "lastActivityTime": "1718873098000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GLKENOBI"
   },

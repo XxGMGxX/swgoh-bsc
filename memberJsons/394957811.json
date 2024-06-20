@@ -16177,6 +16177,10 @@
           "slot": 2
         },
         {
+          "equipmentId": "107",
+          "slot": 3
+        },
+        {
           "equipmentId": "144",
           "slot": 5
         }
@@ -16910,7 +16914,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 19455
+      "gp": 19632
     },
     {
       "skill": [
@@ -57613,6 +57617,10 @@
       ],
       "equipment": [
         {
+          "equipmentId": "172",
+          "slot": 0
+        },
+        {
           "equipmentId": "105",
           "slot": 2
         },
@@ -58376,7 +58384,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 17514
+      "gp": 17656
     },
     {
       "skill": [
@@ -124852,13 +124860,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4385374",
+      "value": "4385693",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "42509",
+      "value": "42524",
       "index": 8
     },
     {
@@ -124870,7 +124878,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1439437",
+      "value": "1439927",
       "index": 11
     },
     {
@@ -124882,7 +124890,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "322527",
+      "value": "323054",
       "index": 16
     },
     {
@@ -124894,25 +124902,25 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7179767",
+      "value": "7180086",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "117231",
+      "value": "117257",
       "index": 7
     },
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "1382",
+      "value": "1385",
       "index": 14
     },
     {
       "nameKey": "STAT_SEASON_TERRITORIES_DEFEATED_NAME",
       "versionKey": "NULL",
-      "value": "539",
+      "value": "541",
       "index": 19
     }
   ],
@@ -125481,12 +125489,12 @@
       "league": "BRONZIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 0,
+      "seasonPoints": 527,
       "division": 10,
       "joinTime": "1718660867000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 3420
+      "rank": 3421
     }
   ],
   "datacron": [
@@ -125527,7 +125535,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1718790140000",
+  "lastActivityTime": "1718873500000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SITHTROOPER"
   },
