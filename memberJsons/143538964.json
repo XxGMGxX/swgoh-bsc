@@ -93989,7 +93989,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 13606
+      "rank": 13608
     }
   ],
   "datacron": [
@@ -94409,6 +94409,18 @@
           "requiredUnitTier": 0,
           "requiredRelicTier": 3,
           "scopeIcon": ""
+        },
+        {
+          "tag": [
+            "lightside"
+          ],
+          "targetRule": "target_datacron_lightside",
+          "abilityId": "datacron_alignment_generic_031",
+          "statType": 1,
+          "statValue": "0",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 3,
+          "scopeIcon": "tex.datacronui_affix_lightside"
         }
       ],
       "rerollOption": [],
@@ -94417,7 +94429,7 @@
       "templateId": "datacron_set_15_base",
       "locked": false,
       "rerollIndex": 0,
-      "rerollCount": 0
+      "rerollCount": 1
     },
     {
       "tag": [],
@@ -94612,7 +94624,7 @@
             "darkside"
           ],
           "targetRule": "target_datacron_firstorder",
-          "abilityId": "datacron_faction_generic_026",
+          "abilityId": "datacron_faction_generic_012",
           "statType": 1,
           "statValue": "0",
           "requiredUnitTier": 0,
@@ -94638,6 +94650,19 @@
           "requiredUnitTier": 0,
           "requiredRelicTier": 5,
           "scopeIcon": ""
+        },
+        {
+          "tag": [
+            "firstorder",
+            "darkside"
+          ],
+          "targetRule": "target_datacron_supremeleaderkyloren",
+          "abilityId": "datacron_character_generic_030",
+          "statType": 1,
+          "statValue": "0",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 7,
+          "scopeIcon": "tex.charui_kyloren_tros"
         }
       ],
       "rerollOption": [],
@@ -94646,7 +94671,7 @@
       "templateId": "datacron_set_15_base",
       "locked": false,
       "rerollIndex": 0,
-      "rerollCount": 3
+      "rerollCount": 4
     },
     {
       "tag": [],
@@ -94773,7 +94798,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1718902880000",
+  "lastActivityTime": "1718903497000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
