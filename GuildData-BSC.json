@@ -65,7 +65,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1718923295000",
+        "lastActivityTime": "1718923908000",
         "squadPower": 180381,
         "guildJoinTime": "1652378136",
         "galacticPower": "8221806",
@@ -1053,8 +1053,8 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1718923246000",
-        "squadPower": 67270,
+        "lastActivityTime": "1718923911000",
+        "squadPower": 149581,
         "guildJoinTime": "1652389663",
         "galacticPower": "8645204",
         "playerTitle": "PLAYERTITLE_GLJMLS_QUEST_001",
@@ -3278,8 +3278,8 @@
           },
           {
             "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "81830"
+            "currentValue": "212",
+            "lifetimeValue": "82042"
           },
           {
             "type": 3,
@@ -3333,7 +3333,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1718922395000",
+        "lastActivityTime": "1718923717000",
         "squadPower": 174155,
         "guildJoinTime": "1704054010",
         "galacticPower": "7058401",
@@ -5244,10 +5244,10 @@
       "leaderboardScore": "0",
       "bannerColorId": "red_white",
       "bannerLogoId": "guild_icon_Rebel",
-      "guildGalacticPower": "371259114",
+      "guildGalacticPower": "371261109",
       "chatChannelId": "guild-{8qYzrHcISr-VJgiyDdMldw}",
       "guildType": "",
-      "guildGalacticPowerForRequirement": "371259114",
+      "guildGalacticPowerForRequirement": "371261109",
       "singleLaunchConfig": {
         "raidId": "speederbike",
         "campaignMissionIdentifier": {

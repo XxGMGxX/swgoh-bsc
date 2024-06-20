@@ -25475,7 +25475,7 @@
       "purchasedAbilityId": [],
       "id": "QVWbWkTzQWSmObtOxYZsyA",
       "definitionId": "Merrin",
-      "currentRarity": 6,
+      "currentRarity": 7,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -25484,7 +25484,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 16362
+      "gp": 18357
     },
     {
       "skill": [
@@ -141426,7 +141426,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5005806",
+      "value": "5007801",
       "index": 2
     },
     {
@@ -141468,7 +141468,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8771100",
+      "value": "8773095",
       "index": 1
     },
     {
@@ -142267,7 +142267,7 @@
       "joinTime": "1718731713000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 7031
+      "rank": 7121
     }
   ],
   "datacron": [
@@ -142548,7 +142548,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1718923278000",
+  "lastActivityTime": "1718923299000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
