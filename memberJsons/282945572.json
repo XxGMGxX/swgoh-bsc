@@ -143063,7 +143063,7 @@
       "joinTime": "1718658633000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 25333
+      "rank": 25668
     }
   ],
   "datacron": [
@@ -145154,11 +145154,11 @@
   "lifetimeSeasonScore": "80356",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 3088
+      "skillRating": 3045
     },
     "playerRankStatus": {
       "leagueId": "KYBER",
-      "divisionId": 15
+      "divisionId": 10
     }
   },
   "nucleusId": "2794343642"
