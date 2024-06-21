@@ -22393,22 +22393,31 @@
     },
     {
       "skill": [],
-      "equipment": [],
+      "equipment": [
+        {
+          "equipmentId": "072",
+          "slot": 0
+        },
+        {
+          "equipmentId": "072",
+          "slot": 3
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
       "id": "E1YMjDNuTB2CZRsaacKigg",
       "definitionId": "Admiral Raddus",
       "currentRarity": 2,
-      "currentLevel": 1,
-      "currentXp": 0,
+      "currentLevel": 85,
+      "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 1,
+      "currentTier": 8,
       "relic": {
         "currentTier": 1
       },
-      "gp": 451
+      "gp": 5089
     },
     {
       "skill": [
@@ -36668,35 +36677,22 @@
           "tier": 6
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "095",
-          "slot": 3
-        },
-        {
-          "equipmentId": "088",
-          "slot": 4
-        },
-        {
-          "equipmentId": "072",
-          "slot": 5
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
       "id": "ZQPvc-DkQeuBrZxtiM6iBA",
       "definitionId": "Mon Mothma",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 7,
+      "currentTier": 9,
       "relic": {
         "currentTier": 1
       },
-      "gp": 9081
+      "gp": 11287
     },
     {
       "skill": [
@@ -94705,13 +94701,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3385126",
+      "value": "3391970",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "32569",
+      "value": "32606",
       "index": 8
     },
     {
@@ -94723,7 +94719,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1154047",
+      "value": "1154251",
       "index": 11
     },
     {
@@ -94747,13 +94743,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5892939",
+      "value": "5899783",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "131076",
+      "value": "131207",
       "index": 7
     },
     {
@@ -95375,7 +95371,7 @@
       "joinTime": "1718739932000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 12552
+      "rank": 12556
     }
   ],
   "datacron": [
@@ -95548,7 +95544,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 360,
-  "lastActivityTime": "1718997099000",
+  "lastActivityTime": "1718997713000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GLKENOBI"
   },
