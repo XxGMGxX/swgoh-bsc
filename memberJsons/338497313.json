@@ -2005,7 +2005,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 42929
+      "gp": 43212
     },
     {
       "skill": [
@@ -18843,6 +18843,10 @@
           "slot": 0
         },
         {
+          "equipmentId": "158",
+          "slot": 1
+        },
+        {
           "equipmentId": "G12Finisher_CHEWBACCALEGENDARY_A",
           "slot": 5
         }
@@ -18861,7 +18865,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 16807
+      "gp": 17017
     },
     {
       "skill": [
@@ -23411,7 +23415,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "1772946",
+      "value": "1773229",
       "index": 3
     },
     {
@@ -23465,7 +23469,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3152875",
+      "value": "3153085",
       "index": 2
     },
     {
@@ -23507,13 +23511,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4925821",
+      "value": "4926314",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "109140",
+      "value": "109145",
       "index": 7
     },
     {
@@ -24033,7 +24037,7 @@
       "joinTime": "1718662189000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 1833
+      "rank": 1827
     }
   ],
   "datacron": [
@@ -24239,7 +24243,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1718940088000",
+  "lastActivityTime": "1718940229000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MANDALORIAN"
   },
