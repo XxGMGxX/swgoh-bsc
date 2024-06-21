@@ -10297,14 +10297,14 @@
       "purchasedAbilityId": [],
       "id": "ATl4oJf1TCGd9-jnLyKC3w",
       "definitionId": "MG-100 StarFortress SF-17",
-      "currentRarity": 2,
+      "currentRarity": 3,
       "currentLevel": 85,
       "currentXp": 873200,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 7024
+      "gp": 7265
     },
     {
       "skill": [
@@ -13086,7 +13086,7 @@
       "purchasedAbilityId": [],
       "id": "6GiV7kABTo2W_ttlH-k1pg",
       "definitionId": "Dark Trooper",
-      "currentRarity": 6,
+      "currentRarity": 7,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -13095,7 +13095,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 7779
+      "gp": 9774
     },
     {
       "skill": [
@@ -20453,14 +20453,14 @@
       "purchasedAbilityId": [],
       "id": "MSbP7NvJQVqfkZ2P546RyQ",
       "definitionId": "Sun Fac's Geonosian Starfighter",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 873200,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 22688
+      "gp": 24264
     },
     {
       "skill": [
@@ -23415,7 +23415,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "1773229",
+      "value": "1775046",
       "index": 3
     },
     {
@@ -23469,7 +23469,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3153085",
+      "value": "3155080",
       "index": 2
     },
     {
@@ -23511,7 +23511,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4926314",
+      "value": "4930126",
       "index": 1
     },
     {
@@ -24037,7 +24037,7 @@
       "joinTime": "1718662189000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 1439
+      "rank": 1436
     }
   ],
   "datacron": [
@@ -24243,7 +24243,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1718970718000",
+  "lastActivityTime": "1718971313000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MANDALORIAN"
   },
