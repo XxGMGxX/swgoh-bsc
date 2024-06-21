@@ -50761,28 +50761,7 @@
           "tier": 6
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "144",
-          "slot": 0
-        },
-        {
-          "equipmentId": "129",
-          "slot": 1
-        },
-        {
-          "equipmentId": "112",
-          "slot": 2
-        },
-        {
-          "equipmentId": "173",
-          "slot": 3
-        },
-        {
-          "equipmentId": "141",
-          "slot": 4
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -51498,11 +51477,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 11,
+      "currentTier": 12,
       "relic": {
         "currentTier": 1
       },
-      "gp": 18787
+      "gp": 18985
     },
     {
       "skill": [
@@ -129407,13 +129386,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4376329",
+      "value": "4376527",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "47808",
+      "value": "47812",
       "index": 8
     },
     {
@@ -129449,13 +129428,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7586511",
+      "value": "7586709",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "132821",
+      "value": "132831",
       "index": 7
     },
     {
@@ -130143,7 +130122,7 @@
       "joinTime": "1718658068000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 9191
+      "rank": 9183
     }
   ],
   "datacron": [
@@ -130574,7 +130553,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1718926684000",
+  "lastActivityTime": "1718931711000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
