@@ -127212,6 +127212,46 @@
     {
       "skill": [
         {
+          "id": "basicskill_GLLEIA",
+          "tier": 1
+        },
+        {
+          "id": "specialskill_GLLEIA01",
+          "tier": 1
+        },
+        {
+          "id": "specialskill_GLLEIA02",
+          "tier": 1
+        },
+        {
+          "id": "leaderskill_GLLEIA",
+          "tier": 1
+        },
+        {
+          "id": "uniqueskill_GLLEIA01",
+          "tier": 1
+        }
+      ],
+      "equipment": [],
+      "equippedStatModOld": [],
+      "equippedStatMod": [],
+      "purchasedAbilityId": [],
+      "id": "A2kpvyj3TFq7-zN4fttU8Q",
+      "definitionId": "Leia Organa",
+      "currentRarity": 7,
+      "currentLevel": 85,
+      "currentXp": 883025,
+      "promotionRecipeReference": "",
+      "unitStat": null,
+      "currentTier": 13,
+      "relic": {
+        "currentTier": 2
+      },
+      "gp": 29047
+    },
+    {
+      "skill": [
+        {
           "id": "leaderskill_URORRURRR",
           "tier": 5
         },
@@ -145387,7 +145427,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4678436",
+      "value": "4707483",
       "index": 2
     },
     {
@@ -145429,13 +145469,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8321475",
+      "value": "8350522",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "164584",
+      "value": "164597",
       "index": 7
     },
     {
@@ -146201,7 +146241,7 @@
       "joinTime": "1718658394000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 13264
+      "rank": 13263
     }
   ],
   "datacron": [
@@ -146833,7 +146873,7 @@
   "selectedPlayerTitle": null,
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -60,
-  "lastActivityTime": "1718976096000",
+  "lastActivityTime": "1718976710000",
   "selectedPlayerPortrait": null,
   "lifetimeSeasonScore": "99683",
   "playerRating": {
