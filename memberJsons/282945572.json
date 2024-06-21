@@ -140663,23 +140663,57 @@
       "gp": 28909
     },
     {
-      "skill": [],
-      "equipment": [],
+      "skill": [
+        {
+          "id": "uniqueskill_DARTHBANE01",
+          "tier": 4
+        },
+        {
+          "id": "basicskill_DARTHBANE",
+          "tier": 4
+        },
+        {
+          "id": "specialskill_DARTHBANE01",
+          "tier": 4
+        },
+        {
+          "id": "specialskill_DARTHBANE02",
+          "tier": 4
+        },
+        {
+          "id": "leaderskill_DARTHBANE",
+          "tier": 3
+        }
+      ],
+      "equipment": [
+        {
+          "equipmentId": "077",
+          "slot": 0
+        },
+        {
+          "equipmentId": "055",
+          "slot": 1
+        },
+        {
+          "equipmentId": "064",
+          "slot": 2
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
       "id": "x3cC-ZKzR6ay8n3DvsrmVA",
       "definitionId": "Darth Bane",
       "currentRarity": 7,
-      "currentLevel": 1,
-      "currentXp": 0,
+      "currentLevel": 63,
+      "currentXp": 200040,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 1,
+      "currentTier": 7,
       "relic": {
         "currentTier": 1
       },
-      "gp": 4656
+      "gp": 9255
     },
     {
       "skill": [],
@@ -142329,13 +142363,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4341755",
+      "value": "4346354",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53628",
+      "value": "53634",
       "index": 8
     },
     {
@@ -142371,13 +142405,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7669584",
+      "value": "7674183",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "161266",
+      "value": "161280",
       "index": 7
     },
     {
@@ -143082,7 +143116,7 @@
       "joinTime": "1718658633000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 12341
+      "rank": 12384
     }
   ],
   "datacron": [
@@ -145166,7 +145200,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1718949677000",
+  "lastActivityTime": "1718950281000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },

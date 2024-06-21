@@ -93993,7 +93993,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 2737
+      "rank": 2754
     }
   ],
   "datacron": [
@@ -94447,6 +94447,16 @@
           "requiredUnitTier": 0,
           "requiredRelicTier": 3,
           "scopeIcon": "tex.datacronui_affix_darkside"
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 54,
+          "statValue": "12662502",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": ""
         }
       ],
       "rerollOption": [],
@@ -94758,7 +94768,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1718949689000",
+  "lastActivityTime": "1718950270000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
