@@ -140318,7 +140318,7 @@
         },
         {
           "id": "leaderskill_DARTHBANE",
-          "tier": 4
+          "tier": 5
         }
       ],
       "equipment": [
@@ -140337,6 +140337,10 @@
         {
           "equipmentId": "172",
           "slot": 3
+        },
+        {
+          "equipmentId": "117",
+          "slot": 4
         }
       ],
       "equippedStatModOld": [],
@@ -141070,15 +141074,15 @@
       "id": "x3cC-ZKzR6ay8n3DvsrmVA",
       "definitionId": "Darth Bane",
       "currentRarity": 7,
-      "currentLevel": 71,
-      "currentXp": 386250,
+      "currentLevel": 72,
+      "currentXp": 389040,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 8,
       "relic": {
         "currentTier": 1
       },
-      "gp": 12589
+      "gp": 12939
     },
     {
       "skill": [],
@@ -142488,7 +142492,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4348402",
+      "value": "4348752",
       "index": 2
     },
     {
@@ -142530,13 +142534,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7676231",
+      "value": "7676581",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "161324",
+      "value": "161335",
       "index": 7
     },
     {
@@ -143241,7 +143245,7 @@
       "joinTime": "1718658633000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 13311
+      "rank": 13318
     }
   ],
   "datacron": [
@@ -145325,7 +145329,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1718986313000",
+  "lastActivityTime": "1718986622000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
