@@ -142498,7 +142498,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53657",
+      "value": "53667",
       "index": 8
     },
     {
@@ -142540,7 +142540,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "161337",
+      "value": "161348",
       "index": 7
     },
     {
@@ -143245,7 +143245,7 @@
       "joinTime": "1718658633000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 13373
+      "rank": 13377
     }
   ],
   "datacron": [
@@ -145009,6 +145009,26 @@
           "requiredUnitTier": 0,
           "requiredRelicTier": 3,
           "scopeIcon": "tex.datacronui_affix_lightside"
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 53,
+          "statValue": "6894036",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": ""
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 54,
+          "statValue": "13593402",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": ""
         }
       ],
       "rerollOption": [],
@@ -145304,6 +145324,19 @@
           "requiredUnitTier": 0,
           "requiredRelicTier": 5,
           "scopeIcon": ""
+        },
+        {
+          "tag": [
+            "firstorder",
+            "darkside"
+          ],
+          "targetRule": "target_datacron_firstorder",
+          "abilityId": "datacron_faction_generic_012",
+          "statType": 1,
+          "statValue": "0",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": "tex.datacronui_affix_firstorder"
         }
       ],
       "rerollOption": [],
@@ -145329,7 +145362,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1718989241000",
+  "lastActivityTime": "1718993204000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
