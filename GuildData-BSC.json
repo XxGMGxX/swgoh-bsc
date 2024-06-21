@@ -162,13 +162,13 @@
           },
           {
             "type": 2,
-            "currentValue": "0",
-            "lifetimeValue": "440884"
+            "currentValue": "160",
+            "lifetimeValue": "441044"
           },
           {
             "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "570045"
+            "currentValue": "228",
+            "lifetimeValue": "570273"
           }
         ],
         "seasonStatus": [
@@ -217,7 +217,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1718920844000",
+        "lastActivityTime": "1718947907000",
         "squadPower": 185404,
         "guildJoinTime": "1652378139",
         "galacticPower": "8531833",
@@ -2269,7 +2269,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1718947289000",
+        "lastActivityTime": "1718947636000",
         "squadPower": 186754,
         "guildJoinTime": "1653076184",
         "galacticPower": "7897458",
@@ -3333,7 +3333,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1718947161000",
+        "lastActivityTime": "1718947579000",
         "squadPower": 174155,
         "guildJoinTime": "1704054010",
         "galacticPower": "7058401",
@@ -3713,7 +3713,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1718947285000",
+        "lastActivityTime": "1718947890000",
         "squadPower": 154897,
         "guildJoinTime": "1715387579",
         "galacticPower": "4988258",
