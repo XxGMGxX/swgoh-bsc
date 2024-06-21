@@ -107548,7 +107548,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "37603",
+      "value": "37611",
       "index": 8
     },
     {
@@ -107590,7 +107590,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "100311",
+      "value": "100319",
       "index": 7
     },
     {
@@ -107687,7 +107687,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1718929545000",
+        "lastSaveTime": "1718949686000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -108174,7 +108174,7 @@
       "joinTime": "1718660515000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 6990
+      "rank": 7043
     }
   ],
   "datacron": [
@@ -108366,7 +108366,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1718949097000",
+  "lastActivityTime": "1718949687000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },

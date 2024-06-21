@@ -140668,6 +140668,25 @@
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
+      "id": "x3cC-ZKzR6ay8n3DvsrmVA",
+      "definitionId": "Darth Bane",
+      "currentRarity": 7,
+      "currentLevel": 1,
+      "currentXp": 0,
+      "promotionRecipeReference": "",
+      "unitStat": null,
+      "currentTier": 1,
+      "relic": {
+        "currentTier": 1
+      },
+      "gp": 4656
+    },
+    {
+      "skill": [],
+      "equipment": [],
+      "equippedStatModOld": [],
+      "equippedStatMod": [],
+      "purchasedAbilityId": [],
       "id": "102imAIVT76qv2g4UnqQbw",
       "definitionId": "IG-12 & Grogu",
       "currentRarity": 3,
@@ -142310,7 +142329,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4337099",
+      "value": "4341755",
       "index": 2
     },
     {
@@ -142352,7 +142371,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7664928",
+      "value": "7669584",
       "index": 1
     },
     {
@@ -143063,7 +143082,7 @@
       "joinTime": "1718658633000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 12307
+      "rank": 12341
     }
   ],
   "datacron": [
@@ -145147,7 +145166,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1718949118000",
+  "lastActivityTime": "1718949677000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
