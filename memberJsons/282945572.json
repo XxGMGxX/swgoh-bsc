@@ -142522,7 +142522,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "125890",
+      "value": "125961",
       "index": 16
     },
     {
@@ -142546,7 +142546,7 @@
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "866",
+      "value": "867",
       "index": 14
     },
     {
@@ -143240,7 +143240,7 @@
       "league": "KYBER",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 714,
+      "seasonPoints": 785,
       "division": 15,
       "joinTime": "1718658633000",
       "endTime": "1720990800000",
@@ -145362,7 +145362,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719004238000",
+  "lastActivityTime": "1719004490000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
