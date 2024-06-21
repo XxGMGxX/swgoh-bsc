@@ -141313,7 +141313,7 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "904",
+      "value": "905",
       "index": 5
     },
     {
@@ -141367,7 +141367,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "28331",
+      "value": "28348",
       "index": 8
     },
     {
@@ -141409,7 +141409,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "100167",
+      "value": "100198",
       "index": 7
     },
     {
@@ -141586,7 +141586,7 @@
     },
     {
       "tab": 2,
-      "rank": 13,
+      "rank": 8,
       "squad": {
         "cell": [
           {
@@ -142071,7 +142071,7 @@
       "joinTime": "1718670216000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 7990
+      "rank": 8003
     }
   ],
   "datacron": [
@@ -142178,7 +142178,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 420,
-  "lastActivityTime": "1718967477000",
+  "lastActivityTime": "1718968229000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_CHEWBACCA"
   },
