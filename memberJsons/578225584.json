@@ -20885,7 +20885,7 @@
         },
         {
           "id": "specialskill_MG100STARFORTRESSSF1702",
-          "tier": 5
+          "tier": 6
         }
       ],
       "equipment": [],
@@ -20901,7 +20901,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 36071
+      "gp": 36281
     },
     {
       "skill": [
@@ -56110,13 +56110,13 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2691737",
+      "value": "2691947",
       "index": 3
     },
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "423",
+      "value": "424",
       "index": 5
     },
     {
@@ -56170,7 +56170,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "43728",
+      "value": "43733",
       "index": 8
     },
     {
@@ -56206,13 +56206,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6449070",
+      "value": "6449280",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "149772",
+      "value": "149781",
       "index": 7
     },
     {
@@ -56317,7 +56317,7 @@
     },
     {
       "tab": 2,
-      "rank": 76,
+      "rank": 64,
       "squad": {
         "cell": [
           {
@@ -56735,7 +56735,7 @@
       "joinTime": "1718678015000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 12206
+      "rank": 12197
     }
   ],
   "datacron": [
@@ -56776,7 +56776,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1718934706000",
+  "lastActivityTime": "1718934922000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDI_GENERAL"
   },
