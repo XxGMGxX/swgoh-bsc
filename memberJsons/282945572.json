@@ -141075,7 +141075,7 @@
       "definitionId": "Darth Bane",
       "currentRarity": 7,
       "currentLevel": 72,
-      "currentXp": 389040,
+      "currentXp": 403260,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 8,
@@ -142498,7 +142498,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53656",
+      "value": "53657",
       "index": 8
     },
     {
@@ -142540,7 +142540,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "161335",
+      "value": "161337",
       "index": 7
     },
     {
@@ -143245,7 +143245,7 @@
       "joinTime": "1718658633000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 13341
+      "rank": 13348
     }
   ],
   "datacron": [
@@ -145329,7 +145329,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1718986622000",
+  "lastActivityTime": "1718989241000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
