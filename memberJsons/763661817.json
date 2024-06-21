@@ -94745,7 +94745,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "32613",
+      "value": "32625",
       "index": 8
     },
     {
@@ -94787,7 +94787,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "131223",
+      "value": "131235",
       "index": 7
     },
     {
@@ -95409,7 +95409,7 @@
       "joinTime": "1718739932000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 12560
+      "rank": 12568
     }
   ],
   "datacron": [
@@ -95566,6 +95566,70 @@
       "locked": false,
       "rerollIndex": 0,
       "rerollCount": 4
+    },
+    {
+      "tag": [],
+      "affix": [
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 52,
+          "statValue": "5025622",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 3,
+          "scopeIcon": ""
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 25,
+          "statValue": "41177938",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 3,
+          "scopeIcon": ""
+        },
+        {
+          "tag": [
+            "darkside"
+          ],
+          "targetRule": "target_datacron_darkside",
+          "abilityId": "datacron_alignment_generic_012",
+          "statType": 1,
+          "statValue": "0",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 3,
+          "scopeIcon": "tex.datacronui_affix_darkside"
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 54,
+          "statValue": "14711556",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": ""
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 48,
+          "statValue": "5073607",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": ""
+        }
+      ],
+      "rerollOption": [],
+      "id": "FMljYsfnSs2fai8CgiqKdA",
+      "setId": 15,
+      "templateId": "datacron_set_15_base",
+      "locked": false,
+      "rerollIndex": 0,
+      "rerollCount": 0
     }
   ],
   "name": "LJAutomatic",
@@ -95582,7 +95646,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 360,
-  "lastActivityTime": "1718998275000",
+  "lastActivityTime": "1718998775000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GLKENOBI"
   },
