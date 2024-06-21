@@ -19955,7 +19955,7 @@
         },
         {
           "id": "specialskill_FIFTHBROTHER02",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "uniqueskill_FIFTHBROTHER",
@@ -20597,7 +20597,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 15733
+      "gp": 18139
     },
     {
       "skill": [
@@ -25407,7 +25407,7 @@
         },
         {
           "id": "specialskill_EIGHTHBROTHER02",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "uniqueskill_EIGHTHBROTHER01",
@@ -26059,7 +26059,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 15646
+      "gp": 18052
     },
     {
       "skill": [
@@ -91412,7 +91412,7 @@
         },
         {
           "id": "specialskill_NINTHSISTER02",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "uniqueskill_INQUISITOR01_TANK",
@@ -92050,7 +92050,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 14391
+      "gp": 16797
     },
     {
       "skill": [
@@ -135972,7 +135972,7 @@
         },
         {
           "id": "specialskill_SEVENTHSISTER02",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "uniqueskill_SEVENTHSISTER04",
@@ -135987,7 +135987,24 @@
           "tier": 1
         }
       ],
-      "equipment": [],
+      "equipment": [
+        {
+          "equipmentId": "162",
+          "slot": 0
+        },
+        {
+          "equipmentId": "160",
+          "slot": 1
+        },
+        {
+          "equipmentId": "167",
+          "slot": 3
+        },
+        {
+          "equipmentId": "171",
+          "slot": 4
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -136475,7 +136492,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 17607
+      "gp": 20853
     },
     {
       "skill": [
@@ -146124,7 +146141,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4716684",
+      "value": "4727148",
       "index": 2
     },
     {
@@ -146166,7 +146183,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8359972",
+      "value": "8370436",
       "index": 1
     },
     {
@@ -146938,7 +146955,7 @@
       "joinTime": "1718658394000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 13265
+      "rank": 13264
     }
   ],
   "datacron": [
@@ -147570,7 +147587,7 @@
   "selectedPlayerTitle": null,
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -60,
-  "lastActivityTime": "1718978930000",
+  "lastActivityTime": "1718980286000",
   "selectedPlayerPortrait": null,
   "lifetimeSeasonScore": "99683",
   "playerRating": {
