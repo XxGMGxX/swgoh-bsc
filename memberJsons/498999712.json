@@ -3101,15 +3101,19 @@
       "skill": [
         {
           "id": "basicskill_FIRSTORDERTIEECHELON",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "uniqueskill_FIRSTORDERTIEECHELON01",
-          "tier": 4
+          "tier": 6
         },
         {
           "id": "hardwareskill_FIRSTORDERTIEECHELON",
           "tier": 1
+        },
+        {
+          "id": "specialskill_FIRSTORDERTIEECHELON01",
+          "tier": 0
         }
       ],
       "equipment": [],
@@ -3125,7 +3129,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 21060
+      "gp": 21699
     },
     {
       "skill": [
@@ -4813,7 +4817,7 @@
       "purchasedAbilityId": [],
       "id": "idjmiyHgRs-V-B8RqzZbeg",
       "definitionId": "BB-8",
-      "currentRarity": 6,
+      "currentRarity": 7,
       "currentLevel": 1,
       "currentXp": 0,
       "promotionRecipeReference": "",
@@ -4822,7 +4826,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 2661
+      "gp": 4656
     },
     {
       "skill": [
@@ -9081,14 +9085,14 @@
       "purchasedAbilityId": [],
       "id": "lSJTcIjFQHS-TdhseKx37Q",
       "definitionId": "Scimitar",
-      "currentRarity": 4,
+      "currentRarity": 5,
       "currentLevel": 85,
       "currentXp": 873200,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 17465
+      "gp": 18727
     },
     {
       "skill": [],
@@ -9136,7 +9140,7 @@
       "purchasedAbilityId": [],
       "id": "piIxV16nSPm0NsZFUwu2Yw",
       "definitionId": "50R-T",
-      "currentRarity": 4,
+      "currentRarity": 5,
       "currentLevel": 1,
       "currentXp": 0,
       "promotionRecipeReference": "",
@@ -9145,7 +9149,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 1014
+      "gp": 1521
     },
     {
       "skill": [
@@ -13081,7 +13085,7 @@
       "skill": [
         {
           "id": "specialskill_TIEFIGHTERFIRSTORDER01",
-          "tier": 2
+          "tier": 3
         },
         {
           "id": "basicskill_TIEFIGHTERFIRSTORDER",
@@ -13105,7 +13109,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 33555
+      "gp": 33668
     },
     {
       "skill": [],
@@ -13919,7 +13923,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 6233
+      "gp": 6757
     },
     {
       "skill": [],
@@ -31509,7 +31513,7 @@
       "purchasedAbilityId": [],
       "id": "AUlUU398QVKiEVa9oC12qg",
       "definitionId": "Luminara Unduli",
-      "currentRarity": 4,
+      "currentRarity": 5,
       "currentLevel": 49,
       "currentXp": 57025,
       "promotionRecipeReference": "",
@@ -31518,7 +31522,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 2241
+      "gp": 2748
     },
     {
       "skill": [
@@ -34863,7 +34867,7 @@
       "purchasedAbilityId": [],
       "id": "ZO5uuyrlT5SnGfDoM4Fcqw",
       "definitionId": "Rey (Scavenger)",
-      "currentRarity": 4,
+      "currentRarity": 5,
       "currentLevel": 40,
       "currentXp": 18540,
       "promotionRecipeReference": "",
@@ -34872,7 +34876,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 1365
+      "gp": 1872
     },
     {
       "skill": [
@@ -41071,7 +41075,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 1066
+      "gp": 1279
     },
     {
       "skill": [
@@ -74634,7 +74638,7 @@
       "purchasedAbilityId": [],
       "id": "jcroiw4wTACEPx0dprVC5Q",
       "definitionId": "Rose Tico",
-      "currentRarity": 2,
+      "currentRarity": 3,
       "currentLevel": 1,
       "currentXp": 0,
       "promotionRecipeReference": "",
@@ -74643,7 +74647,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 451
+      "gp": 676
     },
     {
       "skill": [
@@ -84911,7 +84915,7 @@
         },
         {
           "id": "specialskill_commandshuttle03",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "hardwareskill_commandshuttle",
@@ -84935,7 +84939,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 23676
+      "gp": 23886
     },
     {
       "skill": [
@@ -94917,7 +94921,7 @@
       "purchasedAbilityId": [],
       "id": "J6jBzHCoR8-bGKXpJWuwKQ",
       "definitionId": "Amilyn Holdo",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 1,
       "currentXp": 0,
       "promotionRecipeReference": "",
@@ -94926,7 +94930,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 1521
+      "gp": 2661
     },
     {
       "skill": [],
@@ -107484,7 +107488,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2721576",
+      "value": "2724537",
       "index": 3
     },
     {
@@ -107538,7 +107542,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3372054",
+      "value": "3376935",
       "index": 2
     },
     {
@@ -107580,7 +107584,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6093630",
+      "value": "6101472",
       "index": 1
     },
     {
@@ -108170,7 +108174,7 @@
       "joinTime": "1718660515000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 5394
+      "rank": 5458
     }
   ],
   "datacron": [
@@ -108362,7 +108366,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1718928081000",
+  "lastActivityTime": "1718928662000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
