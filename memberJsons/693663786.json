@@ -141629,19 +141629,21 @@
           "secondaryStat": [
             {
               "roll": [
-                "0.15504"
+                "0.15504",
+                "0.17346"
               ],
               "unscaledRollValue": [
-                "1744"
+                "1744",
+                "1951"
               ],
               "stat": {
                 "unitStatId": 17,
-                "statValueDecimal": "174",
-                "unscaledDecimalValue": "1744000",
+                "statValueDecimal": "369",
+                "unscaledDecimalValue": "3696000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 1,
+              "statRolls": 2,
               "statRollerBoundsMin": "1125",
               "statRollerBoundsMax": "2250"
             },
@@ -141707,7 +141709,7 @@
           "id": "6rUnYaN3RnKHMs6SuNblvg",
           "definitionId": "456",
           "level": 15,
-          "tier": 3,
+          "tier": 4,
           "sellValue": {
             "currency": 1,
             "quantity": 97200,
@@ -141756,7 +141758,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 14770
+      "gp": 14793
     },
     {
       "skill": [
@@ -143401,7 +143403,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "44180",
+      "value": "44205",
       "index": 8
     },
     {
@@ -143413,7 +143415,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1268267",
+      "value": "1268435",
       "index": 11
     },
     {
@@ -143443,7 +143445,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "155294",
+      "value": "155325",
       "index": 7
     },
     {
@@ -143987,7 +143989,7 @@
       "joinTime": "1718684290000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 15629
+      "rank": 15607
     }
   ],
   "datacron": [
@@ -144039,7 +144041,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -480,
-  "lastActivityTime": "1718901180000",
+  "lastActivityTime": "1718948375000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SCOUTTROOPER"
   },
