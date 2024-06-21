@@ -129420,7 +129420,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "103230",
+      "value": "103299",
       "index": 16
     },
     {
@@ -130121,7 +130121,7 @@
       "league": "CHROMIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 457,
+      "seasonPoints": 526,
       "division": 15,
       "joinTime": "1718658068000",
       "endTime": "1720990800000",

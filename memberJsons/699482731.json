@@ -73252,7 +73252,7 @@
       "purchasedAbilityId": [],
       "id": "onpEp_7uSNiuYrs8YHSg7g",
       "definitionId": "Padawan Obi-Wan",
-      "currentRarity": 3,
+      "currentRarity": 4,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -73261,7 +73261,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 7192
+      "gp": 7530
     },
     {
       "skill": [
@@ -79502,32 +79502,36 @@
       "skill": [
         {
           "id": "specialskill_JEDIKNIGHTCONSULAR02",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_JEDIKNIGHTCONSULAR01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "basicskill_JEDIKNIGHTCONSULAR",
-          "tier": 5
+          "tier": 6
         }
       ],
       "equipment": [
         {
-          "equipmentId": "116",
+          "equipmentId": "131",
+          "slot": 0
+        },
+        {
+          "equipmentId": "136",
           "slot": 1
         },
         {
-          "equipmentId": "078",
-          "slot": 3
+          "equipmentId": "129",
+          "slot": 2
         },
         {
-          "equipmentId": "057",
+          "equipmentId": "139",
           "slot": 4
         },
         {
-          "equipmentId": "071",
+          "equipmentId": "141",
           "slot": 5
         }
       ],
@@ -79541,11 +79545,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 9,
+      "currentTier": 11,
       "relic": {
         "currentTier": 1
       },
-      "gp": 12073
+      "gp": 15040
     },
     {
       "skill": [
@@ -111348,7 +111352,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 33755
+      "gp": 40431
     },
     {
       "skill": [
@@ -115393,16 +115397,7 @@
           "tier": 2
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "075",
-          "slot": 3
-        },
-        {
-          "equipmentId": "074",
-          "slot": 5
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -115413,11 +115408,11 @@
       "currentXp": 51510,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 5,
+      "currentTier": 6,
       "relic": {
         "currentTier": 1
       },
-      "gp": 6643
+      "gp": 6907
     },
     {
       "skill": [
@@ -120275,7 +120270,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3420510",
+      "value": "3427186",
       "index": 3
     },
     {
@@ -120329,13 +120324,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4801296",
+      "value": "4804865",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "43229",
+      "value": "43262",
       "index": 8
     },
     {
@@ -120371,13 +120366,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8221806",
+      "value": "8232051",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "164623",
+      "value": "164656",
       "index": 7
     },
     {
@@ -121648,7 +121643,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719004895000",
+  "lastActivityTime": "1719005127000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GRANDARENA_ADVANCED"
   },
