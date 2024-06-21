@@ -24224,24 +24224,22 @@
                 "0.13458",
                 "0.19436",
                 "0.19306",
-                "0.19321",
                 "0.14131"
               ],
               "unscaledRollValue": [
                 "61906800",
                 "89405600",
                 "88807600",
-                "88876600",
                 "65002600"
               ],
               "stat": {
                 "unitStatId": 28,
-                "statValueDecimal": "39390000",
-                "unscaledDecimalValue": "393900000000",
+                "statValueDecimal": "30510000",
+                "unscaledDecimalValue": "305100000000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 5,
+              "statRolls": 4,
               "statRollerBoundsMin": "46000000",
               "statRollerBoundsMax": "92000000"
             },
@@ -24266,20 +24264,22 @@
             {
               "roll": [
                 "0.16063",
-                "0.15058"
+                "0.15058",
+                "0.16363"
               ],
               "unscaledRollValue": [
                 "481890",
-                "451740"
+                "451740",
+                "490890"
               ],
               "stat": {
                 "unitStatId": 5,
-                "statValueDecimal": "100000",
-                "unscaledDecimalValue": "1000000000",
+                "statValueDecimal": "150000",
+                "unscaledDecimalValue": "1500000000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 2,
+              "statRolls": 3,
               "statRollerBoundsMin": "300000",
               "statRollerBoundsMax": "600000"
             }
@@ -24321,7 +24321,7 @@
           },
           "bonusQuantity": 0,
           "convertedItem": null,
-          "rerolledCount": 1
+          "rerolledCount": 2
         },
         {
           "secondaryStat": [
@@ -131623,19 +131623,21 @@
             },
             {
               "roll": [
-                "0.18961"
+                "0.18961",
+                "0.19862"
               ],
               "unscaledRollValue": [
-                "2133"
+                "2133",
+                "2234"
               ],
               "stat": {
                 "unitStatId": 53,
-                "statValueDecimal": "213",
-                "unscaledDecimalValue": "2133000",
+                "statValueDecimal": "436",
+                "unscaledDecimalValue": "4368000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 1,
+              "statRolls": 2,
               "statRollerBoundsMin": "1125",
               "statRollerBoundsMax": "2250"
             },
@@ -131661,7 +131663,7 @@
           "id": "7sfVNXFbSmecMFtocAbVow",
           "definitionId": "455",
           "level": 15,
-          "tier": 4,
+          "tier": 5,
           "sellValue": {
             "currency": 1,
             "quantity": 97200,
@@ -131832,7 +131834,7 @@
       "relic": {
         "currentTier": 7
       },
-      "gp": 27082
+      "gp": 27106
     },
     {
       "skill": [
@@ -141781,7 +141783,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4171846",
+      "value": "4171870",
       "index": 2
     },
     {
@@ -141823,7 +141825,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6620827",
+      "value": "6620851",
       "index": 1
     },
     {
@@ -142443,7 +142445,7 @@
       "joinTime": "1718662260000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 10831
+      "rank": 10890
     }
   ],
   "datacron": [
@@ -142616,7 +142618,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 120,
-  "lastActivityTime": "1718928185000",
+  "lastActivityTime": "1718930122000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GIFT_02"
   },
