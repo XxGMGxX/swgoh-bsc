@@ -80223,28 +80223,7 @@
           "tier": 0
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "165",
-          "slot": 0
-        },
-        {
-          "equipmentId": "164",
-          "slot": 1
-        },
-        {
-          "equipmentId": "165",
-          "slot": 2
-        },
-        {
-          "equipmentId": "171",
-          "slot": 4
-        },
-        {
-          "equipmentId": "G12Finisher_GLREY_B",
-          "slot": 5
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -80984,11 +80963,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 12,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 7
       },
-      "gp": 27567
+      "gp": 32331
     },
     {
       "skill": [
@@ -93397,7 +93376,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2839785",
+      "value": "2844549",
       "index": 2
     },
     {
@@ -93439,13 +93418,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5000770",
+      "value": "5005534",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "38516",
+      "value": "38552",
       "index": 7
     },
     {
@@ -94001,7 +93980,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 3581
+      "rank": 3582
     }
   ],
   "datacron": [
@@ -94776,7 +94755,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719078084000",
+  "lastActivityTime": "1719078677000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
