@@ -597,7 +597,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719099071000",
+        "lastActivityTime": "1719099693000",
         "squadPower": 169402,
         "guildJoinTime": "1652378146",
         "galacticPower": "8277945",
@@ -3501,8 +3501,8 @@
         "memberContribution": [
           {
             "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "49372"
+            "currentValue": "168",
+            "lifetimeValue": "49540"
           },
           {
             "type": 2,
@@ -3561,7 +3561,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719081561000",
+        "lastActivityTime": "1719099680000",
         "squadPower": 182205,
         "guildJoinTime": "1709059659",
         "galacticPower": "10056147",
@@ -3713,16 +3713,16 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719099053000",
+        "lastActivityTime": "1719099661000",
         "squadPower": 157174,
         "guildJoinTime": "1715387579",
-        "galacticPower": "5007529",
+        "galacticPower": "5007867",
         "playerTitle": "PLAYERTITLE_GLKYLOREN_EVENT",
         "playerPortrait": "PLAYERPORTRAIT_DARTHREVAN",
         "lifetimeSeasonScore": "0",
         "leagueId": "AURODIUM",
         "shipGalacticPower": "2160985",
-        "characterGalacticPower": "2846544",
+        "characterGalacticPower": "2846882",
         "nucleusId": "2302710608"
       },
       {
@@ -5244,10 +5244,10 @@
       "leaderboardScore": "0",
       "bannerColorId": "red_white",
       "bannerLogoId": "guild_icon_Rebel",
-      "guildGalacticPower": "371562500",
+      "guildGalacticPower": "371562838",
       "chatChannelId": "guild-{8qYzrHcISr-VJgiyDdMldw}",
       "guildType": "",
-      "guildGalacticPowerForRequirement": "371562500",
+      "guildGalacticPowerForRequirement": "371562838",
       "singleLaunchConfig": {
         "raidId": "speederbike",
         "campaignMissionIdentifier": {
