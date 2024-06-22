@@ -141379,7 +141379,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "591376",
+      "value": "591586",
       "index": 11
     },
     {
@@ -142178,7 +142178,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 420,
-  "lastActivityTime": "1718975050000",
+  "lastActivityTime": "1719014452000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_CHEWBACCA"
   },
