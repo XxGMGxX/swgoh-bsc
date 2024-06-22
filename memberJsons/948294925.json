@@ -2381,7 +2381,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 66894
+      "gp": 66932
     },
     {
       "skill": [
@@ -81252,7 +81252,7 @@
       "purchasedAbilityId": [],
       "id": "GfzTYB_WR9GO4Jyvh2aqCQ",
       "definitionId": "Tusken Warrior",
-      "currentRarity": 4,
+      "currentRarity": 5,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -81261,7 +81261,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 8646
+      "gp": 9153
     },
     {
       "skill": [
@@ -120903,20 +120903,22 @@
             {
               "roll": [
                 "0.14773",
-                "0.18867"
+                "0.18867",
+                "0.13798"
               ],
               "unscaledRollValue": [
                 "3693250",
-                "4716750"
+                "4716750",
+                "3449500"
               ],
               "stat": {
                 "unitStatId": 41,
-                "statValueDecimal": "850000",
-                "unscaledDecimalValue": "8500000000",
+                "statValueDecimal": "1190000",
+                "unscaledDecimalValue": "11900000000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 2,
+              "statRolls": 3,
               "statRollerBoundsMin": "2500000",
               "statRollerBoundsMax": "5000000"
             },
@@ -120988,7 +120990,7 @@
           "id": "hmLpiEM_TDaCE6rPyYw7bw",
           "definitionId": "461",
           "level": 15,
-          "tier": 3,
+          "tier": 4,
           "sellValue": {
             "currency": 1,
             "quantity": 221000,
@@ -121657,7 +121659,7 @@
       "relic": {
         "currentTier": 9
       },
-      "gp": 26482
+      "gp": 26499
     },
     {
       "skill": [
@@ -129340,7 +129342,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3215306",
+      "value": "3215344",
       "index": 3
     },
     {
@@ -129394,13 +129396,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4379156",
+      "value": "4379680",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "47922",
+      "value": "48002",
       "index": 8
     },
     {
@@ -129436,13 +129438,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7594462",
+      "value": "7595024",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "133063",
+      "value": "133192",
       "index": 7
     },
     {
@@ -130130,7 +130132,7 @@
       "joinTime": "1718658068000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 9109
+      "rank": 9110
     }
   ],
   "datacron": [
@@ -130561,7 +130563,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719085269000",
+  "lastActivityTime": "1719085800000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
