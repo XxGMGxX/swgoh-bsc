@@ -15068,9 +15068,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 4
+        "currentTier": 5
       },
-      "gp": 22782
+      "gp": 23692
     },
     {
       "skill": [
@@ -23469,7 +23469,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3155080",
+      "value": "3155990",
       "index": 2
     },
     {
@@ -23487,7 +23487,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "735525",
+      "value": "735735",
       "index": 11
     },
     {
@@ -23511,13 +23511,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4930126",
+      "value": "4931036",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "109203",
+      "value": "109234",
       "index": 7
     },
     {
@@ -24037,7 +24037,7 @@
       "joinTime": "1718662189000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 1314
+      "rank": 1313
     }
   ],
   "datacron": [
@@ -24243,7 +24243,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719007212000",
+  "lastActivityTime": "1719024989000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MANDALORIAN"
   },
