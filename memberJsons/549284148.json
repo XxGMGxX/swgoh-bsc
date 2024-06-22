@@ -89315,7 +89315,7 @@
     {
       "nameKey": "STAT_SEASON_SUCCESSFUL_DEFENDS_NAME",
       "versionKey": "NULL",
-      "value": "700",
+      "value": "701",
       "index": 15
     },
     {
@@ -90007,7 +90007,7 @@
       "joinTime": "1718668747000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 6152
+      "rank": 6156
     }
   ],
   "datacron": [
@@ -90080,7 +90080,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719021737000",
+  "lastActivityTime": "1719023493000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
