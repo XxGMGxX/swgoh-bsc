@@ -28870,7 +28870,7 @@
       "purchasedAbilityId": [],
       "id": "MEFjD3NbShuvDdk3WUxBog",
       "definitionId": "STAP",
-      "currentRarity": 4,
+      "currentRarity": 5,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -28879,7 +28879,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 15624
+      "gp": 16131
     },
     {
       "skill": [
@@ -140323,23 +140323,11 @@
       ],
       "equipment": [
         {
-          "equipmentId": "110",
-          "slot": 0
-        },
-        {
-          "equipmentId": "084",
-          "slot": 1
-        },
-        {
-          "equipmentId": "172",
-          "slot": 2
-        },
-        {
-          "equipmentId": "172",
+          "equipmentId": "108",
           "slot": 3
         },
         {
-          "equipmentId": "117",
+          "equipmentId": "118",
           "slot": 4
         }
       ],
@@ -141074,15 +141062,15 @@
       "id": "x3cC-ZKzR6ay8n3DvsrmVA",
       "definitionId": "Darth Bane",
       "currentRarity": 7,
-      "currentLevel": 72,
-      "currentXp": 403260,
+      "currentLevel": 77,
+      "currentXp": 539040,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 8,
+      "currentTier": 9,
       "relic": {
         "currentTier": 1
       },
-      "gp": 12939
+      "gp": 13638
     },
     {
       "skill": [],
@@ -142468,7 +142456,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "16221",
+      "value": "16233",
       "index": 9
     },
     {
@@ -142492,13 +142480,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4348752",
+      "value": "4349958",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53673",
+      "value": "53678",
       "index": 8
     },
     {
@@ -142510,7 +142498,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1472414",
+      "value": "1472624",
       "index": 11
     },
     {
@@ -142534,13 +142522,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7676581",
+      "value": "7677787",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "161355",
+      "value": "161392",
       "index": 7
     },
     {
@@ -143245,7 +143233,7 @@
       "joinTime": "1718658633000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 13450
+      "rank": 13451
     }
   ],
   "datacron": [
@@ -145362,7 +145350,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719027686000",
+  "lastActivityTime": "1719028308000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
