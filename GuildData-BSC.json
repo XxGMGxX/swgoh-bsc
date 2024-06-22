@@ -167,8 +167,8 @@
           },
           {
             "type": 2,
-            "currentValue": "240",
-            "lifetimeValue": "441724"
+            "currentValue": "600",
+            "lifetimeValue": "442084"
           }
         ],
         "seasonStatus": [
@@ -217,7 +217,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719043303000",
+        "lastActivityTime": "1719043694000",
         "squadPower": 185404,
         "guildJoinTime": "1652378139",
         "galacticPower": "8545332",
@@ -3257,16 +3257,16 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719043314000",
+        "lastActivityTime": "1719043867000",
         "squadPower": 158766,
         "guildJoinTime": "1698120186",
-        "galacticPower": "8314899",
+        "galacticPower": "8316462",
         "playerTitle": "PLAYERTITLE_BETTERGENERAL",
         "playerPortrait": "PLAYERPORTRAIT_BD1",
         "lifetimeSeasonScore": "440323",
         "leagueId": "CHROMIUM",
         "shipGalacticPower": "3493343",
-        "characterGalacticPower": "4821556",
+        "characterGalacticPower": "4823119",
         "nucleusId": "1013283347668"
       },
       {
@@ -3561,7 +3561,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719028073000",
+        "lastActivityTime": "1719043368000",
         "squadPower": 182205,
         "guildJoinTime": "1709059659",
         "galacticPower": "10056147",
@@ -3713,7 +3713,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719043257000",
+        "lastActivityTime": "1719043862000",
         "squadPower": 157174,
         "guildJoinTime": "1715387579",
         "galacticPower": "5000770",
