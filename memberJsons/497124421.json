@@ -135086,14 +135086,14 @@
       "purchasedAbilityId": [],
       "id": "wrXPL_CLT42ump2NN_ph8w",
       "definitionId": "Hyena Bomber",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 873200,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 32551
+      "gp": 34737
     },
     {
       "skill": [
@@ -142337,7 +142337,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2876815",
+      "value": "2879001",
       "index": 3
     },
     {
@@ -142355,7 +142355,7 @@
     {
       "nameKey": "STAT_SEASON_SUCCESSFUL_DEFENDS_NAME",
       "versionKey": "NULL",
-      "value": "508",
+      "value": "507",
       "index": 15
     },
     {
@@ -142397,7 +142397,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "59298",
+      "value": "59317",
       "index": 8
     },
     {
@@ -142421,7 +142421,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "343485",
+      "value": "343831",
       "index": 16
     },
     {
@@ -142433,25 +142433,25 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7325560",
+      "value": "7327746",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "197654",
+      "value": "197673",
       "index": 7
     },
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "1525",
+      "value": "1528",
       "index": 14
     },
     {
       "nameKey": "STAT_SEASON_TERRITORIES_DEFEATED_NAME",
       "versionKey": "NULL",
-      "value": "636",
+      "value": "637",
       "index": 19
     }
   ],
@@ -143176,7 +143176,7 @@
       "league": "AURODIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 641,
+      "seasonPoints": 987,
       "division": 20,
       "joinTime": "1718658141000",
       "endTime": "1720990800000",
@@ -143873,7 +143873,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719087665000",
+  "lastActivityTime": "1719088282000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_NIGHTSISTERS_VENTRESS"
   },
