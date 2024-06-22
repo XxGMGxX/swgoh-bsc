@@ -20418,15 +20418,15 @@
       "skill": [
         {
           "id": "basicskill_RANGETROOPER",
-          "tier": 1
+          "tier": 3
         },
         {
           "id": "specialskill_RANGETROOPER01",
-          "tier": 1
+          "tier": 3
         },
         {
           "id": "uniqueskill_RANGETROOPER01",
-          "tier": 1
+          "tier": 3
         }
       ],
       "equipment": [],
@@ -20440,11 +20440,11 @@
       "currentXp": 63540,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 4,
+      "currentTier": 6,
       "relic": {
         "currentTier": 1
       },
-      "gp": 5788
+      "gp": 7053
     },
     {
       "skill": [
@@ -123755,7 +123755,20 @@
       "gp": 5046
     },
     {
-      "skill": [],
+      "skill": [
+        {
+          "id": "basicskill_SHORETROOPER",
+          "tier": 3
+        },
+        {
+          "id": "specialskill_SHORETROOPER01",
+          "tier": 3
+        },
+        {
+          "id": "uniqueskill_SHORETROOPER01",
+          "tier": 3
+        }
+      ],
       "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
@@ -123767,11 +123780,11 @@
       "currentXp": 63540,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 2,
+      "currentTier": 6,
       "relic": {
         "currentTier": 1
       },
-      "gp": 5046
+      "gp": 7053
     },
     {
       "skill": [
@@ -127756,7 +127769,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 9606
+      "gp": 11593
     },
     {
       "skill": [
@@ -137570,7 +137583,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3452843",
+      "value": "3454830",
       "index": 3
     },
     {
@@ -137624,7 +137637,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4818349",
+      "value": "4821621",
       "index": 2
     },
     {
@@ -137666,7 +137679,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8271192",
+      "value": "8276451",
       "index": 1
     },
     {
@@ -139840,7 +139853,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719037275000",
+  "lastActivityTime": "1719037896000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_OURIDENTITY"
   },
