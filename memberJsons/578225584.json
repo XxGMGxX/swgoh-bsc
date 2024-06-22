@@ -56140,7 +56140,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "13903",
+      "value": "13915",
       "index": 9
     },
     {
@@ -56170,7 +56170,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "43746",
+      "value": "43760",
       "index": 8
     },
     {
@@ -56182,7 +56182,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1537410",
+      "value": "1537761",
       "index": 11
     },
     {
@@ -56212,7 +56212,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "149829",
+      "value": "149872",
       "index": 7
     },
     {
@@ -56735,7 +56735,7 @@
       "joinTime": "1718678015000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 11906
+      "rank": 11908
     }
   ],
   "datacron": [
@@ -56776,7 +56776,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1718980840000",
+  "lastActivityTime": "1719032480000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDI_GENERAL"
   },
