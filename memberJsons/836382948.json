@@ -141279,7 +141279,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "473679",
+      "value": "474362",
       "index": 16
     },
     {
@@ -141303,13 +141303,13 @@
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "2265",
+      "value": "2270",
       "index": 14
     },
     {
       "nameKey": "STAT_SEASON_TERRITORIES_DEFEATED_NAME",
       "versionKey": "NULL",
-      "value": "957",
+      "value": "959",
       "index": 19
     }
   ],
@@ -141926,7 +141926,7 @@
       "league": "CHROMIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 549,
+      "seasonPoints": 1232,
       "division": 15,
       "joinTime": "1718673487000",
       "endTime": "1720990800000",
@@ -141972,7 +141972,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719072665000",
+  "lastActivityTime": "1719073240000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDIKNIGHTLUKE"
   },
