@@ -118531,15 +118531,15 @@
         },
         {
           "id": "specialskill_IG1101",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_IG1102",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "uniqueskill_IG1101",
-          "tier": 5
+          "tier": 6
         }
       ],
       "equipment": [
@@ -119295,15 +119295,15 @@
       "id": "Hz2TZotwSHqh0rNeG5xHbg",
       "definitionId": "IG-11",
       "currentRarity": 5,
-      "currentLevel": 75,
-      "currentXp": 482460,
+      "currentLevel": 85,
+      "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 8,
       "relic": {
         "currentTier": 1
       },
-      "gp": 9786
+      "gp": 13393
     }
   ],
   "profileStat": [
@@ -119370,13 +119370,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3492575",
+      "value": "3496182",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "27081",
+      "value": "27091",
       "index": 8
     },
     {
@@ -119412,13 +119412,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5997110",
+      "value": "6000717",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "72000",
+      "value": "72019",
       "index": 7
     },
     {
@@ -120198,7 +120198,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719084098000",
+  "lastActivityTime": "1719084699000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
