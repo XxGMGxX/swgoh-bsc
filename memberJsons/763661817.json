@@ -47329,7 +47329,7 @@
       "purchasedAbilityId": [],
       "id": "a_W0iXKfR3SVGU-PzNu3Ow",
       "definitionId": "The Armorer",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -47338,7 +47338,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 3756
+      "gp": 4896
     },
     {
       "skill": [
@@ -82209,7 +82209,7 @@
       "purchasedAbilityId": [],
       "id": "ndZPn3dmRfa0lySidGBMHA",
       "definitionId": "Death Trooper",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -82218,7 +82218,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 7020
+      "gp": 8160
     },
     {
       "skill": [
@@ -87567,7 +87567,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 20191
+      "gp": 21371
     },
     {
       "skill": [
@@ -94685,7 +94685,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2508267",
+      "value": "2509447",
       "index": 3
     },
     {
@@ -94715,7 +94715,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "12727",
+      "value": "12739",
       "index": 9
     },
     {
@@ -94739,7 +94739,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3398679",
+      "value": "3400959",
       "index": 2
     },
     {
@@ -94781,13 +94781,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5906946",
+      "value": "5910406",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "131267",
+      "value": "131293",
       "index": 7
     },
     {
@@ -95409,7 +95409,7 @@
       "joinTime": "1718739932000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 12743
+      "rank": 3812
     }
   ],
   "datacron": [
@@ -95646,7 +95646,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 360,
-  "lastActivityTime": "1719042587000",
+  "lastActivityTime": "1719092456000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GLKENOBI"
   },
