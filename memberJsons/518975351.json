@@ -47046,15 +47046,15 @@
       "skill": [
         {
           "id": "basicskill_CARADUNE",
-          "tier": 1
+          "tier": 2
         },
         {
           "id": "specialskill_CARADUNE01",
-          "tier": 0
+          "tier": 2
         },
         {
           "id": "uniqueskill_CARADUNE01",
-          "tier": 0
+          "tier": 2
         }
       ],
       "equipment": [],
@@ -47064,15 +47064,15 @@
       "id": "Rc0Fg3WfRm2OSHV7pTeVyA",
       "definitionId": "Cara Dune",
       "currentRarity": 5,
-      "currentLevel": 25,
-      "currentXp": 5070,
+      "currentLevel": 38,
+      "currentXp": 16020,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 3,
       "relic": {
         "currentTier": 1
       },
-      "gp": 2035
+      "gp": 2440
     },
     {
       "skill": [
@@ -119370,7 +119370,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3496182",
+      "value": "3496587",
       "index": 2
     },
     {
@@ -119412,13 +119412,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6000717",
+      "value": "6001122",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "72019",
+      "value": "72021",
       "index": 7
     },
     {
@@ -120198,7 +120198,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719084699000",
+  "lastActivityTime": "1719085078000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
