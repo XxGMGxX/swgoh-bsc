@@ -114268,6 +114268,10 @@
         {
           "equipmentId": "167",
           "slot": 4
+        },
+        {
+          "equipmentId": "G12Finisher_HOTHLEIA_B",
+          "slot": 5
         }
       ],
       "equippedStatModOld": [],
@@ -115007,7 +115011,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 20506
+      "gp": 20716
     },
     {
       "skill": [],
@@ -143353,13 +143357,13 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "143",
+      "value": "144",
       "index": 5
     },
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1033",
+      "value": "1034",
       "index": 6
     },
     {
@@ -143401,13 +143405,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3616489",
+      "value": "3616699",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "44222",
+      "value": "44227",
       "index": 8
     },
     {
@@ -143443,13 +143447,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5784804",
+      "value": "5785014",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "155421",
+      "value": "155498",
       "index": 7
     },
     {
@@ -143468,7 +143472,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 298,
+      "rank": 292,
       "squad": {
         "cell": [
           {
@@ -143554,7 +143558,7 @@
     },
     {
       "tab": 2,
-      "rank": 68,
+      "rank": 64,
       "squad": {
         "cell": [
           {
@@ -143993,7 +143997,7 @@
       "joinTime": "1718684290000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 15351
+      "rank": 15366
     }
   ],
   "datacron": [
@@ -144045,7 +144049,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -480,
-  "lastActivityTime": "1719011476000",
+  "lastActivityTime": "1719093693000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SCOUTTROOPER"
   },
