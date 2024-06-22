@@ -89315,7 +89315,7 @@
     {
       "nameKey": "STAT_SEASON_SUCCESSFUL_DEFENDS_NAME",
       "versionKey": "NULL",
-      "value": "704",
+      "value": "703",
       "index": 15
     },
     {
@@ -90010,7 +90010,7 @@
       "joinTime": "1718668747000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 6148
+      "rank": 6147
     }
   ],
   "datacron": [
