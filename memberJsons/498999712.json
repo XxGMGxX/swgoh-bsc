@@ -67667,7 +67667,7 @@
         },
         {
           "id": "leaderskill_BOSSNASS",
-          "tier": 4
+          "tier": 5
         },
         {
           "id": "specialskill_BOSSNASS01",
@@ -68429,7 +68429,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 11146
+      "gp": 13729
     },
     {
       "skill": [
@@ -107546,7 +107546,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3380209",
+      "value": "3382792",
       "index": 2
     },
     {
@@ -107588,13 +107588,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6104746",
+      "value": "6107329",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "100542",
+      "value": "100560",
       "index": 7
     },
     {
@@ -108178,7 +108178,7 @@
       "joinTime": "1718660515000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 14648
+      "rank": 14653
     }
   ],
   "datacron": [
@@ -108365,6 +108365,17 @@
       "locked": false,
       "rerollIndex": 0,
       "rerollCount": 0
+    },
+    {
+      "tag": [],
+      "affix": [],
+      "rerollOption": [],
+      "id": "ibG-SqlzQYOuHEneGFu-gA",
+      "setId": 15,
+      "templateId": "datacron_set_15_base",
+      "locked": false,
+      "rerollIndex": 0,
+      "rerollCount": 0
     }
   ],
   "name": "Invisable gamer",
@@ -108381,7 +108392,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719094303000",
+  "lastActivityTime": "1719094825000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
