@@ -542,8 +542,8 @@
           },
           {
             "type": 2,
-            "currentValue": "540",
-            "lifetimeValue": "455122"
+            "currentValue": "600",
+            "lifetimeValue": "455182"
           },
           {
             "type": 3,
@@ -597,7 +597,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719038499000",
+        "lastActivityTime": "1719039102000",
         "squadPower": 169402,
         "guildJoinTime": "1652378146",
         "galacticPower": "8276451",
@@ -1910,8 +1910,8 @@
           },
           {
             "type": 2,
-            "currentValue": "220",
-            "lifetimeValue": "356500"
+            "currentValue": "250",
+            "lifetimeValue": "356530"
           },
           {
             "type": 3,
@@ -1965,16 +1965,16 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719038503000",
+        "lastActivityTime": "1719038991000",
         "squadPower": 68096,
         "guildJoinTime": "1652417325",
-        "galacticPower": "7980263",
+        "galacticPower": "7993327",
         "playerTitle": "PLAYERTITLE_GAC_DROIDS2",
         "playerPortrait": "PLAYERPORTRAIT_GENERAL_GRIEVOUS",
         "lifetimeSeasonScore": "323294",
         "leagueId": "AURODIUM",
         "shipGalacticPower": "3363789",
-        "characterGalacticPower": "4616474",
+        "characterGalacticPower": "4629538",
         "nucleusId": "1011344019319"
       },
       {
@@ -3713,7 +3713,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719038480000",
+        "lastActivityTime": "1719039086000",
         "squadPower": 157174,
         "guildJoinTime": "1715387579",
         "galacticPower": "5000770",
@@ -5244,10 +5244,10 @@
       "leaderboardScore": "0",
       "bannerColorId": "red_white",
       "bannerLogoId": "guild_icon_Rebel",
-      "guildGalacticPower": "371457434",
+      "guildGalacticPower": "371469315",
       "chatChannelId": "guild-{8qYzrHcISr-VJgiyDdMldw}",
       "guildType": "",
-      "guildGalacticPowerForRequirement": "371457434",
+      "guildGalacticPowerForRequirement": "371469315",
       "singleLaunchConfig": {
         "raidId": "speederbike",
         "campaignMissionIdentifier": {
