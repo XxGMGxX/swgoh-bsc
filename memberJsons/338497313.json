@@ -23499,7 +23499,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "133109",
+      "value": "133386",
       "index": 16
     },
     {
@@ -23523,13 +23523,13 @@
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "645",
+      "value": "647",
       "index": 14
     },
     {
       "nameKey": "STAT_SEASON_TERRITORIES_DEFEATED_NAME",
       "versionKey": "NULL",
-      "value": "517",
+      "value": "518",
       "index": 19
     }
   ],
@@ -24032,7 +24032,7 @@
       "league": "BRONZIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 1351,
+      "seasonPoints": 1628,
       "division": 20,
       "joinTime": "1718662189000",
       "endTime": "1720990800000",
@@ -24243,7 +24243,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719061883000",
+  "lastActivityTime": "1719062387000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MANDALORIAN"
   },
