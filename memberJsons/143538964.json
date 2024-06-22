@@ -93424,7 +93424,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "38556",
+      "value": "38557",
       "index": 7
     },
     {
@@ -93769,6 +93769,9 @@
       "id": "PLAYERTITLE_GLREY_QUEST_001"
     },
     {
+      "id": "PLAYERTITLE_GLREY_EVENT"
+    },
+    {
       "id": "PLAYERTITLE_GLREY_QUEST_002"
     },
     {
@@ -93980,7 +93983,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 1274
+      "rank": 1269
     }
   ],
   "datacron": [
@@ -94755,7 +94758,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719096065000",
+  "lastActivityTime": "1719096703000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
