@@ -126431,7 +126431,7 @@
       "joinTime": "1718662379000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 8417
+      "rank": 3699
     }
   ],
   "datacron": [
@@ -126637,14 +126637,14 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -480,
-  "lastActivityTime": "1719069667000",
+  "lastActivityTime": "1719090476000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_BASTILA"
   },
   "lifetimeSeasonScore": "0",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 2315
+      "skillRating": 2356
     },
     "playerRankStatus": {
       "leagueId": "BRONZIUM",

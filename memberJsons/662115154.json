@@ -141626,7 +141626,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "15249",
+      "value": "15261",
       "index": 9
     },
     {
@@ -142308,11 +142308,11 @@
       "wins": 0,
       "losses": 0,
       "seasonPoints": 392,
-      "division": 15,
+      "division": 10,
       "joinTime": "1718662260000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 13789
+      "rank": 20136
     }
   ],
   "datacron": [
@@ -142485,14 +142485,14 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 120,
-  "lastActivityTime": "1719089044000",
+  "lastActivityTime": "1719090625000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GIFT_02"
   },
   "lifetimeSeasonScore": "0",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 3043
+      "skillRating": 3002
     },
     "playerRankStatus": {
       "leagueId": "KYBER",

@@ -130154,7 +130154,7 @@
       "joinTime": "1718658068000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 9080
+      "rank": 9042
     }
   ],
   "datacron": [
@@ -130585,14 +130585,14 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719089215000",
+  "lastActivityTime": "1719090428000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
   "lifetimeSeasonScore": "0",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 2498
+      "skillRating": 2539
     },
     "playerRankStatus": {
       "leagueId": "CHROMIUM",
