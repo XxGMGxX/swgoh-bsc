@@ -108855,24 +108855,16 @@
       ],
       "equipment": [
         {
-          "equipmentId": "063",
+          "equipmentId": "100",
           "slot": 0
         },
         {
-          "equipmentId": "094",
-          "slot": 1
-        },
-        {
-          "equipmentId": "063",
-          "slot": 2
-        },
-        {
-          "equipmentId": "087",
+          "equipmentId": "111",
           "slot": 3
         },
         {
-          "equipmentId": "075",
-          "slot": 4
+          "equipmentId": "121",
+          "slot": 5
         }
       ],
       "equippedStatModOld": [],
@@ -108885,11 +108877,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 8,
+      "currentTier": 9,
       "relic": {
         "currentTier": 1
       },
-      "gp": 10026
+      "gp": 10575
     },
     {
       "skill": [
@@ -120300,7 +120292,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "15362",
+      "value": "15374",
       "index": 9
     },
     {
@@ -120324,13 +120316,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4804865",
+      "value": "4805414",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "43262",
+      "value": "43293",
       "index": 8
     },
     {
@@ -120366,13 +120358,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8232051",
+      "value": "8232600",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "164656",
+      "value": "164708",
       "index": 7
     },
     {
@@ -121643,7 +121635,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719017360000",
+  "lastActivityTime": "1719025839000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GRANDARENA_ADVANCED"
   },
