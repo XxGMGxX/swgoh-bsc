@@ -50704,7 +50704,7 @@
         },
         {
           "id": "uniqueskill_PADAWANOBIWAN01",
-          "tier": 5
+          "tier": 6
         }
       ],
       "equipment": [
@@ -76644,7 +76644,7 @@
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1051",
+      "value": "1052",
       "index": 6
     },
     {
@@ -76692,7 +76692,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "48711",
+      "value": "48721",
       "index": 8
     },
     {
@@ -76734,7 +76734,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "222277",
+      "value": "222287",
       "index": 7
     },
     {
@@ -76753,7 +76753,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 87,
+      "rank": 85,
       "squad": {
         "cell": [
           {
@@ -77423,7 +77423,7 @@
       "joinTime": "1718707712000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 12747
+      "rank": 12748
     }
   ],
   "datacron": [
@@ -77661,7 +77661,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 120,
-  "lastActivityTime": "1719079278000",
+  "lastActivityTime": "1719079908000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_BD1"
   },
