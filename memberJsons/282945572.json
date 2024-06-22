@@ -142508,7 +142508,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_EXCHANGE_DONATIONS_TU07_2",
       "versionKey": "NULL",
-      "value": "3092",
+      "value": "3094",
       "index": 12
     },
     {
@@ -143237,7 +143237,7 @@
       "joinTime": "1718658633000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 13482
+      "rank": 13483
     }
   ],
   "datacron": [
@@ -145387,7 +145387,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719065460000",
+  "lastActivityTime": "1719066069000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
