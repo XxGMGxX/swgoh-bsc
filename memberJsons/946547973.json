@@ -109981,9 +109981,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 7
+        "currentTier": 8
       },
-      "gp": 23542
+      "gp": 25060
     },
     {
       "skill": [
@@ -141361,7 +141361,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4194594",
+      "value": "4196112",
       "index": 2
     },
     {
@@ -141391,7 +141391,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "101989",
+      "value": "102061",
       "index": 16
     },
     {
@@ -141403,19 +141403,19 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7058401",
+      "value": "7059919",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "100389",
+      "value": "100398",
       "index": 7
     },
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "607",
+      "value": "608",
       "index": 14
     },
     {
@@ -142066,7 +142066,7 @@
       "league": "AURODIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 725,
+      "seasonPoints": 797,
       "division": 10,
       "joinTime": "1718670216000",
       "endTime": "1720990800000",
@@ -142178,7 +142178,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 420,
-  "lastActivityTime": "1719060082000",
+  "lastActivityTime": "1719060568000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_CHEWBACCA"
   },
