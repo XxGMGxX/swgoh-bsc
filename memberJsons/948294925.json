@@ -129424,7 +129424,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "103374",
+      "value": "103688",
       "index": 16
     },
     {
@@ -129448,13 +129448,13 @@
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "582",
+      "value": "583",
       "index": 14
     },
     {
       "nameKey": "STAT_SEASON_TERRITORIES_DEFEATED_NAME",
       "versionKey": "NULL",
-      "value": "421",
+      "value": "422",
       "index": 19
     }
   ],
@@ -130125,12 +130125,12 @@
       "league": "CHROMIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 601,
+      "seasonPoints": 915,
       "division": 15,
       "joinTime": "1718658068000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 9106
+      "rank": 9108
     }
   ],
   "datacron": [
@@ -130561,7 +130561,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719076302000",
+  "lastActivityTime": "1719076433000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
