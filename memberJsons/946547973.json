@@ -141337,7 +141337,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "8584",
+      "value": "8596",
       "index": 9
     },
     {
@@ -141409,7 +141409,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "100223",
+      "value": "100286",
       "index": 7
     },
     {
@@ -142178,7 +142178,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 420,
-  "lastActivityTime": "1719014680000",
+  "lastActivityTime": "1719015294000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_CHEWBACCA"
   },
