@@ -8792,6 +8792,10 @@
         {
           "equipmentId": "081",
           "slot": 1
+        },
+        {
+          "equipmentId": "134",
+          "slot": 3
         }
       ],
       "equippedStatModOld": [],
@@ -9541,7 +9545,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 19056
+      "gp": 19254
     },
     {
       "skill": [
@@ -87454,28 +87458,7 @@
           "tier": 6
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "158",
-          "slot": 0
-        },
-        {
-          "equipmentId": "159",
-          "slot": 1
-        },
-        {
-          "equipmentId": "168",
-          "slot": 2
-        },
-        {
-          "equipmentId": "160",
-          "slot": 3
-        },
-        {
-          "equipmentId": "168",
-          "slot": 4
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -88219,11 +88202,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 12,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 5
       },
-      "gp": 23878
+      "gp": 26593
     },
     {
       "skill": [
@@ -142355,7 +142338,7 @@
     {
       "nameKey": "STAT_SEASON_SUCCESSFUL_DEFENDS_NAME",
       "versionKey": "NULL",
-      "value": "507",
+      "value": "508",
       "index": 15
     },
     {
@@ -142391,13 +142374,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4448745",
+      "value": "4451658",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "59317",
+      "value": "59436",
       "index": 8
     },
     {
@@ -142415,7 +142398,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_EXCHANGE_DONATIONS_TU07_2",
       "versionKey": "NULL",
-      "value": "5525",
+      "value": "5529",
       "index": 12
     },
     {
@@ -142433,13 +142416,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7327746",
+      "value": "7330659",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "197673",
+      "value": "197905",
       "index": 7
     },
     {
@@ -143181,7 +143164,7 @@
       "joinTime": "1718658141000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 11987
+      "rank": 11988
     }
   ],
   "datacron": [
@@ -143873,7 +143856,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719088282000",
+  "lastActivityTime": "1719088876000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_NIGHTSISTERS_VENTRESS"
   },

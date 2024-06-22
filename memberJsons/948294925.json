@@ -95870,7 +95870,20 @@
           "tier": 4
         }
       ],
-      "equipment": [],
+      "equipment": [
+        {
+          "equipmentId": "048",
+          "slot": 1
+        },
+        {
+          "equipmentId": "103",
+          "slot": 2
+        },
+        {
+          "equipmentId": "118",
+          "slot": 4
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -96570,7 +96583,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 9948
+      "gp": 10312
     },
     {
       "skill": [
@@ -129396,13 +129409,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4379680",
+      "value": "4380044",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "48005",
+      "value": "48016",
       "index": 8
     },
     {
@@ -129438,13 +129451,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7595024",
+      "value": "7595388",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "133198",
+      "value": "133210",
       "index": 7
     },
     {
@@ -130563,7 +130576,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719088274000",
+  "lastActivityTime": "1719088845000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
