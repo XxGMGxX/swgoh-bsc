@@ -142486,7 +142486,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53715",
+      "value": "53724",
       "index": 8
     },
     {
@@ -142528,7 +142528,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "161453",
+      "value": "161482",
       "index": 7
     },
     {
@@ -143233,7 +143233,7 @@
       "joinTime": "1718658633000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 13477
+      "rank": 13478
     }
   ],
   "datacron": [
@@ -144766,6 +144766,26 @@
           "requiredUnitTier": 0,
           "requiredRelicTier": 3,
           "scopeIcon": "tex.datacronui_affix_lightside"
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 25,
+          "statValue": "63233315",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": ""
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 52,
+          "statValue": "17044865",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": ""
         }
       ],
       "rerollOption": [],
@@ -145017,6 +145037,19 @@
           "requiredUnitTier": 0,
           "requiredRelicTier": 5,
           "scopeIcon": ""
+        },
+        {
+          "tag": [
+            "lightside",
+            "galacticrepublic"
+          ],
+          "targetRule": "target_datacron_galacticrepublic",
+          "abilityId": "datacron_faction_generic_035",
+          "statType": 1,
+          "statValue": "0",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": "tex.datacronui_affix_galacticrepublic"
         }
       ],
       "rerollOption": [],
@@ -145350,7 +145383,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719054110000",
+  "lastActivityTime": "1719054680000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
