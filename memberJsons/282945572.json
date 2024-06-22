@@ -23708,11 +23708,11 @@
         },
         {
           "id": "basicskill_SITHFIGHTER",
-          "tier": 4
+          "tier": 5
         },
         {
           "id": "uniqueskill_SITHFIGHTER01",
-          "tier": 3
+          "tier": 5
         },
         {
           "id": "hardwareskill_SITHFIGHTER01",
@@ -23726,13 +23726,13 @@
       "id": "hT0IjHlIS1CZt0GUoowkAA",
       "definitionId": "Sith Fighter",
       "currentRarity": 4,
-      "currentLevel": 78,
-      "currentXp": 555700,
+      "currentLevel": 85,
+      "currentXp": 873200,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 23118
+      "gp": 24181
     },
     {
       "skill": [
@@ -142426,7 +142426,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3327829",
+      "value": "3328892",
       "index": 3
     },
     {
@@ -142522,7 +142522,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7677787",
+      "value": "7678850",
       "index": 1
     },
     {
@@ -145350,7 +145350,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719028308000",
+  "lastActivityTime": "1719028516000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
