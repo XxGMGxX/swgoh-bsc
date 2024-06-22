@@ -141062,15 +141062,15 @@
       "id": "x3cC-ZKzR6ay8n3DvsrmVA",
       "definitionId": "Darth Bane",
       "currentRarity": 7,
-      "currentLevel": 77,
-      "currentXp": 539040,
+      "currentLevel": 80,
+      "currentXp": 690870,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 9,
       "relic": {
         "currentTier": 1
       },
-      "gp": 13638
+      "gp": 13851
     },
     {
       "skill": [],
@@ -142480,7 +142480,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4349958",
+      "value": "4350171",
       "index": 2
     },
     {
@@ -142522,13 +142522,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7678850",
+      "value": "7679063",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "161412",
+      "value": "161416",
       "index": 7
     },
     {
@@ -143233,7 +143233,7 @@
       "joinTime": "1718658633000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 13460
+      "rank": 13461
     }
   ],
   "datacron": [
@@ -145350,7 +145350,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719040279000",
+  "lastActivityTime": "1719040888000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
