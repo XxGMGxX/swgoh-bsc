@@ -61203,7 +61203,7 @@
       "purchasedAbilityId": [],
       "id": "y4uv7GMfTviCMeRyT6RNgA",
       "definitionId": "General Grievous",
-      "currentRarity": 6,
+      "currentRarity": 7,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -61212,7 +61212,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 15522
+      "gp": 17517
     },
     {
       "skill": [
@@ -93376,7 +93376,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2844549",
+      "value": "2846544",
       "index": 2
     },
     {
@@ -93418,7 +93418,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5005534",
+      "value": "5007529",
       "index": 1
     },
     {
@@ -93983,7 +93983,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 1269
+      "rank": 1295
     }
   ],
   "datacron": [
@@ -94758,7 +94758,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719096703000",
+  "lastActivityTime": "1719097897000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
