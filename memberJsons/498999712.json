@@ -5631,7 +5631,7 @@
       "purchasedAbilityId": [],
       "id": "HIEscBtwQrGuzeUB3zBWaQ",
       "definitionId": "Cere Junda",
-      "currentRarity": 4,
+      "currentRarity": 5,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -5640,7 +5640,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 4137
+      "gp": 4644
     },
     {
       "skill": [
@@ -70852,7 +70852,7 @@
       "purchasedAbilityId": [],
       "id": "C3Z8Iy5kQEuc0rPBDRWTFQ",
       "definitionId": "Embo",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 1,
       "currentXp": 0,
       "promotionRecipeReference": "",
@@ -70861,7 +70861,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 1521
+      "gp": 2661
     },
     {
       "skill": [
@@ -104337,7 +104337,7 @@
       "purchasedAbilityId": [],
       "id": "ugFggdLlQYqN-hVkmbce8g",
       "definitionId": "Saw Gerrera",
-      "currentRarity": 4,
+      "currentRarity": 5,
       "currentLevel": 1,
       "currentXp": 0,
       "promotionRecipeReference": "",
@@ -104346,7 +104346,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 1014
+      "gp": 1521
     },
     {
       "skill": [
@@ -107546,13 +107546,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3378055",
+      "value": "3380209",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "37621",
+      "value": "37656",
       "index": 8
     },
     {
@@ -107588,13 +107588,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6102592",
+      "value": "6104746",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "100380",
+      "value": "100446",
       "index": 7
     },
     {
@@ -108354,6 +108354,17 @@
       "locked": false,
       "rerollIndex": 0,
       "rerollCount": 0
+    },
+    {
+      "tag": [],
+      "affix": [],
+      "rerollOption": [],
+      "id": "sA2ksyxUT9OsGhKs5ToQaQ",
+      "setId": 15,
+      "templateId": "datacron_set_15_base",
+      "locked": false,
+      "rerollIndex": 0,
+      "rerollCount": 0
     }
   ],
   "name": "Invisable gamer",
@@ -108370,7 +108381,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719027052000",
+  "lastActivityTime": "1719027688000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
