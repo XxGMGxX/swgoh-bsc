@@ -2437,8 +2437,8 @@
         "memberContribution": [
           {
             "type": 2,
-            "currentValue": "300",
-            "lifetimeValue": "295928"
+            "currentValue": "600",
+            "lifetimeValue": "296228"
           },
           {
             "type": 1,
@@ -2497,16 +2497,16 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719055498000",
+        "lastActivityTime": "1719057696000",
         "squadPower": 188217,
         "guildJoinTime": "1664292655",
-        "galacticPower": "8284891",
+        "galacticPower": "8284915",
         "playerTitle": "",
         "playerPortrait": "PLAYERPORTRAIT_THECHOSENONE",
         "lifetimeSeasonScore": "95268",
         "leagueId": "AURODIUM",
         "shipGalacticPower": "3445974",
-        "characterGalacticPower": "4838917",
+        "characterGalacticPower": "4838941",
         "nucleusId": "1015394781436"
       },
       {
@@ -2877,7 +2877,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719029858000",
+        "lastActivityTime": "1719057653000",
         "squadPower": 142070,
         "guildJoinTime": "1672860944",
         "galacticPower": "8402521",
@@ -3713,7 +3713,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719056503000",
+        "lastActivityTime": "1719057652000",
         "squadPower": 157174,
         "guildJoinTime": "1715387579",
         "galacticPower": "5000770",
