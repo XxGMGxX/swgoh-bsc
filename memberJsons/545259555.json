@@ -56126,7 +56126,7 @@
       "purchasedAbilityId": [],
       "id": "yxErZRnvRAKn-baxgduUNw",
       "definitionId": "Captain Rex",
-      "currentRarity": 4,
+      "currentRarity": 5,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -56135,7 +56135,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 13447
+      "gp": 13954
     },
     {
       "skill": [],
@@ -125709,7 +125709,7 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "453",
+      "value": "454",
       "index": 5
     },
     {
@@ -125733,7 +125733,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "10527",
+      "value": "10539",
       "index": 9
     },
     {
@@ -125757,7 +125757,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2952741",
+      "value": "2953248",
       "index": 2
     },
     {
@@ -125775,7 +125775,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "566046",
+      "value": "566256",
       "index": 11
     },
     {
@@ -125799,13 +125799,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5238543",
+      "value": "5239050",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "61584",
+      "value": "61594",
       "index": 7
     },
     {
@@ -126015,7 +126015,7 @@
     },
     {
       "tab": 2,
-      "rank": 21,
+      "rank": 17,
       "squad": {
         "cell": [
           {
@@ -126637,7 +126637,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -480,
-  "lastActivityTime": "1719003406000",
+  "lastActivityTime": "1719024096000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_BASTILA"
   },

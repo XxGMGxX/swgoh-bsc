@@ -141,7 +141,7 @@
         "playerLevel": 85,
         "memberLevel": 3,
         "guildXp": 0,
-        "lastActivityTime": "1719016891000",
+        "lastActivityTime": "1719024044000",
         "squadPower": 160875,
         "guildJoinTime": "1652378137",
         "galacticPower": "9314640",
@@ -1753,13 +1753,13 @@
         "memberContribution": [
           {
             "type": 3,
-            "currentValue": "0",
-            "lifetimeValue": "936"
+            "currentValue": "2",
+            "lifetimeValue": "938"
           },
           {
             "type": 2,
-            "currentValue": "0",
-            "lifetimeValue": "394490"
+            "currentValue": "384",
+            "lifetimeValue": "394874"
           },
           {
             "type": 1,
@@ -1813,7 +1813,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719003574000",
+        "lastActivityTime": "1719024093000",
         "squadPower": 149919,
         "guildJoinTime": "1652406414",
         "galacticPower": "5828537",
@@ -2041,7 +2041,7 @@
         "playerLevel": 85,
         "memberLevel": 3,
         "guildXp": 0,
-        "lastActivityTime": "1719023493000",
+        "lastActivityTime": "1719023744000",
         "squadPower": 177275,
         "guildJoinTime": "1652444079",
         "galacticPower": "8377403",
@@ -2269,7 +2269,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719023493000",
+        "lastActivityTime": "1719023641000",
         "squadPower": 186754,
         "guildJoinTime": "1653076184",
         "galacticPower": "7897536",
@@ -2594,13 +2594,13 @@
           },
           {
             "type": 2,
-            "currentValue": "0",
-            "lifetimeValue": "80380"
+            "currentValue": "284",
+            "lifetimeValue": "80664"
           },
           {
             "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "87516"
+            "currentValue": "168",
+            "lifetimeValue": "87684"
           }
         ],
         "seasonStatus": [
@@ -2649,7 +2649,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719023431000",
+        "lastActivityTime": "1719023899000",
         "squadPower": 137363,
         "guildJoinTime": "1668360124",
         "galacticPower": "4830095",
@@ -3181,7 +3181,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719023480000",
+        "lastActivityTime": "1719023633000",
         "squadPower": 185083,
         "guildJoinTime": "1691032532",
         "galacticPower": "8773778",
@@ -3359,8 +3359,8 @@
           },
           {
             "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "68143"
+            "currentValue": "210",
+            "lifetimeValue": "68353"
           }
         ],
         "seasonStatus": [
@@ -3409,16 +3409,16 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719003406000",
+        "lastActivityTime": "1719024096000",
         "squadPower": 162311,
         "guildJoinTime": "1705687572",
-        "galacticPower": "5238543",
+        "galacticPower": "5239050",
         "playerTitle": "PLAYERTITLE_JEDIKNIGHT",
         "playerPortrait": "PLAYERPORTRAIT_BASTILA",
         "lifetimeSeasonScore": "0",
         "leagueId": "BRONZIUM",
         "shipGalacticPower": "2285802",
-        "characterGalacticPower": "2952741",
+        "characterGalacticPower": "2953248",
         "nucleusId": "1000074183462"
       },
       {
@@ -3713,7 +3713,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719023486000",
+        "lastActivityTime": "1719024090000",
         "squadPower": 157174,
         "guildJoinTime": "1715387579",
         "galacticPower": "5000560",
@@ -5244,10 +5244,10 @@
       "leaderboardScore": "0",
       "bannerColorId": "red_white",
       "bannerLogoId": "guild_icon_Rebel",
-      "guildGalacticPower": "371440767",
+      "guildGalacticPower": "371442352",
       "chatChannelId": "guild-{8qYzrHcISr-VJgiyDdMldw}",
       "guildType": "",
-      "guildGalacticPowerForRequirement": "371440767",
+      "guildGalacticPowerForRequirement": "371442352",
       "singleLaunchConfig": {
         "raidId": "speederbike",
         "campaignMissionIdentifier": {
