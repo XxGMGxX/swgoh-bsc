@@ -124866,7 +124866,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "42524",
+      "value": "42539",
       "index": 8
     },
     {
@@ -124878,7 +124878,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1439927",
+      "value": "1440104",
       "index": 11
     },
     {
@@ -124890,7 +124890,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "323360",
+      "value": "323893",
       "index": 16
     },
     {
@@ -124908,19 +124908,19 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "117257",
+      "value": "117272",
       "index": 7
     },
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "1387",
+      "value": "1390",
       "index": 14
     },
     {
       "nameKey": "STAT_SEASON_TERRITORIES_DEFEATED_NAME",
       "versionKey": "NULL",
-      "value": "542",
+      "value": "544",
       "index": 19
     }
   ],
@@ -125489,12 +125489,12 @@
       "league": "BRONZIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 833,
+      "seasonPoints": 1366,
       "division": 10,
       "joinTime": "1718660867000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 11460
+      "rank": 11462
     }
   ],
   "datacron": [
@@ -125535,7 +125535,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1718969586000",
+  "lastActivityTime": "1719083478000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SITHTROOPER"
   },
