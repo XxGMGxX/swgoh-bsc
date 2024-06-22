@@ -27662,9 +27662,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 9
+        "currentTier": 10
       },
-      "gp": 42226
+      "gp": 44503
     },
     {
       "skill": [
@@ -29813,7 +29813,7 @@
       "purchasedAbilityId": [],
       "id": "VqDO2N_TRGKpI5Py5WWwHQ",
       "definitionId": "Hoth Rebel Scout",
-      "currentRarity": 5,
+      "currentRarity": 7,
       "currentLevel": 80,
       "currentXp": 653025,
       "promotionRecipeReference": "",
@@ -29822,7 +29822,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 6301
+      "gp": 9436
     },
     {
       "skill": [
@@ -45715,7 +45715,7 @@
       "purchasedAbilityId": [],
       "id": "tce9JOIRScuAZYn_PJkzcA",
       "definitionId": "Darth Sidious",
-      "currentRarity": 5,
+      "currentRarity": 7,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -45724,7 +45724,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 9223
+      "gp": 12358
     },
     {
       "skill": [
@@ -70219,16 +70219,16 @@
       "purchasedAbilityId": [],
       "id": "G9k6622IQhe9wDhDrJrTRA",
       "definitionId": "Darth Maul",
-      "currentRarity": 5,
-      "currentLevel": 80,
-      "currentXp": 653025,
+      "currentRarity": 7,
+      "currentLevel": 85,
+      "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 8,
       "relic": {
         "currentTier": 1
       },
-      "gp": 7771
+      "gp": 11349
     },
     {
       "skill": [
@@ -93393,7 +93393,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2827450",
+      "value": "2839575",
       "index": 2
     },
     {
@@ -93435,7 +93435,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4988435",
+      "value": "5000560",
       "index": 1
     },
     {
@@ -93997,7 +93997,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 3522
+      "rank": 3523
     }
   ],
   "datacron": [
@@ -94772,7 +94772,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719020497000",
+  "lastActivityTime": "1719021045000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
