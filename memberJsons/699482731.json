@@ -120342,7 +120342,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1029184",
+      "value": "1029394",
       "index": 11
     },
     {
@@ -120469,7 +120469,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1718928560000",
+        "lastSaveTime": "1719017188000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -121107,7 +121107,7 @@
       "joinTime": "1718662489000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 18070
+      "rank": 18071
     }
   ],
   "datacron": [
@@ -121643,7 +121643,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719005127000",
+  "lastActivityTime": "1719017360000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GRANDARENA_ADVANCED"
   },
