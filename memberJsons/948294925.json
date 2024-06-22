@@ -129652,7 +129652,7 @@
     },
     {
       "tab": 2,
-      "rank": 34,
+      "rank": 44,
       "squad": {
         "cell": [
           {
@@ -130561,7 +130561,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719031621000",
+  "lastActivityTime": "1719035114000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
