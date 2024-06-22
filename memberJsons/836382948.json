@@ -141255,7 +141255,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53532",
+      "value": "53547",
       "index": 8
     },
     {
@@ -141279,7 +141279,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "473605",
+      "value": "473679",
       "index": 16
     },
     {
@@ -141297,13 +141297,13 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "251198",
+      "value": "251295",
       "index": 7
     },
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "2264",
+      "value": "2265",
       "index": 14
     },
     {
@@ -141926,12 +141926,12 @@
       "league": "CHROMIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 475,
+      "seasonPoints": 549,
       "division": 15,
       "joinTime": "1718673487000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 10237
+      "rank": 10236
     }
   ],
   "datacron": [
@@ -141972,7 +141972,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719071994000",
+  "lastActivityTime": "1719072665000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDIKNIGHTLUKE"
   },

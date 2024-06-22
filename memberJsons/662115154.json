@@ -17994,9 +17994,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 6
+        "currentTier": 7
       },
-      "gp": 24637
+      "gp": 25699
     },
     {
       "skill": [
@@ -141634,7 +141634,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4175702",
+      "value": "4176764",
       "index": 2
     },
     {
@@ -141676,7 +141676,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6624397",
+      "value": "6625459",
       "index": 1
     },
     {
@@ -142469,7 +142469,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 120,
-  "lastActivityTime": "1719072104000",
+  "lastActivityTime": "1719072193000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GIFT_02"
   },
