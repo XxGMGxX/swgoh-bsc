@@ -143233,7 +143233,7 @@
       "joinTime": "1718658633000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 13478
+      "rank": 13476
     }
   ],
   "datacron": [
@@ -144519,8 +144519,8 @@
           "tag": [],
           "targetRule": "",
           "abilityId": "",
-          "statType": 54,
-          "statValue": "5858333",
+          "statType": 48,
+          "statValue": "4000108",
           "requiredUnitTier": 0,
           "requiredRelicTier": 3,
           "scopeIcon": ""
@@ -144620,7 +144620,7 @@
       "templateId": "datacron_set_15_base",
       "locked": false,
       "rerollIndex": 0,
-      "rerollCount": 3
+      "rerollCount": 4
     },
     {
       "tag": [],
@@ -144704,8 +144704,8 @@
           "tag": [],
           "targetRule": "",
           "abilityId": "",
-          "statType": 54,
-          "statValue": "24037308",
+          "statType": 25,
+          "statValue": "75121109",
           "requiredUnitTier": 0,
           "requiredRelicTier": 5,
           "scopeIcon": ""
@@ -144730,7 +144730,7 @@
       "templateId": "datacron_set_15_base",
       "locked": false,
       "rerollIndex": 0,
-      "rerollCount": 3
+      "rerollCount": 4
     },
     {
       "tag": [],
@@ -145383,7 +145383,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719054680000",
+  "lastActivityTime": "1719054769000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
