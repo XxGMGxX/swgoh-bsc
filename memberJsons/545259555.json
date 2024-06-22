@@ -125763,7 +125763,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "23099",
+      "value": "23114",
       "index": 8
     },
     {
@@ -125805,7 +125805,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "61594",
+      "value": "61625",
       "index": 7
     },
     {
@@ -126431,7 +126431,7 @@
       "joinTime": "1718662379000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 8457
+      "rank": 8459
     }
   ],
   "datacron": [
@@ -126637,7 +126637,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -480,
-  "lastActivityTime": "1719025277000",
+  "lastActivityTime": "1719069667000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_BASTILA"
   },
