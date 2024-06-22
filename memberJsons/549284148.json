@@ -89303,13 +89303,13 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "999",
+      "value": "1000",
       "index": 5
     },
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1105",
+      "value": "1106",
       "index": 6
     },
     {
@@ -89327,7 +89327,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "30385",
+      "value": "30397",
       "index": 9
     },
     {
@@ -89357,7 +89357,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "123417",
+      "value": "123433",
       "index": 8
     },
     {
@@ -89399,7 +89399,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "212144",
+      "value": "212170",
       "index": 7
     },
     {
@@ -89418,7 +89418,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 261,
+      "rank": 260,
       "squad": {
         "cell": [
           {
@@ -89496,7 +89496,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1718947584000",
+        "lastSaveTime": "1719058605000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -89553,7 +89553,7 @@
     },
     {
       "tab": 2,
-      "rank": 15,
+      "rank": 14,
       "squad": {
         "cell": [
           {
@@ -89808,6 +89808,9 @@
     },
     {
       "id": "PLAYERPORTRAIT_YOUNGLANDO"
+    },
+    {
+      "id": "PLAYERPORTRAIT_DESTROYER"
     },
     {
       "id": "PLAYERPORTRAIT_CAPTIVEJEDI"
@@ -90080,7 +90083,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719058283000",
+  "lastActivityTime": "1719058911000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
