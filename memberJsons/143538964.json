@@ -93655,7 +93655,7 @@
     },
     {
       "tab": 2,
-      "rank": 13,
+      "rank": 16,
       "squad": {
         "cell": [
           {
@@ -94776,7 +94776,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719071476000",
+  "lastActivityTime": "1719072112000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },

@@ -87447,7 +87447,7 @@
         },
         {
           "id": "leaderskill_BOSSNASS",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "uniqueskill_BOSSNASS01",
@@ -87462,6 +87462,10 @@
         {
           "equipmentId": "159",
           "slot": 1
+        },
+        {
+          "equipmentId": "168",
+          "slot": 2
         },
         {
           "equipmentId": "160",
@@ -88219,7 +88223,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 23668
+      "gp": 23878
     },
     {
       "skill": [
@@ -114224,7 +114228,7 @@
         },
         {
           "id": "uniqueskill_BOOMADIER01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_BOOMADIER02",
@@ -115000,7 +115004,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 11914
+      "gp": 14320
     },
     {
       "skill": [
@@ -142387,13 +142391,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4446129",
+      "value": "4448745",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "59288",
+      "value": "59298",
       "index": 8
     },
     {
@@ -142429,13 +142433,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7322944",
+      "value": "7325560",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "197644",
+      "value": "197654",
       "index": 7
     },
     {
@@ -143177,7 +143181,7 @@
       "joinTime": "1718658141000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 11973
+      "rank": 11972
     }
   ],
   "datacron": [
@@ -143869,7 +143873,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719071454000",
+  "lastActivityTime": "1719072102000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_NIGHTSISTERS_VENTRESS"
   },
