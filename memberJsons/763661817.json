@@ -52184,7 +52184,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 27740
+      "gp": 28878
     },
     {
       "skill": [],
@@ -59397,28 +59397,7 @@
           "tier": 6
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "108",
-          "slot": 0
-        },
-        {
-          "equipmentId": "101",
-          "slot": 1
-        },
-        {
-          "equipmentId": "112",
-          "slot": 2
-        },
-        {
-          "equipmentId": "099",
-          "slot": 3
-        },
-        {
-          "equipmentId": "118",
-          "slot": 4
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -60142,11 +60121,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 8,
+      "currentTier": 9,
       "relic": {
         "currentTier": 1
       },
-      "gp": 10738
+      "gp": 10860
     },
     {
       "skill": [
@@ -94640,24 +94619,7 @@
     },
     {
       "skill": [],
-      "equipment": [
-        {
-          "equipmentId": "036",
-          "slot": 0
-        },
-        {
-          "equipmentId": "068",
-          "slot": 1
-        },
-        {
-          "equipmentId": "056",
-          "slot": 2
-        },
-        {
-          "equipmentId": "089",
-          "slot": 3
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -94668,11 +94630,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 6,
+      "currentTier": 8,
       "relic": {
         "currentTier": 1
       },
-      "gp": 8208
+      "gp": 9051
     }
   ],
   "profileStat": [
@@ -94685,7 +94647,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2509447",
+      "value": "2510585",
       "index": 3
     },
     {
@@ -94739,13 +94701,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3400959",
+      "value": "3401924",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "32635",
+      "value": "32682",
       "index": 8
     },
     {
@@ -94781,13 +94743,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5910406",
+      "value": "5912509",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "131293",
+      "value": "131376",
       "index": 7
     },
     {
@@ -95409,7 +95371,7 @@
       "joinTime": "1718739932000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 3812
+      "rank": 3800
     }
   ],
   "datacron": [
@@ -95646,7 +95608,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 360,
-  "lastActivityTime": "1719092456000",
+  "lastActivityTime": "1719092994000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GLKENOBI"
   },
