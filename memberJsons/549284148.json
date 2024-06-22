@@ -90007,7 +90007,7 @@
       "joinTime": "1718668747000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 6151
+      "rank": 6150
     }
   ],
   "datacron": [
@@ -90080,7 +90080,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719054642000",
+  "lastActivityTime": "1719058283000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
