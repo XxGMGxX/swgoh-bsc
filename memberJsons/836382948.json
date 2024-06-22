@@ -141927,11 +141927,11 @@
       "wins": 0,
       "losses": 0,
       "seasonPoints": 1232,
-      "division": 15,
+      "division": 20,
       "joinTime": "1718673487000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 10228
+      "rank": 10229
     }
   ],
   "datacron": [
@@ -141979,7 +141979,7 @@
   "lifetimeSeasonScore": "433570",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 2560
+      "skillRating": 2601
     },
     "playerRankStatus": {
       "leagueId": "CHROMIUM",

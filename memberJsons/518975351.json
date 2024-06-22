@@ -47808,7 +47808,7 @@
       "purchasedAbilityId": [],
       "id": "ZRT06YdNSNKUdFUEkxKWPQ",
       "definitionId": "Captain Rex",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -47817,7 +47817,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 8961
+      "gp": 10101
     },
     {
       "skill": [
@@ -119346,7 +119346,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "17270",
+      "value": "17282",
       "index": 9
     },
     {
@@ -119370,13 +119370,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3496587",
+      "value": "3497727",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "27091",
+      "value": "27094",
       "index": 8
     },
     {
@@ -119412,13 +119412,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6001122",
+      "value": "6002262",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "72021",
+      "value": "72038",
       "index": 7
     },
     {
@@ -119988,11 +119988,11 @@
       "wins": 0,
       "losses": 0,
       "seasonPoints": 1568,
-      "division": 10,
+      "division": 5,
       "joinTime": "1718663828000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 2449
+      "rank": 4622
     }
   ],
   "datacron": [
@@ -120198,14 +120198,14 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719085078000",
+  "lastActivityTime": "1719090081000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
   "lifetimeSeasonScore": "368722",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 2565
+      "skillRating": 2524
     },
     "playerRankStatus": {
       "leagueId": "AURODIUM",

@@ -137601,7 +137601,7 @@
     {
       "nameKey": "STAT_SEASON_SUCCESSFUL_DEFENDS_NAME",
       "versionKey": "NULL",
-      "value": "907",
+      "value": "906",
       "index": 15
     },
     {
@@ -138461,7 +138461,7 @@
       "joinTime": "1718661267000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 23717
+      "rank": 23731
     }
   ],
   "datacron": [
@@ -139853,18 +139853,18 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719079792000",
+  "lastActivityTime": "1719090071000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_OURIDENTITY"
   },
   "lifetimeSeasonScore": "299748",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 3146
+      "skillRating": 3105
     },
     "playerRankStatus": {
       "leagueId": "KYBER",
-      "divisionId": 15
+      "divisionId": 10
     }
   },
   "nucleusId": "1013183379390"
