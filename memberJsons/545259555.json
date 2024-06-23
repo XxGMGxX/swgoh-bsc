@@ -125775,7 +125775,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "566256",
+      "value": "566422",
       "index": 11
     },
     {
@@ -126431,7 +126431,7 @@
       "joinTime": "1718662379000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 3605
+      "rank": 3603
     }
   ],
   "datacron": [
@@ -126637,7 +126637,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -480,
-  "lastActivityTime": "1719090476000",
+  "lastActivityTime": "1719115910000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_BASTILA"
   },
