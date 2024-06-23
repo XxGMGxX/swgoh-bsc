@@ -293,7 +293,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719157270000",
+        "lastActivityTime": "1719157331000",
         "squadPower": 178071,
         "guildJoinTime": "1652378140",
         "galacticPower": "4931036",
@@ -1053,7 +1053,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719157249000",
+        "lastActivityTime": "1719157868000",
         "squadPower": 149581,
         "guildJoinTime": "1652389663",
         "galacticPower": "8645381",
@@ -2041,7 +2041,7 @@
         "playerLevel": 85,
         "memberLevel": 3,
         "guildXp": 0,
-        "lastActivityTime": "1719155912000",
+        "lastActivityTime": "1719157645000",
         "squadPower": 177275,
         "guildJoinTime": "1652444079",
         "galacticPower": "8378921",
@@ -2345,7 +2345,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719157287000",
+        "lastActivityTime": "1719157902000",
         "squadPower": 156363,
         "guildJoinTime": "1655045637",
         "galacticPower": "6394496",
@@ -2974,13 +2974,13 @@
           },
           {
             "type": 2,
-            "currentValue": "0",
-            "lifetimeValue": "233856"
+            "currentValue": "600",
+            "lifetimeValue": "234456"
           },
           {
             "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "131592"
+            "currentValue": "177",
+            "lifetimeValue": "131769"
           }
         ],
         "seasonStatus": [
@@ -3029,16 +3029,16 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719092534000",
+        "lastActivityTime": "1719157901000",
         "squadPower": 192941,
         "guildJoinTime": "1683481945",
-        "galacticPower": "9561083",
+        "galacticPower": "9561421",
         "playerTitle": "PLAYERTITLE_MARQUEE_CAPTAINREX",
         "playerPortrait": "PLAYERPORTRAIT_GLKENOBI",
         "lifetimeSeasonScore": "267623",
         "leagueId": "AURODIUM",
         "shipGalacticPower": "3868702",
-        "characterGalacticPower": "5692381",
+        "characterGalacticPower": "5692719",
         "nucleusId": "1000280999855"
       },
       {
@@ -3105,16 +3105,16 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719157277000",
+        "lastActivityTime": "1719157868000",
         "squadPower": 157969,
         "guildJoinTime": "1686252099",
-        "galacticPower": "7685677",
+        "galacticPower": "7686141",
         "playerTitle": "PLAYERTITLE_BROTHERHOOD_OF_DARKNESS",
         "playerPortrait": "PLAYERPORTRAIT_L337",
         "lifetimeSeasonScore": "80356",
         "leagueId": "KYBER",
-        "shipGalacticPower": "3329491",
-        "characterGalacticPower": "4356186",
+        "shipGalacticPower": "3329829",
+        "characterGalacticPower": "4356312",
         "nucleusId": "2794343642"
       },
       {
@@ -3713,7 +3713,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719157264000",
+        "lastActivityTime": "1719157887000",
         "squadPower": 157174,
         "guildJoinTime": "1715387579",
         "galacticPower": "5010602",
