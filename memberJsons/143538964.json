@@ -93334,7 +93334,7 @@
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "200",
+      "value": "201",
       "index": 6
     },
     {
@@ -93443,7 +93443,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 81,
+      "rank": 68,
       "squad": {
         "cell": [
           {
@@ -93521,7 +93521,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719033052000",
+        "lastSaveTime": "1719107536000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -93983,7 +93983,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 1337
+      "rank": 1345
     }
   ],
   "datacron": [
@@ -94812,7 +94812,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719107515000",
+  "lastActivityTime": "1719108112000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
