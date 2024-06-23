@@ -130530,19 +130530,21 @@
             },
             {
               "roll": [
-                "0.17803"
+                "0.17803",
+                "0.17656"
               ],
               "unscaledRollValue": [
-                "2003"
+                "2003",
+                "1986"
               ],
               "stat": {
                 "unitStatId": 53,
-                "statValueDecimal": "200",
-                "unscaledDecimalValue": "2003000",
+                "statValueDecimal": "398",
+                "unscaledDecimalValue": "3989000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 1,
+              "statRolls": 2,
               "statRollerBoundsMin": "1125",
               "statRollerBoundsMax": "2250"
             },
@@ -130570,7 +130572,7 @@
           "id": "3ZICWunERA-yu3QM8_Hmjw",
           "definitionId": "152",
           "level": 15,
-          "tier": 4,
+          "tier": 5,
           "sellValue": {
             "currency": 1,
             "quantity": 97200,
@@ -131119,7 +131121,7 @@
       "relic": {
         "currentTier": 8
       },
-      "gp": 28633
+      "gp": 28657
     },
     {
       "skill": [
@@ -141074,7 +141076,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "37211",
+      "value": "37241",
       "index": 8
     },
     {
@@ -141116,7 +141118,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "171556",
+      "value": "171596",
       "index": 7
     },
     {
@@ -141730,7 +141732,7 @@
       "joinTime": "1718662260000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 20028
+      "rank": 20029
     }
   ],
   "datacron": [
@@ -141903,7 +141905,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 120,
-  "lastActivityTime": "1719180662000",
+  "lastActivityTime": "1719181282000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GIFT_02"
   },

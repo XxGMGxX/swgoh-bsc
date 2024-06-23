@@ -73252,7 +73252,7 @@
       "purchasedAbilityId": [],
       "id": "onpEp_7uSNiuYrs8YHSg7g",
       "definitionId": "Padawan Obi-Wan",
-      "currentRarity": 4,
+      "currentRarity": 5,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -73261,7 +73261,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 7530
+      "gp": 8037
     },
     {
       "skill": [
@@ -103484,16 +103484,16 @@
       "purchasedAbilityId": [],
       "id": "4NwIx6viQLq0G8xq2o2EPQ",
       "definitionId": "Master Qui-Gon",
-      "currentRarity": 3,
+      "currentRarity": 4,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 6,
+      "currentTier": 8,
       "relic": {
         "currentTier": 1
       },
-      "gp": 6013
+      "gp": 7530
     },
     {
       "skill": [
@@ -120320,13 +120320,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4805556",
+      "value": "4807580",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "43436",
+      "value": "43462",
       "index": 8
     },
     {
@@ -120338,7 +120338,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1029603",
+      "value": "1031228",
       "index": 11
     },
     {
@@ -120362,13 +120362,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8232742",
+      "value": "8234766",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "164972",
+      "value": "165006",
       "index": 7
     },
     {
@@ -120465,7 +120465,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719017188000",
+        "lastSaveTime": "1719181056000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -121103,7 +121103,7 @@
       "joinTime": "1718662489000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 11560
+      "rank": 11562
     }
   ],
   "datacron": [
@@ -121694,7 +121694,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719171691000",
+  "lastActivityTime": "1719181122000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GRANDARENA_ADVANCED"
   },
