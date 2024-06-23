@@ -8525,7 +8525,7 @@
       "purchasedAbilityId": [],
       "id": "HklMOyzQSEeNkdg6byI0kA",
       "definitionId": "Gungan Phalanx",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -8534,7 +8534,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 7488
+      "gp": 8628
     },
     {
       "skill": [
@@ -76686,13 +76686,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4983127",
+      "value": "4984267",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "48725",
+      "value": "48737",
       "index": 8
     },
     {
@@ -76728,13 +76728,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8545332",
+      "value": "8546472",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "222301",
+      "value": "222318",
       "index": 7
     },
     {
@@ -77423,7 +77423,7 @@
       "joinTime": "1718707712000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 6258
+      "rank": 6273
     }
   ],
   "datacron": [
@@ -77661,7 +77661,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 120,
-  "lastActivityTime": "1719133291000",
+  "lastActivityTime": "1719133515000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_BD1"
   },

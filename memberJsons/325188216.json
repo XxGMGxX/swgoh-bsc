@@ -73487,7 +73487,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "788238",
+      "value": "788415",
       "index": 11
     },
     {
@@ -74159,7 +74159,7 @@
       "joinTime": "1718705959000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 2762
+      "rank": 9129
     }
   ],
   "datacron": [
@@ -74396,7 +74396,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719074604000",
+  "lastActivityTime": "1719133830000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDIKNIGHTLUKE"
   },
