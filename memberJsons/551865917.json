@@ -109557,7 +109557,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 57436
+      "gp": 57909
     },
     {
       "skill": [
@@ -120431,6 +120431,10 @@
         {
           "equipmentId": "168",
           "slot": 3
+        },
+        {
+          "equipmentId": "169",
+          "slot": 4
         }
       ],
       "equippedStatModOld": [],
@@ -121170,7 +121174,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 21930
+      "gp": 22140
     },
     {
       "skill": [
@@ -141347,7 +141351,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3766239",
+      "value": "3766712",
       "index": 3
     },
     {
@@ -141401,7 +141405,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5009849",
+      "value": "5010059",
       "index": 2
     },
     {
@@ -141443,7 +141447,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8776088",
+      "value": "8776771",
       "index": 1
     },
     {
@@ -142242,7 +142246,7 @@
       "joinTime": "1718731713000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 1627
+      "rank": 1625
     }
   ],
   "datacron": [
@@ -142523,7 +142527,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719110511000",
+  "lastActivityTime": "1719111040000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
