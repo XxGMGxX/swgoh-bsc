@@ -142409,7 +142409,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "197956",
+      "value": "197976",
       "index": 7
     },
     {
@@ -143151,7 +143151,7 @@
       "joinTime": "1718658141000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 2911
+      "rank": 2908
     }
   ],
   "datacron": [
@@ -143843,7 +143843,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719114061000",
+  "lastActivityTime": "1719114363000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_NIGHTSISTERS_VENTRESS"
   },
