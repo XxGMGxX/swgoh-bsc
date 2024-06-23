@@ -66673,7 +66673,7 @@
       "skill": [
         {
           "id": "specialskill_FIRSTORDEREXECUTIONER01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "uniqueskill_FIRSTORDEREXECUTIONER01",
@@ -67398,7 +67398,7 @@
       "relic": {
         "currentTier": 7
       },
-      "gp": 22080
+      "gp": 22290
     },
     {
       "skill": [
@@ -93376,7 +93376,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2846882",
+      "value": "2847092",
       "index": 2
     },
     {
@@ -93418,7 +93418,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5007867",
+      "value": "5008077",
       "index": 1
     },
     {
@@ -93983,7 +93983,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 1305
+      "rank": 1303
     }
   ],
   "datacron": [
@@ -94269,7 +94269,7 @@
       "templateId": "datacron_set_15_base",
       "locked": false,
       "rerollIndex": 0,
-      "rerollCount": 2
+      "rerollCount": 3
     },
     {
       "tag": [],
@@ -94758,7 +94758,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719100895000",
+  "lastActivityTime": "1719101413000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
