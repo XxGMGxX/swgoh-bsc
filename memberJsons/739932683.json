@@ -145813,7 +145813,7 @@
       "joinTime": "1718679837000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 898
+      "rank": 906
     }
   ],
   "datacron": [
@@ -145919,7 +145919,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719114708000",
+  "lastActivityTime": "1719115264000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SITHMASTER"
   },
