@@ -137613,7 +137613,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "17982",
+      "value": "17994",
       "index": 9
     },
     {
@@ -137685,7 +137685,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "231642",
+      "value": "231672",
       "index": 7
     },
     {
@@ -138464,7 +138464,7 @@
       "joinTime": "1718661267000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 3942
+      "rank": 3939
     }
   ],
   "datacron": [
@@ -139788,7 +139788,106 @@
     },
     {
       "tag": [],
-      "affix": [],
+      "affix": [
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 53,
+          "statValue": "4470369",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 3,
+          "scopeIcon": ""
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 48,
+          "statValue": "4380603",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 3,
+          "scopeIcon": ""
+        },
+        {
+          "tag": [
+            "darkside"
+          ],
+          "targetRule": "target_datacron_darkside",
+          "abilityId": "datacron_alignment_generic_031",
+          "statType": 1,
+          "statValue": "0",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 3,
+          "scopeIcon": "tex.datacronui_affix_darkside"
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 48,
+          "statValue": "8220784",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": ""
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 53,
+          "statValue": "7125165",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": ""
+        },
+        {
+          "tag": [
+            "firstorder",
+            "darkside"
+          ],
+          "targetRule": "target_datacron_firstorder",
+          "abilityId": "datacron_faction_generic_022",
+          "statType": 1,
+          "statValue": "0",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": "tex.datacronui_affix_firstorder"
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 52,
+          "statValue": "27185368",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": ""
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 54,
+          "statValue": "19581917",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": ""
+        },
+        {
+          "tag": [
+            "firstorder",
+            "darkside"
+          ],
+          "targetRule": "target_datacron_supremeleaderkyloren",
+          "abilityId": "datacron_character_generic_030",
+          "statType": 1,
+          "statValue": "0",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 7,
+          "scopeIcon": "tex.charui_kyloren_tros"
+        }
+      ],
       "rerollOption": [],
       "id": "0deUIyRDS1aDcfDVuMYv4g",
       "setId": 15,
@@ -139810,14 +139909,47 @@
     },
     {
       "tag": [],
-      "affix": [],
+      "affix": [
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 16,
+          "statValue": "6950633",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 3,
+          "scopeIcon": ""
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 48,
+          "statValue": "3801489",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 3,
+          "scopeIcon": ""
+        },
+        {
+          "tag": [
+            "darkside"
+          ],
+          "targetRule": "target_datacron_darkside",
+          "abilityId": "datacron_alignment_generic_031",
+          "statType": 1,
+          "statValue": "0",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 3,
+          "scopeIcon": "tex.datacronui_affix_darkside"
+        }
+      ],
       "rerollOption": [],
       "id": "EtqfUnuwR7S7HdBiGyEgng",
       "setId": 15,
       "templateId": "datacron_set_15_base",
       "locked": false,
       "rerollIndex": 0,
-      "rerollCount": 0
+      "rerollCount": 1
     },
     {
       "tag": [],
@@ -139856,7 +139988,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719153670000",
+  "lastActivityTime": "1719154296000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_OURIDENTITY"
   },

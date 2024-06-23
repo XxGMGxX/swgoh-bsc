@@ -20533,19 +20533,21 @@
             },
             {
               "roll": [
-                "0.17010"
+                "0.17010",
+                "0.16184"
               ],
               "unscaledRollValue": [
-                "478"
+                "478",
+                "455"
               ],
               "stat": {
                 "unitStatId": 48,
-                "statValueDecimal": "47",
-                "unscaledDecimalValue": "478000",
+                "statValueDecimal": "93",
+                "unscaledDecimalValue": "934000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 1,
+              "statRolls": 2,
               "statRollerBoundsMin": "281",
               "statRollerBoundsMax": "563"
             },
@@ -20573,7 +20575,7 @@
           "id": "KSjPLlPOSzyYSWWwyg_HXg",
           "definitionId": "555",
           "level": 15,
-          "tier": 4,
+          "tier": 5,
           "sellValue": {
             "currency": 1,
             "quantity": 97200,
@@ -20744,7 +20746,7 @@
       "relic": {
         "currentTier": 7
       },
-      "gp": 25614
+      "gp": 25638
     },
     {
       "skill": [
@@ -96828,9 +96830,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 6
+        "currentTier": 7
       },
-      "gp": 22768
+      "gp": 23830
     },
     {
       "skill": [
@@ -141253,13 +141255,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4038871",
+      "value": "4040002",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53579",
+      "value": "53604",
       "index": 8
     },
     {
@@ -141295,13 +141297,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6442059",
+      "value": "6443190",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "251353",
+      "value": "251428",
       "index": 7
     },
     {
@@ -141935,7 +141937,7 @@
       "joinTime": "1718673487000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 5095
+      "rank": 5094
     }
   ],
   "datacron": [
@@ -141976,7 +141978,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719153676000",
+  "lastActivityTime": "1719154157000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDIKNIGHTLUKE"
   },
