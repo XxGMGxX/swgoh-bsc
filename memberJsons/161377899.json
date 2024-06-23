@@ -137643,7 +137643,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "65900",
+      "value": "65908",
       "index": 8
     },
     {
@@ -137685,7 +137685,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "231678",
+      "value": "231686",
       "index": 7
     },
     {
@@ -138464,7 +138464,7 @@
       "joinTime": "1718661267000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 3951
+      "rank": 3949
     }
   ],
   "datacron": [
@@ -139463,28 +139463,6 @@
           "tag": [],
           "targetRule": "",
           "abilityId": "",
-          "statType": 52,
-          "statValue": "8557759",
-          "requiredUnitTier": 0,
-          "requiredRelicTier": 3,
-          "scopeIcon": ""
-        }
-      ],
-      "rerollOption": [],
-      "id": "broFp3-9RoGGNkV6Vz_sgA",
-      "setId": 15,
-      "templateId": "datacron_set_15_base",
-      "locked": false,
-      "rerollIndex": 0,
-      "rerollCount": 0
-    },
-    {
-      "tag": [],
-      "affix": [
-        {
-          "tag": [],
-          "targetRule": "",
-          "abilityId": "",
           "statType": 48,
           "statValue": "1517596",
           "requiredUnitTier": 0,
@@ -139562,50 +139540,6 @@
           "tag": [],
           "targetRule": "",
           "abilityId": "",
-          "statType": 54,
-          "statValue": "6138292",
-          "requiredUnitTier": 0,
-          "requiredRelicTier": 3,
-          "scopeIcon": ""
-        }
-      ],
-      "rerollOption": [],
-      "id": "Xxh6vZ6nTxahK6605x0f7A",
-      "setId": 15,
-      "templateId": "datacron_set_15_base",
-      "locked": false,
-      "rerollIndex": 0,
-      "rerollCount": 0
-    },
-    {
-      "tag": [],
-      "affix": [
-        {
-          "tag": [],
-          "targetRule": "",
-          "abilityId": "",
-          "statType": 54,
-          "statValue": "5487665",
-          "requiredUnitTier": 0,
-          "requiredRelicTier": 3,
-          "scopeIcon": ""
-        }
-      ],
-      "rerollOption": [],
-      "id": "wf7mJKJTSWG-fgD1DMLF4g",
-      "setId": 15,
-      "templateId": "datacron_set_15_base",
-      "locked": false,
-      "rerollIndex": 0,
-      "rerollCount": 0
-    },
-    {
-      "tag": [],
-      "affix": [
-        {
-          "tag": [],
-          "targetRule": "",
-          "abilityId": "",
           "statType": 53,
           "statValue": "4618722",
           "requiredUnitTier": 0,
@@ -139633,6 +139567,16 @@
           "requiredUnitTier": 0,
           "requiredRelicTier": 3,
           "scopeIcon": "tex.datacronui_affix_lightside"
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 48,
+          "statValue": "7637960",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": ""
         }
       ],
       "rerollOption": [],
@@ -139898,7 +139842,40 @@
     },
     {
       "tag": [],
-      "affix": [],
+      "affix": [
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 16,
+          "statValue": "8992921",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 3,
+          "scopeIcon": ""
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 16,
+          "statValue": "5069234",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 3,
+          "scopeIcon": ""
+        },
+        {
+          "tag": [
+            "lightside"
+          ],
+          "targetRule": "target_datacron_lightside",
+          "abilityId": "datacron_alignment_generic_005",
+          "statType": 1,
+          "statValue": "0",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 3,
+          "scopeIcon": "tex.datacronui_affix_lightside"
+        }
+      ],
       "rerollOption": [],
       "id": "WtWnvAVqRPKTE4AJjC2SbQ",
       "setId": 15,
@@ -139988,7 +139965,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719159073000",
+  "lastActivityTime": "1719159699000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_OURIDENTITY"
   },
