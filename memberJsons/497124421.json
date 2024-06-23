@@ -8784,28 +8784,7 @@
           "tier": 6
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "109",
-          "slot": 0
-        },
-        {
-          "equipmentId": "081",
-          "slot": 1
-        },
-        {
-          "equipmentId": "134",
-          "slot": 3
-        },
-        {
-          "equipmentId": "144",
-          "slot": 4
-        },
-        {
-          "equipmentId": "142",
-          "slot": 5
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -9549,11 +9528,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 11,
+      "currentTier": 12,
       "relic": {
         "currentTier": 1
       },
-      "gp": 19650
+      "gp": 19848
     },
     {
       "skill": [
@@ -142382,13 +142361,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4452054",
+      "value": "4452252",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "59436",
+      "value": "59440",
       "index": 8
     },
     {
@@ -142424,13 +142403,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7331055",
+      "value": "7331253",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "197937",
+      "value": "197956",
       "index": 7
     },
     {
@@ -143172,7 +143151,7 @@
       "joinTime": "1718658141000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 2920
+      "rank": 2917
     }
   ],
   "datacron": [
@@ -143864,7 +143843,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719112907000",
+  "lastActivityTime": "1719113466000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_NIGHTSISTERS_VENTRESS"
   },
