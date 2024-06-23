@@ -72021,7 +72021,7 @@
         },
         {
           "id": "leaderskill_ASAJVENTRESS",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "uniqueskill_ASAJVENTRESS01",
@@ -72762,7 +72762,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 20257
+      "gp": 22663
     },
     {
       "skill": [
@@ -83252,9 +83252,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 7
+        "currentTier": 8
       },
-      "gp": 23616
+      "gp": 25134
     },
     {
       "skill": [],
@@ -95971,7 +95971,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 74027
+      "gp": 76076
     },
     {
       "skill": [],
@@ -108472,7 +108472,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2724537",
+      "value": "2726586",
       "index": 3
     },
     {
@@ -108526,7 +108526,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3387032",
+      "value": "3390956",
       "index": 2
     },
     {
@@ -108568,13 +108568,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6111569",
+      "value": "6117542",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "100624",
+      "value": "100627",
       "index": 7
     },
     {
@@ -109158,7 +109158,7 @@
       "joinTime": "1718660515000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 14679
+      "rank": 14683
     }
   ],
   "datacron": [
@@ -109372,7 +109372,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719126707000",
+  "lastActivityTime": "1719127069000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
