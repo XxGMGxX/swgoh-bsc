@@ -82387,6 +82387,10 @@
           "slot": 0
         },
         {
+          "equipmentId": "117",
+          "slot": 1
+        },
+        {
           "equipmentId": "125",
           "slot": 3
         },
@@ -83120,7 +83124,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 12399
+      "gp": 12576
     },
     {
       "skill": [
@@ -93222,7 +93226,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "3288",
+      "value": "3300",
       "index": 9
     },
     {
@@ -93246,13 +93250,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2849998",
+      "value": "2850175",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "12260",
+      "value": "12277",
       "index": 8
     },
     {
@@ -93288,13 +93292,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5010425",
+      "value": "5010602",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "38588",
+      "value": "38631",
       "index": 7
     },
     {
@@ -93853,7 +93857,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 1356
+      "rank": 1367
     }
   ],
   "datacron": [
@@ -94682,7 +94686,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719120076000",
+  "lastActivityTime": "1719120700000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
