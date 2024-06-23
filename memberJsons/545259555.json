@@ -92997,7 +92997,7 @@
       "purchasedAbilityId": [],
       "id": "4eeXEKayRIWih-ZEDHdH1A",
       "definitionId": "Tarfful",
-      "currentRarity": 6,
+      "currentRarity": 7,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -93006,7 +93006,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 8256
+      "gp": 10251
     },
     {
       "skill": [
@@ -117107,21 +117107,38 @@
       "gp": 1012
     },
     {
-      "skill": [],
+      "skill": [
+        {
+          "id": "basicskill_YWINGREBEL",
+          "tier": 5
+        },
+        {
+          "id": "specialskill_YWINGREBEL01",
+          "tier": 4
+        },
+        {
+          "id": "uniqueskill_YWINGREBEL01",
+          "tier": 6
+        },
+        {
+          "id": "hardwareskill_YWINGREBEL",
+          "tier": 0
+        }
+      ],
       "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
       "id": "EzwXAvTkTPeAX2Hl0OJwVQ",
       "definitionId": "Rebel Y-wing",
-      "currentRarity": 6,
-      "currentLevel": 1,
-      "currentXp": 0,
+      "currentRarity": 7,
+      "currentLevel": 85,
+      "currentXp": 873200,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 8
+      "gp": 32279
     },
     {
       "skill": [],
@@ -125703,7 +125720,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2285802",
+      "value": "2318073",
       "index": 3
     },
     {
@@ -125757,13 +125774,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2953248",
+      "value": "2955243",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "23114",
+      "value": "23129",
       "index": 8
     },
     {
@@ -125799,13 +125816,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5239050",
+      "value": "5273316",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "61625",
+      "value": "61641",
       "index": 7
     },
     {
@@ -126431,7 +126448,7 @@
       "joinTime": "1718662379000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 3503
+      "rank": 3502
     }
   ],
   "datacron": [
@@ -126637,7 +126654,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -480,
-  "lastActivityTime": "1719116119000",
+  "lastActivityTime": "1719151882000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_BASTILA"
   },
