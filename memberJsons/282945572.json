@@ -27297,7 +27297,7 @@
       "purchasedAbilityId": [],
       "id": "5r681AisQmSYjmltnBXaBQ",
       "definitionId": "Admiral Raddus",
-      "currentRarity": 6,
+      "currentRarity": 7,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -27306,7 +27306,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 13278
+      "gp": 15273
     },
     {
       "skill": [
@@ -142606,7 +142606,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4354191",
+      "value": "4356186",
       "index": 2
     },
     {
@@ -142648,7 +142648,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7683682",
+      "value": "7685677",
       "index": 1
     },
     {
@@ -143359,7 +143359,7 @@
       "joinTime": "1718658633000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 19783
+      "rank": 19791
     }
   ],
   "datacron": [
@@ -145522,7 +145522,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719138069000",
+  "lastActivityTime": "1719138135000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
