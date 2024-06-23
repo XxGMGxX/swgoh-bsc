@@ -89303,7 +89303,7 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "1000",
+      "value": "1001",
       "index": 5
     },
     {
@@ -89399,7 +89399,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "212247",
+      "value": "212249",
       "index": 7
     },
     {
@@ -89553,7 +89553,7 @@
     },
     {
       "tab": 2,
-      "rank": 14,
+      "rank": 12,
       "squad": {
         "cell": [
           {
@@ -90010,7 +90010,7 @@
       "joinTime": "1718668747000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 115
+      "rank": 116
     }
   ],
   "datacron": [
@@ -90083,7 +90083,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719121860000",
+  "lastActivityTime": "1719122451000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
