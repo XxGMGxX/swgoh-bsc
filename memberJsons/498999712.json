@@ -12817,7 +12817,7 @@
         },
         {
           "id": "uniqueskill_GUNGANPHALANX01",
-          "tier": 4
+          "tier": 5
         }
       ],
       "equipment": [
@@ -13575,7 +13575,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 10740
+      "gp": 13323
     },
     {
       "skill": [
@@ -35406,7 +35406,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 40263
+      "gp": 41856
     },
     {
       "skill": [
@@ -38519,7 +38519,24 @@
           "tier": 5
         }
       ],
-      "equipment": [],
+      "equipment": [
+        {
+          "equipmentId": "105",
+          "slot": 0
+        },
+        {
+          "equipmentId": "122",
+          "slot": 3
+        },
+        {
+          "equipmentId": "139",
+          "slot": 4
+        },
+        {
+          "equipmentId": "133",
+          "slot": 5
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -39253,7 +39270,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 14818
+      "gp": 15526
     },
     {
       "skill": [
@@ -71484,19 +71501,19 @@
       "skill": [
         {
           "id": "basicskill_PADAWANOBIWAN",
-          "tier": 3
+          "tier": 5
         },
         {
           "id": "specialskill_PADAWANOBIWAN01",
-          "tier": 3
+          "tier": 5
         },
         {
           "id": "specialskill_PADAWANOBIWAN02",
-          "tier": 3
+          "tier": 5
         },
         {
           "id": "uniqueskill_PADAWANOBIWAN01",
-          "tier": 3
+          "tier": 4
         }
       ],
       "equipment": [
@@ -71768,7 +71785,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 6738
+      "gp": 7755
     },
     {
       "skill": [
@@ -94279,7 +94296,7 @@
       "purchasedAbilityId": [],
       "id": "jB22iXuoRtiyj2YCHP7X-w",
       "definitionId": "Master Qui-Gon",
-      "currentRarity": 3,
+      "currentRarity": 4,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -94288,7 +94305,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 6517
+      "gp": 6855
     },
     {
       "skill": [
@@ -108472,7 +108489,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2726586",
+      "value": "2728179",
       "index": 3
     },
     {
@@ -108484,7 +108501,7 @@
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1504",
+      "value": "1505",
       "index": 6
     },
     {
@@ -108502,7 +108519,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "11769",
+      "value": "11781",
       "index": 9
     },
     {
@@ -108526,13 +108543,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3390956",
+      "value": "3395602",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "37727",
+      "value": "37737",
       "index": 8
     },
     {
@@ -108568,13 +108585,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6117542",
+      "value": "6123781",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "100627",
+      "value": "100677",
       "index": 7
     },
     {
@@ -108593,7 +108610,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 291,
+      "rank": 269,
       "squad": {
         "cell": [
           {
@@ -108671,7 +108688,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719055113000",
+        "lastSaveTime": "1719164391000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -109158,7 +109175,7 @@
       "joinTime": "1718660515000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 14677
+      "rank": 14681
     }
   ],
   "datacron": [
@@ -109372,7 +109389,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719163893000",
+  "lastActivityTime": "1719164493000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },

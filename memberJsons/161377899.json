@@ -137655,7 +137655,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1504033",
+      "value": "1505658",
       "index": 11
     },
     {
@@ -138464,7 +138464,7 @@
       "joinTime": "1718661267000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 3960
+      "rank": 3958
     }
   ],
   "datacron": [
@@ -139965,7 +139965,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719159717000",
+  "lastActivityTime": "1719164058000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_OURIDENTITY"
   },
