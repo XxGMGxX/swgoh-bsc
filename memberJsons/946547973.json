@@ -89067,7 +89067,7 @@
       "purchasedAbilityId": [],
       "id": "Cp2XHebYQaSYTktGLlrRnQ",
       "definitionId": "Padawan Obi-Wan",
-      "currentRarity": 3,
+      "currentRarity": 4,
       "currentLevel": 50,
       "currentXp": 63540,
       "promotionRecipeReference": "",
@@ -89076,7 +89076,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 2953
+      "gp": 3291
     },
     {
       "skill": [],
@@ -120684,7 +120684,7 @@
       "purchasedAbilityId": [],
       "id": "egVLGiAXRZSI4dRqiJ0Mqw",
       "definitionId": "Master Qui-Gon",
-      "currentRarity": 3,
+      "currentRarity": 4,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -120693,7 +120693,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 6013
+      "gp": 6351
     },
     {
       "skill": [
@@ -141361,7 +141361,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4196112",
+      "value": "4196788",
       "index": 2
     },
     {
@@ -141403,13 +141403,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7059919",
+      "value": "7060595",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "100574",
+      "value": "100593",
       "index": 7
     },
     {
@@ -142178,7 +142178,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 420,
-  "lastActivityTime": "1719126611000",
+  "lastActivityTime": "1719130872000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_CHEWBACCA"
   },
