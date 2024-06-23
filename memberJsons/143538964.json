@@ -16463,11 +16463,11 @@
       "skill": [
         {
           "id": "specialskill_MERRIN02",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "uniqueskill_MERRIN01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "uniqueskill_MERRIN02",
@@ -17212,7 +17212,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 17386
+      "gp": 17596
     },
     {
       "skill": [
@@ -54716,7 +54716,7 @@
       "skill": [
         {
           "id": "specialskill_MOTHERTALZIN01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "basicskill_MOTHERTALZIN",
@@ -55463,7 +55463,7 @@
       "relic": {
         "currentTier": 5
       },
-      "gp": 23535
+      "gp": 23745
     },
     {
       "skill": [
@@ -93246,7 +93246,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2849578",
+      "value": "2849998",
       "index": 2
     },
     {
@@ -93288,7 +93288,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5010005",
+      "value": "5010425",
       "index": 1
     },
     {
@@ -93853,7 +93853,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 1348
+      "rank": 1352
     }
   ],
   "datacron": [
@@ -94682,7 +94682,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719118911000",
+  "lastActivityTime": "1719119491000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
