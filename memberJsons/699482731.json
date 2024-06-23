@@ -108863,6 +108863,10 @@
           "slot": 3
         },
         {
+          "equipmentId": "125",
+          "slot": 4
+        },
+        {
           "equipmentId": "121",
           "slot": 5
         }
@@ -108881,7 +108885,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 10575
+      "gp": 10717
     },
     {
       "skill": [
@@ -120316,7 +120320,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4805414",
+      "value": "4805556",
       "index": 2
     },
     {
@@ -120358,7 +120362,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8232600",
+      "value": "8232742",
       "index": 1
     },
     {
@@ -121099,7 +121103,7 @@
       "joinTime": "1718662489000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 11471
+      "rank": 11474
     }
   ],
   "datacron": [
@@ -121619,6 +121623,50 @@
       "locked": false,
       "rerollIndex": 0,
       "rerollCount": 0
+    },
+    {
+      "tag": [],
+      "affix": [
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 53,
+          "statValue": "3059035",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 3,
+          "scopeIcon": ""
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 54,
+          "statValue": "7294179",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 3,
+          "scopeIcon": ""
+        },
+        {
+          "tag": [
+            "darkside"
+          ],
+          "targetRule": "target_datacron_darkside",
+          "abilityId": "datacron_alignment_generic_015",
+          "statType": 1,
+          "statValue": "0",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 3,
+          "scopeIcon": "tex.datacronui_affix_darkside"
+        }
+      ],
+      "rerollOption": [],
+      "id": "qHMIzcrwSxSujSoZHEopmg",
+      "setId": 15,
+      "templateId": "datacron_set_15_base",
+      "locked": false,
+      "rerollIndex": 0,
+      "rerollCount": 0
     }
   ],
   "name": "XxNobleYodaxX",
@@ -121635,7 +121683,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719105263000",
+  "lastActivityTime": "1719106526000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GRANDARENA_ADVANCED"
   },
