@@ -93298,7 +93298,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "38719",
+      "value": "38726",
       "index": 7
     },
     {
@@ -93857,7 +93857,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 1415
+      "rank": 1417
     }
   ],
   "datacron": [
@@ -94331,6 +94331,19 @@
           "requiredUnitTier": 0,
           "requiredRelicTier": 5,
           "scopeIcon": ""
+        },
+        {
+          "tag": [
+            "firstorder",
+            "darkside"
+          ],
+          "targetRule": "target_datacron_firstorder",
+          "abilityId": "datacron_faction_generic_023",
+          "statType": 1,
+          "statValue": "0",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": "tex.datacronui_affix_firstorder"
         }
       ],
       "rerollOption": [],
@@ -94339,7 +94352,7 @@
       "templateId": "datacron_set_15_base",
       "locked": false,
       "rerollIndex": 0,
-      "rerollCount": 1
+      "rerollCount": 2
     },
     {
       "tag": [],
@@ -94741,7 +94754,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719166285000",
+  "lastActivityTime": "1719166896000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
