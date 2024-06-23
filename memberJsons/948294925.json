@@ -23784,24 +23784,8 @@
       ],
       "equipment": [
         {
-          "equipmentId": "117",
+          "equipmentId": "132",
           "slot": 0
-        },
-        {
-          "equipmentId": "091",
-          "slot": 1
-        },
-        {
-          "equipmentId": "096",
-          "slot": 2
-        },
-        {
-          "equipmentId": "111",
-          "slot": 4
-        },
-        {
-          "equipmentId": "111",
-          "slot": 5
         }
       ],
       "equippedStatModOld": [],
@@ -24535,11 +24519,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 9,
+      "currentTier": 10,
       "relic": {
         "currentTier": 1
       },
-      "gp": 14698
+      "gp": 15018
     },
     {
       "skill": [
@@ -126204,7 +126188,7 @@
       "purchasedAbilityId": [],
       "id": "hmJhtK2gShm3t5dUcTuuEQ",
       "definitionId": "Saw Gerrera",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -126213,7 +126197,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 8700
+      "gp": 9840
     },
     {
       "skill": [
@@ -129382,7 +129366,7 @@
     {
       "nameKey": "STAT_SEASON_SUCCESSFUL_DEFENDS_NAME",
       "versionKey": "NULL",
-      "value": "317",
+      "value": "321",
       "index": 15
     },
     {
@@ -129418,13 +129402,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4380287",
+      "value": "4381747",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "48089",
+      "value": "48102",
       "index": 8
     },
     {
@@ -129460,13 +129444,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7595631",
+      "value": "7597091",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "133390",
+      "value": "133405",
       "index": 7
     },
     {
@@ -130154,7 +130138,7 @@
       "joinTime": "1718658068000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 2640
+      "rank": 2642
     }
   ],
   "datacron": [
@@ -130585,7 +130569,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719175580000",
+  "lastActivityTime": "1719178266000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
