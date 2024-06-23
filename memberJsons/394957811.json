@@ -122790,7 +122790,7 @@
       "purchasedAbilityId": [],
       "id": "pIaEPMICQn2_34p_YhZI6g",
       "definitionId": "IG-12 & Grogu",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -122799,7 +122799,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 14154
+      "gp": 15294
     },
     {
       "skill": [
@@ -124860,13 +124860,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4385693",
+      "value": "4386833",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "42539",
+      "value": "42554",
       "index": 8
     },
     {
@@ -124878,7 +124878,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1440104",
+      "value": "1440270",
       "index": 11
     },
     {
@@ -124890,7 +124890,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "323893",
+      "value": "324213",
       "index": 16
     },
     {
@@ -124902,25 +124902,25 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7180086",
+      "value": "7181226",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "117281",
+      "value": "117304",
       "index": 7
     },
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "1390",
+      "value": "1392",
       "index": 14
     },
     {
       "nameKey": "STAT_SEASON_TERRITORIES_DEFEATED_NAME",
       "versionKey": "NULL",
-      "value": "544",
+      "value": "545",
       "index": 19
     }
   ],
@@ -125489,12 +125489,12 @@
       "league": "BRONZIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 1366,
+      "seasonPoints": 1686,
       "division": 15,
       "joinTime": "1718660867000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 11502
+      "rank": 5586
     }
   ],
   "datacron": [
@@ -125535,7 +125535,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719083513000",
+  "lastActivityTime": "1719184904000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SITHTROOPER"
   },
