@@ -4,14 +4,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "209",
-            "lifetimeValue": "681408"
-          },
-          {
             "type": 2,
             "currentValue": "600",
             "lifetimeValue": "455328"
+          },
+          {
+            "type": 1,
+            "currentValue": "209",
+            "lifetimeValue": "681408"
           },
           {
             "type": 3,
@@ -65,7 +65,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719153098000",
+        "lastActivityTime": "1719153406000",
         "squadPower": 180381,
         "guildJoinTime": "1652378136",
         "galacticPower": "8232742",
@@ -80,14 +80,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "237",
-            "lifetimeValue": "767659"
-          },
-          {
             "type": 2,
             "currentValue": "600",
             "lifetimeValue": "457394"
+          },
+          {
+            "type": 1,
+            "currentValue": "237",
+            "lifetimeValue": "767659"
           },
           {
             "type": 3,
@@ -141,7 +141,7 @@
         "playerLevel": 85,
         "memberLevel": 3,
         "guildXp": 0,
-        "lastActivityTime": "1719153090000",
+        "lastActivityTime": "1719153235000",
         "squadPower": 160875,
         "guildJoinTime": "1652378137",
         "galacticPower": "9321575",
@@ -156,14 +156,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "218",
-            "lifetimeValue": "570701"
-          },
-          {
             "type": 2,
             "currentValue": "200",
             "lifetimeValue": "442284"
+          },
+          {
+            "type": 1,
+            "currentValue": "218",
+            "lifetimeValue": "570701"
           },
           {
             "type": 3,
@@ -232,14 +232,14 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "362",
+            "lifetimeValue": "336758"
+          },
+          {
             "type": 1,
             "currentValue": "0",
             "lifetimeValue": "496416"
-          },
-          {
-            "type": 2,
-            "currentValue": "142",
-            "lifetimeValue": "336538"
           },
           {
             "type": 3,
@@ -293,7 +293,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719153057000",
+        "lastActivityTime": "1719153570000",
         "squadPower": 178071,
         "guildJoinTime": "1652378140",
         "galacticPower": "4931036",
@@ -308,14 +308,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "510328"
-          },
-          {
             "type": 2,
             "currentValue": "0",
             "lifetimeValue": "227846"
+          },
+          {
+            "type": 1,
+            "currentValue": "0",
+            "lifetimeValue": "510328"
           },
           {
             "type": 3,
@@ -384,14 +384,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "418967"
-          },
-          {
             "type": 2,
             "currentValue": "0",
             "lifetimeValue": "373706"
+          },
+          {
+            "type": 1,
+            "currentValue": "181",
+            "lifetimeValue": "419148"
           },
           {
             "type": 3,
@@ -445,29 +445,29 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719073240000",
+        "lastActivityTime": "1719153676000",
         "squadPower": 185216,
         "guildJoinTime": "1652378144",
-        "galacticPower": "6442036",
+        "galacticPower": "6442059",
         "playerTitle": "PLAYERTITLE_GLJMLS_QUEST_003",
         "playerPortrait": "PLAYERPORTRAIT_JEDIKNIGHTLUKE",
         "lifetimeSeasonScore": "433570",
         "leagueId": "CHROMIUM",
         "shipGalacticPower": "2403188",
-        "characterGalacticPower": "4038848",
+        "characterGalacticPower": "4038871",
         "nucleusId": "2257730654"
       },
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "202",
-            "lifetimeValue": "674704"
-          },
-          {
             "type": 2,
             "currentValue": "522",
             "lifetimeValue": "432626"
+          },
+          {
+            "type": 1,
+            "currentValue": "202",
+            "lifetimeValue": "674704"
           },
           {
             "type": 3,
@@ -536,14 +536,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "753966"
-          },
-          {
             "type": 2,
             "currentValue": "600",
             "lifetimeValue": "455782"
+          },
+          {
+            "type": 1,
+            "currentValue": "0",
+            "lifetimeValue": "753966"
           },
           {
             "type": 3,
@@ -597,29 +597,29 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719119473000",
+        "lastActivityTime": "1719153670000",
         "squadPower": 169402,
         "guildJoinTime": "1652378146",
-        "galacticPower": "8277945",
+        "galacticPower": "8279007",
         "playerTitle": "PLAYERTITLE_GENERAL",
         "playerPortrait": "PLAYERPORTRAIT_OURIDENTITY",
         "lifetimeSeasonScore": "299748",
         "leagueId": "KYBER",
         "shipGalacticPower": "3454830",
-        "characterGalacticPower": "4823115",
+        "characterGalacticPower": "4824177",
         "nucleusId": "1013183379390"
       },
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "228",
-            "lifetimeValue": "436097"
-          },
-          {
             "type": 2,
             "currentValue": "262",
             "lifetimeValue": "306322"
+          },
+          {
+            "type": 1,
+            "currentValue": "228",
+            "lifetimeValue": "436097"
           },
           {
             "type": 3,
@@ -688,14 +688,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "166",
-            "lifetimeValue": "481066"
-          },
-          {
             "type": 2,
             "currentValue": "0",
             "lifetimeValue": "239674"
+          },
+          {
+            "type": 1,
+            "currentValue": "166",
+            "lifetimeValue": "481066"
           },
           {
             "type": 3,
@@ -764,14 +764,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "168",
-            "lifetimeValue": "617187"
-          },
-          {
             "type": 2,
             "currentValue": "600",
             "lifetimeValue": "428786"
+          },
+          {
+            "type": 1,
+            "currentValue": "168",
+            "lifetimeValue": "617187"
           },
           {
             "type": 3,
@@ -840,14 +840,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "177",
-            "lifetimeValue": "635315"
-          },
-          {
             "type": 2,
             "currentValue": "396",
             "lifetimeValue": "329436"
+          },
+          {
+            "type": 1,
+            "currentValue": "177",
+            "lifetimeValue": "635315"
           },
           {
             "type": 3,
@@ -916,14 +916,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "379045"
-          },
-          {
             "type": 2,
             "currentValue": "0",
             "lifetimeValue": "209872"
+          },
+          {
+            "type": 1,
+            "currentValue": "0",
+            "lifetimeValue": "379045"
           },
           {
             "type": 3,
@@ -992,14 +992,14 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "348",
+            "lifetimeValue": "452508"
+          },
+          {
             "type": 1,
             "currentValue": "200",
             "lifetimeValue": "678023"
-          },
-          {
-            "type": 2,
-            "currentValue": "228",
-            "lifetimeValue": "452388"
           },
           {
             "type": 3,
@@ -1053,7 +1053,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719153075000",
+        "lastActivityTime": "1719153700000",
         "squadPower": 149581,
         "guildJoinTime": "1652389663",
         "galacticPower": "8645381",
@@ -1068,14 +1068,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "177",
-            "lifetimeValue": "643465"
-          },
-          {
             "type": 2,
             "currentValue": "428",
             "lifetimeValue": "373292"
+          },
+          {
+            "type": 1,
+            "currentValue": "177",
+            "lifetimeValue": "643465"
           },
           {
             "type": 3,
@@ -1144,14 +1144,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "177",
-            "lifetimeValue": "645251"
-          },
-          {
             "type": 2,
             "currentValue": "0",
             "lifetimeValue": "406668"
+          },
+          {
+            "type": 1,
+            "currentValue": "177",
+            "lifetimeValue": "645251"
           },
           {
             "type": 3,
@@ -1205,7 +1205,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719153066000",
+        "lastActivityTime": "1719153676000",
         "squadPower": 176955,
         "guildJoinTime": "1652391094",
         "galacticPower": "9184434",
@@ -1220,14 +1220,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "168",
-            "lifetimeValue": "611435"
-          },
-          {
             "type": 2,
             "currentValue": "600",
             "lifetimeValue": "329324"
+          },
+          {
+            "type": 1,
+            "currentValue": "168",
+            "lifetimeValue": "611435"
           },
           {
             "type": 3,
@@ -1296,14 +1296,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "576662"
-          },
-          {
             "type": 2,
             "currentValue": "0",
             "lifetimeValue": "427092"
+          },
+          {
+            "type": 1,
+            "currentValue": "0",
+            "lifetimeValue": "576662"
           },
           {
             "type": 3,
@@ -1372,14 +1372,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "525400"
-          },
-          {
             "type": 2,
             "currentValue": "0",
             "lifetimeValue": "284180"
+          },
+          {
+            "type": 1,
+            "currentValue": "0",
+            "lifetimeValue": "525400"
           },
           {
             "type": 3,
@@ -1448,14 +1448,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "289434"
-          },
-          {
             "type": 2,
             "currentValue": "0",
             "lifetimeValue": "283244"
+          },
+          {
+            "type": 1,
+            "currentValue": "0",
+            "lifetimeValue": "289434"
           },
           {
             "type": 3,
@@ -1524,14 +1524,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "181",
-            "lifetimeValue": "650783"
-          },
-          {
             "type": 2,
             "currentValue": "142",
             "lifetimeValue": "141962"
+          },
+          {
+            "type": 1,
+            "currentValue": "181",
+            "lifetimeValue": "650783"
           },
           {
             "type": 3,
@@ -1600,14 +1600,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "168",
-            "lifetimeValue": "502100"
-          },
-          {
             "type": 2,
             "currentValue": "600",
             "lifetimeValue": "325210"
+          },
+          {
+            "type": 1,
+            "currentValue": "168",
+            "lifetimeValue": "502100"
           },
           {
             "type": 3,
@@ -1676,14 +1676,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "181",
-            "lifetimeValue": "678951"
-          },
-          {
             "type": 2,
             "currentValue": "600",
             "lifetimeValue": "456244"
+          },
+          {
+            "type": 1,
+            "currentValue": "181",
+            "lifetimeValue": "678951"
           },
           {
             "type": 3,
@@ -1752,14 +1752,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "606554"
-          },
-          {
             "type": 2,
             "currentValue": "504",
             "lifetimeValue": "395474"
+          },
+          {
+            "type": 1,
+            "currentValue": "0",
+            "lifetimeValue": "606554"
           },
           {
             "type": 3,
@@ -1828,14 +1828,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "181",
-            "lifetimeValue": "674692"
-          },
-          {
             "type": 2,
             "currentValue": "600",
             "lifetimeValue": "371702"
+          },
+          {
+            "type": 1,
+            "currentValue": "181",
+            "lifetimeValue": "674692"
           },
           {
             "type": 3,
@@ -1904,14 +1904,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "639497"
-          },
-          {
             "type": 2,
             "currentValue": "0",
             "lifetimeValue": "356880"
+          },
+          {
+            "type": 1,
+            "currentValue": "0",
+            "lifetimeValue": "639497"
           },
           {
             "type": 3,
@@ -1980,14 +1980,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "713883"
-          },
-          {
             "type": 2,
             "currentValue": "600",
             "lifetimeValue": "446702"
+          },
+          {
+            "type": 1,
+            "currentValue": "0",
+            "lifetimeValue": "713883"
           },
           {
             "type": 3,
@@ -2056,14 +2056,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "192",
-            "lifetimeValue": "669011"
-          },
-          {
             "type": 2,
             "currentValue": "600",
             "lifetimeValue": "445162"
+          },
+          {
+            "type": 1,
+            "currentValue": "192",
+            "lifetimeValue": "669011"
           },
           {
             "type": 3,
@@ -2132,14 +2132,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "177",
-            "lifetimeValue": "600807"
-          },
-          {
             "type": 2,
             "currentValue": "356",
             "lifetimeValue": "360298"
+          },
+          {
+            "type": 1,
+            "currentValue": "177",
+            "lifetimeValue": "600807"
           },
           {
             "type": 3,
@@ -2208,14 +2208,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "177",
-            "lifetimeValue": "672620"
-          },
-          {
             "type": 2,
             "currentValue": "356",
             "lifetimeValue": "401870"
+          },
+          {
+            "type": 1,
+            "currentValue": "177",
+            "lifetimeValue": "672620"
           },
           {
             "type": 3,
@@ -2284,14 +2284,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "177",
-            "lifetimeValue": "478058"
-          },
-          {
             "type": 2,
             "currentValue": "280",
             "lifetimeValue": "295770"
+          },
+          {
+            "type": 1,
+            "currentValue": "177",
+            "lifetimeValue": "478058"
           },
           {
             "type": 3,
@@ -2360,14 +2360,14 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "464",
+            "lifetimeValue": "328682"
+          },
+          {
             "type": 1,
             "currentValue": "177",
             "lifetimeValue": "567161"
-          },
-          {
-            "type": 2,
-            "currentValue": "224",
-            "lifetimeValue": "328442"
           },
           {
             "type": 3,
@@ -2421,7 +2421,7 @@
         "playerLevel": 85,
         "memberLevel": 3,
         "guildXp": 0,
-        "lastActivityTime": "1719111687000",
+        "lastActivityTime": "1719153567000",
         "squadPower": 167568,
         "guildJoinTime": "1658162525",
         "galacticPower": "7883384",
@@ -2436,14 +2436,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "181",
-            "lifetimeValue": "448307"
-          },
-          {
             "type": 2,
             "currentValue": "0",
             "lifetimeValue": "296228"
+          },
+          {
+            "type": 1,
+            "currentValue": "181",
+            "lifetimeValue": "448307"
           },
           {
             "type": 3,
@@ -2497,7 +2497,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719153076000",
+        "lastActivityTime": "1719153584000",
         "squadPower": 188217,
         "guildJoinTime": "1664292655",
         "galacticPower": "8285409",
@@ -2512,14 +2512,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "168",
-            "lifetimeValue": "378343"
-          },
-          {
             "type": 2,
             "currentValue": "0",
             "lifetimeValue": "155560"
+          },
+          {
+            "type": 1,
+            "currentValue": "168",
+            "lifetimeValue": "378343"
           },
           {
             "type": 3,
@@ -2588,14 +2588,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "87684"
-          },
-          {
             "type": 2,
             "currentValue": "0",
             "lifetimeValue": "80664"
+          },
+          {
+            "type": 1,
+            "currentValue": "0",
+            "lifetimeValue": "87684"
           },
           {
             "type": 3,
@@ -2664,14 +2664,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "207",
-            "lifetimeValue": "421623"
-          },
-          {
             "type": 2,
             "currentValue": "186",
             "lifetimeValue": "316944"
+          },
+          {
+            "type": 1,
+            "currentValue": "207",
+            "lifetimeValue": "421623"
           },
           {
             "type": 3,
@@ -2740,14 +2740,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "177",
-            "lifetimeValue": "349645"
-          },
-          {
             "type": 2,
             "currentValue": "600",
             "lifetimeValue": "263172"
+          },
+          {
+            "type": 1,
+            "currentValue": "177",
+            "lifetimeValue": "349645"
           },
           {
             "type": 3,
@@ -2801,7 +2801,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719128378000",
+        "lastActivityTime": "1719153355000",
         "squadPower": 186864,
         "guildJoinTime": "1672607377",
         "galacticPower": "8659175",
@@ -2816,14 +2816,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "192",
-            "lifetimeValue": "359201"
-          },
-          {
             "type": 2,
             "currentValue": "180",
             "lifetimeValue": "301080"
+          },
+          {
+            "type": 1,
+            "currentValue": "192",
+            "lifetimeValue": "359201"
           },
           {
             "type": 3,
@@ -2892,14 +2892,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "180308"
-          },
-          {
             "type": 2,
             "currentValue": "44",
             "lifetimeValue": "171050"
+          },
+          {
+            "type": 1,
+            "currentValue": "0",
+            "lifetimeValue": "180308"
           },
           {
             "type": 3,
@@ -2968,14 +2968,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "131592"
-          },
-          {
             "type": 2,
             "currentValue": "0",
             "lifetimeValue": "233856"
+          },
+          {
+            "type": 1,
+            "currentValue": "0",
+            "lifetimeValue": "131592"
           },
           {
             "type": 3,
@@ -3044,14 +3044,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "192",
-            "lifetimeValue": "181856"
-          },
-          {
             "type": 2,
             "currentValue": "600",
             "lifetimeValue": "222992"
+          },
+          {
+            "type": 1,
+            "currentValue": "192",
+            "lifetimeValue": "181856"
           },
           {
             "type": 3,
@@ -3120,14 +3120,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "168",
-            "lifetimeValue": "134277"
-          },
-          {
             "type": 2,
             "currentValue": "600",
             "lifetimeValue": "148784"
+          },
+          {
+            "type": 1,
+            "currentValue": "168",
+            "lifetimeValue": "134277"
           },
           {
             "type": 3,
@@ -3196,14 +3196,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "99016"
-          },
-          {
             "type": 2,
             "currentValue": "600",
             "lifetimeValue": "128238"
+          },
+          {
+            "type": 1,
+            "currentValue": "0",
+            "lifetimeValue": "99016"
           },
           {
             "type": 3,
@@ -3272,14 +3272,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "82252"
-          },
-          {
             "type": 2,
             "currentValue": "600",
             "lifetimeValue": "103622"
+          },
+          {
+            "type": 1,
+            "currentValue": "0",
+            "lifetimeValue": "82252"
           },
           {
             "type": 3,
@@ -3348,14 +3348,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "166",
-            "lifetimeValue": "68519"
-          },
-          {
             "type": 2,
             "currentValue": "324",
             "lifetimeValue": "54124"
+          },
+          {
+            "type": 1,
+            "currentValue": "166",
+            "lifetimeValue": "68519"
           },
           {
             "type": 3,
@@ -3424,14 +3424,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "177",
-            "lifetimeValue": "44820"
-          },
-          {
             "type": 2,
             "currentValue": "490",
             "lifetimeValue": "56700"
+          },
+          {
+            "type": 1,
+            "currentValue": "177",
+            "lifetimeValue": "44820"
           },
           {
             "type": 3,
@@ -3500,14 +3500,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "168",
-            "lifetimeValue": "49540"
-          },
-          {
             "type": 2,
             "currentValue": "600",
             "lifetimeValue": "44884"
+          },
+          {
+            "type": 1,
+            "currentValue": "168",
+            "lifetimeValue": "49540"
           },
           {
             "type": 3,
@@ -3576,14 +3576,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "27483"
-          },
-          {
             "type": 2,
             "currentValue": "0",
             "lifetimeValue": "35142"
+          },
+          {
+            "type": 1,
+            "currentValue": "0",
+            "lifetimeValue": "27483"
           },
           {
             "type": 3,
@@ -3652,14 +3652,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "205",
-            "lifetimeValue": "18773"
-          },
-          {
             "type": 2,
             "currentValue": "600",
             "lifetimeValue": "26174"
+          },
+          {
+            "type": 1,
+            "currentValue": "205",
+            "lifetimeValue": "18773"
           },
           {
             "type": 3,
@@ -3713,7 +3713,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719153076000",
+        "lastActivityTime": "1719153680000",
         "squadPower": 157174,
         "guildJoinTime": "1715387579",
         "galacticPower": "5010602",
@@ -3728,14 +3728,14 @@
       {
         "memberContribution": [
           {
-            "type": 1,
-            "currentValue": "168",
-            "lifetimeValue": "168"
-          },
-          {
             "type": 2,
             "currentValue": "0",
             "lifetimeValue": "232"
+          },
+          {
+            "type": 1,
+            "currentValue": "168",
+            "lifetimeValue": "168"
           },
           {
             "type": 3,
@@ -5244,10 +5244,10 @@
       "leaderboardScore": "0",
       "bannerColorId": "red_white",
       "bannerLogoId": "guild_icon_Rebel",
-      "guildGalacticPower": "371661211",
+      "guildGalacticPower": "371661234",
       "chatChannelId": "guild-{8qYzrHcISr-VJgiyDdMldw}",
       "guildType": "",
-      "guildGalacticPowerForRequirement": "371661211",
+      "guildGalacticPowerForRequirement": "371661234",
       "singleLaunchConfig": {
         "raidId": "speederbike",
         "campaignMissionIdentifier": {

@@ -20513,19 +20513,21 @@
             },
             {
               "roll": [
-                "0.18696"
+                "0.18696",
+                "0.15428"
               ],
               "unscaledRollValue": [
-                "2103"
+                "2103",
+                "1736"
               ],
               "stat": {
                 "unitStatId": 18,
-                "statValueDecimal": "210",
-                "unscaledDecimalValue": "2103000",
+                "statValueDecimal": "383",
+                "unscaledDecimalValue": "3839000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 1,
+              "statRolls": 2,
               "statRollerBoundsMin": "1125",
               "statRollerBoundsMax": "2250"
             },
@@ -20549,19 +20551,21 @@
             },
             {
               "roll": [
-                "0.11670"
+                "0.11670",
+                "0.11225"
               ],
               "unscaledRollValue": [
-                "25008810"
+                "25008810",
+                "24055175"
               ],
               "stat": {
                 "unitStatId": 1,
-                "statValueDecimal": "2500000",
-                "unscaledDecimalValue": "25000000000",
+                "statValueDecimal": "4900000",
+                "unscaledDecimalValue": "49000000000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 1,
+              "statRolls": 2,
               "statRollerBoundsMin": "21430000",
               "statRollerBoundsMax": "42860000"
             }
@@ -20569,7 +20573,7 @@
           "id": "KSjPLlPOSzyYSWWwyg_HXg",
           "definitionId": "555",
           "level": 15,
-          "tier": 2,
+          "tier": 4,
           "sellValue": {
             "currency": 1,
             "quantity": 97200,
@@ -20740,7 +20744,7 @@
       "relic": {
         "currentTier": 7
       },
-      "gp": 25569
+      "gp": 25614
     },
     {
       "skill": [
@@ -141225,7 +141229,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "24854",
+      "value": "24866",
       "index": 9
     },
     {
@@ -141249,13 +141253,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4038848",
+      "value": "4038871",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53547",
+      "value": "53579",
       "index": 8
     },
     {
@@ -141267,7 +141271,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1522147",
+      "value": "1522328",
       "index": 11
     },
     {
@@ -141291,13 +141295,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6442036",
+      "value": "6442059",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "251295",
+      "value": "251353",
       "index": 7
     },
     {
@@ -141931,7 +141935,7 @@
       "joinTime": "1718673487000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 10110
+      "rank": 5095
     }
   ],
   "datacron": [
@@ -141972,7 +141976,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719073240000",
+  "lastActivityTime": "1719153676000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDIKNIGHTLUKE"
   },
