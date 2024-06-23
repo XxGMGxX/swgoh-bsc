@@ -23970,7 +23970,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 24780
+      "gp": 25142
     },
     {
       "skill": [
@@ -126563,7 +126563,7 @@
         },
         {
           "id": "basicskill_SITHASSASSIN",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_SITHASSASSIN02",
@@ -127315,7 +127315,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 12435
+      "gp": 12645
     },
     {
       "skill": [
@@ -143032,7 +143032,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3329868",
+      "value": "3330230",
       "index": 3
     },
     {
@@ -143086,7 +143086,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4357097",
+      "value": "4357307",
       "index": 2
     },
     {
@@ -143128,7 +143128,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7686965",
+      "value": "7687537",
       "index": 1
     },
     {
@@ -143839,7 +143839,7 @@
       "joinTime": "1718658633000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 19743
+      "rank": 19742
     }
   ],
   "datacron": [
@@ -146002,7 +146002,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719166912000",
+  "lastActivityTime": "1719167081000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
