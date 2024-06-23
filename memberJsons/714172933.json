@@ -10875,7 +10875,7 @@
       "purchasedAbilityId": [],
       "id": "69bBYaTpS0qBHlhIdHy3DA",
       "definitionId": "Krrsantan",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -10884,7 +10884,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 8173
+      "gp": 9313
     },
     {
       "skill": [
@@ -71446,7 +71446,7 @@
       "purchasedAbilityId": [],
       "id": "5XOFysf0TSKTVBmdsElbGQ",
       "definitionId": "Imperial Super Commando",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -71455,7 +71455,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 13165
+      "gp": 14305
     },
     {
       "skill": [],
@@ -90142,13 +90142,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2853186",
+      "value": "2855466",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "33904",
+      "value": "33939",
       "index": 8
     },
     {
@@ -90184,13 +90184,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4917503",
+      "value": "4919783",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "90448",
+      "value": "90496",
       "index": 7
     },
     {
@@ -90271,7 +90271,7 @@
           {
             "crewBattleStat": [],
             "unitId": "5XOFysf0TSKTVBmdsElbGQ",
-            "unitDefId": "IMPERIALSUPERCOMMANDO:FIVE_STAR",
+            "unitDefId": "IMPERIALSUPERCOMMANDO:SIX_STAR",
             "cellIndex": 4,
             "unitBattleStat": null,
             "messageReticle": "",
@@ -90702,7 +90702,7 @@
       "joinTime": "1718661722000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 5743
+      "rank": 5745
     }
   ],
   "datacron": [
@@ -90743,7 +90743,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -120,
-  "lastActivityTime": "1719175304000",
+  "lastActivityTime": "1719175895000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
