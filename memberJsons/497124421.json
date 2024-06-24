@@ -73160,6 +73160,30 @@
       "gp": 23256
     },
     {
+      "skill": [],
+      "equipment": [
+        {
+          "equipmentId": "110",
+          "slot": 0
+        }
+      ],
+      "equippedStatModOld": [],
+      "equippedStatMod": [],
+      "purchasedAbilityId": [],
+      "id": "8fhfcr7OQbuEZUZ2dl8bzQ",
+      "definitionId": "Boba Fett, Scion of Jango",
+      "currentRarity": 7,
+      "currentLevel": 85,
+      "currentXp": 883025,
+      "promotionRecipeReference": "",
+      "unitStat": null,
+      "currentTier": 8,
+      "relic": {
+        "currentTier": 1
+      },
+      "gp": 9172
+    },
+    {
       "skill": [
         {
           "id": "basicskill_DARKTROOPER",
@@ -142523,7 +142547,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4510368",
+      "value": "4519540",
       "index": 2
     },
     {
@@ -142565,13 +142589,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7409437",
+      "value": "7418609",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "198215",
+      "value": "198217",
       "index": 7
     },
     {
@@ -144005,7 +144029,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719246560000",
+  "lastActivityTime": "1719255697000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_NIGHTSISTERS_VENTRESS"
   },
