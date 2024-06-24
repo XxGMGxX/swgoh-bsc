@@ -50749,15 +50749,15 @@
         },
         {
           "id": "specialskill_EETHKOTH01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "uniqueskill_EETHKOTH01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "basicskill_EETHKOTH",
-          "tier": 5
+          "tier": 6
         }
       ],
       "equipment": [],
@@ -50775,7 +50775,7 @@
       "relic": {
         "currentTier": 7
       },
-      "gp": 20997
+      "gp": 21627
     },
     {
       "skill": [],
@@ -67189,7 +67189,24 @@
           "tier": 5
         }
       ],
-      "equipment": [],
+      "equipment": [
+        {
+          "equipmentId": "109",
+          "slot": 0
+        },
+        {
+          "equipmentId": "139",
+          "slot": 1
+        },
+        {
+          "equipmentId": "103",
+          "slot": 2
+        },
+        {
+          "equipmentId": "144",
+          "slot": 4
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -67204,7 +67221,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 13896
+      "gp": 14688
     },
     {
       "skill": [
@@ -76611,7 +76628,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3562205",
+      "value": "3575287",
       "index": 3
     },
     {
@@ -76665,7 +76682,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5026075",
+      "value": "5027497",
       "index": 2
     },
     {
@@ -76707,7 +76724,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8588280",
+      "value": "8602784",
       "index": 1
     },
     {
@@ -77640,7 +77657,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 120,
-  "lastActivityTime": "1719221465000",
+  "lastActivityTime": "1719222042000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_BD1"
   },
