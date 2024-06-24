@@ -45825,6 +45825,46 @@
     {
       "skill": [
         {
+          "id": "uniqueskill_TARONMALICOS01",
+          "tier": 4
+        },
+        {
+          "id": "uniqueskill_TARONMALICOS02",
+          "tier": 4
+        },
+        {
+          "id": "specialskill_TARONMALICOS01",
+          "tier": 5
+        },
+        {
+          "id": "specialskill_TARONMALICOS02",
+          "tier": 5
+        },
+        {
+          "id": "basicskill_TARONMALICOS",
+          "tier": 6
+        }
+      ],
+      "equipment": [],
+      "equippedStatModOld": [],
+      "equippedStatMod": [],
+      "purchasedAbilityId": [],
+      "id": "RhZMo4ClRA6WhcKLAw7yrg",
+      "definitionId": "Taron Malicos",
+      "currentRarity": 7,
+      "currentLevel": 85,
+      "currentXp": 883025,
+      "promotionRecipeReference": "",
+      "unitStat": null,
+      "currentTier": 8,
+      "relic": {
+        "currentTier": 1
+      },
+      "gp": 11779
+    },
+    {
+      "skill": [
+        {
           "id": "uniqueskill_JEDIKNIGHTCAL01",
           "tier": 6
         },
@@ -66158,6 +66198,25 @@
       "gp": 30840
     },
     {
+      "skill": [],
+      "equipment": [],
+      "equippedStatModOld": [],
+      "equippedStatMod": [],
+      "purchasedAbilityId": [],
+      "id": "CXOgRUfgSQ--sBXi9_y5GA",
+      "definitionId": "Admiral Trench",
+      "currentRarity": 7,
+      "currentLevel": 1,
+      "currentXp": 0,
+      "promotionRecipeReference": "",
+      "unitStat": null,
+      "currentTier": 1,
+      "relic": {
+        "currentTier": 1
+      },
+      "gp": 4656
+    },
+    {
       "skill": [
         {
           "id": "uniqueskill_WICKET01",
@@ -78140,13 +78199,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5030662",
+      "value": "5047097",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "48851",
+      "value": "48853",
       "index": 8
     },
     {
@@ -78182,13 +78241,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8605949",
+      "value": "8622384",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "222557",
+      "value": "222559",
       "index": 7
     },
     {
@@ -78877,7 +78936,7 @@
       "joinTime": "1718707712000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 6307
+      "rank": 6306
     }
   ],
   "datacron": [
@@ -79115,7 +79174,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 120,
-  "lastActivityTime": "1719254812000",
+  "lastActivityTime": "1719256289000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_BD1"
   },
