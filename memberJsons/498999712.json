@@ -20226,11 +20226,11 @@
       "skill": [
         {
           "id": "specialskill_TALIA02",
-          "tier": 4
+          "tier": 5
         },
         {
           "id": "specialskill_TALIA01",
-          "tier": 4
+          "tier": 5
         },
         {
           "id": "basicskill_TALIA",
@@ -20273,7 +20273,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 9975
+      "gp": 10329
     },
     {
       "skill": [
@@ -71776,7 +71776,7 @@
       "purchasedAbilityId": [],
       "id": "ChYfoJJBSIO_n3zN_35gNA",
       "definitionId": "Padawan Obi-Wan",
-      "currentRarity": 4,
+      "currentRarity": 5,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -71785,7 +71785,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 7755
+      "gp": 8262
     },
     {
       "skill": [
@@ -84575,9 +84575,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 3
+        "currentTier": 5
       },
-      "gp": 22440
+      "gp": 24186
     },
     {
       "skill": [
@@ -108543,13 +108543,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3395602",
+      "value": "3398209",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "37747",
+      "value": "37777",
       "index": 8
     },
     {
@@ -108585,13 +108585,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6123781",
+      "value": "6126388",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "100687",
+      "value": "100746",
       "index": 7
     },
     {
@@ -109175,7 +109175,7 @@
       "joinTime": "1718660515000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 14705
+      "rank": 14708
     }
   ],
   "datacron": [
@@ -109389,7 +109389,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719204053000",
+  "lastActivityTime": "1719204699000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
