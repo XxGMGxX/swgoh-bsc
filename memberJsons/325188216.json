@@ -73463,7 +73463,7 @@
     {
       "nameKey": "STAT_SEASON_UNDERSIZED_SQUAD_WINS_NAME",
       "versionKey": "NULL",
-      "value": "26",
+      "value": "27",
       "index": 18
     },
     {
@@ -73499,7 +73499,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "117205",
+      "value": "117526",
       "index": 16
     },
     {
@@ -73523,13 +73523,13 @@
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "660",
+      "value": "662",
       "index": 14
     },
     {
       "nameKey": "STAT_SEASON_TERRITORIES_DEFEATED_NAME",
       "versionKey": "NULL",
-      "value": "399",
+      "value": "400",
       "index": 19
     }
   ],
@@ -74154,7 +74154,7 @@
       "league": "AURODIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 505,
+      "seasonPoints": 826,
       "division": 15,
       "joinTime": "1718705959000",
       "endTime": "1720990800000",
@@ -74396,7 +74396,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719246674000",
+  "lastActivityTime": "1719247279000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDIKNIGHTLUKE"
   },
