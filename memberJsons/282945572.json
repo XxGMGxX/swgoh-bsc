@@ -40859,7 +40859,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 67110
+      "gp": 67164
     },
     {
       "skill": [
@@ -49819,19 +49819,21 @@
             },
             {
               "roll": [
-                "0.15618"
+                "0.15618",
+                "0.14024"
               ],
               "unscaledRollValue": [
-                "765282"
+                "765282",
+                "687176"
               ],
               "stat": {
                 "unitStatId": 42,
-                "statValueDecimal": "70000",
-                "unscaledDecimalValue": "700000000",
+                "statValueDecimal": "140000",
+                "unscaledDecimalValue": "1400000000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 1,
+              "statRolls": 2,
               "statRollerBoundsMin": "490000",
               "statRollerBoundsMax": "980000"
             }
@@ -49839,7 +49841,7 @@
           "id": "5c07KmXETFy-sAPK9CuUDQ",
           "definitionId": "653",
           "level": 15,
-          "tier": 4,
+          "tier": 5,
           "sellValue": {
             "currency": 1,
             "quantity": 97200,
@@ -50254,7 +50256,7 @@
       "relic": {
         "currentTier": 7
       },
-      "gp": 26578
+      "gp": 26602
     },
     {
       "skill": [
@@ -89615,6 +89617,10 @@
       "equipment": [
         {
           "equipmentId": "159",
+          "slot": 0
+        },
+        {
+          "equipmentId": "159",
           "slot": 1
         },
         {
@@ -90389,7 +90395,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 21496
+      "gp": 21706
     },
     {
       "skill": [
@@ -143536,7 +143542,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3330439",
+      "value": "3330493",
       "index": 3
     },
     {
@@ -143590,7 +143596,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4363428",
+      "value": "4363662",
       "index": 2
     },
     {
@@ -143632,7 +143638,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7693867",
+      "value": "7694155",
       "index": 1
     },
     {
@@ -144343,7 +144349,7 @@
       "joinTime": "1718658633000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 19842
+      "rank": 19867
     }
   ],
   "datacron": [
@@ -146556,7 +146562,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719263512000",
+  "lastActivityTime": "1719263898000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },

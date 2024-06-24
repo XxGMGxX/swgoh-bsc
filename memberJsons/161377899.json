@@ -33013,6 +33013,25 @@
       "gp": 2661
     },
     {
+      "skill": [],
+      "equipment": [],
+      "equippedStatModOld": [],
+      "equippedStatMod": [],
+      "purchasedAbilityId": [],
+      "id": "am7vLXCLTseUdnZvsLNJKw",
+      "definitionId": "Queen Amidala",
+      "currentRarity": 7,
+      "currentLevel": 1,
+      "currentXp": 0,
+      "promotionRecipeReference": "",
+      "unitStat": null,
+      "currentTier": 1,
+      "relic": {
+        "currentTier": 1
+      },
+      "gp": 4656
+    },
+    {
       "skill": [
         {
           "id": "basicskill_CHIEFCHIRPA",
@@ -137637,13 +137656,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4825594",
+      "value": "4830250",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "65973",
+      "value": "65976",
       "index": 8
     },
     {
@@ -137679,13 +137698,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8280424",
+      "value": "8285080",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "231824",
+      "value": "231828",
       "index": 7
     },
     {
@@ -138460,11 +138479,11 @@
       "wins": 0,
       "losses": 0,
       "seasonPoints": 3875,
-      "division": 10,
+      "division": 15,
       "joinTime": "1718661267000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 3973
+      "rank": 3977
     }
   ],
   "datacron": [
@@ -139976,7 +139995,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719262415000",
+  "lastActivityTime": "1719264065000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_OURIDENTITY"
   },
