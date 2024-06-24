@@ -143718,11 +143718,11 @@
       "wins": 0,
       "losses": 0,
       "seasonPoints": 1880,
-      "division": 15,
+      "division": 10,
       "joinTime": "1718658141000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 2887
+      "rank": 2892
     }
   ],
   "datacron": [
@@ -144414,18 +144414,18 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719262284000",
+  "lastActivityTime": "1719262824000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_NIGHTSISTERS_VENTRESS"
   },
   "lifetimeSeasonScore": "384786",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 2701
+      "skillRating": 2741
     },
     "playerRankStatus": {
       "leagueId": "AURODIUM",
-      "divisionId": 10
+      "divisionId": 15
     }
   },
   "nucleusId": "1015609730918"

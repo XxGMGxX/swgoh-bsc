@@ -123462,7 +123462,7 @@
         },
         {
           "id": "specialskill_MASTERQUIGON01",
-          "tier": 3
+          "tier": 5
         }
       ],
       "equipment": [],
@@ -124197,7 +124197,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 4258
+      "gp": 4557
     },
     {
       "skill": [
@@ -143590,13 +143590,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4363129",
+      "value": "4363428",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53805",
+      "value": "53806",
       "index": 8
     },
     {
@@ -143614,7 +143614,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_EXCHANGE_DONATIONS_TU07_2",
       "versionKey": "NULL",
-      "value": "3095",
+      "value": "3099",
       "index": 12
     },
     {
@@ -143632,13 +143632,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7693568",
+      "value": "7693867",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "161863",
+      "value": "161864",
       "index": 7
     },
     {
@@ -144343,7 +144343,7 @@
       "joinTime": "1718658633000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 19761
+      "rank": 19775
     }
   ],
   "datacron": [
@@ -146556,7 +146556,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719261799000",
+  "lastActivityTime": "1719262667000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
