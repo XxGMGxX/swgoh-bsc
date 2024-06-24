@@ -73499,7 +73499,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "117526",
+      "value": "117653",
       "index": 16
     },
     {
@@ -73523,7 +73523,7 @@
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "662",
+      "value": "664",
       "index": 14
     },
     {
@@ -74154,12 +74154,12 @@
       "league": "AURODIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 826,
+      "seasonPoints": 953,
       "division": 15,
       "joinTime": "1718705959000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 9125
+      "rank": 9121
     }
   ],
   "datacron": [
@@ -74396,7 +74396,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719247279000",
+  "lastActivityTime": "1719247825000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDIKNIGHTLUKE"
   },

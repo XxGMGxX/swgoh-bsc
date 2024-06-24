@@ -23421,13 +23421,13 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "91",
+      "value": "92",
       "index": 5
     },
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "201",
+      "value": "202",
       "index": 6
     },
     {
@@ -23445,7 +23445,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "10548",
+      "value": "10560",
       "index": 9
     },
     {
@@ -23517,7 +23517,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "109439",
+      "value": "109455",
       "index": 7
     },
     {
@@ -23536,7 +23536,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 714,
+      "rank": 661,
       "squad": {
         "cell": [
           {
@@ -23622,7 +23622,7 @@
     },
     {
       "tab": 2,
-      "rank": 56,
+      "rank": 48,
       "squad": {
         "cell": [
           {
@@ -24243,7 +24243,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719232787000",
+  "lastActivityTime": "1719247873000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MANDALORIAN"
   },
