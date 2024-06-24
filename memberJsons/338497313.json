@@ -24037,7 +24037,7 @@
       "joinTime": "1718662189000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 1948
+      "rank": 1983
     }
   ],
   "datacron": [
@@ -24243,18 +24243,18 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719247873000",
+  "lastActivityTime": "1719267015000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MANDALORIAN"
   },
   "lifetimeSeasonScore": "32765",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 2422
+      "skillRating": 2382
     },
     "playerRankStatus": {
       "leagueId": "BRONZIUM",
-      "divisionId": 25
+      "divisionId": 20
     }
   },
   "nucleusId": "1009248688405"
