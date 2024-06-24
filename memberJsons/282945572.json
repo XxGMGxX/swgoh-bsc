@@ -91914,7 +91914,20 @@
       "gp": 53053
     },
     {
-      "skill": [],
+      "skill": [
+        {
+          "id": "basicskill_PADAWANOBIWAN",
+          "tier": 3
+        },
+        {
+          "id": "specialskill_PADAWANOBIWAN01",
+          "tier": 3
+        },
+        {
+          "id": "specialskill_PADAWANOBIWAN02",
+          "tier": 2
+        }
+      ],
       "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
@@ -91922,15 +91935,15 @@
       "id": "Z1s2AvN-Sa2RqxiJGoyDrg",
       "definitionId": "Padawan Obi-Wan",
       "currentRarity": 3,
-      "currentLevel": 1,
-      "currentXp": 0,
+      "currentLevel": 50,
+      "currentXp": 63540,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 1,
+      "currentTier": 2,
       "relic": {
         "currentTier": 1
       },
-      "gp": 676
+      "gp": 1782
     },
     {
       "skill": [
@@ -123447,15 +123460,15 @@
       "id": "r5JLD0I1Q_CsmKxRM1jPXg",
       "definitionId": "Master Qui-Gon",
       "currentRarity": 4,
-      "currentLevel": 1,
-      "currentXp": 0,
+      "currentLevel": 50,
+      "currentXp": 63540,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 1,
       "relic": {
         "currentTier": 1
       },
-      "gp": 1014
+      "gp": 1341
     },
     {
       "skill": [
@@ -143090,7 +143103,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4357766",
+      "value": "4359199",
       "index": 2
     },
     {
@@ -143132,7 +143145,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7688205",
+      "value": "7689638",
       "index": 1
     },
     {
@@ -146056,7 +146069,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719251325000",
+  "lastActivityTime": "1719252688000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
