@@ -142920,7 +142920,7 @@
     {
       "nameKey": "STAT_GUILD_RAID_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "833",
+      "value": "834",
       "index": 10
     },
     {
@@ -142950,7 +142950,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1520446",
+      "value": "1520832",
       "index": 11
     },
     {
@@ -143722,7 +143722,7 @@
       "joinTime": "1718658141000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 2908
+      "rank": 2919
     }
   ],
   "datacron": [
@@ -144414,7 +144414,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719264030000",
+  "lastActivityTime": "1719271300000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_NIGHTSISTERS_VENTRESS"
   },
