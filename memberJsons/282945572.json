@@ -123446,7 +123446,7 @@
       "purchasedAbilityId": [],
       "id": "r5JLD0I1Q_CsmKxRM1jPXg",
       "definitionId": "Master Qui-Gon",
-      "currentRarity": 3,
+      "currentRarity": 4,
       "currentLevel": 1,
       "currentXp": 0,
       "promotionRecipeReference": "",
@@ -123455,7 +123455,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 676
+      "gp": 1014
     },
     {
       "skill": [
@@ -143090,7 +143090,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4357428",
+      "value": "4357766",
       "index": 2
     },
     {
@@ -143132,7 +143132,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7687867",
+      "value": "7688205",
       "index": 1
     },
     {
@@ -143843,7 +143843,7 @@
       "joinTime": "1718658633000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 19751
+      "rank": 19750
     }
   ],
   "datacron": [
@@ -146006,7 +146006,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719242194000",
+  "lastActivityTime": "1719242673000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
