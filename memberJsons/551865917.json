@@ -141357,13 +141357,13 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "2738",
+      "value": "2739",
       "index": 5
     },
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "4449",
+      "value": "4450",
       "index": 6
     },
     {
@@ -141381,7 +141381,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "19760",
+      "value": "19772",
       "index": 9
     },
     {
@@ -141423,7 +141423,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "2058025",
+      "value": "2058069",
       "index": 11
     },
     {
@@ -141453,7 +141453,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "230170",
+      "value": "230236",
       "index": 7
     },
     {
@@ -141472,7 +141472,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 78,
+      "rank": 73,
       "squad": {
         "cell": [
           {
@@ -141630,7 +141630,7 @@
     },
     {
       "tab": 2,
-      "rank": 14,
+      "rank": 9,
       "squad": {
         "cell": [
           {
@@ -142527,7 +142527,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719192677000",
+  "lastActivityTime": "1719193314000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
