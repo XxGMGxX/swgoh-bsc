@@ -141456,7 +141456,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "28517",
+      "value": "28527",
       "index": 8
     },
     {
@@ -141498,7 +141498,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "100820",
+      "value": "100830",
       "index": 7
     },
     {
@@ -141722,8 +141722,8 @@
           },
           {
             "crewBattleStat": [],
-            "unitId": "dRV28pGxTo6nBzJB3j_yzA",
-            "unitDefId": "YWINGREBEL:SEVEN_STAR",
+            "unitId": "vgnIzudTRou6rKDKoGF26g",
+            "unitDefId": "XWINGRED3:SEVEN_STAR",
             "cellIndex": 3,
             "unitBattleStat": null,
             "messageReticle": "",
@@ -141736,8 +141736,8 @@
           },
           {
             "crewBattleStat": [],
-            "unitId": "f_sWneDsTJyGkK0bAeXUXQ",
-            "unitDefId": "PHANTOM2:SEVEN_STAR",
+            "unitId": "dRV28pGxTo6nBzJB3j_yzA",
+            "unitDefId": "YWINGREBEL:SEVEN_STAR",
             "cellIndex": 4,
             "unitBattleStat": null,
             "messageReticle": "",
@@ -141764,8 +141764,8 @@
           },
           {
             "crewBattleStat": [],
-            "unitId": "oIFkfFz7TWqxTb857fwsAw",
-            "unitDefId": "UWINGSCARIF:SEVEN_STAR",
+            "unitId": "f_sWneDsTJyGkK0bAeXUXQ",
+            "unitDefId": "PHANTOM2:SEVEN_STAR",
             "cellIndex": 6,
             "unitBattleStat": null,
             "messageReticle": "",
@@ -141781,7 +141781,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1718788006000",
+        "lastSaveTime": "1719228282000",
         "supportInheritFromDefinitionId": "",
         "datacron": null
       },
@@ -142267,7 +142267,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 420,
-  "lastActivityTime": "1719226249000",
+  "lastActivityTime": "1719228688000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_CHEWBACCA"
   },
