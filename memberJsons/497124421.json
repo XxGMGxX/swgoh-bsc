@@ -20589,19 +20589,19 @@
       "skill": [
         {
           "id": "basicskill_QUIGONJINN",
-          "tier": 3
+          "tier": 5
         },
         {
           "id": "specialskill_QUIGONJINN02",
-          "tier": 3
+          "tier": 5
         },
         {
           "id": "specialskill_QUIGONJINN01",
-          "tier": 3
+          "tier": 5
         },
         {
           "id": "leaderskill_QUIGONJINN",
-          "tier": 4
+          "tier": 5
         }
       ],
       "equipment": [],
@@ -21088,15 +21088,15 @@
       "id": "3FhAEt-SSFyb9cQB_Mg8oA",
       "definitionId": "Qui-Gon Jinn",
       "currentRarity": 7,
-      "currentLevel": 80,
-      "currentXp": 653025,
+      "currentLevel": 85,
+      "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 8,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 7
       },
-      "gp": 10780
+      "gp": 21943
     },
     {
       "skill": [
@@ -40044,7 +40044,24 @@
       "gp": 17826
     },
     {
-      "skill": [],
+      "skill": [
+        {
+          "id": "specialskill_KITFISTO01",
+          "tier": 5
+        },
+        {
+          "id": "uniqueskill_KITFISTO01",
+          "tier": 5
+        },
+        {
+          "id": "basicskill_KITFISTO",
+          "tier": 5
+        },
+        {
+          "id": "leaderskill_KITFISTO",
+          "tier": 5
+        }
+      ],
       "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
@@ -40052,15 +40069,15 @@
       "id": "4_rd9eLZR5iRkGSqrK8tuQ",
       "definitionId": "Kit Fisto",
       "currentRarity": 7,
-      "currentLevel": 1,
-      "currentXp": 0,
+      "currentLevel": 85,
+      "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 1,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 7
       },
-      "gp": 4656
+      "gp": 20997
     },
     {
       "skill": [
@@ -44627,12 +44644,7 @@
           "tier": 5
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "144",
-          "slot": 4
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -45254,11 +45266,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 11,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 7
       },
-      "gp": 15970
+      "gp": 22774
     },
     {
       "skill": [
@@ -49470,7 +49482,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 37063
+      "gp": 57131
     },
     {
       "skill": [
@@ -52464,11 +52476,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 9,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 7
       },
-      "gp": 13450
+      "gp": 22369
     },
     {
       "skill": [
@@ -91098,19 +91110,19 @@
       "skill": [
         {
           "id": "basicskill_EETHKOTH",
-          "tier": 1
+          "tier": 5
         },
         {
           "id": "uniqueskill_EETHKOTH01",
-          "tier": 1
+          "tier": 5
         },
         {
           "id": "leaderskill_EETHKOTH",
-          "tier": 2
+          "tier": 5
         },
         {
           "id": "specialskill_EETHKOTH01",
-          "tier": 2
+          "tier": 5
         }
       ],
       "equipment": [],
@@ -91833,11 +91845,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 8,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 7
       },
-      "gp": 10923
+      "gp": 22347
     },
     {
       "skill": [
@@ -142361,7 +142373,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4452252",
+      "value": "4503417",
       "index": 2
     },
     {
@@ -142403,7 +142415,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7331253",
+      "value": "7382418",
       "index": 1
     },
     {
@@ -143151,7 +143163,7 @@
       "joinTime": "1718658141000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 2879
+      "rank": 2880
     }
   ],
   "datacron": [
@@ -143843,7 +143855,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719201384000",
+  "lastActivityTime": "1719240699000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_NIGHTSISTERS_VENTRESS"
   },
