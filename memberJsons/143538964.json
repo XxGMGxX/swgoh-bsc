@@ -93202,13 +93202,13 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "380",
+      "value": "381",
       "index": 5
     },
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "202",
+      "value": "203",
       "index": 6
     },
     {
@@ -93226,7 +93226,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "3300",
+      "value": "3312",
       "index": 9
     },
     {
@@ -93256,7 +93256,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "12292",
+      "value": "12297",
       "index": 8
     },
     {
@@ -93298,7 +93298,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "38758",
+      "value": "38773",
       "index": 7
     },
     {
@@ -93317,7 +93317,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 58,
+      "rank": 48,
       "squad": {
         "cell": [
           {
@@ -93395,7 +93395,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719121212000",
+        "lastSaveTime": "1719207496000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -93508,7 +93508,7 @@
     },
     {
       "tab": 2,
-      "rank": 11,
+      "rank": 9,
       "squad": {
         "cell": [
           {
@@ -94749,6 +94749,17 @@
       "locked": false,
       "rerollIndex": 0,
       "rerollCount": 0
+    },
+    {
+      "tag": [],
+      "affix": [],
+      "rerollOption": [],
+      "id": "PlwBFxfaQJGu4VQ6JNRphA",
+      "setId": 15,
+      "templateId": "datacron_set_15_base",
+      "locked": false,
+      "rerollIndex": 0,
+      "rerollCount": 0
     }
   ],
   "name": "The UnknownMaster",
@@ -94765,7 +94776,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719207112000",
+  "lastActivityTime": "1719207692000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
