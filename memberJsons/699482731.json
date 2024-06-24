@@ -120296,7 +120296,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "15386",
+      "value": "15398",
       "index": 9
     },
     {
@@ -120326,7 +120326,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "43462",
+      "value": "43502",
       "index": 8
     },
     {
@@ -120344,7 +120344,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_EXCHANGE_DONATIONS_TU07_2",
       "versionKey": "NULL",
-      "value": "1267",
+      "value": "1269",
       "index": 12
     },
     {
@@ -120368,7 +120368,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "165006",
+      "value": "165071",
       "index": 7
     },
     {
@@ -121103,7 +121103,7 @@
       "joinTime": "1718662489000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 11559
+      "rank": 11558
     }
   ],
   "datacron": [
@@ -121570,6 +121570,49 @@
           "requiredUnitTier": 0,
           "requiredRelicTier": 3,
           "scopeIcon": "tex.datacronui_affix_darkside"
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 48,
+          "statValue": "7164383",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": ""
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 16,
+          "statValue": "13958174",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": ""
+        },
+        {
+          "tag": [
+            "firstorder",
+            "darkside"
+          ],
+          "targetRule": "target_datacron_firstorder",
+          "abilityId": "datacron_faction_generic_026",
+          "statType": 1,
+          "statValue": "0",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": "tex.datacronui_affix_firstorder"
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 16,
+          "statValue": "21936849",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": ""
         }
       ],
       "rerollOption": [],
@@ -121578,7 +121621,7 @@
       "templateId": "datacron_set_15_base",
       "locked": false,
       "rerollIndex": 0,
-      "rerollCount": 0
+      "rerollCount": 2
     },
     {
       "tag": [],
@@ -121670,7 +121713,28 @@
     },
     {
       "tag": [],
-      "affix": [],
+      "affix": [
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 16,
+          "statValue": "8334573",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 3,
+          "scopeIcon": ""
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 53,
+          "statValue": "4218250",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 3,
+          "scopeIcon": ""
+        }
+      ],
       "rerollOption": [],
       "id": "qQQySXRGTIuiY9COqizSPA",
       "setId": 15,
@@ -121694,7 +121758,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719198707000",
+  "lastActivityTime": "1719199264000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GRANDARENA_ADVANCED"
   },
