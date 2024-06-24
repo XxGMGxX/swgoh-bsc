@@ -2381,7 +2381,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 66968
+      "gp": 67042
     },
     {
       "skill": [
@@ -40601,6 +40601,10 @@
           "slot": 2
         },
         {
+          "equipmentId": "168",
+          "slot": 3
+        },
+        {
           "equipmentId": "G12Finisher_JANGOFETT_B",
           "slot": 5
         }
@@ -41342,7 +41346,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 24337
+      "gp": 24547
     },
     {
       "skill": [
@@ -121140,19 +121144,21 @@
             },
             {
               "roll": [
-                "0.15019"
+                "0.15019",
+                "0.18109"
               ],
               "unscaledRollValue": [
-                "1201520"
+                "1201520",
+                "1448720"
               ],
               "stat": {
                 "unitStatId": 42,
-                "statValueDecimal": "120000",
-                "unscaledDecimalValue": "1200000000",
+                "statValueDecimal": "260000",
+                "unscaledDecimalValue": "2600000000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 1,
+              "statRolls": 2,
               "statRollerBoundsMin": "800000",
               "statRollerBoundsMax": "1600000"
             },
@@ -121178,7 +121184,7 @@
           "id": "zuXdA33eQuCEhp-kPdsdjQ",
           "definitionId": "462",
           "level": 15,
-          "tier": 2,
+          "tier": 3,
           "sellValue": {
             "currency": 1,
             "quantity": 221000,
@@ -121345,20 +121351,22 @@
             {
               "roll": [
                 "0.14450",
-                "0.11115"
+                "0.11115",
+                "0.13003"
               ],
               "unscaledRollValue": [
                 "1156000",
-                "889200"
+                "889200",
+                "1040240"
               ],
               "stat": {
                 "unitStatId": 42,
-                "statValueDecimal": "200000",
-                "unscaledDecimalValue": "2000000000",
+                "statValueDecimal": "300000",
+                "unscaledDecimalValue": "3000000000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 2,
+              "statRolls": 3,
               "statRollerBoundsMin": "800000",
               "statRollerBoundsMax": "1600000"
             },
@@ -121428,7 +121436,7 @@
           "id": "ETbdw0BqRgWwTAROL2Y-eA",
           "definitionId": "164",
           "level": 15,
-          "tier": 2,
+          "tier": 3,
           "sellValue": {
             "currency": 1,
             "quantity": 221000,
@@ -121723,7 +121731,7 @@
       "relic": {
         "currentTier": 9
       },
-      "gp": 26515
+      "gp": 26548
     },
     {
       "skill": [
@@ -129419,7 +129427,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3237513",
+      "value": "3237587",
       "index": 3
     },
     {
@@ -129473,13 +129481,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4452169",
+      "value": "4452412",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "48206",
+      "value": "48213",
       "index": 8
     },
     {
@@ -129491,7 +129499,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "891789",
+      "value": "892068",
       "index": 11
     },
     {
@@ -129515,13 +129523,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7689682",
+      "value": "7689999",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "133610",
+      "value": "133625",
       "index": 7
     },
     {
@@ -130212,7 +130220,7 @@
       "joinTime": "1718658068000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 2698
+      "rank": 7666
     }
   ],
   "datacron": [
@@ -130643,7 +130651,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719272428000",
+  "lastActivityTime": "1719273098000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
