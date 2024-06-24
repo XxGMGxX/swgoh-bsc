@@ -143096,7 +143096,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53800",
+      "value": "53804",
       "index": 8
     },
     {
@@ -143138,7 +143138,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "161822",
+      "value": "161844",
       "index": 7
     },
     {
@@ -143235,7 +143235,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719156912000",
+        "lastSaveTime": "1719249880000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -145827,6 +145827,16 @@
           "requiredUnitTier": 0,
           "requiredRelicTier": 5,
           "scopeIcon": "tex.datacronui_affix_firstorder"
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 16,
+          "statValue": "22318170",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": ""
         }
       ],
       "rerollOption": [],
@@ -145904,6 +145914,26 @@
           "requiredUnitTier": 0,
           "requiredRelicTier": 5,
           "scopeIcon": "tex.datacronui_affix_firstorder"
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 53,
+          "statValue": "14956175",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": ""
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 25,
+          "statValue": "98785448",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": ""
         }
       ],
       "rerollOption": [],
@@ -145981,6 +146011,26 @@
           "requiredUnitTier": 0,
           "requiredRelicTier": 5,
           "scopeIcon": "tex.datacronui_affix_firstorder"
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 53,
+          "statValue": "15689528",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": ""
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 53,
+          "statValue": "13323351",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": ""
         }
       ],
       "rerollOption": [],
@@ -146006,7 +146056,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719248442000",
+  "lastActivityTime": "1719250309000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
