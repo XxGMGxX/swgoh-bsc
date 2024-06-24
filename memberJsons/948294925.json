@@ -129449,7 +129449,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "10911",
+      "value": "10923",
       "index": 9
     },
     {
@@ -129479,7 +129479,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "48202",
+      "value": "48206",
       "index": 8
     },
     {
@@ -129503,7 +129503,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "105639",
+      "value": "105640",
       "index": 16
     },
     {
@@ -129521,7 +129521,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "133595",
+      "value": "133610",
       "index": 7
     },
     {
@@ -129618,7 +129618,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719178498000",
+        "lastSaveTime": "1719258980000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -130207,7 +130207,7 @@
       "league": "CHROMIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 2866,
+      "seasonPoints": 2867,
       "division": 15,
       "joinTime": "1718658068000",
       "endTime": "1720990800000",
@@ -130643,7 +130643,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719258660000",
+  "lastActivityTime": "1719259079000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
