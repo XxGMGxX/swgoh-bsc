@@ -217,7 +217,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719224792000",
+        "lastActivityTime": "1719231656000",
         "squadPower": 185404,
         "guildJoinTime": "1652378139",
         "galacticPower": "8605949",
@@ -825,7 +825,7 @@
         "playerLevel": 85,
         "memberLevel": 3,
         "guildXp": 0,
-        "lastActivityTime": "1719228346000",
+        "lastActivityTime": "1719231539000",
         "squadPower": 167460,
         "guildJoinTime": "1652388658",
         "galacticPower": "6625493",
@@ -2269,7 +2269,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719226937000",
+        "lastActivityTime": "1719231345000",
         "squadPower": 186754,
         "guildJoinTime": "1653076184",
         "galacticPower": "7897873",
@@ -3055,8 +3055,8 @@
           },
           {
             "type": 2,
-            "currentValue": "232",
-            "lifetimeValue": "223224"
+            "currentValue": "312",
+            "lifetimeValue": "223304"
           }
         ],
         "seasonStatus": [
@@ -3105,16 +3105,16 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719231084000",
+        "lastActivityTime": "1719231415000",
         "squadPower": 157986,
         "guildJoinTime": "1686252099",
-        "galacticPower": "7687537",
+        "galacticPower": "7687867",
         "playerTitle": "PLAYERTITLE_BROTHERHOOD_OF_DARKNESS",
         "playerPortrait": "PLAYERPORTRAIT_L337",
         "lifetimeSeasonScore": "80356",
         "leagueId": "KYBER",
-        "shipGalacticPower": "3330230",
-        "characterGalacticPower": "4357307",
+        "shipGalacticPower": "3330439",
+        "characterGalacticPower": "4357428",
         "nucleusId": "2794343642"
       },
       {
@@ -3713,7 +3713,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719231089000",
+        "lastActivityTime": "1719231694000",
         "squadPower": 157174,
         "guildJoinTime": "1715387579",
         "galacticPower": "5015301",
@@ -5244,10 +5244,10 @@
       "leaderboardScore": "0",
       "bannerColorId": "red_white",
       "bannerLogoId": "guild_icon_Rebel",
-      "guildGalacticPower": "372103970",
+      "guildGalacticPower": "372104300",
       "chatChannelId": "guild-{8qYzrHcISr-VJgiyDdMldw}",
       "guildType": "",
-      "guildGalacticPowerForRequirement": "372103970",
+      "guildGalacticPowerForRequirement": "372104300",
       "singleLaunchConfig": {
         "raidId": "speederbike",
         "campaignMissionIdentifier": {
