@@ -129866,6 +129866,9 @@
       "id": "PLAYERTITLE_HIGH_MAGISTRATE"
     },
     {
+      "id": "PLAYERTITLE_AXIS"
+    },
+    {
       "id": "PLAYERTITLE_JEDI_GENERAL"
     },
     {
@@ -130640,7 +130643,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719244909000",
+  "lastActivityTime": "1719245443000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
