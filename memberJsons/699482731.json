@@ -3244,7 +3244,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 24309
+      "gp": 25164
     },
     {
       "skill": [
@@ -8883,7 +8883,7 @@
       "purchasedAbilityId": [],
       "id": "FWDCKM71RTuILCXj78wltw",
       "definitionId": "Captain Tarpals",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -8892,7 +8892,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 9193
+      "gp": 10333
     },
     {
       "skill": [
@@ -15659,7 +15659,7 @@
       "purchasedAbilityId": [],
       "id": "Yu-cotrzQk-ME6RL-Ru63A",
       "definitionId": "Bo-Katan Kryze",
-      "currentRarity": 6,
+      "currentRarity": 7,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -15668,7 +15668,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 9475
+      "gp": 11470
     },
     {
       "skill": [
@@ -22018,7 +22018,7 @@
       "purchasedAbilityId": [],
       "id": "JTG1HSLlTuav8Aq3DCmPWg",
       "definitionId": "Admiral Raddus",
-      "currentRarity": 3,
+      "currentRarity": 4,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -22027,7 +22027,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 8673
+      "gp": 9010
     },
     {
       "skill": [
@@ -34038,7 +34038,9 @@
           "rerolledCount": 0
         }
       ],
-      "purchasedAbilityId": [],
+      "purchasedAbilityId": [
+        "ultimateability_supremeleaderkyloren"
+      ],
       "id": "-j1vkhAyRauLOP49wjYqOw",
       "definitionId": "Supreme Leader Kylo Ren",
       "currentRarity": 7,
@@ -49355,23 +49357,23 @@
       "skill": [
         {
           "id": "basicskill_BAZEMALBUS",
-          "tier": 3
+          "tier": 6
         },
         {
           "id": "specialskill_BAZEMALBUS01",
-          "tier": 3
+          "tier": 6
         },
         {
           "id": "specialskill_BAZEMALBUS02",
-          "tier": 3
+          "tier": 6
         },
         {
           "id": "uniqueskill_BAZEMALBUS01",
-          "tier": 3
+          "tier": 5
         },
         {
           "id": "uniqueskill_BAZEMALBUS02",
-          "tier": 2
+          "tier": 5
         }
       ],
       "equipment": [],
@@ -49381,15 +49383,15 @@
       "id": "Mv7AF9gbSwWbjCgn9FvpAg",
       "definitionId": "Baze Malbus",
       "currentRarity": 6,
-      "currentLevel": 53,
-      "currentXp": 84540,
+      "currentLevel": 85,
+      "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 7,
       "relic": {
         "currentTier": 1
       },
-      "gp": 6058
+      "gp": 9883
     },
     {
       "skill": [
@@ -55807,7 +55809,7 @@
       "purchasedAbilityId": [],
       "id": "Td1WVescRF2f86SZBHNaGQ",
       "definitionId": "Vandor Chewbacca",
-      "currentRarity": 3,
+      "currentRarity": 4,
       "currentLevel": 50,
       "currentXp": 63540,
       "promotionRecipeReference": "",
@@ -55816,7 +55818,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 3237
+      "gp": 3574
     },
     {
       "skill": [
@@ -58996,7 +58998,7 @@
       "purchasedAbilityId": [],
       "id": "NnZCDjyPSVOptL37c8q1GQ",
       "definitionId": "0-0-0",
-      "currentRarity": 3,
+      "currentRarity": 4,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -59005,7 +59007,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 8098
+      "gp": 8436
     },
     {
       "skill": [
@@ -68915,7 +68917,7 @@
       "purchasedAbilityId": [],
       "id": "6qZFUi6ASyO6n1wxc_AQLg",
       "definitionId": "Moff Gideon",
-      "currentRarity": 6,
+      "currentRarity": 7,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -68924,7 +68926,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 16035
+      "gp": 18030
     },
     {
       "skill": [
@@ -86729,7 +86731,7 @@
       "purchasedAbilityId": [],
       "id": "GGXxpaLzTh6jOAFW0Slkow",
       "definitionId": "Tarfful",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -86738,7 +86740,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 9606
+      "gp": 10746
     },
     {
       "skill": [
@@ -104197,7 +104199,7 @@
       "purchasedAbilityId": [],
       "id": "Kmj_2uTuQwu8bo4MCE_kPQ",
       "definitionId": "Tech",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -104206,7 +104208,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 8943
+      "gp": 10083
     },
     {
       "skill": [
@@ -120266,7 +120268,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3427186",
+      "value": "3428041",
       "index": 3
     },
     {
@@ -120320,7 +120322,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4807580",
+      "value": "4827294",
       "index": 2
     },
     {
@@ -120362,13 +120364,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8234766",
+      "value": "8255335",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "165147",
+      "value": "165153",
       "index": 7
     },
     {
@@ -121781,7 +121783,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719246091000",
+  "lastActivityTime": "1719246679000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GRANDARENA_ADVANCED"
   },

@@ -70042,6 +70042,59 @@
     {
       "skill": [
         {
+          "id": "basicskill_GRANDINQUISITOR",
+          "tier": 5
+        },
+        {
+          "id": "specialskill_GRANDINQUISITOR01",
+          "tier": 6
+        },
+        {
+          "id": "specialskill_GRANDINQUISITOR02",
+          "tier": 5
+        },
+        {
+          "id": "leaderskill_GRANDINQUISITOR",
+          "tier": 4
+        },
+        {
+          "id": "uniqueskill_INQUISITOR01_GRANDINQUISITOR",
+          "tier": 1
+        }
+      ],
+      "equipment": [
+        {
+          "equipmentId": "079",
+          "slot": 1
+        },
+        {
+          "equipmentId": "100",
+          "slot": 4
+        },
+        {
+          "equipmentId": "099",
+          "slot": 5
+        }
+      ],
+      "equippedStatModOld": [],
+      "equippedStatMod": [],
+      "purchasedAbilityId": [],
+      "id": "KDRUnGEfSqmDjrc4BCwjyA",
+      "definitionId": "Grand Inquisitor",
+      "currentRarity": 7,
+      "currentLevel": 85,
+      "currentXp": 883025,
+      "promotionRecipeReference": "",
+      "unitStat": null,
+      "currentTier": 7,
+      "relic": {
+        "currentTier": 1
+      },
+      "gp": 11829
+    },
+    {
+      "skill": [
+        {
           "id": "basicskill_DARKTROOPER",
           "tier": 6
         },
@@ -141070,7 +141123,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4179562",
+      "value": "4191391",
       "index": 2
     },
     {
@@ -141112,13 +141165,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6627415",
+      "value": "6639244",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "171675",
+      "value": "171686",
       "index": 7
     },
     {
@@ -141410,6 +141463,9 @@
       "id": "PLAYERTITLE_SHADOW_APPRENTICE"
     },
     {
+      "id": "PLAYERTITLE_GRAND_INQUISITOR"
+    },
+    {
       "id": "PLAYERTITLE_HIGH_MAGISTRATE"
     },
     {
@@ -141682,6 +141738,9 @@
       "id": "PLAYERPORTRAIT_BD1"
     },
     {
+      "id": "PLAYERPORTRAIT_GRAND_INQUISITOR"
+    },
+    {
       "id": "PLAYERPORTRAIT_GLLUKE"
     },
     {
@@ -141732,7 +141791,7 @@
       "joinTime": "1718662260000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 20039
+      "rank": 20040
     }
   ],
   "datacron": [
@@ -141905,7 +141964,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 120,
-  "lastActivityTime": "1719246095000",
+  "lastActivityTime": "1719246430000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GIFT_02"
   },

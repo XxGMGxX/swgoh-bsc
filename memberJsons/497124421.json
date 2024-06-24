@@ -8784,7 +8784,16 @@
           "tier": 6
         }
       ],
-      "equipment": [],
+      "equipment": [
+        {
+          "equipmentId": "159",
+          "slot": 1
+        },
+        {
+          "equipmentId": "160",
+          "slot": 2
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -9532,7 +9541,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 19848
+      "gp": 20268
     },
     {
       "skill": [
@@ -44773,6 +44782,128 @@
           "secondaryStat": [
             {
               "roll": [
+                "0.17470",
+                "0.17709"
+              ],
+              "unscaledRollValue": [
+                "4367500",
+                "4427250"
+              ],
+              "stat": {
+                "unitStatId": 41,
+                "statValueDecimal": "880000",
+                "unscaledDecimalValue": "8800000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 2,
+              "statRollerBoundsMin": "2500000",
+              "statRollerBoundsMax": "5000000"
+            },
+            {
+              "roll": [
+                "0.19567",
+                "0.10496"
+              ],
+              "unscaledRollValue": [
+                "90008200",
+                "48281600"
+              ],
+              "stat": {
+                "unitStatId": 28,
+                "statValueDecimal": "13820000",
+                "unscaledDecimalValue": "138200000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 2,
+              "statRollerBoundsMin": "46000000",
+              "statRollerBoundsMax": "92000000"
+            },
+            {
+              "roll": [
+                "0.17637",
+                "0.12988"
+              ],
+              "unscaledRollValue": [
+                "2646",
+                "1948"
+              ],
+              "stat": {
+                "unitStatId": 17,
+                "statValueDecimal": "459",
+                "unscaledDecimalValue": "4594000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 2,
+              "statRollerBoundsMin": "1500",
+              "statRollerBoundsMax": "3000"
+            },
+            {
+              "roll": [
+                "0.10468",
+                "0.19843"
+              ],
+              "unscaledRollValue": [
+                "890",
+                "1687"
+              ],
+              "stat": {
+                "unitStatId": 48,
+                "statValueDecimal": "257",
+                "unscaledDecimalValue": "2576000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 2,
+              "statRollerBoundsMin": "850",
+              "statRollerBoundsMax": "1700"
+            }
+          ],
+          "id": "rFm8gL7XQEGeQNEiMCV0XA",
+          "definitionId": "162",
+          "level": 15,
+          "tier": 1,
+          "sellValue": {
+            "currency": 1,
+            "quantity": 221000,
+            "bonusQuantity": 0
+          },
+          "removeCost": {
+            "currency": 1,
+            "quantity": 8000,
+            "bonusQuantity": 0
+          },
+          "locked": false,
+          "primaryStat": {
+            "roll": [],
+            "unscaledRollValue": [],
+            "stat": {
+              "unitStatId": 56,
+              "statValueDecimal": "2400",
+              "unscaledDecimalValue": "24000000",
+              "uiDisplayOverrideValue": "-1",
+              "scalar": "0"
+            },
+            "statRolls": 0,
+            "statRollerBoundsMin": "0",
+            "statRollerBoundsMax": "0"
+          },
+          "xp": 1105000,
+          "levelCost": {
+            "currency": 1,
+            "quantity": 0,
+            "bonusQuantity": 0
+          },
+          "bonusQuantity": 0,
+          "convertedItem": null,
+          "rerolledCount": 2
+        },
+        {
+          "secondaryStat": [
+            {
+              "roll": [
                 "0.13780",
                 "0.16192"
               ],
@@ -45270,7 +45401,7 @@
       "relic": {
         "currentTier": 7
       },
-      "gp": 22774
+      "gp": 23091
     },
     {
       "skill": [
@@ -54596,6 +54727,25 @@
         "currentTier": 1
       },
       "gp": 3495
+    },
+    {
+      "skill": [],
+      "equipment": [],
+      "equippedStatModOld": [],
+      "equippedStatMod": [],
+      "purchasedAbilityId": [],
+      "id": "HUrJ77m1TLCs6TSpjC0mkQ",
+      "definitionId": "Kelleran Beq",
+      "currentRarity": 2,
+      "currentLevel": 1,
+      "currentXp": 0,
+      "promotionRecipeReference": "",
+      "unitStat": null,
+      "currentTier": 1,
+      "relic": {
+        "currentTier": 1
+      },
+      "gp": 451
     },
     {
       "skill": [
@@ -142349,7 +142499,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "17271",
+      "value": "17283",
       "index": 9
     },
     {
@@ -142373,13 +142523,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4509180",
+      "value": "4510368",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "59464",
+      "value": "59509",
       "index": 8
     },
     {
@@ -142415,13 +142565,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7408249",
+      "value": "7409437",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "198115",
+      "value": "198215",
       "index": 7
     },
     {
@@ -143855,7 +144005,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719246072000",
+  "lastActivityTime": "1719246560000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_NIGHTSISTERS_VENTRESS"
   },
