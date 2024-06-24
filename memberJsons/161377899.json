@@ -8716,11 +8716,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 8,
+      "currentTier": 11,
       "relic": {
         "currentTier": 1
       },
-      "gp": 10381
+      "gp": 13027
     },
     {
       "skill": [
@@ -17265,7 +17265,28 @@
           "tier": 4
         }
       ],
-      "equipment": [],
+      "equipment": [
+        {
+          "equipmentId": "121",
+          "slot": 1
+        },
+        {
+          "equipmentId": "105",
+          "slot": 2
+        },
+        {
+          "equipmentId": "109",
+          "slot": 3
+        },
+        {
+          "equipmentId": "121",
+          "slot": 4
+        },
+        {
+          "equipmentId": "111",
+          "slot": 5
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -18011,7 +18032,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 11701
+      "gp": 12414
     },
     {
       "skill": [
@@ -46344,9 +46365,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 5
+        "currentTier": 6
       },
-      "gp": 24979
+      "gp": 25966
     },
     {
       "skill": [],
@@ -109480,7 +109501,24 @@
           "tier": 5
         }
       ],
-      "equipment": [],
+      "equipment": [
+        {
+          "equipmentId": "129",
+          "slot": 0
+        },
+        {
+          "equipmentId": "173",
+          "slot": 3
+        },
+        {
+          "equipmentId": "116",
+          "slot": 4
+        },
+        {
+          "equipmentId": "144",
+          "slot": 5
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -110220,11 +110258,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 9,
+      "currentTier": 10,
       "relic": {
         "currentTier": 1
       },
-      "gp": 11359
+      "gp": 12922
     },
     {
       "skill": [
@@ -137644,7 +137682,7 @@
     {
       "nameKey": "STAT_GUILD_RAID_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "776",
+      "value": "777",
       "index": 10
     },
     {
@@ -137656,13 +137694,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4830250",
+      "value": "4836159",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "65976",
+      "value": "65979",
       "index": 8
     },
     {
@@ -137674,7 +137712,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1505702",
+      "value": "1506067",
       "index": 11
     },
     {
@@ -137698,13 +137736,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8285080",
+      "value": "8290989",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "231828",
+      "value": "231864",
       "index": 7
     },
     {
@@ -138483,7 +138521,7 @@
       "joinTime": "1718661267000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 3935
+      "rank": 3956
     }
   ],
   "datacron": [
@@ -139995,7 +140033,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719266251000",
+  "lastActivityTime": "1719268859000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_OURIDENTITY"
   },
