@@ -142246,7 +142246,7 @@
       "joinTime": "1718731713000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 1568
+      "rank": 1565
     }
   ],
   "datacron": [
@@ -142527,18 +142527,18 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719193378000",
+  "lastActivityTime": "1719266374000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
   "lifetimeSeasonScore": "209909",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 2710
+      "skillRating": 2749
     },
     "playerRankStatus": {
       "leagueId": "AURODIUM",
-      "divisionId": 10
+      "divisionId": 15
     }
   },
   "nucleusId": "1015027358556"
