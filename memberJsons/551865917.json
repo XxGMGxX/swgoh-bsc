@@ -141550,7 +141550,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719109712000",
+        "lastSaveTime": "1719192588000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -142527,7 +142527,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719173934000",
+  "lastActivityTime": "1719192677000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
