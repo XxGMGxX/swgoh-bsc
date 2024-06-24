@@ -91439,15 +91439,15 @@
       "skill": [
         {
           "id": "basicskill_PADAWANOBIWAN",
-          "tier": 3
+          "tier": 5
         },
         {
           "id": "specialskill_PADAWANOBIWAN01",
-          "tier": 3
+          "tier": 5
         },
         {
           "id": "specialskill_PADAWANOBIWAN02",
-          "tier": 3
+          "tier": 5
         }
       ],
       "equipment": [],
@@ -92176,15 +92176,15 @@
       "id": "Z1s2AvN-Sa2RqxiJGoyDrg",
       "definitionId": "Padawan Obi-Wan",
       "currentRarity": 3,
-      "currentLevel": 50,
-      "currentXp": 63540,
+      "currentLevel": 66,
+      "currentXp": 254040,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 2,
       "relic": {
         "currentTier": 1
       },
-      "gp": 3000
+      "gp": 4326
     },
     {
       "skill": [
@@ -143590,13 +143590,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4361803",
+      "value": "4363129",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53804",
+      "value": "53805",
       "index": 8
     },
     {
@@ -143632,13 +143632,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7692242",
+      "value": "7693568",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "161862",
+      "value": "161863",
       "index": 7
     },
     {
@@ -144343,7 +144343,7 @@
       "joinTime": "1718658633000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 19758
+      "rank": 19759
     }
   ],
   "datacron": [
@@ -146556,7 +146556,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719259259000",
+  "lastActivityTime": "1719259856000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
