@@ -2381,7 +2381,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 66932
+      "gp": 66968
     },
     {
       "skill": [
@@ -121010,19 +121010,21 @@
             },
             {
               "roll": [
-                "0.14705"
+                "0.14705",
+                "0.17233"
               ],
               "unscaledRollValue": [
-                "67643000"
+                "67643000",
+                "79271800"
               ],
               "stat": {
                 "unitStatId": 28,
-                "statValueDecimal": "6760000",
-                "unscaledDecimalValue": "67600000000",
+                "statValueDecimal": "14690000",
+                "unscaledDecimalValue": "146900000000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 1,
+              "statRolls": 2,
               "statRollerBoundsMin": "46000000",
               "statRollerBoundsMax": "92000000"
             },
@@ -121052,7 +121054,7 @@
           "id": "hmLpiEM_TDaCE6rPyYw7bw",
           "definitionId": "461",
           "level": 15,
-          "tier": 4,
+          "tier": 5,
           "sellValue": {
             "currency": 1,
             "quantity": 221000,
@@ -121721,7 +121723,7 @@
       "relic": {
         "currentTier": 9
       },
-      "gp": 26499
+      "gp": 26515
     },
     {
       "skill": [
@@ -129477,7 +129479,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "48173",
+      "value": "48202",
       "index": 8
     },
     {
@@ -129519,7 +129521,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "133534",
+      "value": "133587",
       "index": 7
     },
     {
@@ -130638,7 +130640,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719244306000",
+  "lastActivityTime": "1719244909000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
