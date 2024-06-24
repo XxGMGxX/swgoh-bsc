@@ -15842,7 +15842,7 @@
         },
         {
           "id": "leaderskill_REYJEDITRAINING",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_REYJEDITRAINING02",
@@ -16606,7 +16606,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 15870
+      "gp": 18276
     },
     {
       "skill": [],
@@ -54497,7 +54497,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 48007
+      "gp": 48366
     },
     {
       "skill": [],
@@ -77405,6 +77405,10 @@
       ],
       "equipment": [
         {
+          "equipmentId": "120",
+          "slot": 0
+        },
+        {
           "equipmentId": "135",
           "slot": 4
         },
@@ -78160,7 +78164,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 20932
+      "gp": 21109
     },
     {
       "skill": [
@@ -143355,7 +143359,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2169012",
+      "value": "2169371",
       "index": 3
     },
     {
@@ -143409,13 +143413,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3617769",
+      "value": "3620376",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "44256",
+      "value": "44257",
       "index": 8
     },
     {
@@ -143451,13 +143455,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5786781",
+      "value": "5789747",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "155641",
+      "value": "155642",
       "index": 7
     },
     {
@@ -144001,7 +144005,7 @@
       "joinTime": "1718684290000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 15322
+      "rank": 15323
     }
   ],
   "datacron": [
@@ -144053,7 +144057,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -480,
-  "lastActivityTime": "1719208301000",
+  "lastActivityTime": "1719208462000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SCOUTTROOPER"
   },

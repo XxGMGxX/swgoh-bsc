@@ -2269,7 +2269,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719205740000",
+        "lastActivityTime": "1719208437000",
         "squadPower": 186754,
         "guildJoinTime": "1653076184",
         "galacticPower": "7897873",
@@ -2893,8 +2893,8 @@
         "memberContribution": [
           {
             "type": 2,
-            "currentValue": "324",
-            "lifetimeValue": "171374"
+            "currentValue": "336",
+            "lifetimeValue": "171386"
           },
           {
             "type": 3,
@@ -2953,16 +2953,16 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719208301000",
+        "lastActivityTime": "1719208462000",
         "squadPower": 163874,
         "guildJoinTime": "1675577477",
-        "galacticPower": "5786781",
+        "galacticPower": "5789747",
         "playerTitle": "PLAYERTITLE_JEDI_GENERAL",
         "playerPortrait": "PLAYERPORTRAIT_SCOUTTROOPER",
         "lifetimeSeasonScore": "58496",
         "leagueId": "BRONZIUM",
-        "shipGalacticPower": "2169012",
-        "characterGalacticPower": "3617769",
+        "shipGalacticPower": "2169371",
+        "characterGalacticPower": "3620376",
         "nucleusId": "2813628124"
       },
       {
@@ -3333,7 +3333,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719191304000",
+        "lastActivityTime": "1719208878000",
         "squadPower": 174155,
         "guildJoinTime": "1704054010",
         "galacticPower": "7060595",
@@ -3501,8 +3501,8 @@
         "memberContribution": [
           {
             "type": 2,
-            "currentValue": "0",
-            "lifetimeValue": "44884"
+            "currentValue": "312",
+            "lifetimeValue": "45196"
           },
           {
             "type": 3,
@@ -3561,7 +3561,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719206085000",
+        "lastActivityTime": "1719208883000",
         "squadPower": 182205,
         "guildJoinTime": "1709059659",
         "galacticPower": "10068405",
@@ -3713,16 +3713,16 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719208301000",
+        "lastActivityTime": "1719208868000",
         "squadPower": 157174,
         "guildJoinTime": "1715387579",
-        "galacticPower": "5011529",
+        "galacticPower": "5011304",
         "playerTitle": "PLAYERTITLE_GLKYLOREN_EVENT",
         "playerPortrait": "PLAYERPORTRAIT_DARTHREVAN",
         "lifetimeSeasonScore": "0",
         "leagueId": "AURODIUM",
         "shipGalacticPower": "2160427",
-        "characterGalacticPower": "2851102",
+        "characterGalacticPower": "2850877",
         "nucleusId": "2302710608"
       },
       {
@@ -5244,10 +5244,10 @@
       "leaderboardScore": "0",
       "bannerColorId": "red_white",
       "bannerLogoId": "guild_icon_Rebel",
-      "guildGalacticPower": "371797904",
+      "guildGalacticPower": "371800870",
       "chatChannelId": "guild-{8qYzrHcISr-VJgiyDdMldw}",
       "guildType": "",
-      "guildGalacticPowerForRequirement": "371797904",
+      "guildGalacticPowerForRequirement": "371800870",
       "singleLaunchConfig": {
         "raidId": "speederbike",
         "campaignMissionIdentifier": {
