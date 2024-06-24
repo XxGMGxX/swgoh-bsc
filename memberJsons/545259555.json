@@ -125732,7 +125732,7 @@
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "593",
+      "value": "594",
       "index": 6
     },
     {
@@ -125841,7 +125841,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 135,
+      "rank": 124,
       "squad": {
         "cell": [
           {
@@ -125919,7 +125919,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719024112000",
+        "lastSaveTime": "1719199618000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -126448,7 +126448,7 @@
       "joinTime": "1718662379000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 3393
+      "rank": 3391
     }
   ],
   "datacron": [
@@ -126654,7 +126654,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -480,
-  "lastActivityTime": "1719199290000",
+  "lastActivityTime": "1719199865000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_BASTILA"
   },
