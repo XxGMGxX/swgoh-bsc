@@ -28495,24 +28495,7 @@
           "tier": 6
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "162",
-          "slot": 0
-        },
-        {
-          "equipmentId": "163",
-          "slot": 1
-        },
-        {
-          "equipmentId": "158",
-          "slot": 2
-        },
-        {
-          "equipmentId": "169",
-          "slot": 3
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -29256,11 +29239,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 12,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 2
       },
-      "gp": 23668
+      "gp": 24088
     },
     {
       "skill": [
@@ -111093,7 +111076,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 59151
+      "gp": 60096
     },
     {
       "skill": [
@@ -141201,7 +141184,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2403188",
+      "value": "2404133",
       "index": 3
     },
     {
@@ -141231,7 +141214,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "24866",
+      "value": "24878",
       "index": 9
     },
     {
@@ -141255,13 +141238,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4040002",
+      "value": "4040422",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53604",
+      "value": "53614",
       "index": 8
     },
     {
@@ -141273,7 +141256,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1522328",
+      "value": "1523953",
       "index": 11
     },
     {
@@ -141297,13 +141280,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6443190",
+      "value": "6444555",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "251428",
+      "value": "251466",
       "index": 7
     },
     {
@@ -141978,7 +141961,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719154157000",
+  "lastActivityTime": "1719237077000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDIKNIGHTLUKE"
   },

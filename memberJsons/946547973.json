@@ -141480,7 +141480,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "102204",
+      "value": "102476",
       "index": 16
     },
     {
@@ -141504,13 +141504,13 @@
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "610",
+      "value": "611",
       "index": 14
     },
     {
       "nameKey": "STAT_SEASON_TERRITORIES_DEFEATED_NAME",
       "versionKey": "NULL",
-      "value": "388",
+      "value": "389",
       "index": 19
     }
   ],
@@ -142155,7 +142155,7 @@
       "league": "AURODIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 940,
+      "seasonPoints": 1212,
       "division": 10,
       "joinTime": "1718670216000",
       "endTime": "1720990800000",
@@ -142267,7 +142267,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 420,
-  "lastActivityTime": "1719236487000",
+  "lastActivityTime": "1719237112000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_CHEWBACCA"
   },
