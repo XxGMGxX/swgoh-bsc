@@ -70055,7 +70055,7 @@
         },
         {
           "id": "leaderskill_GRANDINQUISITOR",
-          "tier": 4
+          "tier": 5
         },
         {
           "id": "uniqueskill_INQUISITOR01_GRANDINQUISITOR",
@@ -70090,7 +70090,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 11829
+      "gp": 14412
     },
     {
       "skill": [
@@ -141099,7 +141099,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "15261",
+      "value": "15273",
       "index": 9
     },
     {
@@ -141123,7 +141123,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4191391",
+      "value": "4193974",
       "index": 2
     },
     {
@@ -141165,13 +141165,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6639244",
+      "value": "6641827",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "171710",
+      "value": "171718",
       "index": 7
     },
     {
@@ -141791,7 +141791,7 @@
       "joinTime": "1718662260000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 20040
+      "rank": 20041
     }
   ],
   "datacron": [
@@ -141964,7 +141964,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 120,
-  "lastActivityTime": "1719247846000",
+  "lastActivityTime": "1719248222000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GIFT_02"
   },
