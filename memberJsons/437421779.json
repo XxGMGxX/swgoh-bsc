@@ -11193,9 +11193,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 5
+        "currentTier": 7
       },
-      "gp": 23521
+      "gp": 25570
     },
     {
       "skill": [
@@ -18228,11 +18228,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 7,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 7
       },
-      "gp": 11304
+      "gp": 21627
     },
     {
       "skill": [
@@ -21632,11 +21632,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 12,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 7
       },
-      "gp": 15813
+      "gp": 21627
     },
     {
       "skill": [
@@ -25210,7 +25210,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 45678
+      "gp": 58760
     },
     {
       "skill": [
@@ -28213,11 +28213,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 12,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 7
       },
-      "gp": 17053
+      "gp": 22867
     },
     {
       "skill": [
@@ -50745,43 +50745,22 @@
       "skill": [
         {
           "id": "leaderskill_EETHKOTH",
-          "tier": 1
+          "tier": 5
         },
         {
           "id": "specialskill_EETHKOTH01",
-          "tier": 1
+          "tier": 5
         },
         {
           "id": "uniqueskill_EETHKOTH01",
-          "tier": 1
+          "tier": 5
         },
         {
           "id": "basicskill_EETHKOTH",
-          "tier": 1
+          "tier": 5
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "018",
-          "slot": 0
-        },
-        {
-          "equipmentId": "047",
-          "slot": 1
-        },
-        {
-          "equipmentId": "049",
-          "slot": 2
-        },
-        {
-          "equipmentId": "068",
-          "slot": 3
-        },
-        {
-          "equipmentId": "082",
-          "slot": 4
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -50792,11 +50771,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 5,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 7
       },
-      "gp": 8196
+      "gp": 20997
     },
     {
       "skill": [],
@@ -76686,13 +76665,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4989274",
+      "value": "5026075",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "48826",
+      "value": "48834",
       "index": 8
     },
     {
@@ -76728,13 +76707,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8551479",
+      "value": "8588280",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "222522",
+      "value": "222530",
       "index": 7
     },
     {
@@ -77423,7 +77402,7 @@
       "joinTime": "1718707712000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 6309
+      "rank": 6311
     }
   ],
   "datacron": [
@@ -77661,7 +77640,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 120,
-  "lastActivityTime": "1719211446000",
+  "lastActivityTime": "1719221465000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_BD1"
   },
