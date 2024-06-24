@@ -142355,7 +142355,7 @@
     {
       "nameKey": "STAT_SEASON_UNDERSIZED_SQUAD_WINS_NAME",
       "versionKey": "NULL",
-      "value": "220",
+      "value": "221",
       "index": 18
     },
     {
@@ -142391,7 +142391,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "344307",
+      "value": "344434",
       "index": 16
     },
     {
@@ -142415,7 +142415,7 @@
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "1530",
+      "value": "1532",
       "index": 14
     },
     {
@@ -143146,12 +143146,12 @@
       "league": "AURODIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 1463,
+      "seasonPoints": 1590,
       "division": 15,
       "joinTime": "1718658141000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 2880
+      "rank": 2882
     }
   ],
   "datacron": [
@@ -143843,7 +143843,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719196308000",
+  "lastActivityTime": "1719196876000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_NIGHTSISTERS_VENTRESS"
   },
