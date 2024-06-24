@@ -91200,19 +91200,19 @@
                 "0.13496"
               ],
               "unscaledRollValue": [
-                "1968",
-                "1518"
+                "2624",
+                "2024"
               ],
               "stat": {
                 "unitStatId": 17,
-                "statValueDecimal": "348",
-                "unscaledDecimalValue": "3486000",
+                "statValueDecimal": "464",
+                "unscaledDecimalValue": "4648000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
               "statRolls": 2,
-              "statRollerBoundsMin": "1125",
-              "statRollerBoundsMax": "2250"
+              "statRollerBoundsMin": "1500",
+              "statRollerBoundsMax": "3000"
             },
             {
               "roll": [
@@ -91225,8 +91225,8 @@
               ],
               "stat": {
                 "unitStatId": 5,
-                "statValueDecimal": "100000",
-                "unscaledDecimalValue": "1000000000",
+                "statValueDecimal": "110000",
+                "unscaledDecimalValue": "1100000000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
@@ -91239,18 +91239,18 @@
                 "0.19531"
               ],
               "unscaledRollValue": [
-                "1660"
+                "3906"
               ],
               "stat": {
                 "unitStatId": 49,
-                "statValueDecimal": "166",
-                "unscaledDecimalValue": "1660000",
+                "statValueDecimal": "390",
+                "unscaledDecimalValue": "3906000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
               "statRolls": 1,
-              "statRollerBoundsMin": "850",
-              "statRollerBoundsMax": "1700"
+              "statRollerBoundsMin": "2000",
+              "statRollerBoundsMax": "4000"
             },
             {
               "roll": [
@@ -91259,34 +91259,34 @@
                 "0.13435"
               ],
               "unscaledRollValue": [
-                "1260",
-                "1392",
-                "1511"
+                "1680",
+                "1856",
+                "2015"
               ],
               "stat": {
                 "unitStatId": 18,
-                "statValueDecimal": "416",
-                "unscaledDecimalValue": "4163000",
+                "statValueDecimal": "555",
+                "unscaledDecimalValue": "5550000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
               "statRolls": 3,
-              "statRollerBoundsMin": "1125",
-              "statRollerBoundsMax": "2250"
+              "statRollerBoundsMin": "1500",
+              "statRollerBoundsMax": "3000"
             }
           ],
           "id": "9w6lHysKT6etCFRW5Fz_zw",
-          "definitionId": "656",
+          "definitionId": "666",
           "level": 15,
-          "tier": 5,
+          "tier": 1,
           "sellValue": {
             "currency": 1,
-            "quantity": 97200,
+            "quantity": 221000,
             "bonusQuantity": 0
           },
           "removeCost": {
             "currency": 1,
-            "quantity": 4750,
+            "quantity": 8000,
             "bonusQuantity": 0
           },
           "locked": false,
@@ -91295,8 +91295,8 @@
             "unscaledRollValue": [],
             "stat": {
               "unitStatId": 55,
-              "statValueDecimal": "588",
-              "unscaledDecimalValue": "5880000",
+              "statValueDecimal": "1600",
+              "unscaledDecimalValue": "16000000",
               "uiDisplayOverrideValue": "-1",
               "scalar": "0"
             },
@@ -91304,7 +91304,7 @@
             "statRollerBoundsMin": "0",
             "statRollerBoundsMax": "0"
           },
-          "xp": 486000,
+          "xp": 1105000,
           "levelCost": {
             "currency": 1,
             "quantity": 0,
@@ -91327,7 +91327,7 @@
       "relic": {
         "currentTier": 5
       },
-      "gp": 26143
+      "gp": 26188
     },
     {
       "skill": [],
@@ -102589,7 +102589,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 49749
+      "gp": 51630
     },
     {
       "skill": [
@@ -131385,6 +131385,10 @@
           "slot": 1
         },
         {
+          "equipmentId": "158",
+          "slot": 2
+        },
+        {
           "equipmentId": "166",
           "slot": 3
         },
@@ -132140,7 +132144,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 20688
+      "gp": 20898
     },
     {
       "skill": [
@@ -142560,9 +142564,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 3
+        "currentTier": 4
       },
-      "gp": 18862
+      "gp": 19698
     },
     {
       "skill": [
@@ -144950,7 +144954,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2743934",
+      "value": "2745815",
       "index": 3
     },
     {
@@ -145004,13 +145008,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4500009",
+      "value": "4501100",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "49251",
+      "value": "49271",
       "index": 8
     },
     {
@@ -145046,13 +145050,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7243943",
+      "value": "7246915",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "150525",
+      "value": "150606",
       "index": 7
     },
     {
@@ -145919,7 +145923,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719202314000",
+  "lastActivityTime": "1719202834000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SITHMASTER"
   },
