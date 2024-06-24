@@ -21,6 +21,10 @@
           "slot": 0
         },
         {
+          "equipmentId": "153",
+          "slot": 1
+        },
+        {
           "equipmentId": "109",
           "slot": 2
         },
@@ -632,7 +636,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 15118
+      "gp": 15316
     },
     {
       "skill": [
@@ -60343,28 +60347,7 @@
           "tier": 5
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "117",
-          "slot": 0
-        },
-        {
-          "equipmentId": "129",
-          "slot": 1
-        },
-        {
-          "equipmentId": "131",
-          "slot": 2
-        },
-        {
-          "equipmentId": "131",
-          "slot": 3
-        },
-        {
-          "equipmentId": "144",
-          "slot": 5
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -61082,11 +61065,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 11,
+      "currentTier": 12,
       "relic": {
         "currentTier": 1
       },
-      "gp": 17517
+      "gp": 17715
     },
     {
       "skill": [
@@ -81659,6 +81642,10 @@
           "slot": 1
         },
         {
+          "equipmentId": "138",
+          "slot": 2
+        },
+        {
           "equipmentId": "121",
           "slot": 3
         },
@@ -82378,7 +82365,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 15912
+      "gp": 16110
     },
     {
       "skill": [
@@ -93264,7 +93251,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2860163",
+      "value": "2860757",
       "index": 2
     },
     {
@@ -93306,13 +93293,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5021489",
+      "value": "5022083",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "38914",
+      "value": "38926",
       "index": 7
     },
     {
@@ -93874,7 +93861,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 4658
+      "rank": 4644
     }
   ],
   "datacron": [
@@ -94782,7 +94769,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719269471000",
+  "lastActivityTime": "1719270066000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },

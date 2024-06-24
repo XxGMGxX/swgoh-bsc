@@ -17273,11 +17273,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 12,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 7
       },
-      "gp": 15813
+      "gp": 21627
     },
     {
       "skill": [
@@ -30651,46 +30651,37 @@
       "skill": [
         {
           "id": "basicskill_KITFISTO",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_KITFISTO01",
-          "tier": 4
+          "tier": 6
         },
         {
           "id": "leaderskill_KITFISTO",
-          "tier": 4
+          "tier": 6
         },
         {
           "id": "uniqueskill_KITFISTO01",
-          "tier": 4
+          "tier": 5
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "100",
-          "slot": 1
-        },
-        {
-          "equipmentId": "113",
-          "slot": 3
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
       "id": "GLVMbMYnRo68xbxUZkmWaw",
       "definitionId": "Kit Fisto",
       "currentRarity": 7,
-      "currentLevel": 66,
-      "currentXp": 254025,
+      "currentLevel": 85,
+      "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 8,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 7
       },
-      "gp": 9844
+      "gp": 21627
     },
     {
       "skill": [
@@ -34704,16 +34695,7 @@
           "tier": 5
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "053",
-          "slot": 1
-        },
-        {
-          "equipmentId": "086",
-          "slot": 2
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -34724,11 +34706,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 8,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 7
       },
-      "gp": 11592
+      "gp": 20997
     },
     {
       "skill": [
@@ -38838,7 +38820,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 46554
+      "gp": 59635
     },
     {
       "skill": [
@@ -42541,11 +42523,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 12,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 7
       },
-      "gp": 17442
+      "gp": 23256
     },
     {
       "skill": [
@@ -73269,46 +73251,37 @@
       "skill": [
         {
           "id": "basicskill_EETHKOTH",
-          "tier": 2
+          "tier": 5
         },
         {
           "id": "specialskill_EETHKOTH01",
-          "tier": 2
+          "tier": 5
         },
         {
           "id": "uniqueskill_EETHKOTH01",
-          "tier": 2
+          "tier": 5
         },
         {
           "id": "leaderskill_EETHKOTH",
-          "tier": 2
+          "tier": 5
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "014",
-          "slot": 0
-        },
-        {
-          "equipmentId": "072",
-          "slot": 2
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
       "id": "7_lZnQKXQdG-6wDcRaL-pQ",
       "definitionId": "Eeth Koth",
       "currentRarity": 7,
-      "currentLevel": 42,
-      "currentXp": 24240,
+      "currentLevel": 85,
+      "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 6,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 7
       },
-      "gp": 6931
+      "gp": 20997
     },
     {
       "skill": [
@@ -120268,7 +120241,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3428041",
+      "value": "3441122",
       "index": 3
     },
     {
@@ -120310,7 +120283,7 @@
     {
       "nameKey": "STAT_GUILD_RAID_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "566",
+      "value": "567",
       "index": 10
     },
     {
@@ -120322,7 +120295,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4827294",
+      "value": "4874176",
       "index": 2
     },
     {
@@ -120340,13 +120313,13 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1031272",
+      "value": "1031607",
       "index": 11
     },
     {
       "nameKey": "STAT_TOTAL_GUILD_EXCHANGE_DONATIONS_TU07_2",
       "versionKey": "NULL",
-      "value": "1269",
+      "value": "1273",
       "index": 12
     },
     {
@@ -120364,7 +120337,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8255335",
+      "value": "8315298",
       "index": 1
     },
     {
@@ -121105,7 +121078,7 @@
       "joinTime": "1718662489000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 11607
+      "rank": 18032
     }
   ],
   "datacron": [
@@ -121783,7 +121756,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719263461000",
+  "lastActivityTime": "1719269941000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GRANDARENA_ADVANCED"
   },
