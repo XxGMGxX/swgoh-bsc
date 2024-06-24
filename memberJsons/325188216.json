@@ -49591,7 +49591,7 @@
       "purchasedAbilityId": [],
       "id": "yySCxA_fRN6BZVcq5WUOdw",
       "definitionId": "Padawan Obi-Wan",
-      "currentRarity": 3,
+      "currentRarity": 4,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -49600,7 +49600,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 7402
+      "gp": 7740
     },
     {
       "skill": [],
@@ -73469,7 +73469,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3605931",
+      "value": "3606269",
       "index": 2
     },
     {
@@ -73511,13 +73511,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6394496",
+      "value": "6394834",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "82505",
+      "value": "82507",
       "index": 7
     },
     {
@@ -74159,7 +74159,7 @@
       "joinTime": "1718705959000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 3116
+      "rank": 3127
     }
   ],
   "datacron": [
@@ -74396,7 +74396,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719268900000",
+  "lastActivityTime": "1719269391000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDIKNIGHTLUKE"
   },
