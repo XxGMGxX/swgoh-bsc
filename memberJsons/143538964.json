@@ -59513,7 +59513,7 @@
         },
         {
           "id": "specialskill_JEDISTARFIGHTERAHSOKATANO01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "basicskill_JEDISTARFIGHTERAHSOKATANO",
@@ -59537,7 +59537,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 56970
+      "gp": 57180
     },
     {
       "skill": [
@@ -93072,7 +93072,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2160427",
+      "value": "2160637",
       "index": 3
     },
     {
@@ -93168,7 +93168,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5015301",
+      "value": "5015511",
       "index": 1
     },
     {
@@ -94628,7 +94628,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719238297000",
+  "lastActivityTime": "1719238903000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
