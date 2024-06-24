@@ -120368,7 +120368,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "165110",
+      "value": "165147",
       "index": 7
     },
     {
@@ -121103,7 +121103,7 @@
       "joinTime": "1718662489000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 11559
+      "rank": 11560
     }
   ],
   "datacron": [
@@ -121623,6 +121623,19 @@
           "requiredUnitTier": 0,
           "requiredRelicTier": 5,
           "scopeIcon": ""
+        },
+        {
+          "tag": [
+            "firstorder",
+            "darkside"
+          ],
+          "targetRule": "target_datacron_firstorderspecialforcespilot",
+          "abilityId": "datacron_character_tiefighterpilot_002",
+          "statType": 1,
+          "statValue": "0",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 7,
+          "scopeIcon": "tex.charui_firstorder_pilot"
         }
       ],
       "rerollOption": [],
@@ -121631,7 +121644,7 @@
       "templateId": "datacron_set_15_base",
       "locked": false,
       "rerollIndex": 0,
-      "rerollCount": 2
+      "rerollCount": 3
     },
     {
       "tag": [],
@@ -121768,7 +121781,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719245501000",
+  "lastActivityTime": "1719246091000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GRANDARENA_ADVANCED"
   },
