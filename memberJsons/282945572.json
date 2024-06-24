@@ -123458,7 +123458,7 @@
       "skill": [
         {
           "id": "basicskill_MASTERQUIGON",
-          "tier": 4
+          "tier": 5
         },
         {
           "id": "specialskill_MASTERQUIGON01",
@@ -124197,7 +124197,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 4081
+      "gp": 4258
     },
     {
       "skill": [
@@ -143554,7 +143554,7 @@
     {
       "nameKey": "STAT_SEASON_SUCCESSFUL_DEFENDS_NAME",
       "versionKey": "NULL",
-      "value": "363",
+      "value": "364",
       "index": 15
     },
     {
@@ -143590,7 +143590,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4361626",
+      "value": "4361803",
       "index": 2
     },
     {
@@ -143632,7 +143632,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7692065",
+      "value": "7692242",
       "index": 1
     },
     {
@@ -146556,7 +146556,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719253038000",
+  "lastActivityTime": "1719254799000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
