@@ -19057,24 +19057,7 @@
           "tier": 5
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "122",
-          "slot": 0
-        },
-        {
-          "equipmentId": "098",
-          "slot": 3
-        },
-        {
-          "equipmentId": "105",
-          "slot": 4
-        },
-        {
-          "equipmentId": "095",
-          "slot": 5
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -19802,11 +19785,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 9,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 7
       },
-      "gp": 14721
+      "gp": 23070
     },
     {
       "skill": [
@@ -35573,11 +35556,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 4,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 7
       },
-      "gp": 9441
+      "gp": 20997
     },
     {
       "skill": [
@@ -40546,6 +40529,14 @@
         {
           "id": "basicskill_LUMINARAUNDULI",
           "tier": 5
+        },
+        {
+          "id": "specialskill_LUMINARAUNDULI02",
+          "tier": 5
+        },
+        {
+          "id": "leaderskill_LUMINARAUNDULI",
+          "tier": 5
         }
       ],
       "equipment": [],
@@ -40559,11 +40550,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 1,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 7
       },
-      "gp": 7779
+      "gp": 20997
     },
     {
       "skill": [
@@ -45488,7 +45479,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 33766
+      "gp": 53834
     },
     {
       "skill": [
@@ -48488,11 +48479,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 9,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 7
       },
-      "gp": 12078
+      "gp": 20997
     },
     {
       "skill": [
@@ -84090,11 +84081,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 6,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 7
       },
-      "gp": 10170
+      "gp": 20997
     },
     {
       "skill": [
@@ -109783,7 +109774,7 @@
       "purchasedAbilityId": [],
       "id": "-uku9ZvLRTqsHKZknJqIIQ",
       "definitionId": "Death Trooper",
-      "currentRarity": 6,
+      "currentRarity": 7,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -109792,7 +109783,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 10083
+      "gp": 12078
     },
     {
       "skill": [
@@ -120872,7 +120863,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 25867
+      "gp": 27932
     },
     {
       "skill": [
@@ -129417,7 +129408,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3215344",
+      "value": "3237477",
       "index": 3
     },
     {
@@ -129471,13 +129462,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4396935",
+      "value": "4451799",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "48128",
+      "value": "48133",
       "index": 8
     },
     {
@@ -129513,13 +129504,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7612279",
+      "value": "7689276",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "133471",
+      "value": "133476",
       "index": 7
     },
     {
@@ -130638,7 +130629,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719241085000",
+  "lastActivityTime": "1719243676000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
