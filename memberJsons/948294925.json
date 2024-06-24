@@ -35445,6 +35445,71 @@
     {
       "skill": [
         {
+          "id": "uniqueskill_GALACTICLEGEND01",
+          "tier": 1
+        },
+        {
+          "id": "uniqueskill_GRANDMASTERLUKE01",
+          "tier": 1
+        },
+        {
+          "id": "leaderskill_GRANDMASTERLUKE",
+          "tier": 0
+        },
+        {
+          "id": "specialskill_GRANDMASTERLUKE02",
+          "tier": 0
+        },
+        {
+          "id": "specialskill_GRANDMASTERLUKE01",
+          "tier": 0
+        },
+        {
+          "id": "basicskill_GRANDMASTERLUKE",
+          "tier": 0
+        }
+      ],
+      "equipment": [
+        {
+          "equipmentId": "105",
+          "slot": 0
+        },
+        {
+          "equipmentId": "080",
+          "slot": 1
+        },
+        {
+          "equipmentId": "099",
+          "slot": 2
+        },
+        {
+          "equipmentId": "090",
+          "slot": 3
+        },
+        {
+          "equipmentId": "088",
+          "slot": 5
+        }
+      ],
+      "equippedStatModOld": [],
+      "equippedStatMod": [],
+      "purchasedAbilityId": [],
+      "id": "-xDNq-SvT16K6cTARGyw1g",
+      "definitionId": "Jedi Master Luke Skywalker",
+      "currentRarity": 7,
+      "currentLevel": 85,
+      "currentXp": 883025,
+      "promotionRecipeReference": "",
+      "unitStat": null,
+      "currentTier": 7,
+      "relic": {
+        "currentTier": 1
+      },
+      "gp": 15067
+    },
+    {
+      "skill": [
+        {
           "id": "specialskill_GAMORREANGUARD01",
           "tier": 2
         },
@@ -129402,7 +129467,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4381747",
+      "value": "4396814",
       "index": 2
     },
     {
@@ -129420,7 +129485,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "891745",
+      "value": "891789",
       "index": 11
     },
     {
@@ -129444,13 +129509,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7597091",
+      "value": "7612158",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "133405",
+      "value": "133413",
       "index": 7
     },
     {
@@ -130569,7 +130634,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719187882000",
+  "lastActivityTime": "1719188330000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
