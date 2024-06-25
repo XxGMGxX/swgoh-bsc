@@ -144996,7 +144996,7 @@
     {
       "nameKey": "STAT_GUILD_RAID_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1114",
+      "value": "1115",
       "index": 10
     },
     {
@@ -145026,7 +145026,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1868420",
+      "value": "1868742",
       "index": 11
     },
     {
@@ -145817,7 +145817,7 @@
       "joinTime": "1718679837000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 1298
+      "rank": 458
     }
   ],
   "datacron": [
@@ -145923,7 +145923,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719203658000",
+  "lastActivityTime": "1719291654000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SITHMASTER"
   },

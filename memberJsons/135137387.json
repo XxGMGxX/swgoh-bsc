@@ -131729,7 +131729,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "11143",
+      "value": "11155",
       "index": 9
     },
     {
@@ -131741,7 +131741,7 @@
     {
       "nameKey": "STAT_GUILD_RAID_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "844",
+      "value": "845",
       "index": 10
     },
     {
@@ -131759,7 +131759,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "41497",
+      "value": "41509",
       "index": 8
     },
     {
@@ -131771,7 +131771,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1229493",
+      "value": "1229746",
       "index": 11
     },
     {
@@ -131801,7 +131801,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "93584",
+      "value": "93620",
       "index": 7
     },
     {
@@ -132256,7 +132256,7 @@
       "joinTime": "1718675348000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 56084
+      "rank": 35329
     }
   ],
   "datacron": [
@@ -132297,14 +132297,14 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719182957000",
+  "lastActivityTime": "1719291706000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_VISAS"
   },
   "lifetimeSeasonScore": "4212",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 1175
+      "skillRating": 1092
     },
     "playerRankStatus": {
       "leagueId": "CARBONITE",
