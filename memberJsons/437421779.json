@@ -18149,15 +18149,15 @@
         },
         {
           "id": "basicskill_CAPITALRADDUS",
-          "tier": 3
+          "tier": 4
         },
         {
           "id": "specialskill_CAPITALRADDUS01",
-          "tier": 3
+          "tier": 4
         },
         {
           "id": "specialskill_CAPITALRADDUS02",
-          "tier": 3
+          "tier": 4
         },
         {
           "id": "specialskill_CAPITALRADDUS03",
@@ -18177,7 +18177,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 44536
+      "gp": 44900
     },
     {
       "skill": [],
@@ -29109,9 +29109,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 8
+        "currentTier": 9
       },
-      "gp": 29554
+      "gp": 31452
     },
     {
       "skill": [
@@ -78145,7 +78145,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3575287",
+      "value": "3575651",
       "index": 3
     },
     {
@@ -78199,7 +78199,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5048237",
+      "value": "5050135",
       "index": 2
     },
     {
@@ -78241,7 +78241,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8623524",
+      "value": "8625786",
       "index": 1
     },
     {
@@ -78936,7 +78936,7 @@
       "joinTime": "1718707712000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 12782
+      "rank": 12792
     }
   ],
   "datacron": [
@@ -79174,7 +79174,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 120,
-  "lastActivityTime": "1719333099000",
+  "lastActivityTime": "1719333705000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_BD1"
   },
