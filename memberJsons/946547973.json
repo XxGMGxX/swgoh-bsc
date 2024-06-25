@@ -141517,7 +141517,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 143,
+      "rank": 167,
       "squad": {
         "cell": [
           {
@@ -142160,7 +142160,7 @@
       "joinTime": "1718670216000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 8031
+      "rank": 8027
     }
   ],
   "datacron": [
@@ -142267,7 +142267,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 420,
-  "lastActivityTime": "1719327927000",
+  "lastActivityTime": "1719353796000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_CHEWBACCA"
   },
