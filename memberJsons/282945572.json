@@ -143588,7 +143588,7 @@
     {
       "nameKey": "STAT_GUILD_RAID_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "952",
+      "value": "953",
       "index": 10
     },
     {
@@ -143618,7 +143618,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1474485",
+      "value": "1474764",
       "index": 11
     },
     {
@@ -144353,7 +144353,7 @@
       "joinTime": "1718658633000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 19901
+      "rank": 19915
     }
   ],
   "datacron": [
@@ -146566,7 +146566,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719266563000",
+  "lastActivityTime": "1719290461000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
