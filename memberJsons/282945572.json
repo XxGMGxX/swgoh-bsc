@@ -91460,7 +91460,28 @@
           "tier": 4
         }
       ],
-      "equipment": [],
+      "equipment": [
+        {
+          "equipmentId": "049",
+          "slot": 0
+        },
+        {
+          "equipmentId": "051",
+          "slot": 1
+        },
+        {
+          "equipmentId": "069",
+          "slot": 2
+        },
+        {
+          "equipmentId": "060",
+          "slot": 3
+        },
+        {
+          "equipmentId": "028",
+          "slot": 5
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -92186,15 +92207,15 @@
       "id": "Z1s2AvN-Sa2RqxiJGoyDrg",
       "definitionId": "Padawan Obi-Wan",
       "currentRarity": 3,
-      "currentLevel": 66,
-      "currentXp": 254040,
+      "currentLevel": 75,
+      "currentXp": 473040,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 4,
       "relic": {
         "currentTier": 1
       },
-      "gp": 5173
+      "gp": 5886
     },
     {
       "skill": [
@@ -143592,7 +143613,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4365148",
+      "value": "4365861",
       "index": 2
     },
     {
@@ -143634,13 +143655,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7695641",
+      "value": "7696354",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "161964",
+      "value": "161966",
       "index": 7
     },
     {
@@ -144345,7 +144366,7 @@
       "joinTime": "1718658633000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 567
+      "rank": 566
     }
   ],
   "datacron": [
@@ -146568,7 +146589,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719339740000",
+  "lastActivityTime": "1719341485000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
