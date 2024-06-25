@@ -23576,7 +23576,7 @@
       "purchasedAbilityId": [],
       "id": "rawsiYtMQCGCvl3nU5bD7g",
       "definitionId": "Imperial Probe Droid",
-      "currentRarity": 6,
+      "currentRarity": 7,
       "currentLevel": 1,
       "currentXp": 0,
       "promotionRecipeReference": "",
@@ -23585,7 +23585,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 2661
+      "gp": 4656
     },
     {
       "skill": [
@@ -70735,6 +70735,14 @@
         {
           "equipmentId": "159",
           "slot": 0
+        },
+        {
+          "equipmentId": "166",
+          "slot": 3
+        },
+        {
+          "equipmentId": "G12Finisher_JEDIKNIGHTLUKE_A",
+          "slot": 5
         }
       ],
       "equippedStatModOld": [],
@@ -71474,7 +71482,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 22921
+      "gp": 23341
     },
     {
       "skill": [
@@ -118542,28 +118550,7 @@
           "tier": 6
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "099",
-          "slot": 0
-        },
-        {
-          "equipmentId": "101",
-          "slot": 1
-        },
-        {
-          "equipmentId": "111",
-          "slot": 2
-        },
-        {
-          "equipmentId": "091",
-          "slot": 3
-        },
-        {
-          "equipmentId": "117",
-          "slot": 4
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -119299,11 +119286,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 8,
+      "currentTier": 10,
       "relic": {
         "currentTier": 1
       },
-      "gp": 13393
+      "gp": 14370
     }
   ],
   "profileStat": [
@@ -119370,13 +119357,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3499245",
+      "value": "3502637",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "27122",
+      "value": "27145",
       "index": 8
     },
     {
@@ -119412,13 +119399,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6007196",
+      "value": "6010588",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "72111",
+      "value": "72159",
       "index": 7
     },
     {
@@ -119992,7 +119979,7 @@
       "joinTime": "1718663828000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 3290
+      "rank": 3298
     }
   ],
   "datacron": [
@@ -120198,7 +120185,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719283874000",
+  "lastActivityTime": "1719284493000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
