@@ -46365,9 +46365,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 6
+        "currentTier": 7
       },
-      "gp": 25966
+      "gp": 27028
     },
     {
       "skill": [],
@@ -137694,13 +137694,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4836159",
+      "value": "4837221",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "66045",
+      "value": "66062",
       "index": 8
     },
     {
@@ -137712,7 +137712,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1506067",
+      "value": "1506199",
       "index": 11
     },
     {
@@ -137736,13 +137736,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8290989",
+      "value": "8292051",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "231946",
+      "value": "232022",
       "index": 7
     },
     {
@@ -140033,7 +140033,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719342378000",
+  "lastActivityTime": "1719359493000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_OURIDENTITY"
   },
