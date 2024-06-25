@@ -13279,126 +13279,6 @@
           "secondaryStat": [
             {
               "roll": [
-                "0.13884",
-                "0.18337"
-              ],
-              "unscaledRollValue": [
-                "24088740",
-                "31814695"
-              ],
-              "stat": {
-                "unitStatId": 1,
-                "statValueDecimal": "5590000",
-                "unscaledDecimalValue": "55900000000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 2,
-              "statRollerBoundsMin": "17350000",
-              "statRollerBoundsMax": "34700000"
-            },
-            {
-              "roll": [
-                "0.17388",
-                "0.12100"
-              ],
-              "unscaledRollValue": [
-                "434700",
-                "302500"
-              ],
-              "stat": {
-                "unitStatId": 5,
-                "statValueDecimal": "70000",
-                "unscaledDecimalValue": "700000000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 2,
-              "statRollerBoundsMin": "250000",
-              "statRollerBoundsMax": "500000"
-            },
-            {
-              "roll": [
-                "0.19965",
-                "0.12561"
-              ],
-              "unscaledRollValue": [
-                "1997",
-                "1256"
-              ],
-              "stat": {
-                "unitStatId": 56,
-                "statValueDecimal": "325",
-                "unscaledDecimalValue": "3253000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 2,
-              "statRollerBoundsMin": "1000",
-              "statRollerBoundsMax": "2000"
-            },
-            {
-              "roll": [
-                "0.17094"
-              ],
-              "unscaledRollValue": [
-                "1709"
-              ],
-              "stat": {
-                "unitStatId": 53,
-                "statValueDecimal": "170",
-                "unscaledDecimalValue": "1709000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 1,
-              "statRollerBoundsMin": "1000",
-              "statRollerBoundsMax": "2000"
-            }
-          ],
-          "id": "Lmrzr4RmR66z1nrMBBci0g",
-          "definitionId": "644",
-          "level": 15,
-          "tier": 4,
-          "sellValue": {
-            "currency": 1,
-            "quantity": 50100,
-            "bonusQuantity": 0
-          },
-          "removeCost": {
-            "currency": 1,
-            "quantity": 3000,
-            "bonusQuantity": 0
-          },
-          "locked": false,
-          "primaryStat": {
-            "roll": [],
-            "unscaledRollValue": [],
-            "stat": {
-              "unitStatId": 16,
-              "statValueDecimal": "3150",
-              "unscaledDecimalValue": "31500000",
-              "uiDisplayOverrideValue": "-1",
-              "scalar": "0"
-            },
-            "statRolls": 0,
-            "statRollerBoundsMin": "0",
-            "statRollerBoundsMax": "0"
-          },
-          "xp": 250250,
-          "levelCost": {
-            "currency": 1,
-            "quantity": 0,
-            "bonusQuantity": 0
-          },
-          "bonusQuantity": 0,
-          "convertedItem": null,
-          "rerolledCount": 0
-        },
-        {
-          "secondaryStat": [
-            {
-              "roll": [
                 "0.18648"
               ],
               "unscaledRollValue": [
@@ -13530,7 +13410,7 @@
       "relic": {
         "currentTier": 5
       },
-      "gp": 20110
+      "gp": 19996
     },
     {
       "skill": [
@@ -30359,124 +30239,6 @@
           "bonusQuantity": 0,
           "convertedItem": null,
           "rerolledCount": 0
-        },
-        {
-          "secondaryStat": [
-            {
-              "roll": [
-                "0.19585"
-              ],
-              "unscaledRollValue": [
-                "551"
-              ],
-              "stat": {
-                "unitStatId": 48,
-                "statValueDecimal": "55",
-                "unscaledDecimalValue": "551000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 1,
-              "statRollerBoundsMin": "281",
-              "statRollerBoundsMax": "563"
-            },
-            {
-              "roll": [
-                "0.12684",
-                "0.14719"
-              ],
-              "unscaledRollValue": [
-                "1078",
-                "1251"
-              ],
-              "stat": {
-                "unitStatId": 49,
-                "statValueDecimal": "232",
-                "unscaledDecimalValue": "2329000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 2,
-              "statRollerBoundsMin": "850",
-              "statRollerBoundsMax": "1700"
-            },
-            {
-              "roll": [
-                "0.16068",
-                "0.16443"
-              ],
-              "unscaledRollValue": [
-                "482040",
-                "493290"
-              ],
-              "stat": {
-                "unitStatId": 5,
-                "statValueDecimal": "90000",
-                "unscaledDecimalValue": "900000000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 2,
-              "statRollerBoundsMin": "300000",
-              "statRollerBoundsMax": "600000"
-            },
-            {
-              "roll": [
-                "0.12981"
-              ],
-              "unscaledRollValue": [
-                "27818283"
-              ],
-              "stat": {
-                "unitStatId": 1,
-                "statValueDecimal": "2780000",
-                "unscaledDecimalValue": "27800000000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 1,
-              "statRollerBoundsMin": "21430000",
-              "statRollerBoundsMax": "42860000"
-            }
-          ],
-          "id": "W9zpXAlKR0OjXHiQ0XBT9A",
-          "definitionId": "156",
-          "level": 15,
-          "tier": 3,
-          "sellValue": {
-            "currency": 1,
-            "quantity": 97200,
-            "bonusQuantity": 0
-          },
-          "removeCost": {
-            "currency": 1,
-            "quantity": 4750,
-            "bonusQuantity": 0
-          },
-          "locked": false,
-          "primaryStat": {
-            "roll": [],
-            "unscaledRollValue": [],
-            "stat": {
-              "unitStatId": 18,
-              "statValueDecimal": "2400",
-              "unscaledDecimalValue": "24000000",
-              "uiDisplayOverrideValue": "-1",
-              "scalar": "0"
-            },
-            "statRolls": 0,
-            "statRollerBoundsMin": "0",
-            "statRollerBoundsMax": "0"
-          },
-          "xp": 486000,
-          "levelCost": {
-            "currency": 1,
-            "quantity": 0,
-            "bonusQuantity": 0
-          },
-          "bonusQuantity": 0,
-          "convertedItem": null,
-          "rerolledCount": 0
         }
       ],
       "purchasedAbilityId": [],
@@ -30491,7 +30253,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 19951
+      "gp": 19726
     },
     {
       "skill": [
@@ -31757,124 +31519,6 @@
           "secondaryStat": [
             {
               "roll": [
-                "0.15982",
-                "0.14231"
-              ],
-              "unscaledRollValue": [
-                "479460",
-                "426930"
-              ],
-              "stat": {
-                "unitStatId": 5,
-                "statValueDecimal": "90000",
-                "unscaledDecimalValue": "900000000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 2,
-              "statRollerBoundsMin": "300000",
-              "statRollerBoundsMax": "600000"
-            },
-            {
-              "roll": [
-                "0.18113"
-              ],
-              "unscaledRollValue": [
-                "887537"
-              ],
-              "stat": {
-                "unitStatId": 42,
-                "statValueDecimal": "80000",
-                "unscaledDecimalValue": "800000000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 1,
-              "statRollerBoundsMin": "490000",
-              "statRollerBoundsMax": "980000"
-            },
-            {
-              "roll": [
-                "0.18050",
-                "0.15836"
-              ],
-              "unscaledRollValue": [
-                "508",
-                "445"
-              ],
-              "stat": {
-                "unitStatId": 48,
-                "statValueDecimal": "95",
-                "unscaledDecimalValue": "953000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 2,
-              "statRollerBoundsMin": "281",
-              "statRollerBoundsMax": "563"
-            },
-            {
-              "roll": [
-                "0.16120"
-              ],
-              "unscaledRollValue": [
-                "34545160"
-              ],
-              "stat": {
-                "unitStatId": 1,
-                "statValueDecimal": "3450000",
-                "unscaledDecimalValue": "34500000000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 1,
-              "statRollerBoundsMin": "21430000",
-              "statRollerBoundsMax": "42860000"
-            }
-          ],
-          "id": "Hs31hxgxQBS6Z8MBgd64Pg",
-          "definitionId": "155",
-          "level": 15,
-          "tier": 3,
-          "sellValue": {
-            "currency": 1,
-            "quantity": 97200,
-            "bonusQuantity": 0
-          },
-          "removeCost": {
-            "currency": 1,
-            "quantity": 4750,
-            "bonusQuantity": 0
-          },
-          "locked": false,
-          "primaryStat": {
-            "roll": [],
-            "unscaledRollValue": [],
-            "stat": {
-              "unitStatId": 55,
-              "statValueDecimal": "588",
-              "unscaledDecimalValue": "5880000",
-              "uiDisplayOverrideValue": "-1",
-              "scalar": "0"
-            },
-            "statRolls": 0,
-            "statRollerBoundsMin": "0",
-            "statRollerBoundsMax": "0"
-          },
-          "xp": 486000,
-          "levelCost": {
-            "currency": 1,
-            "quantity": 0,
-            "bonusQuantity": 0
-          },
-          "bonusQuantity": 0,
-          "convertedItem": null,
-          "rerolledCount": 0
-        },
-        {
-          "secondaryStat": [
-            {
-              "roll": [
                 "0.14682",
                 "0.11944"
               ],
@@ -32002,7 +31646,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 16417
+      "gp": 16192
     },
     {
       "skill": [
@@ -37678,128 +37322,6 @@
           "secondaryStat": [
             {
               "roll": [
-                "0.13412",
-                "0.15828"
-              ],
-              "unscaledRollValue": [
-                "28741916",
-                "33919404"
-              ],
-              "stat": {
-                "unitStatId": 1,
-                "statValueDecimal": "6260000",
-                "unscaledDecimalValue": "62600000000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 2,
-              "statRollerBoundsMin": "21430000",
-              "statRollerBoundsMax": "42860000"
-            },
-            {
-              "roll": [
-                "0.17326",
-                "0.10606"
-              ],
-              "unscaledRollValue": [
-                "3950328",
-                "2418168"
-              ],
-              "stat": {
-                "unitStatId": 41,
-                "statValueDecimal": "640000",
-                "unscaledDecimalValue": "6400000000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 2,
-              "statRollerBoundsMin": "2280000",
-              "statRollerBoundsMax": "4560000"
-            },
-            {
-              "roll": [
-                "0.18192",
-                "0.15462"
-              ],
-              "unscaledRollValue": [
-                "545760",
-                "463860"
-              ],
-              "stat": {
-                "unitStatId": 5,
-                "statValueDecimal": "100000",
-                "unscaledDecimalValue": "1000000000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 2,
-              "statRollerBoundsMin": "300000",
-              "statRollerBoundsMax": "600000"
-            },
-            {
-              "roll": [
-                "0.17502",
-                "0.16263"
-              ],
-              "unscaledRollValue": [
-                "857598",
-                "796887"
-              ],
-              "stat": {
-                "unitStatId": 42,
-                "statValueDecimal": "160000",
-                "unscaledDecimalValue": "1600000000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 2,
-              "statRollerBoundsMin": "490000",
-              "statRollerBoundsMax": "980000"
-            }
-          ],
-          "id": "k5XvsEbQQUiAPqjXS3xLmg",
-          "definitionId": "651",
-          "level": 15,
-          "tier": 5,
-          "sellValue": {
-            "currency": 1,
-            "quantity": 97200,
-            "bonusQuantity": 0
-          },
-          "removeCost": {
-            "currency": 1,
-            "quantity": 4750,
-            "bonusQuantity": 0
-          },
-          "locked": false,
-          "primaryStat": {
-            "roll": [],
-            "unscaledRollValue": [],
-            "stat": {
-              "unitStatId": 48,
-              "statValueDecimal": "588",
-              "unscaledDecimalValue": "5880000",
-              "uiDisplayOverrideValue": "-1",
-              "scalar": "0"
-            },
-            "statRolls": 0,
-            "statRollerBoundsMin": "0",
-            "statRollerBoundsMax": "0"
-          },
-          "xp": 486000,
-          "levelCost": {
-            "currency": 1,
-            "quantity": 0,
-            "bonusQuantity": 0
-          },
-          "bonusQuantity": 0,
-          "convertedItem": null,
-          "rerolledCount": 0
-        },
-        {
-          "secondaryStat": [
-            {
-              "roll": [
                 "0.10497",
                 "0.17535"
               ],
@@ -38407,7 +37929,7 @@
       "relic": {
         "currentTier": 5
       },
-      "gp": 20437
+      "gp": 20166
     },
     {
       "skill": [
@@ -38470,7 +37992,7 @@
       "skill": [
         {
           "id": "specialskill_KITFISTO01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "uniqueskill_KITFISTO01",
@@ -38487,7 +38009,724 @@
       ],
       "equipment": [],
       "equippedStatModOld": [],
-      "equippedStatMod": [],
+      "equippedStatMod": [
+        {
+          "secondaryStat": [
+            {
+              "roll": [
+                "0.13412",
+                "0.15828"
+              ],
+              "unscaledRollValue": [
+                "28741916",
+                "33919404"
+              ],
+              "stat": {
+                "unitStatId": 1,
+                "statValueDecimal": "6260000",
+                "unscaledDecimalValue": "62600000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 2,
+              "statRollerBoundsMin": "21430000",
+              "statRollerBoundsMax": "42860000"
+            },
+            {
+              "roll": [
+                "0.17326",
+                "0.10606"
+              ],
+              "unscaledRollValue": [
+                "3950328",
+                "2418168"
+              ],
+              "stat": {
+                "unitStatId": 41,
+                "statValueDecimal": "640000",
+                "unscaledDecimalValue": "6400000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 2,
+              "statRollerBoundsMin": "2280000",
+              "statRollerBoundsMax": "4560000"
+            },
+            {
+              "roll": [
+                "0.18192",
+                "0.15462"
+              ],
+              "unscaledRollValue": [
+                "545760",
+                "463860"
+              ],
+              "stat": {
+                "unitStatId": 5,
+                "statValueDecimal": "100000",
+                "unscaledDecimalValue": "1000000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 2,
+              "statRollerBoundsMin": "300000",
+              "statRollerBoundsMax": "600000"
+            },
+            {
+              "roll": [
+                "0.17502",
+                "0.16263"
+              ],
+              "unscaledRollValue": [
+                "857598",
+                "796887"
+              ],
+              "stat": {
+                "unitStatId": 42,
+                "statValueDecimal": "160000",
+                "unscaledDecimalValue": "1600000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 2,
+              "statRollerBoundsMin": "490000",
+              "statRollerBoundsMax": "980000"
+            }
+          ],
+          "id": "k5XvsEbQQUiAPqjXS3xLmg",
+          "definitionId": "651",
+          "level": 15,
+          "tier": 5,
+          "sellValue": {
+            "currency": 1,
+            "quantity": 97200,
+            "bonusQuantity": 0
+          },
+          "removeCost": {
+            "currency": 1,
+            "quantity": 4750,
+            "bonusQuantity": 0
+          },
+          "locked": false,
+          "primaryStat": {
+            "roll": [],
+            "unscaledRollValue": [],
+            "stat": {
+              "unitStatId": 48,
+              "statValueDecimal": "588",
+              "unscaledDecimalValue": "5880000",
+              "uiDisplayOverrideValue": "-1",
+              "scalar": "0"
+            },
+            "statRolls": 0,
+            "statRollerBoundsMin": "0",
+            "statRollerBoundsMax": "0"
+          },
+          "xp": 486000,
+          "levelCost": {
+            "currency": 1,
+            "quantity": 0,
+            "bonusQuantity": 0
+          },
+          "bonusQuantity": 0,
+          "convertedItem": null,
+          "rerolledCount": 0
+        },
+        {
+          "secondaryStat": [
+            {
+              "roll": [
+                "0.11495",
+                "0.13171"
+              ],
+              "unscaledRollValue": [
+                "647",
+                "741"
+              ],
+              "stat": {
+                "unitStatId": 55,
+                "statValueDecimal": "138",
+                "unscaledDecimalValue": "1387000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 2,
+              "statRollerBoundsMin": "563",
+              "statRollerBoundsMax": "1125"
+            },
+            {
+              "roll": [
+                "0.19359"
+              ],
+              "unscaledRollValue": [
+                "2178"
+              ],
+              "stat": {
+                "unitStatId": 18,
+                "statValueDecimal": "217",
+                "unscaledDecimalValue": "2178000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 1,
+              "statRollerBoundsMin": "1125",
+              "statRollerBoundsMax": "2250"
+            },
+            {
+              "roll": [
+                "0.19615"
+              ],
+              "unscaledRollValue": [
+                "2207"
+              ],
+              "stat": {
+                "unitStatId": 56,
+                "statValueDecimal": "220",
+                "unscaledDecimalValue": "2207000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 1,
+              "statRollerBoundsMin": "1125",
+              "statRollerBoundsMax": "2250"
+            },
+            {
+              "roll": [
+                "0.12742",
+                "0.16319"
+              ],
+              "unscaledRollValue": [
+                "52917526",
+                "67772807"
+              ],
+              "stat": {
+                "unitStatId": 28,
+                "statValueDecimal": "12060000",
+                "unscaledDecimalValue": "120600000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 2,
+              "statRollerBoundsMin": "41530000",
+              "statRollerBoundsMax": "83060000"
+            }
+          ],
+          "id": "xoNgv4j2TkWNiSvl6A4IDA",
+          "definitionId": "652",
+          "level": 15,
+          "tier": 3,
+          "sellValue": {
+            "currency": 1,
+            "quantity": 97200,
+            "bonusQuantity": 0
+          },
+          "removeCost": {
+            "currency": 1,
+            "quantity": 4750,
+            "bonusQuantity": 0
+          },
+          "locked": false,
+          "primaryStat": {
+            "roll": [],
+            "unscaledRollValue": [],
+            "stat": {
+              "unitStatId": 5,
+              "statValueDecimal": "300000",
+              "unscaledDecimalValue": "3000000000",
+              "uiDisplayOverrideValue": "-1",
+              "scalar": "0"
+            },
+            "statRolls": 0,
+            "statRollerBoundsMin": "0",
+            "statRollerBoundsMax": "0"
+          },
+          "xp": 486000,
+          "levelCost": {
+            "currency": 1,
+            "quantity": 0,
+            "bonusQuantity": 0
+          },
+          "bonusQuantity": 0,
+          "convertedItem": null,
+          "rerolledCount": 0
+        },
+        {
+          "secondaryStat": [
+            {
+              "roll": [
+                "0.14488",
+                "0.10987"
+              ],
+              "unscaledRollValue": [
+                "815",
+                "618"
+              ],
+              "stat": {
+                "unitStatId": 55,
+                "statValueDecimal": "143",
+                "unscaledDecimalValue": "1433000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 2,
+              "statRollerBoundsMin": "563",
+              "statRollerBoundsMax": "1125"
+            },
+            {
+              "roll": [
+                "0.19636"
+              ],
+              "unscaledRollValue": [
+                "962164"
+              ],
+              "stat": {
+                "unitStatId": 42,
+                "statValueDecimal": "90000",
+                "unscaledDecimalValue": "900000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 1,
+              "statRollerBoundsMin": "490000",
+              "statRollerBoundsMax": "980000"
+            },
+            {
+              "roll": [
+                "0.11835",
+                "0.14787"
+              ],
+              "unscaledRollValue": [
+                "355050",
+                "443610"
+              ],
+              "stat": {
+                "unitStatId": 5,
+                "statValueDecimal": "70000",
+                "unscaledDecimalValue": "700000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 2,
+              "statRollerBoundsMin": "300000",
+              "statRollerBoundsMax": "600000"
+            },
+            {
+              "roll": [
+                "0.10819",
+                "0.12281",
+                "0.14744"
+              ],
+              "unscaledRollValue": [
+                "2466732",
+                "2800068",
+                "3361632"
+              ],
+              "stat": {
+                "unitStatId": 41,
+                "statValueDecimal": "870000",
+                "unscaledDecimalValue": "8700000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 3,
+              "statRollerBoundsMin": "2280000",
+              "statRollerBoundsMax": "4560000"
+            }
+          ],
+          "id": "fgLqdYf0TIyDS-vo8n81VA",
+          "definitionId": "653",
+          "level": 15,
+          "tier": 5,
+          "sellValue": {
+            "currency": 1,
+            "quantity": 97200,
+            "bonusQuantity": 0
+          },
+          "removeCost": {
+            "currency": 1,
+            "quantity": 4750,
+            "bonusQuantity": 0
+          },
+          "locked": false,
+          "primaryStat": {
+            "roll": [],
+            "unscaledRollValue": [],
+            "stat": {
+              "unitStatId": 49,
+              "statValueDecimal": "1175",
+              "unscaledDecimalValue": "11750000",
+              "uiDisplayOverrideValue": "-1",
+              "scalar": "0"
+            },
+            "statRolls": 0,
+            "statRollerBoundsMin": "0",
+            "statRollerBoundsMax": "0"
+          },
+          "xp": 486000,
+          "levelCost": {
+            "currency": 1,
+            "quantity": 0,
+            "bonusQuantity": 0
+          },
+          "bonusQuantity": 0,
+          "convertedItem": null,
+          "rerolledCount": 0
+        },
+        {
+          "secondaryStat": [
+            {
+              "roll": [
+                "0.13884",
+                "0.18337"
+              ],
+              "unscaledRollValue": [
+                "24088740",
+                "31814695"
+              ],
+              "stat": {
+                "unitStatId": 1,
+                "statValueDecimal": "5590000",
+                "unscaledDecimalValue": "55900000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 2,
+              "statRollerBoundsMin": "17350000",
+              "statRollerBoundsMax": "34700000"
+            },
+            {
+              "roll": [
+                "0.17388",
+                "0.12100"
+              ],
+              "unscaledRollValue": [
+                "434700",
+                "302500"
+              ],
+              "stat": {
+                "unitStatId": 5,
+                "statValueDecimal": "70000",
+                "unscaledDecimalValue": "700000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 2,
+              "statRollerBoundsMin": "250000",
+              "statRollerBoundsMax": "500000"
+            },
+            {
+              "roll": [
+                "0.19965",
+                "0.12561"
+              ],
+              "unscaledRollValue": [
+                "1997",
+                "1256"
+              ],
+              "stat": {
+                "unitStatId": 56,
+                "statValueDecimal": "325",
+                "unscaledDecimalValue": "3253000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 2,
+              "statRollerBoundsMin": "1000",
+              "statRollerBoundsMax": "2000"
+            },
+            {
+              "roll": [
+                "0.17094"
+              ],
+              "unscaledRollValue": [
+                "1709"
+              ],
+              "stat": {
+                "unitStatId": 53,
+                "statValueDecimal": "170",
+                "unscaledDecimalValue": "1709000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 1,
+              "statRollerBoundsMin": "1000",
+              "statRollerBoundsMax": "2000"
+            }
+          ],
+          "id": "Lmrzr4RmR66z1nrMBBci0g",
+          "definitionId": "644",
+          "level": 15,
+          "tier": 4,
+          "sellValue": {
+            "currency": 1,
+            "quantity": 50100,
+            "bonusQuantity": 0
+          },
+          "removeCost": {
+            "currency": 1,
+            "quantity": 3000,
+            "bonusQuantity": 0
+          },
+          "locked": false,
+          "primaryStat": {
+            "roll": [],
+            "unscaledRollValue": [],
+            "stat": {
+              "unitStatId": 16,
+              "statValueDecimal": "3150",
+              "unscaledDecimalValue": "31500000",
+              "uiDisplayOverrideValue": "-1",
+              "scalar": "0"
+            },
+            "statRolls": 0,
+            "statRollerBoundsMin": "0",
+            "statRollerBoundsMax": "0"
+          },
+          "xp": 250250,
+          "levelCost": {
+            "currency": 1,
+            "quantity": 0,
+            "bonusQuantity": 0
+          },
+          "bonusQuantity": 0,
+          "convertedItem": null,
+          "rerolledCount": 0
+        },
+        {
+          "secondaryStat": [
+            {
+              "roll": [
+                "0.16943"
+              ],
+              "unscaledRollValue": [
+                "508290"
+              ],
+              "stat": {
+                "unitStatId": 5,
+                "statValueDecimal": "50000",
+                "unscaledDecimalValue": "500000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 1,
+              "statRollerBoundsMin": "300000",
+              "statRollerBoundsMax": "600000"
+            },
+            {
+              "roll": [
+                "0.19257"
+              ],
+              "unscaledRollValue": [
+                "943593"
+              ],
+              "stat": {
+                "unitStatId": 42,
+                "statValueDecimal": "90000",
+                "unscaledDecimalValue": "900000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 1,
+              "statRollerBoundsMin": "490000",
+              "statRollerBoundsMax": "980000"
+            },
+            {
+              "roll": [
+                "0.19301"
+              ],
+              "unscaledRollValue": [
+                "4400628"
+              ],
+              "stat": {
+                "unitStatId": 41,
+                "statValueDecimal": "450000",
+                "unscaledDecimalValue": "4500000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 1,
+              "statRollerBoundsMin": "2280000",
+              "statRollerBoundsMax": "4560000"
+            },
+            {
+              "roll": [
+                "0.12507",
+                "0.16836",
+                "0.11842"
+              ],
+              "unscaledRollValue": [
+                "1407",
+                "1894",
+                "1332"
+              ],
+              "stat": {
+                "unitStatId": 53,
+                "statValueDecimal": "463",
+                "unscaledDecimalValue": "4633000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 3,
+              "statRollerBoundsMin": "1125",
+              "statRollerBoundsMax": "2250"
+            }
+          ],
+          "id": "8fSHB1QmR-yrz7cB7L0lKw",
+          "definitionId": "155",
+          "level": 15,
+          "tier": 3,
+          "sellValue": {
+            "currency": 1,
+            "quantity": 97200,
+            "bonusQuantity": 0
+          },
+          "removeCost": {
+            "currency": 1,
+            "quantity": 4750,
+            "bonusQuantity": 0
+          },
+          "locked": false,
+          "primaryStat": {
+            "roll": [],
+            "unscaledRollValue": [],
+            "stat": {
+              "unitStatId": 55,
+              "statValueDecimal": "588",
+              "unscaledDecimalValue": "5880000",
+              "uiDisplayOverrideValue": "-1",
+              "scalar": "0"
+            },
+            "statRolls": 0,
+            "statRollerBoundsMin": "0",
+            "statRollerBoundsMax": "0"
+          },
+          "xp": 486000,
+          "levelCost": {
+            "currency": 1,
+            "quantity": 0,
+            "bonusQuantity": 0
+          },
+          "bonusQuantity": 0,
+          "convertedItem": null,
+          "rerolledCount": 0
+        },
+        {
+          "secondaryStat": [
+            {
+              "roll": [
+                "0.19749"
+              ],
+              "unscaledRollValue": [
+                "82017597"
+              ],
+              "stat": {
+                "unitStatId": 28,
+                "statValueDecimal": "8200000",
+                "unscaledDecimalValue": "82000000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 1,
+              "statRollerBoundsMin": "41530000",
+              "statRollerBoundsMax": "83060000"
+            },
+            {
+              "roll": [
+                "0.14321"
+              ],
+              "unscaledRollValue": [
+                "429630"
+              ],
+              "stat": {
+                "unitStatId": 5,
+                "statValueDecimal": "40000",
+                "unscaledDecimalValue": "400000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 1,
+              "statRollerBoundsMin": "300000",
+              "statRollerBoundsMax": "600000"
+            },
+            {
+              "roll": [
+                "0.15466",
+                "0.12231"
+              ],
+              "unscaledRollValue": [
+                "1315",
+                "1040"
+              ],
+              "stat": {
+                "unitStatId": 49,
+                "statValueDecimal": "235",
+                "unscaledDecimalValue": "2354000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 2,
+              "statRollerBoundsMin": "850",
+              "statRollerBoundsMax": "1700"
+            },
+            {
+              "roll": [
+                "0.10626"
+              ],
+              "unscaledRollValue": [
+                "1195"
+              ],
+              "stat": {
+                "unitStatId": 18,
+                "statValueDecimal": "119",
+                "unscaledDecimalValue": "1195000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 1,
+              "statRollerBoundsMin": "1125",
+              "statRollerBoundsMax": "2250"
+            }
+          ],
+          "id": "Xn5GUitvQiC-C-lTzrYGRQ",
+          "definitionId": "156",
+          "level": 15,
+          "tier": 2,
+          "sellValue": {
+            "currency": 1,
+            "quantity": 97200,
+            "bonusQuantity": 0
+          },
+          "removeCost": {
+            "currency": 1,
+            "quantity": 4750,
+            "bonusQuantity": 0
+          },
+          "locked": false,
+          "primaryStat": {
+            "roll": [],
+            "unscaledRollValue": [],
+            "stat": {
+              "unitStatId": 55,
+              "statValueDecimal": "588",
+              "unscaledDecimalValue": "5880000",
+              "uiDisplayOverrideValue": "-1",
+              "scalar": "0"
+            },
+            "statRolls": 0,
+            "statRollerBoundsMin": "0",
+            "statRollerBoundsMax": "0"
+          },
+          "xp": 486000,
+          "levelCost": {
+            "currency": 1,
+            "quantity": 0,
+            "bonusQuantity": 0
+          },
+          "bonusQuantity": 0,
+          "convertedItem": null,
+          "rerolledCount": 0
+        }
+      ],
       "purchasedAbilityId": [],
       "id": "NQlfgnARSRG58MLB9aC1Cw",
       "definitionId": "Kit Fisto",
@@ -38500,7 +38739,7 @@
       "relic": {
         "currentTier": 7
       },
-      "gp": 20997
+      "gp": 22516
     },
     {
       "skill": [
@@ -57346,7 +57585,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 63811
+      "gp": 63558
     },
     {
       "skill": [
@@ -61218,124 +61457,6 @@
           "secondaryStat": [
             {
               "roll": [
-                "0.13872",
-                "0.10715"
-              ],
-              "unscaledRollValue": [
-                "3162816",
-                "2443020"
-              ],
-              "stat": {
-                "unitStatId": 41,
-                "statValueDecimal": "570000",
-                "unscaledDecimalValue": "5700000000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 2,
-              "statRollerBoundsMin": "2280000",
-              "statRollerBoundsMax": "4560000"
-            },
-            {
-              "roll": [
-                "0.12413",
-                "0.19029"
-              ],
-              "unscaledRollValue": [
-                "372390",
-                "570870"
-              ],
-              "stat": {
-                "unitStatId": 5,
-                "statValueDecimal": "90000",
-                "unscaledDecimalValue": "900000000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 2,
-              "statRollerBoundsMin": "300000",
-              "statRollerBoundsMax": "600000"
-            },
-            {
-              "roll": [
-                "0.10599"
-              ],
-              "unscaledRollValue": [
-                "519351"
-              ],
-              "stat": {
-                "unitStatId": 42,
-                "statValueDecimal": "50000",
-                "unscaledDecimalValue": "500000000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 1,
-              "statRollerBoundsMin": "490000",
-              "statRollerBoundsMax": "980000"
-            },
-            {
-              "roll": [
-                "0.12904"
-              ],
-              "unscaledRollValue": [
-                "1452"
-              ],
-              "stat": {
-                "unitStatId": 18,
-                "statValueDecimal": "145",
-                "unscaledDecimalValue": "1452000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 1,
-              "statRollerBoundsMin": "1125",
-              "statRollerBoundsMax": "2250"
-            }
-          ],
-          "id": "qZrDfhuIQl6gwJkGWL_Lfg",
-          "definitionId": "151",
-          "level": 15,
-          "tier": 3,
-          "sellValue": {
-            "currency": 1,
-            "quantity": 97200,
-            "bonusQuantity": 0
-          },
-          "removeCost": {
-            "currency": 1,
-            "quantity": 4750,
-            "bonusQuantity": 0
-          },
-          "locked": false,
-          "primaryStat": {
-            "roll": [],
-            "unscaledRollValue": [],
-            "stat": {
-              "unitStatId": 48,
-              "statValueDecimal": "588",
-              "unscaledDecimalValue": "5880000",
-              "uiDisplayOverrideValue": "-1",
-              "scalar": "0"
-            },
-            "statRolls": 0,
-            "statRollerBoundsMin": "0",
-            "statRollerBoundsMax": "0"
-          },
-          "xp": 486000,
-          "levelCost": {
-            "currency": 1,
-            "quantity": 0,
-            "bonusQuantity": 0
-          },
-          "bonusQuantity": 0,
-          "convertedItem": null,
-          "rerolledCount": 0
-        },
-        {
-          "secondaryStat": [
-            {
-              "roll": [
                 "0.13712"
               ],
               "unscaledRollValue": [
@@ -61943,7 +62064,7 @@
       "relic": {
         "currentTier": 7
       },
-      "gp": 22197
+      "gp": 21972
     },
     {
       "skill": [
@@ -63888,128 +64009,6 @@
           "secondaryStat": [
             {
               "roll": [
-                "0.19701"
-              ],
-              "unscaledRollValue": [
-                "2216"
-              ],
-              "stat": {
-                "unitStatId": 18,
-                "statValueDecimal": "221",
-                "unscaledDecimalValue": "2216000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 1,
-              "statRollerBoundsMin": "1125",
-              "statRollerBoundsMax": "2250"
-            },
-            {
-              "roll": [
-                "0.15501",
-                "0.10747",
-                "0.18590"
-              ],
-              "unscaledRollValue": [
-                "1744",
-                "1209",
-                "2091"
-              ],
-              "stat": {
-                "unitStatId": 56,
-                "statValueDecimal": "504",
-                "unscaledDecimalValue": "5044000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 3,
-              "statRollerBoundsMin": "1125",
-              "statRollerBoundsMax": "2250"
-            },
-            {
-              "roll": [
-                "0.14331",
-                "0.19974",
-                "0.11345"
-              ],
-              "unscaledRollValue": [
-                "403",
-                "562",
-                "319"
-              ],
-              "stat": {
-                "unitStatId": 48,
-                "statValueDecimal": "128",
-                "unscaledDecimalValue": "1284000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 3,
-              "statRollerBoundsMin": "281",
-              "statRollerBoundsMax": "563"
-            },
-            {
-              "roll": [
-                "0.15094"
-              ],
-              "unscaledRollValue": [
-                "1283"
-              ],
-              "stat": {
-                "unitStatId": 49,
-                "statValueDecimal": "128",
-                "unscaledDecimalValue": "1283000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 1,
-              "statRollerBoundsMin": "850",
-              "statRollerBoundsMax": "1700"
-            }
-          ],
-          "id": "_uKE-KluQ6aUxcxVjZqCBw",
-          "definitionId": "152",
-          "level": 15,
-          "tier": 5,
-          "sellValue": {
-            "currency": 1,
-            "quantity": 97200,
-            "bonusQuantity": 0
-          },
-          "removeCost": {
-            "currency": 1,
-            "quantity": 4750,
-            "bonusQuantity": 0
-          },
-          "locked": false,
-          "primaryStat": {
-            "roll": [],
-            "unscaledRollValue": [],
-            "stat": {
-              "unitStatId": 5,
-              "statValueDecimal": "300000",
-              "unscaledDecimalValue": "3000000000",
-              "uiDisplayOverrideValue": "-1",
-              "scalar": "0"
-            },
-            "statRolls": 0,
-            "statRollerBoundsMin": "0",
-            "statRollerBoundsMax": "0"
-          },
-          "xp": 486000,
-          "levelCost": {
-            "currency": 1,
-            "quantity": 0,
-            "bonusQuantity": 0
-          },
-          "bonusQuantity": 0,
-          "convertedItem": null,
-          "rerolledCount": 0
-        },
-        {
-          "secondaryStat": [
-            {
-              "roll": [
                 "0.12088",
                 "0.19396"
               ],
@@ -64379,7 +64378,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 9741
+      "gp": 9469
     },
     {
       "skill": [
@@ -92237,7 +92236,722 @@
       ],
       "equipment": [],
       "equippedStatModOld": [],
-      "equippedStatMod": [],
+      "equippedStatMod": [
+        {
+          "secondaryStat": [
+            {
+              "roll": [
+                "0.13872",
+                "0.10715"
+              ],
+              "unscaledRollValue": [
+                "3162816",
+                "2443020"
+              ],
+              "stat": {
+                "unitStatId": 41,
+                "statValueDecimal": "570000",
+                "unscaledDecimalValue": "5700000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 2,
+              "statRollerBoundsMin": "2280000",
+              "statRollerBoundsMax": "4560000"
+            },
+            {
+              "roll": [
+                "0.12413",
+                "0.19029"
+              ],
+              "unscaledRollValue": [
+                "372390",
+                "570870"
+              ],
+              "stat": {
+                "unitStatId": 5,
+                "statValueDecimal": "90000",
+                "unscaledDecimalValue": "900000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 2,
+              "statRollerBoundsMin": "300000",
+              "statRollerBoundsMax": "600000"
+            },
+            {
+              "roll": [
+                "0.10599"
+              ],
+              "unscaledRollValue": [
+                "519351"
+              ],
+              "stat": {
+                "unitStatId": 42,
+                "statValueDecimal": "50000",
+                "unscaledDecimalValue": "500000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 1,
+              "statRollerBoundsMin": "490000",
+              "statRollerBoundsMax": "980000"
+            },
+            {
+              "roll": [
+                "0.12904"
+              ],
+              "unscaledRollValue": [
+                "1452"
+              ],
+              "stat": {
+                "unitStatId": 18,
+                "statValueDecimal": "145",
+                "unscaledDecimalValue": "1452000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 1,
+              "statRollerBoundsMin": "1125",
+              "statRollerBoundsMax": "2250"
+            }
+          ],
+          "id": "qZrDfhuIQl6gwJkGWL_Lfg",
+          "definitionId": "151",
+          "level": 15,
+          "tier": 3,
+          "sellValue": {
+            "currency": 1,
+            "quantity": 97200,
+            "bonusQuantity": 0
+          },
+          "removeCost": {
+            "currency": 1,
+            "quantity": 4750,
+            "bonusQuantity": 0
+          },
+          "locked": false,
+          "primaryStat": {
+            "roll": [],
+            "unscaledRollValue": [],
+            "stat": {
+              "unitStatId": 48,
+              "statValueDecimal": "588",
+              "unscaledDecimalValue": "5880000",
+              "uiDisplayOverrideValue": "-1",
+              "scalar": "0"
+            },
+            "statRolls": 0,
+            "statRollerBoundsMin": "0",
+            "statRollerBoundsMax": "0"
+          },
+          "xp": 486000,
+          "levelCost": {
+            "currency": 1,
+            "quantity": 0,
+            "bonusQuantity": 0
+          },
+          "bonusQuantity": 0,
+          "convertedItem": null,
+          "rerolledCount": 0
+        },
+        {
+          "secondaryStat": [
+            {
+              "roll": [
+                "0.19701"
+              ],
+              "unscaledRollValue": [
+                "2216"
+              ],
+              "stat": {
+                "unitStatId": 18,
+                "statValueDecimal": "221",
+                "unscaledDecimalValue": "2216000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 1,
+              "statRollerBoundsMin": "1125",
+              "statRollerBoundsMax": "2250"
+            },
+            {
+              "roll": [
+                "0.15501",
+                "0.10747",
+                "0.18590"
+              ],
+              "unscaledRollValue": [
+                "1744",
+                "1209",
+                "2091"
+              ],
+              "stat": {
+                "unitStatId": 56,
+                "statValueDecimal": "504",
+                "unscaledDecimalValue": "5044000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 3,
+              "statRollerBoundsMin": "1125",
+              "statRollerBoundsMax": "2250"
+            },
+            {
+              "roll": [
+                "0.14331",
+                "0.19974",
+                "0.11345"
+              ],
+              "unscaledRollValue": [
+                "403",
+                "562",
+                "319"
+              ],
+              "stat": {
+                "unitStatId": 48,
+                "statValueDecimal": "128",
+                "unscaledDecimalValue": "1284000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 3,
+              "statRollerBoundsMin": "281",
+              "statRollerBoundsMax": "563"
+            },
+            {
+              "roll": [
+                "0.15094"
+              ],
+              "unscaledRollValue": [
+                "1283"
+              ],
+              "stat": {
+                "unitStatId": 49,
+                "statValueDecimal": "128",
+                "unscaledDecimalValue": "1283000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 1,
+              "statRollerBoundsMin": "850",
+              "statRollerBoundsMax": "1700"
+            }
+          ],
+          "id": "_uKE-KluQ6aUxcxVjZqCBw",
+          "definitionId": "152",
+          "level": 15,
+          "tier": 5,
+          "sellValue": {
+            "currency": 1,
+            "quantity": 97200,
+            "bonusQuantity": 0
+          },
+          "removeCost": {
+            "currency": 1,
+            "quantity": 4750,
+            "bonusQuantity": 0
+          },
+          "locked": false,
+          "primaryStat": {
+            "roll": [],
+            "unscaledRollValue": [],
+            "stat": {
+              "unitStatId": 5,
+              "statValueDecimal": "300000",
+              "unscaledDecimalValue": "3000000000",
+              "uiDisplayOverrideValue": "-1",
+              "scalar": "0"
+            },
+            "statRolls": 0,
+            "statRollerBoundsMin": "0",
+            "statRollerBoundsMax": "0"
+          },
+          "xp": 486000,
+          "levelCost": {
+            "currency": 1,
+            "quantity": 0,
+            "bonusQuantity": 0
+          },
+          "bonusQuantity": 0,
+          "convertedItem": null,
+          "rerolledCount": 0
+        },
+        {
+          "secondaryStat": [
+            {
+              "roll": [
+                "0.17512",
+                "0.11004"
+              ],
+              "unscaledRollValue": [
+                "985",
+                "619"
+              ],
+              "stat": {
+                "unitStatId": 55,
+                "statValueDecimal": "160",
+                "unscaledDecimalValue": "1604000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 2,
+              "statRollerBoundsMin": "563",
+              "statRollerBoundsMax": "1125"
+            },
+            {
+              "roll": [
+                "0.13164",
+                "0.10549"
+              ],
+              "unscaledRollValue": [
+                "394920",
+                "316470"
+              ],
+              "stat": {
+                "unitStatId": 5,
+                "statValueDecimal": "70000",
+                "unscaledDecimalValue": "700000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 2,
+              "statRollerBoundsMin": "300000",
+              "statRollerBoundsMax": "600000"
+            },
+            {
+              "roll": [
+                "0.14276"
+              ],
+              "unscaledRollValue": [
+                "1606"
+              ],
+              "stat": {
+                "unitStatId": 18,
+                "statValueDecimal": "160",
+                "unscaledDecimalValue": "1606000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 1,
+              "statRollerBoundsMin": "1125",
+              "statRollerBoundsMax": "2250"
+            },
+            {
+              "roll": [
+                "0.12176",
+                "0.11662"
+              ],
+              "unscaledRollValue": [
+                "342",
+                "328"
+              ],
+              "stat": {
+                "unitStatId": 48,
+                "statValueDecimal": "67",
+                "unscaledDecimalValue": "670000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 2,
+              "statRollerBoundsMin": "281",
+              "statRollerBoundsMax": "563"
+            }
+          ],
+          "id": "ZLDPCHWKRDuEi7HdqxymoA",
+          "definitionId": "153",
+          "level": 15,
+          "tier": 4,
+          "sellValue": {
+            "currency": 1,
+            "quantity": 97200,
+            "bonusQuantity": 0
+          },
+          "removeCost": {
+            "currency": 1,
+            "quantity": 4750,
+            "bonusQuantity": 0
+          },
+          "locked": false,
+          "primaryStat": {
+            "roll": [],
+            "unscaledRollValue": [],
+            "stat": {
+              "unitStatId": 49,
+              "statValueDecimal": "1175",
+              "unscaledDecimalValue": "11750000",
+              "uiDisplayOverrideValue": "-1",
+              "scalar": "0"
+            },
+            "statRolls": 0,
+            "statRollerBoundsMin": "0",
+            "statRollerBoundsMax": "0"
+          },
+          "xp": 486000,
+          "levelCost": {
+            "currency": 1,
+            "quantity": 0,
+            "bonusQuantity": 0
+          },
+          "bonusQuantity": 0,
+          "convertedItem": null,
+          "rerolledCount": 0
+        },
+        {
+          "secondaryStat": [
+            {
+              "roll": [
+                "0.19442"
+              ],
+              "unscaledRollValue": [
+                "2187"
+              ],
+              "stat": {
+                "unitStatId": 17,
+                "statValueDecimal": "218",
+                "unscaledDecimalValue": "2187000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 1,
+              "statRollerBoundsMin": "1125",
+              "statRollerBoundsMax": "2250"
+            },
+            {
+              "roll": [
+                "0.14478"
+              ],
+              "unscaledRollValue": [
+                "434340"
+              ],
+              "stat": {
+                "unitStatId": 5,
+                "statValueDecimal": "40000",
+                "unscaledDecimalValue": "400000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 1,
+              "statRollerBoundsMin": "300000",
+              "statRollerBoundsMax": "600000"
+            },
+            {
+              "roll": [
+                "0.11122",
+                "0.10912",
+                "0.15186"
+              ],
+              "unscaledRollValue": [
+                "2535816",
+                "2487936",
+                "3462408"
+              ],
+              "stat": {
+                "unitStatId": 41,
+                "statValueDecimal": "850000",
+                "unscaledDecimalValue": "8500000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 3,
+              "statRollerBoundsMin": "2280000",
+              "statRollerBoundsMax": "4560000"
+            },
+            {
+              "roll": [
+                "0.10536"
+              ],
+              "unscaledRollValue": [
+                "1185"
+              ],
+              "stat": {
+                "unitStatId": 53,
+                "statValueDecimal": "118",
+                "unscaledDecimalValue": "1185000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 1,
+              "statRollerBoundsMin": "1125",
+              "statRollerBoundsMax": "2250"
+            }
+          ],
+          "id": "toGVwZM1R9ahy7LA1BMkdg",
+          "definitionId": "154",
+          "level": 15,
+          "tier": 3,
+          "sellValue": {
+            "currency": 1,
+            "quantity": 97200,
+            "bonusQuantity": 0
+          },
+          "removeCost": {
+            "currency": 1,
+            "quantity": 4750,
+            "bonusQuantity": 0
+          },
+          "locked": false,
+          "primaryStat": {
+            "roll": [],
+            "unscaledRollValue": [],
+            "stat": {
+              "unitStatId": 16,
+              "statValueDecimal": "3600",
+              "unscaledDecimalValue": "36000000",
+              "uiDisplayOverrideValue": "-1",
+              "scalar": "0"
+            },
+            "statRolls": 0,
+            "statRollerBoundsMin": "0",
+            "statRollerBoundsMax": "0"
+          },
+          "xp": 486000,
+          "levelCost": {
+            "currency": 1,
+            "quantity": 0,
+            "bonusQuantity": 0
+          },
+          "bonusQuantity": 0,
+          "convertedItem": null,
+          "rerolledCount": 0
+        },
+        {
+          "secondaryStat": [
+            {
+              "roll": [
+                "0.15982",
+                "0.14231"
+              ],
+              "unscaledRollValue": [
+                "479460",
+                "426930"
+              ],
+              "stat": {
+                "unitStatId": 5,
+                "statValueDecimal": "90000",
+                "unscaledDecimalValue": "900000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 2,
+              "statRollerBoundsMin": "300000",
+              "statRollerBoundsMax": "600000"
+            },
+            {
+              "roll": [
+                "0.18113"
+              ],
+              "unscaledRollValue": [
+                "887537"
+              ],
+              "stat": {
+                "unitStatId": 42,
+                "statValueDecimal": "80000",
+                "unscaledDecimalValue": "800000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 1,
+              "statRollerBoundsMin": "490000",
+              "statRollerBoundsMax": "980000"
+            },
+            {
+              "roll": [
+                "0.18050",
+                "0.15836"
+              ],
+              "unscaledRollValue": [
+                "508",
+                "445"
+              ],
+              "stat": {
+                "unitStatId": 48,
+                "statValueDecimal": "95",
+                "unscaledDecimalValue": "953000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 2,
+              "statRollerBoundsMin": "281",
+              "statRollerBoundsMax": "563"
+            },
+            {
+              "roll": [
+                "0.16120"
+              ],
+              "unscaledRollValue": [
+                "34545160"
+              ],
+              "stat": {
+                "unitStatId": 1,
+                "statValueDecimal": "3450000",
+                "unscaledDecimalValue": "34500000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 1,
+              "statRollerBoundsMin": "21430000",
+              "statRollerBoundsMax": "42860000"
+            }
+          ],
+          "id": "Hs31hxgxQBS6Z8MBgd64Pg",
+          "definitionId": "155",
+          "level": 15,
+          "tier": 3,
+          "sellValue": {
+            "currency": 1,
+            "quantity": 97200,
+            "bonusQuantity": 0
+          },
+          "removeCost": {
+            "currency": 1,
+            "quantity": 4750,
+            "bonusQuantity": 0
+          },
+          "locked": false,
+          "primaryStat": {
+            "roll": [],
+            "unscaledRollValue": [],
+            "stat": {
+              "unitStatId": 55,
+              "statValueDecimal": "588",
+              "unscaledDecimalValue": "5880000",
+              "uiDisplayOverrideValue": "-1",
+              "scalar": "0"
+            },
+            "statRolls": 0,
+            "statRollerBoundsMin": "0",
+            "statRollerBoundsMax": "0"
+          },
+          "xp": 486000,
+          "levelCost": {
+            "currency": 1,
+            "quantity": 0,
+            "bonusQuantity": 0
+          },
+          "bonusQuantity": 0,
+          "convertedItem": null,
+          "rerolledCount": 0
+        },
+        {
+          "secondaryStat": [
+            {
+              "roll": [
+                "0.19585"
+              ],
+              "unscaledRollValue": [
+                "551"
+              ],
+              "stat": {
+                "unitStatId": 48,
+                "statValueDecimal": "55",
+                "unscaledDecimalValue": "551000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 1,
+              "statRollerBoundsMin": "281",
+              "statRollerBoundsMax": "563"
+            },
+            {
+              "roll": [
+                "0.12684",
+                "0.14719"
+              ],
+              "unscaledRollValue": [
+                "1078",
+                "1251"
+              ],
+              "stat": {
+                "unitStatId": 49,
+                "statValueDecimal": "232",
+                "unscaledDecimalValue": "2329000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 2,
+              "statRollerBoundsMin": "850",
+              "statRollerBoundsMax": "1700"
+            },
+            {
+              "roll": [
+                "0.16068",
+                "0.16443"
+              ],
+              "unscaledRollValue": [
+                "482040",
+                "493290"
+              ],
+              "stat": {
+                "unitStatId": 5,
+                "statValueDecimal": "90000",
+                "unscaledDecimalValue": "900000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 2,
+              "statRollerBoundsMin": "300000",
+              "statRollerBoundsMax": "600000"
+            },
+            {
+              "roll": [
+                "0.12981"
+              ],
+              "unscaledRollValue": [
+                "27818283"
+              ],
+              "stat": {
+                "unitStatId": 1,
+                "statValueDecimal": "2780000",
+                "unscaledDecimalValue": "27800000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 1,
+              "statRollerBoundsMin": "21430000",
+              "statRollerBoundsMax": "42860000"
+            }
+          ],
+          "id": "W9zpXAlKR0OjXHiQ0XBT9A",
+          "definitionId": "156",
+          "level": 15,
+          "tier": 3,
+          "sellValue": {
+            "currency": 1,
+            "quantity": 97200,
+            "bonusQuantity": 0
+          },
+          "removeCost": {
+            "currency": 1,
+            "quantity": 4750,
+            "bonusQuantity": 0
+          },
+          "locked": false,
+          "primaryStat": {
+            "roll": [],
+            "unscaledRollValue": [],
+            "stat": {
+              "unitStatId": 18,
+              "statValueDecimal": "2400",
+              "unscaledDecimalValue": "24000000",
+              "uiDisplayOverrideValue": "-1",
+              "scalar": "0"
+            },
+            "statRolls": 0,
+            "statRollerBoundsMin": "0",
+            "statRollerBoundsMax": "0"
+          },
+          "xp": 486000,
+          "levelCost": {
+            "currency": 1,
+            "quantity": 0,
+            "bonusQuantity": 0
+          },
+          "bonusQuantity": 0,
+          "convertedItem": null,
+          "rerolledCount": 0
+        }
+      ],
       "purchasedAbilityId": [],
       "id": "gt41AQYvTAO7PPsXhJSqxQ",
       "definitionId": "Eeth Koth",
@@ -92250,7 +92964,7 @@
       "relic": {
         "currentTier": 7
       },
-      "gp": 20997
+      "gp": 22416
     },
     {
       "skill": [
@@ -123725,128 +124439,6 @@
           "secondaryStat": [
             {
               "roll": [
-                "0.14488",
-                "0.10987"
-              ],
-              "unscaledRollValue": [
-                "815",
-                "618"
-              ],
-              "stat": {
-                "unitStatId": 55,
-                "statValueDecimal": "143",
-                "unscaledDecimalValue": "1433000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 2,
-              "statRollerBoundsMin": "563",
-              "statRollerBoundsMax": "1125"
-            },
-            {
-              "roll": [
-                "0.19636"
-              ],
-              "unscaledRollValue": [
-                "962164"
-              ],
-              "stat": {
-                "unitStatId": 42,
-                "statValueDecimal": "90000",
-                "unscaledDecimalValue": "900000000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 1,
-              "statRollerBoundsMin": "490000",
-              "statRollerBoundsMax": "980000"
-            },
-            {
-              "roll": [
-                "0.11835",
-                "0.14787"
-              ],
-              "unscaledRollValue": [
-                "355050",
-                "443610"
-              ],
-              "stat": {
-                "unitStatId": 5,
-                "statValueDecimal": "70000",
-                "unscaledDecimalValue": "700000000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 2,
-              "statRollerBoundsMin": "300000",
-              "statRollerBoundsMax": "600000"
-            },
-            {
-              "roll": [
-                "0.10819",
-                "0.12281",
-                "0.14744"
-              ],
-              "unscaledRollValue": [
-                "2466732",
-                "2800068",
-                "3361632"
-              ],
-              "stat": {
-                "unitStatId": 41,
-                "statValueDecimal": "870000",
-                "unscaledDecimalValue": "8700000000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 3,
-              "statRollerBoundsMin": "2280000",
-              "statRollerBoundsMax": "4560000"
-            }
-          ],
-          "id": "fgLqdYf0TIyDS-vo8n81VA",
-          "definitionId": "653",
-          "level": 15,
-          "tier": 5,
-          "sellValue": {
-            "currency": 1,
-            "quantity": 97200,
-            "bonusQuantity": 0
-          },
-          "removeCost": {
-            "currency": 1,
-            "quantity": 4750,
-            "bonusQuantity": 0
-          },
-          "locked": false,
-          "primaryStat": {
-            "roll": [],
-            "unscaledRollValue": [],
-            "stat": {
-              "unitStatId": 49,
-              "statValueDecimal": "1175",
-              "unscaledDecimalValue": "11750000",
-              "uiDisplayOverrideValue": "-1",
-              "scalar": "0"
-            },
-            "statRolls": 0,
-            "statRollerBoundsMin": "0",
-            "statRollerBoundsMax": "0"
-          },
-          "xp": 486000,
-          "levelCost": {
-            "currency": 1,
-            "quantity": 0,
-            "bonusQuantity": 0
-          },
-          "bonusQuantity": 0,
-          "convertedItem": null,
-          "rerolledCount": 0
-        },
-        {
-          "secondaryStat": [
-            {
-              "roll": [
                 "0.12055"
               ],
               "unscaledRollValue": [
@@ -124214,7 +124806,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 4557
+      "gp": 4285
     },
     {
       "skill": [
@@ -124665,122 +125257,6 @@
           "bonusQuantity": 0,
           "convertedItem": null,
           "rerolledCount": 0
-        },
-        {
-          "secondaryStat": [
-            {
-              "roll": [
-                "0.19749"
-              ],
-              "unscaledRollValue": [
-                "82017597"
-              ],
-              "stat": {
-                "unitStatId": 28,
-                "statValueDecimal": "8200000",
-                "unscaledDecimalValue": "82000000000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 1,
-              "statRollerBoundsMin": "41530000",
-              "statRollerBoundsMax": "83060000"
-            },
-            {
-              "roll": [
-                "0.14321"
-              ],
-              "unscaledRollValue": [
-                "429630"
-              ],
-              "stat": {
-                "unitStatId": 5,
-                "statValueDecimal": "40000",
-                "unscaledDecimalValue": "400000000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 1,
-              "statRollerBoundsMin": "300000",
-              "statRollerBoundsMax": "600000"
-            },
-            {
-              "roll": [
-                "0.15466",
-                "0.12231"
-              ],
-              "unscaledRollValue": [
-                "1315",
-                "1040"
-              ],
-              "stat": {
-                "unitStatId": 49,
-                "statValueDecimal": "235",
-                "unscaledDecimalValue": "2354000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 2,
-              "statRollerBoundsMin": "850",
-              "statRollerBoundsMax": "1700"
-            },
-            {
-              "roll": [
-                "0.10626"
-              ],
-              "unscaledRollValue": [
-                "1195"
-              ],
-              "stat": {
-                "unitStatId": 18,
-                "statValueDecimal": "119",
-                "unscaledDecimalValue": "1195000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 1,
-              "statRollerBoundsMin": "1125",
-              "statRollerBoundsMax": "2250"
-            }
-          ],
-          "id": "Xn5GUitvQiC-C-lTzrYGRQ",
-          "definitionId": "156",
-          "level": 15,
-          "tier": 2,
-          "sellValue": {
-            "currency": 1,
-            "quantity": 97200,
-            "bonusQuantity": 0
-          },
-          "removeCost": {
-            "currency": 1,
-            "quantity": 4750,
-            "bonusQuantity": 0
-          },
-          "locked": false,
-          "primaryStat": {
-            "roll": [],
-            "unscaledRollValue": [],
-            "stat": {
-              "unitStatId": 55,
-              "statValueDecimal": "588",
-              "unscaledDecimalValue": "5880000",
-              "uiDisplayOverrideValue": "-1",
-              "scalar": "0"
-            },
-            "statRolls": 0,
-            "statRollerBoundsMin": "0",
-            "statRollerBoundsMax": "0"
-          },
-          "xp": 486000,
-          "levelCost": {
-            "currency": 1,
-            "quantity": 0,
-            "bonusQuantity": 0
-          },
-          "bonusQuantity": 0,
-          "convertedItem": null,
-          "rerolledCount": 0
         }
       ],
       "purchasedAbilityId": [],
@@ -124795,7 +125271,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 13371
+      "gp": 13168
     },
     {
       "skill": [
@@ -128361,126 +128837,6 @@
           "secondaryStat": [
             {
               "roll": [
-                "0.17512",
-                "0.11004"
-              ],
-              "unscaledRollValue": [
-                "985",
-                "619"
-              ],
-              "stat": {
-                "unitStatId": 55,
-                "statValueDecimal": "160",
-                "unscaledDecimalValue": "1604000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 2,
-              "statRollerBoundsMin": "563",
-              "statRollerBoundsMax": "1125"
-            },
-            {
-              "roll": [
-                "0.13164",
-                "0.10549"
-              ],
-              "unscaledRollValue": [
-                "394920",
-                "316470"
-              ],
-              "stat": {
-                "unitStatId": 5,
-                "statValueDecimal": "70000",
-                "unscaledDecimalValue": "700000000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 2,
-              "statRollerBoundsMin": "300000",
-              "statRollerBoundsMax": "600000"
-            },
-            {
-              "roll": [
-                "0.14276"
-              ],
-              "unscaledRollValue": [
-                "1606"
-              ],
-              "stat": {
-                "unitStatId": 18,
-                "statValueDecimal": "160",
-                "unscaledDecimalValue": "1606000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 1,
-              "statRollerBoundsMin": "1125",
-              "statRollerBoundsMax": "2250"
-            },
-            {
-              "roll": [
-                "0.12176",
-                "0.11662"
-              ],
-              "unscaledRollValue": [
-                "342",
-                "328"
-              ],
-              "stat": {
-                "unitStatId": 48,
-                "statValueDecimal": "67",
-                "unscaledDecimalValue": "670000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 2,
-              "statRollerBoundsMin": "281",
-              "statRollerBoundsMax": "563"
-            }
-          ],
-          "id": "ZLDPCHWKRDuEi7HdqxymoA",
-          "definitionId": "153",
-          "level": 15,
-          "tier": 4,
-          "sellValue": {
-            "currency": 1,
-            "quantity": 97200,
-            "bonusQuantity": 0
-          },
-          "removeCost": {
-            "currency": 1,
-            "quantity": 4750,
-            "bonusQuantity": 0
-          },
-          "locked": false,
-          "primaryStat": {
-            "roll": [],
-            "unscaledRollValue": [],
-            "stat": {
-              "unitStatId": 49,
-              "statValueDecimal": "1175",
-              "unscaledDecimalValue": "11750000",
-              "uiDisplayOverrideValue": "-1",
-              "scalar": "0"
-            },
-            "statRolls": 0,
-            "statRollerBoundsMin": "0",
-            "statRollerBoundsMax": "0"
-          },
-          "xp": 486000,
-          "levelCost": {
-            "currency": 1,
-            "quantity": 0,
-            "bonusQuantity": 0
-          },
-          "bonusQuantity": 0,
-          "convertedItem": null,
-          "rerolledCount": 0
-        },
-        {
-          "secondaryStat": [
-            {
-              "roll": [
                 "0.14554",
                 "0.14476"
               ],
@@ -128848,7 +129204,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 16270
+      "gp": 16023
     },
     {
       "skill": [
@@ -136989,124 +137345,6 @@
           "secondaryStat": [
             {
               "roll": [
-                "0.11495",
-                "0.13171"
-              ],
-              "unscaledRollValue": [
-                "647",
-                "741"
-              ],
-              "stat": {
-                "unitStatId": 55,
-                "statValueDecimal": "138",
-                "unscaledDecimalValue": "1387000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 2,
-              "statRollerBoundsMin": "563",
-              "statRollerBoundsMax": "1125"
-            },
-            {
-              "roll": [
-                "0.19359"
-              ],
-              "unscaledRollValue": [
-                "2178"
-              ],
-              "stat": {
-                "unitStatId": 18,
-                "statValueDecimal": "217",
-                "unscaledDecimalValue": "2178000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 1,
-              "statRollerBoundsMin": "1125",
-              "statRollerBoundsMax": "2250"
-            },
-            {
-              "roll": [
-                "0.19615"
-              ],
-              "unscaledRollValue": [
-                "2207"
-              ],
-              "stat": {
-                "unitStatId": 56,
-                "statValueDecimal": "220",
-                "unscaledDecimalValue": "2207000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 1,
-              "statRollerBoundsMin": "1125",
-              "statRollerBoundsMax": "2250"
-            },
-            {
-              "roll": [
-                "0.12742",
-                "0.16319"
-              ],
-              "unscaledRollValue": [
-                "52917526",
-                "67772807"
-              ],
-              "stat": {
-                "unitStatId": 28,
-                "statValueDecimal": "12060000",
-                "unscaledDecimalValue": "120600000000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 2,
-              "statRollerBoundsMin": "41530000",
-              "statRollerBoundsMax": "83060000"
-            }
-          ],
-          "id": "xoNgv4j2TkWNiSvl6A4IDA",
-          "definitionId": "652",
-          "level": 15,
-          "tier": 3,
-          "sellValue": {
-            "currency": 1,
-            "quantity": 97200,
-            "bonusQuantity": 0
-          },
-          "removeCost": {
-            "currency": 1,
-            "quantity": 4750,
-            "bonusQuantity": 0
-          },
-          "locked": false,
-          "primaryStat": {
-            "roll": [],
-            "unscaledRollValue": [],
-            "stat": {
-              "unitStatId": 5,
-              "statValueDecimal": "300000",
-              "unscaledDecimalValue": "3000000000",
-              "uiDisplayOverrideValue": "-1",
-              "scalar": "0"
-            },
-            "statRolls": 0,
-            "statRollerBoundsMin": "0",
-            "statRollerBoundsMax": "0"
-          },
-          "xp": 486000,
-          "levelCost": {
-            "currency": 1,
-            "quantity": 0,
-            "bonusQuantity": 0
-          },
-          "bonusQuantity": 0,
-          "convertedItem": null,
-          "rerolledCount": 0
-        },
-        {
-          "secondaryStat": [
-            {
-              "roll": [
                 "0.19682",
                 "0.19747"
               ],
@@ -137220,124 +137458,6 @@
           "bonusQuantity": 0,
           "convertedItem": null,
           "rerolledCount": 0
-        },
-        {
-          "secondaryStat": [
-            {
-              "roll": [
-                "0.16943"
-              ],
-              "unscaledRollValue": [
-                "508290"
-              ],
-              "stat": {
-                "unitStatId": 5,
-                "statValueDecimal": "50000",
-                "unscaledDecimalValue": "500000000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 1,
-              "statRollerBoundsMin": "300000",
-              "statRollerBoundsMax": "600000"
-            },
-            {
-              "roll": [
-                "0.19257"
-              ],
-              "unscaledRollValue": [
-                "943593"
-              ],
-              "stat": {
-                "unitStatId": 42,
-                "statValueDecimal": "90000",
-                "unscaledDecimalValue": "900000000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 1,
-              "statRollerBoundsMin": "490000",
-              "statRollerBoundsMax": "980000"
-            },
-            {
-              "roll": [
-                "0.19301"
-              ],
-              "unscaledRollValue": [
-                "4400628"
-              ],
-              "stat": {
-                "unitStatId": 41,
-                "statValueDecimal": "450000",
-                "unscaledDecimalValue": "4500000000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 1,
-              "statRollerBoundsMin": "2280000",
-              "statRollerBoundsMax": "4560000"
-            },
-            {
-              "roll": [
-                "0.12507",
-                "0.16836",
-                "0.11842"
-              ],
-              "unscaledRollValue": [
-                "1407",
-                "1894",
-                "1332"
-              ],
-              "stat": {
-                "unitStatId": 53,
-                "statValueDecimal": "463",
-                "unscaledDecimalValue": "4633000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 3,
-              "statRollerBoundsMin": "1125",
-              "statRollerBoundsMax": "2250"
-            }
-          ],
-          "id": "8fSHB1QmR-yrz7cB7L0lKw",
-          "definitionId": "155",
-          "level": 15,
-          "tier": 3,
-          "sellValue": {
-            "currency": 1,
-            "quantity": 97200,
-            "bonusQuantity": 0
-          },
-          "removeCost": {
-            "currency": 1,
-            "quantity": 4750,
-            "bonusQuantity": 0
-          },
-          "locked": false,
-          "primaryStat": {
-            "roll": [],
-            "unscaledRollValue": [],
-            "stat": {
-              "unitStatId": 55,
-              "statValueDecimal": "588",
-              "unscaledDecimalValue": "5880000",
-              "uiDisplayOverrideValue": "-1",
-              "scalar": "0"
-            },
-            "statRolls": 0,
-            "statRollerBoundsMin": "0",
-            "statRollerBoundsMax": "0"
-          },
-          "xp": 486000,
-          "levelCost": {
-            "currency": 1,
-            "quantity": 0,
-            "bonusQuantity": 0
-          },
-          "bonusQuantity": 0,
-          "convertedItem": null,
-          "rerolledCount": 0
         }
       ],
       "purchasedAbilityId": [],
@@ -137352,7 +137472,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 10945
+      "gp": 10495
     },
     {
       "skill": [
@@ -143545,7 +143665,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3335204",
+      "value": "3334951",
       "index": 3
     },
     {
@@ -143599,7 +143719,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4423494",
+      "value": "4423928",
       "index": 2
     },
     {
@@ -143641,7 +143761,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7758698",
+      "value": "7758879",
       "index": 1
     },
     {
@@ -146575,7 +146695,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719344079000",
+  "lastActivityTime": "1719345004000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
