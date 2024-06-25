@@ -84291,9 +84291,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 5
+        "currentTier": 6
       },
-      "gp": 25182
+      "gp": 26169
     },
     {
       "skill": [
@@ -108821,7 +108821,7 @@
         },
         {
           "id": "uniqueskill_DARTHMALAK01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "uniqueskill_DARTHMALAK02",
@@ -108860,7 +108860,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 14116
+      "gp": 16522
     },
     {
       "skill": [
@@ -120295,7 +120295,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4878486",
+      "value": "4881879",
       "index": 2
     },
     {
@@ -120337,13 +120337,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8319608",
+      "value": "8323001",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "165242",
+      "value": "165244",
       "index": 7
     },
     {
@@ -121078,7 +121078,7 @@
       "joinTime": "1718662489000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 17909
+      "rank": 17913
     }
   ],
   "datacron": [
@@ -121756,7 +121756,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719315104000",
+  "lastActivityTime": "1719315650000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GRANDARENA_ADVANCED"
   },
