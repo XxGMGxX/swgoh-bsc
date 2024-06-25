@@ -56157,7 +56157,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "43828",
+      "value": "43840",
       "index": 8
     },
     {
@@ -56199,7 +56199,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "150098",
+      "value": "150141",
       "index": 7
     },
     {
@@ -56722,7 +56722,7 @@
       "joinTime": "1718678015000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 10890
+      "rank": 10894
     }
   ],
   "datacron": [
@@ -56763,7 +56763,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719283517000",
+  "lastActivityTime": "1719325870000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDI_GENERAL"
   },
