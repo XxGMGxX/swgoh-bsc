@@ -92206,15 +92206,15 @@
       "id": "Z1s2AvN-Sa2RqxiJGoyDrg",
       "definitionId": "Padawan Obi-Wan",
       "currentRarity": 3,
-      "currentLevel": 75,
-      "currentXp": 473040,
+      "currentLevel": 82,
+      "currentXp": 770040,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 4,
       "relic": {
         "currentTier": 1
       },
-      "gp": 5886
+      "gp": 6388
     },
     {
       "skill": [
@@ -143545,7 +143545,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3330493",
+      "value": "3335204",
       "index": 3
     },
     {
@@ -143599,13 +143599,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4419461",
+      "value": "4423494",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53836",
+      "value": "53837",
       "index": 8
     },
     {
@@ -143641,13 +143641,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7749954",
+      "value": "7758698",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "161966",
+      "value": "161968",
       "index": 7
     },
     {
@@ -146575,7 +146575,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719341905000",
+  "lastActivityTime": "1719342481000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
