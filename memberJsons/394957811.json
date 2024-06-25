@@ -124908,7 +124908,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "117304",
+      "value": "117306",
       "index": 7
     },
     {
@@ -125494,7 +125494,7 @@
       "joinTime": "1718660867000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 10831
+      "rank": 10833
     }
   ],
   "datacron": [
@@ -125535,7 +125535,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719304265000",
+  "lastActivityTime": "1719304533000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SITHTROOPER"
   },
