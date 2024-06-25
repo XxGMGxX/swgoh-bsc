@@ -83297,8 +83297,16 @@
       ],
       "equipment": [
         {
-          "equipmentId": "100",
+          "equipmentId": "113",
+          "slot": 0
+        },
+        {
+          "equipmentId": "113",
           "slot": 2
+        },
+        {
+          "equipmentId": "139",
+          "slot": 3
         }
       ],
       "equippedStatModOld": [],
@@ -83367,19 +83375,21 @@
             },
             {
               "roll": [
-                "0.17296"
+                "0.17296",
+                "0.11173"
               ],
               "unscaledRollValue": [
-                "1946"
+                "1946",
+                "1257"
               ],
               "stat": {
                 "unitStatId": 53,
-                "statValueDecimal": "194",
-                "unscaledDecimalValue": "1946000",
+                "statValueDecimal": "320",
+                "unscaledDecimalValue": "3203000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 1,
+              "statRolls": 2,
               "statRollerBoundsMin": "1125",
               "statRollerBoundsMax": "2250"
             }
@@ -83387,7 +83397,7 @@
           "id": "EZY2gXh6SHeCclZbzuvEfA",
           "definitionId": "151",
           "level": 15,
-          "tier": 4,
+          "tier": 5,
           "sellValue": {
             "currency": 1,
             "quantity": 97200,
@@ -83398,7 +83408,7 @@
             "quantity": 4750,
             "bonusQuantity": 0
           },
-          "locked": false,
+          "locked": true,
           "primaryStat": {
             "roll": [],
             "unscaledRollValue": [],
@@ -84026,11 +84036,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 10,
+      "currentTier": 11,
       "relic": {
         "currentTier": 1
       },
-      "gp": 17565
+      "gp": 19068
     },
     {
       "skill": [
@@ -129481,13 +129491,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4452412",
+      "value": "4453915",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "48213",
+      "value": "48221",
       "index": 8
     },
     {
@@ -129523,13 +129533,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7689999",
+      "value": "7691502",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "133625",
+      "value": "133640",
       "index": 7
     },
     {
@@ -130220,7 +130230,7 @@
       "joinTime": "1718658068000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 7676
+      "rank": 7674
     }
   ],
   "datacron": [
@@ -130651,7 +130661,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719274890000",
+  "lastActivityTime": "1719275324000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
