@@ -129497,7 +129497,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "10923",
+      "value": "10935",
       "index": 9
     },
     {
@@ -129527,7 +129527,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "48229",
+      "value": "48239",
       "index": 8
     },
     {
@@ -129569,7 +129569,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "133658",
+      "value": "133678",
       "index": 7
     },
     {
@@ -130260,7 +130260,7 @@
       "joinTime": "1718658068000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 7514
+      "rank": 7509
     }
   ],
   "datacron": [
@@ -130691,7 +130691,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719346721000",
+  "lastActivityTime": "1719349278000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
