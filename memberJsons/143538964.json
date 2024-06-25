@@ -155,6 +155,128 @@
           "secondaryStat": [
             {
               "roll": [
+                "0.16221"
+              ],
+              "unscaledRollValue": [
+                "3698388"
+              ],
+              "stat": {
+                "unitStatId": 41,
+                "statValueDecimal": "370000",
+                "unscaledDecimalValue": "3700000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 1,
+              "statRollerBoundsMin": "2280000",
+              "statRollerBoundsMax": "4560000"
+            },
+            {
+              "roll": [
+                "0.11043"
+              ],
+              "unscaledRollValue": [
+                "1242"
+              ],
+              "stat": {
+                "unitStatId": 17,
+                "statValueDecimal": "124",
+                "unscaledDecimalValue": "1242000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 1,
+              "statRollerBoundsMin": "1125",
+              "statRollerBoundsMax": "2250"
+            },
+            {
+              "roll": [
+                "0.13509",
+                "0.15194",
+                "0.10456"
+              ],
+              "unscaledRollValue": [
+                "1520",
+                "1709",
+                "1176"
+              ],
+              "stat": {
+                "unitStatId": 56,
+                "statValueDecimal": "440",
+                "unscaledDecimalValue": "4405000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 3,
+              "statRollerBoundsMin": "1125",
+              "statRollerBoundsMax": "2250"
+            },
+            {
+              "roll": [
+                "0.15475",
+                "0.11939",
+                "0.10752"
+              ],
+              "unscaledRollValue": [
+                "1741",
+                "1343",
+                "1210"
+              ],
+              "stat": {
+                "unitStatId": 18,
+                "statValueDecimal": "429",
+                "unscaledDecimalValue": "4294000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 3,
+              "statRollerBoundsMin": "1125",
+              "statRollerBoundsMax": "2250"
+            }
+          ],
+          "id": "VE6OAaZSTAG1IMCtf3iZzQ",
+          "definitionId": "252",
+          "level": 15,
+          "tier": 5,
+          "sellValue": {
+            "currency": 1,
+            "quantity": 97200,
+            "bonusQuantity": 0
+          },
+          "removeCost": {
+            "currency": 1,
+            "quantity": 4750,
+            "bonusQuantity": 0
+          },
+          "locked": false,
+          "primaryStat": {
+            "roll": [],
+            "unscaledRollValue": [],
+            "stat": {
+              "unitStatId": 5,
+              "statValueDecimal": "300000",
+              "unscaledDecimalValue": "3000000000",
+              "uiDisplayOverrideValue": "-1",
+              "scalar": "0"
+            },
+            "statRolls": 0,
+            "statRollerBoundsMin": "0",
+            "statRollerBoundsMax": "0"
+          },
+          "xp": 486000,
+          "levelCost": {
+            "currency": 1,
+            "quantity": 0,
+            "bonusQuantity": 0
+          },
+          "bonusQuantity": 0,
+          "convertedItem": null,
+          "rerolledCount": 0
+        },
+        {
+          "secondaryStat": [
+            {
+              "roll": [
                 "0.13781",
                 "0.19885"
               ],
@@ -636,7 +758,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 15316
+      "gp": 15588
     },
     {
       "skill": [
@@ -93256,7 +93378,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2860967",
+      "value": "2861239",
       "index": 2
     },
     {
@@ -93298,7 +93420,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5022293",
+      "value": "5022565",
       "index": 1
     },
     {
@@ -93866,7 +93988,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 4484
+      "rank": 4483
     }
   ],
   "datacron": [
@@ -94774,7 +94896,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719347450000",
+  "lastActivityTime": "1719348076000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
