@@ -29241,9 +29241,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 3
+        "currentTier": 4
       },
-      "gp": 24847
+      "gp": 25683
     },
     {
       "skill": [
@@ -111076,7 +111076,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 61803
+      "gp": 63684
     },
     {
       "skill": [
@@ -141184,7 +141184,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2405840",
+      "value": "2407721",
       "index": 3
     },
     {
@@ -141238,13 +141238,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4041181",
+      "value": "4042017",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53629",
+      "value": "53641",
       "index": 8
     },
     {
@@ -141280,13 +141280,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6447021",
+      "value": "6449738",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "251593",
+      "value": "251739",
       "index": 7
     },
     {
@@ -141920,7 +141920,7 @@
       "joinTime": "1718673487000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 1743
+      "rank": 1745
     }
   ],
   "datacron": [
@@ -141961,7 +141961,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719321657000",
+  "lastActivityTime": "1719322055000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDIKNIGHTLUKE"
   },
