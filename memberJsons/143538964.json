@@ -78079,7 +78079,7 @@
       "purchasedAbilityId": [],
       "id": "PymTlJZnQPuh1tS1shRN3Q",
       "definitionId": "Death Trooper",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -78088,7 +78088,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 9955
+      "gp": 11095
     },
     {
       "skill": [
@@ -93422,7 +93422,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2861631",
+      "value": "2862793",
       "index": 2
     },
     {
@@ -93464,7 +93464,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5022957",
+      "value": "5024119",
       "index": 1
     },
     {
@@ -94032,7 +94032,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 4483
+      "rank": 4486
     }
   ],
   "datacron": [
@@ -94940,7 +94940,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719351075000",
+  "lastActivityTime": "1719351630000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
