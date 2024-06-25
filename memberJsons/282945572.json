@@ -91454,6 +91454,10 @@
         {
           "id": "specialskill_PADAWANOBIWAN02",
           "tier": 5
+        },
+        {
+          "id": "uniqueskill_PADAWANOBIWAN01",
+          "tier": 4
         }
       ],
       "equipment": [],
@@ -92186,11 +92190,11 @@
       "currentXp": 254040,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 2,
+      "currentTier": 4,
       "relic": {
         "currentTier": 1
       },
-      "gp": 4326
+      "gp": 5173
     },
     {
       "skill": [
@@ -143588,13 +143592,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4364301",
+      "value": "4365148",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53816",
+      "value": "53827",
       "index": 8
     },
     {
@@ -143630,13 +143634,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7694794",
+      "value": "7695641",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "161895",
+      "value": "161927",
       "index": 7
     },
     {
@@ -144341,7 +144345,7 @@
       "joinTime": "1718658633000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 554
+      "rank": 556
     }
   ],
   "datacron": [
@@ -146335,6 +146339,16 @@
           "requiredUnitTier": 0,
           "requiredRelicTier": 5,
           "scopeIcon": ""
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 52,
+          "statValue": "29064026",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": ""
         }
       ],
       "rerollOption": [],
@@ -146554,7 +146568,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719318104000",
+  "lastActivityTime": "1719318674000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
