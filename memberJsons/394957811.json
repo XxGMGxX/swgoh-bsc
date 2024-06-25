@@ -124848,7 +124848,7 @@
     {
       "nameKey": "STAT_GUILD_RAID_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "811",
+      "value": "812",
       "index": 10
     },
     {
@@ -124878,7 +124878,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1440270",
+      "value": "1440518",
       "index": 11
     },
     {
@@ -125490,11 +125490,11 @@
       "wins": 0,
       "losses": 0,
       "seasonPoints": 1901,
-      "division": 15,
+      "division": 20,
       "joinTime": "1718660867000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 5811
+      "rank": 10831
     }
   ],
   "datacron": [
@@ -125535,7 +125535,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719184966000",
+  "lastActivityTime": "1719304265000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SITHTROOPER"
   },
