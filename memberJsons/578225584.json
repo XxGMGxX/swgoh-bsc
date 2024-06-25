@@ -9737,42 +9737,29 @@
         },
         {
           "id": "uniqueskill_MERRIN01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "uniqueskill_MERRIN02",
           "tier": 5
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "091",
-          "slot": 1
-        },
-        {
-          "equipmentId": "096",
-          "slot": 2
-        },
-        {
-          "equipmentId": "111",
-          "slot": 4
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
       "id": "9zapaTSkSM2Uhkw0i2Vy-Q",
       "definitionId": "Merrin",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 9,
+      "currentTier": 11,
       "relic": {
         "currentTier": 1
       },
-      "gp": 9790
+      "gp": 12420
     },
     {
       "skill": [
@@ -10307,7 +10294,7 @@
         },
         {
           "id": "basicskill_NIGHTSISTERZOMBIE",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "uniqueskill_NIGHTSISTERZOMBIE02",
@@ -10614,7 +10601,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 15822
+      "gp": 16032
     },
     {
       "skill": [
@@ -22554,7 +22541,7 @@
       "purchasedAbilityId": [],
       "id": "VExSNKTvSM6HcxmwZy0grA",
       "definitionId": "Captain Rex",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -22563,7 +22550,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 16884
+      "gp": 18024
     },
     {
       "skill": [
@@ -56164,7 +56151,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3757333",
+      "value": "3761313",
       "index": 2
     },
     {
@@ -56206,7 +56193,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6449280",
+      "value": "6453260",
       "index": 1
     },
     {
@@ -56735,7 +56722,7 @@
       "joinTime": "1718678015000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 10892
+      "rank": 10896
     }
   ],
   "datacron": [
@@ -56776,7 +56763,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719283294000",
+  "lastActivityTime": "1719283517000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDI_GENERAL"
   },
