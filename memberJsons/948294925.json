@@ -23777,6 +23777,10 @@
         {
           "equipmentId": "117",
           "slot": 2
+        },
+        {
+          "equipmentId": "143",
+          "slot": 5
         }
       ],
       "equippedStatModOld": [],
@@ -24514,7 +24518,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 15372
+      "gp": 15549
     },
     {
       "skill": [
@@ -45518,8 +45522,20 @@
       ],
       "equipment": [
         {
+          "equipmentId": "143",
+          "slot": 0
+        },
+        {
+          "equipmentId": "130",
+          "slot": 1
+        },
+        {
           "equipmentId": "129",
           "slot": 2
+        },
+        {
+          "equipmentId": "136",
+          "slot": 3
         }
       ],
       "equippedStatModOld": [],
@@ -46119,7 +46135,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 15262
+      "gp": 15793
     },
     {
       "skill": [
@@ -129505,13 +129521,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4455410",
+      "value": "4456118",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "48223",
+      "value": "48229",
       "index": 8
     },
     {
@@ -129547,13 +129563,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7693072",
+      "value": "7693780",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "133646",
+      "value": "133658",
       "index": 7
     },
     {
@@ -130244,7 +130260,7 @@
       "joinTime": "1718658068000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 7617
+      "rank": 7610
     }
   ],
   "datacron": [
@@ -130675,7 +130691,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719288088000",
+  "lastActivityTime": "1719288303000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
