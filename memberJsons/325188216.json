@@ -20363,19 +20363,19 @@
         },
         {
           "id": "basicskill_CAPITALRADDUS",
-          "tier": 4
+          "tier": 5
         },
         {
           "id": "specialskill_CAPITALRADDUS01",
-          "tier": 4
+          "tier": 5
         },
         {
           "id": "specialskill_CAPITALRADDUS02",
-          "tier": 4
+          "tier": 5
         },
         {
           "id": "specialskill_CAPITALRADDUS03",
-          "tier": 4
+          "tier": 5
         }
       ],
       "equipment": [],
@@ -20384,14 +20384,14 @@
       "purchasedAbilityId": [],
       "id": "D0FxYwulR_C2tNFfs2czkw",
       "definitionId": "Raddus",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 1746400,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 47298
+      "gp": 51442
     },
     {
       "skill": [],
@@ -70593,14 +70593,14 @@
       "purchasedAbilityId": [],
       "id": "lCm8bboiQkCH3YmIbFC77A",
       "definitionId": "Jedi Consular's Starfighter",
-      "currentRarity": 4,
+      "currentRarity": 5,
       "currentLevel": 60,
       "currentXp": 97200,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 10868
+      "gp": 11748
     },
     {
       "skill": [
@@ -73415,7 +73415,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2788565",
+      "value": "2793589",
       "index": 3
     },
     {
@@ -73511,13 +73511,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6394834",
+      "value": "6399858",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "82507",
+      "value": "82513",
       "index": 7
     },
     {
@@ -74159,7 +74159,7 @@
       "joinTime": "1718705959000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 3023
+      "rank": 3025
     }
   ],
   "datacron": [
@@ -74396,7 +74396,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719273301000",
+  "lastActivityTime": "1719313311000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDIKNIGHTLUKE"
   },
