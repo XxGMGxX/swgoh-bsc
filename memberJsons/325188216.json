@@ -34776,11 +34776,11 @@
         },
         {
           "id": "uniqueskill_OUTRIDER01",
-          "tier": 4
+          "tier": 5
         },
         {
           "id": "specialskill_OUTRIDER01",
-          "tier": 4
+          "tier": 5
         },
         {
           "id": "basicskill_OUTRIDER",
@@ -34788,7 +34788,7 @@
         },
         {
           "id": "specialskill_OUTRIDER02",
-          "tier": 4
+          "tier": 6
         }
       ],
       "equipment": [],
@@ -34804,7 +34804,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 46313
+      "gp": 47054
     },
     {
       "skill": [
@@ -73415,7 +73415,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2793589",
+      "value": "2794330",
       "index": 3
     },
     {
@@ -73475,7 +73475,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "26632",
+      "value": "26647",
       "index": 8
     },
     {
@@ -73511,13 +73511,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6399858",
+      "value": "6400599",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "82513",
+      "value": "82528",
       "index": 7
     },
     {
@@ -74159,7 +74159,7 @@
       "joinTime": "1718705959000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 3025
+      "rank": 3021
     }
   ],
   "datacron": [
@@ -74396,7 +74396,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719313311000",
+  "lastActivityTime": "1719313378000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDIKNIGHTLUKE"
   },
