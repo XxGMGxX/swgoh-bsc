@@ -84291,9 +84291,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 4
+        "currentTier": 5
       },
-      "gp": 24271
+      "gp": 25182
     },
     {
       "skill": [
@@ -108825,29 +108825,25 @@
         },
         {
           "id": "uniqueskill_DARTHMALAK02",
-          "tier": 5
+          "tier": 6
         }
       ],
       "equipment": [
         {
-          "equipmentId": "100",
+          "equipmentId": "114",
           "slot": 0
         },
         {
-          "equipmentId": "172",
+          "equipmentId": "144",
           "slot": 1
         },
         {
-          "equipmentId": "111",
+          "equipmentId": "117",
+          "slot": 2
+        },
+        {
+          "equipmentId": "129",
           "slot": 3
-        },
-        {
-          "equipmentId": "125",
-          "slot": 4
-        },
-        {
-          "equipmentId": "121",
-          "slot": 5
         }
       ],
       "equippedStatModOld": [],
@@ -108860,11 +108856,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 9,
+      "currentTier": 10,
       "relic": {
         "currentTier": 1
       },
-      "gp": 10860
+      "gp": 14116
     },
     {
       "skill": [
@@ -120299,7 +120295,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4874319",
+      "value": "4878486",
       "index": 2
     },
     {
@@ -120341,13 +120337,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8315441",
+      "value": "8319608",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "165229",
+      "value": "165242",
       "index": 7
     },
     {
@@ -121082,7 +121078,7 @@
       "joinTime": "1718662489000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 17921
+      "rank": 17909
     }
   ],
   "datacron": [
@@ -121760,7 +121756,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719286446000",
+  "lastActivityTime": "1719315104000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GRANDARENA_ADVANCED"
   },
