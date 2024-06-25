@@ -143143,7 +143143,7 @@
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1253",
+      "value": "1254",
       "index": 6
     },
     {
@@ -143233,7 +143233,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "198406",
+      "value": "198408",
       "index": 7
     },
     {
@@ -143252,7 +143252,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 272,
+      "rank": 258,
       "squad": {
         "cell": [
           {
@@ -143330,7 +143330,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719271359000",
+        "lastSaveTime": "1719345882000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -143975,7 +143975,7 @@
       "joinTime": "1718658141000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 12322
+      "rank": 12319
     }
   ],
   "datacron": [
@@ -144667,7 +144667,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719344411000",
+  "lastActivityTime": "1719346294000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_NIGHTSISTERS_VENTRESS"
   },
