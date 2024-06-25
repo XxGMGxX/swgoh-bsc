@@ -56722,7 +56722,7 @@
       "joinTime": "1718678015000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 10894
+      "rank": 10897
     }
   ],
   "datacron": [
@@ -56763,7 +56763,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719325870000",
+  "lastActivityTime": "1719325983000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDI_GENERAL"
   },
