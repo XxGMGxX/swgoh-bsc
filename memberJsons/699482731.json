@@ -3244,7 +3244,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 25164
+      "gp": 26019
     },
     {
       "skill": [
@@ -11039,15 +11039,15 @@
       "id": "hV4kSWRfSfaO87H2ijyTSA",
       "definitionId": "50R-T",
       "currentRarity": 5,
-      "currentLevel": 69,
-      "currentXp": 317040,
+      "currentLevel": 85,
+      "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 8,
       "relic": {
         "currentTier": 1
       },
-      "gp": 7519
+      "gp": 8611
     },
     {
       "skill": [
@@ -11074,7 +11074,7 @@
       "purchasedAbilityId": [],
       "id": "1_YfOEUxRRubUbaYE2xb-A",
       "definitionId": "Hunter",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -11083,7 +11083,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 8943
+      "gp": 10083
     },
     {
       "skill": [
@@ -63161,7 +63161,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 28606
+      "gp": 34264
     },
     {
       "skill": [
@@ -120181,19 +120181,19 @@
       "skill": [
         {
           "id": "basicskill_BISTAN",
-          "tier": 2
+          "tier": 6
         },
         {
           "id": "specialskill_BISTAN01",
-          "tier": 2
+          "tier": 6
         },
         {
           "id": "specialskill_BISTAN02",
-          "tier": 2
+          "tier": 6
         },
         {
           "id": "uniqueskill_BISTAN01",
-          "tier": 1
+          "tier": 5
         }
       ],
       "equipment": [
@@ -120212,6 +120212,10 @@
         {
           "equipmentId": "078",
           "slot": 3
+        },
+        {
+          "equipmentId": "079",
+          "slot": 4
         }
       ],
       "equippedStatModOld": [],
@@ -120220,15 +120224,15 @@
       "id": "m1g5JDUKSFCDiCKMEjocOQ",
       "definitionId": "Bistan",
       "currentRarity": 7,
-      "currentLevel": 40,
-      "currentXp": 21000,
+      "currentLevel": 85,
+      "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 5,
       "relic": {
         "currentTier": 1
       },
-      "gp": 6543
+      "gp": 10734
     }
   ],
   "profileStat": [
@@ -120241,7 +120245,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3441122",
+      "value": "3447635",
       "index": 3
     },
     {
@@ -120295,7 +120299,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4881879",
+      "value": "4888302",
       "index": 2
     },
     {
@@ -120337,13 +120341,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8323001",
+      "value": "8335937",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "165289",
+      "value": "165291",
       "index": 7
     },
     {
@@ -121078,7 +121082,7 @@
       "joinTime": "1718662489000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 17918
+      "rank": 17914
     }
   ],
   "datacron": [
@@ -121756,7 +121760,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719331899000",
+  "lastActivityTime": "1719332455000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GRANDARENA_ADVANCED"
   },
