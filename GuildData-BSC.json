@@ -597,7 +597,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719288636000",
+        "lastActivityTime": "1719292419000",
         "squadPower": 169402,
         "guildJoinTime": "1652378146",
         "galacticPower": "8290989",
@@ -2269,7 +2269,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719292289000",
+        "lastActivityTime": "1719292852000",
         "squadPower": 186754,
         "guildJoinTime": "1653076184",
         "galacticPower": "7897873",
@@ -3653,8 +3653,8 @@
         "memberContribution": [
           {
             "type": 2,
-            "currentValue": "406",
-            "lifetimeValue": "27180"
+            "currentValue": "534",
+            "lifetimeValue": "27308"
           },
           {
             "type": 3,
@@ -3713,8 +3713,8 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719292279000",
-        "squadPower": 157174,
+        "lastActivityTime": "1719292901000",
+        "squadPower": 157224,
         "guildJoinTime": "1715387579",
         "galacticPower": "5022083",
         "playerTitle": "PLAYERTITLE_GLKYLOREN_EVENT",
@@ -3789,7 +3789,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719292293000",
+        "lastActivityTime": "1719292883000",
         "squadPower": 182020,
         "guildJoinTime": "1718818390",
         "galacticPower": "7246915",
@@ -5238,10 +5238,10 @@
       "leaderboardScore": "0",
       "bannerColorId": "red_white",
       "bannerLogoId": "guild_icon_Rebel",
-      "guildGalacticPower": "372699323",
+      "guildGalacticPower": "372703885",
       "chatChannelId": "guild-{8qYzrHcISr-VJgiyDdMldw}",
       "guildType": "",
-      "guildGalacticPowerForRequirement": "372699323",
+      "guildGalacticPowerForRequirement": "372703885",
       "singleLaunchConfig": {
         "raidId": "speederbike",
         "campaignMissionIdentifier": {
