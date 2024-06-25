@@ -46179,19 +46179,21 @@
             },
             {
               "roll": [
-                "0.15271"
+                "0.15271",
+                "0.18673"
               ],
               "unscaledRollValue": [
-                "1718"
+                "1718",
+                "2101"
               ],
               "stat": {
                 "unitStatId": 56,
-                "statValueDecimal": "171",
-                "unscaledDecimalValue": "1718000",
+                "statValueDecimal": "381",
+                "unscaledDecimalValue": "3819000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 1,
+              "statRolls": 2,
               "statRollerBoundsMin": "1125",
               "statRollerBoundsMax": "2250"
             },
@@ -46237,7 +46239,7 @@
           "id": "3xMR0K4aR9OuMRuAe2FHQQ",
           "definitionId": "753",
           "level": 15,
-          "tier": 2,
+          "tier": 3,
           "sellValue": {
             "currency": 1,
             "quantity": 97200,
@@ -46640,7 +46642,7 @@
       "relic": {
         "currentTier": 7
       },
-      "gp": 22899
+      "gp": 22921
     },
     {
       "skill": [
@@ -94030,7 +94032,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 4479
+      "rank": 4483
     }
   ],
   "datacron": [
@@ -94938,7 +94940,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719350287000",
+  "lastActivityTime": "1719351075000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
