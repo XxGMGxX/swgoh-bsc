@@ -770,8 +770,8 @@
           },
           {
             "type": 2,
-            "currentValue": "12",
-            "lifetimeValue": "429998"
+            "currentValue": "428",
+            "lifetimeValue": "430414"
           },
           {
             "type": 3,
@@ -825,16 +825,16 @@
         "playerLevel": 85,
         "memberLevel": 3,
         "guildXp": 0,
-        "lastActivityTime": "1719357108000",
+        "lastActivityTime": "1719357292000",
         "squadPower": 167460,
         "guildJoinTime": "1652388658",
-        "galacticPower": "6643046",
+        "galacticPower": "6643188",
         "playerTitle": "PLAYERTITLE_LOYAL_FRIEND",
         "playerPortrait": "PLAYERPORTRAIT_GIFT_02",
         "lifetimeSeasonScore": "0",
         "leagueId": "KYBER",
         "shipGalacticPower": "2447042",
-        "characterGalacticPower": "4196004",
+        "characterGalacticPower": "4196146",
         "nucleusId": "2257746075"
       },
       {
@@ -2497,16 +2497,16 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719357055000",
+        "lastActivityTime": "1719357692000",
         "squadPower": 176763,
         "guildJoinTime": "1664292655",
-        "galacticPower": "8361952",
+        "galacticPower": "8363745",
         "playerTitle": "",
         "playerPortrait": "PLAYERPORTRAIT_THECHOSENONE",
         "lifetimeSeasonScore": "95268",
         "leagueId": "AURODIUM",
-        "shipGalacticPower": "3461843",
-        "characterGalacticPower": "4900109",
+        "shipGalacticPower": "3462127",
+        "characterGalacticPower": "4901618",
         "nucleusId": "1015394781436"
       },
       {
@@ -3713,7 +3713,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719357109000",
+        "lastActivityTime": "1719357714000",
         "squadPower": 157224,
         "guildJoinTime": "1715387579",
         "galacticPower": "5024119",
@@ -5238,10 +5238,10 @@
       "leaderboardScore": "0",
       "bannerColorId": "red_white",
       "bannerLogoId": "guild_icon_Rebel",
-      "guildGalacticPower": "372951448",
+      "guildGalacticPower": "372953242",
       "chatChannelId": "guild-{8qYzrHcISr-VJgiyDdMldw}",
       "guildType": "",
-      "guildGalacticPowerForRequirement": "372951448",
+      "guildGalacticPowerForRequirement": "372953242",
       "singleLaunchConfig": {
         "raidId": "speederbike",
         "campaignMissionIdentifier": {
