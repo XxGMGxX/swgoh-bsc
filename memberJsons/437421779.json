@@ -68729,7 +68729,7 @@
       "purchasedAbilityId": [],
       "id": "gwSmXXh8ToOIgrMwyyuZng",
       "definitionId": "Master Qui-Gon",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -68738,7 +68738,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 16317
+      "gp": 17457
     },
     {
       "skill": [
@@ -78199,13 +78199,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5047097",
+      "value": "5048237",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "48858",
+      "value": "48868",
       "index": 8
     },
     {
@@ -78241,13 +78241,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8622384",
+      "value": "8623524",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "222572",
+      "value": "222587",
       "index": 7
     },
     {
@@ -78936,7 +78936,7 @@
       "joinTime": "1718707712000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 12733
+      "rank": 12726
     }
   ],
   "datacron": [
@@ -79174,7 +79174,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 120,
-  "lastActivityTime": "1719295887000",
+  "lastActivityTime": "1719296295000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_BD1"
   },
