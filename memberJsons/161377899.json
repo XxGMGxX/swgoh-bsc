@@ -137839,7 +137839,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719188215000",
+        "lastSaveTime": "1719278372000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -138521,7 +138521,7 @@
       "joinTime": "1718661267000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 4062
+      "rank": 4054
     }
   ],
   "datacron": [
@@ -140033,7 +140033,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719277265000",
+  "lastActivityTime": "1719278479000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_OURIDENTITY"
   },

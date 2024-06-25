@@ -108503,7 +108503,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2728179",
+      "value": "2728354",
       "index": 3
     },
     {
@@ -108545,7 +108545,7 @@
     {
       "nameKey": "STAT_GUILD_RAID_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "531",
+      "value": "532",
       "index": 10
     },
     {
@@ -108557,7 +108557,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3398209",
+      "value": "3398338",
       "index": 2
     },
     {
@@ -108599,7 +108599,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6126388",
+      "value": "6126692",
       "index": 1
     },
     {
@@ -109185,11 +109185,11 @@
       "wins": 0,
       "losses": 0,
       "seasonPoints": 949,
-      "division": 15,
+      "division": 10,
       "joinTime": "1718660515000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 14795
+      "rank": 14789
     }
   ],
   "datacron": [
@@ -109403,7 +109403,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719251196000",
+  "lastActivityTime": "1719278488000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
