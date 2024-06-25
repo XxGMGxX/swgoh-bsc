@@ -137652,7 +137652,7 @@
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "721",
+      "value": "722",
       "index": 6
     },
     {
@@ -137700,7 +137700,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "65982",
+      "value": "66004",
       "index": 8
     },
     {
@@ -137742,7 +137742,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "231868",
+      "value": "231890",
       "index": 7
     },
     {
@@ -137761,7 +137761,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 313,
+      "rank": 293,
       "squad": {
         "cell": [
           {
@@ -138521,7 +138521,7 @@
       "joinTime": "1718661267000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 4054
+      "rank": 4055
     }
   ],
   "datacron": [
@@ -140033,7 +140033,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719278479000",
+  "lastActivityTime": "1719279046000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_OURIDENTITY"
   },
