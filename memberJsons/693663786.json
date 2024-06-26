@@ -143960,7 +143960,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "117945",
+      "value": "117985",
       "index": 16
     },
     {
@@ -143984,7 +143984,7 @@
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "469",
+      "value": "470",
       "index": 14
     },
     {
@@ -144517,7 +144517,7 @@
       "league": "BRONZIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 74,
+      "seasonPoints": 114,
       "division": 15,
       "joinTime": "1718684290000",
       "endTime": "1720990800000",
@@ -144574,7 +144574,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -480,
-  "lastActivityTime": "1719441097000",
+  "lastActivityTime": "1719441695000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SCOUTTROOPER"
   },
