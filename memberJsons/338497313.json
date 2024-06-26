@@ -24041,7 +24041,7 @@
       "joinTime": "1718662189000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 1198
+      "rank": 1197
     }
   ],
   "datacron": [
@@ -24247,7 +24247,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719363868000",
+  "lastActivityTime": "1719364350000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MANDALORIAN"
   },
