@@ -1403,7 +1403,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 48039
+      "gp": 50086
     },
     {
       "skill": [
@@ -9052,6 +9052,10 @@
           "slot": 2
         },
         {
+          "equipmentId": "125",
+          "slot": 4
+        },
+        {
           "equipmentId": "126",
           "slot": 5
         }
@@ -9213,7 +9217,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 14067
+      "gp": 14209
     },
     {
       "skill": [
@@ -24433,6 +24437,10 @@
           "slot": 1
         },
         {
+          "equipmentId": "120",
+          "slot": 2
+        },
+        {
           "equipmentId": "097",
           "slot": 4
         },
@@ -24455,7 +24463,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 13710
+      "gp": 13852
     },
     {
       "skill": [
@@ -31584,6 +31592,10 @@
           "slot": 3
         },
         {
+          "equipmentId": "130",
+          "slot": 4
+        },
+        {
           "equipmentId": "136",
           "slot": 5
         }
@@ -31602,7 +31614,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 15420
+      "gp": 15597
     },
     {
       "skill": [
@@ -44028,11 +44040,11 @@
         },
         {
           "id": "uniqueskill_WATTAMBOR01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_WATTAMBOR01",
-          "tier": 5
+          "tier": 6
         }
       ],
       "equipment": [
@@ -44071,7 +44083,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 12790
+      "gp": 13210
     },
     {
       "skill": [
@@ -51165,9 +51177,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 4
+        "currentTier": 5
       },
-      "gp": 18102
+      "gp": 19012
     },
     {
       "skill": [
@@ -53852,7 +53864,7 @@
         },
         {
           "id": "basicskill_IG12",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_IG1202",
@@ -53895,7 +53907,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 8397
+      "gp": 8607
     },
     {
       "skill": [
@@ -56097,7 +56109,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2691947",
+      "value": "2693994",
       "index": 3
     },
     {
@@ -56151,7 +56163,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3761313",
+      "value": "3763314",
       "index": 2
     },
     {
@@ -56193,13 +56205,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6453260",
+      "value": "6457308",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "150175",
+      "value": "150180",
       "index": 7
     },
     {
@@ -56722,7 +56734,7 @@
       "joinTime": "1718678015000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 10862
+      "rank": 10856
     }
   ],
   "datacron": [
@@ -56763,7 +56775,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719367258000",
+  "lastActivityTime": "1719367785000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDI_GENERAL"
   },
