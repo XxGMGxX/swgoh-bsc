@@ -91458,28 +91458,7 @@
           "tier": 4
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "049",
-          "slot": 0
-        },
-        {
-          "equipmentId": "051",
-          "slot": 1
-        },
-        {
-          "equipmentId": "069",
-          "slot": 2
-        },
-        {
-          "equipmentId": "060",
-          "slot": 3
-        },
-        {
-          "equipmentId": "028",
-          "slot": 5
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -92204,16 +92183,16 @@
       "purchasedAbilityId": [],
       "id": "Z1s2AvN-Sa2RqxiJGoyDrg",
       "definitionId": "Padawan Obi-Wan",
-      "currentRarity": 3,
+      "currentRarity": 4,
       "currentLevel": 82,
       "currentXp": 770040,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 4,
+      "currentTier": 6,
       "relic": {
         "currentTier": 1
       },
-      "gp": 6388
+      "gp": 7177
     },
     {
       "skill": [
@@ -141324,12 +141303,20 @@
       ],
       "equipment": [
         {
+          "equipmentId": "129",
+          "slot": 0
+        },
+        {
           "equipmentId": "120",
           "slot": 3
         },
         {
           "equipmentId": "135",
           "slot": 4
+        },
+        {
+          "equipmentId": "139",
+          "slot": 5
         }
       ],
       "equippedStatModOld": [],
@@ -142071,7 +142058,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 17800
+      "gp": 18154
     },
     {
       "skill": [],
@@ -143695,7 +143682,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "16269",
+      "value": "16281",
       "index": 9
     },
     {
@@ -143719,13 +143706,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4423928",
+      "value": "4425071",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53839",
+      "value": "53848",
       "index": 8
     },
     {
@@ -143737,7 +143724,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1474764",
+      "value": "1474887",
       "index": 11
     },
     {
@@ -143761,13 +143748,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7758879",
+      "value": "7760022",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "161977",
+      "value": "162007",
       "index": 7
     },
     {
@@ -144472,7 +144459,7 @@
       "joinTime": "1718658633000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 562
+      "rank": 563
     }
   ],
   "datacron": [
@@ -146695,7 +146682,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719349515000",
+  "lastActivityTime": "1719381654000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
