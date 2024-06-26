@@ -93489,7 +93489,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 27,
+      "rank": 35,
       "squad": {
         "cell": [
           {
@@ -94940,7 +94940,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719406312000",
+  "lastActivityTime": "1719406856000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
