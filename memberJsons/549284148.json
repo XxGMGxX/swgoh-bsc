@@ -89120,7 +89120,7 @@
       "purchasedAbilityId": [],
       "id": "HGUO6myJShWfN448ET08Ag",
       "definitionId": "IG-12 & Grogu",
-      "currentRarity": 6,
+      "currentRarity": 7,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -89129,7 +89129,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 10470
+      "gp": 12465
     },
     {
       "skill": [
@@ -89351,13 +89351,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4659345",
+      "value": "4661340",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "123640",
+      "value": "123647",
       "index": 8
     },
     {
@@ -89393,13 +89393,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7897873",
+      "value": "7899868",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "212498",
+      "value": "212512",
       "index": 7
     },
     {
@@ -90083,7 +90083,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719400193000",
+  "lastActivityTime": "1719409886000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
