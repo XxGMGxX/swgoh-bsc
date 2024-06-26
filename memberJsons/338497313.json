@@ -23431,7 +23431,7 @@
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "203",
+      "value": "204",
       "index": 6
     },
     {
@@ -23479,7 +23479,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "22441",
+      "value": "22451",
       "index": 8
     },
     {
@@ -23521,7 +23521,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "109617",
+      "value": "109640",
       "index": 7
     },
     {
@@ -23540,7 +23540,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 652,
+      "rank": 552,
       "squad": {
         "cell": [
           {
@@ -24247,7 +24247,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719369830000",
+  "lastActivityTime": "1719410486000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MANDALORIAN"
   },
