@@ -3587,8 +3587,8 @@
           },
           {
             "type": 2,
-            "currentValue": "160",
-            "lifetimeValue": "36078"
+            "currentValue": "600",
+            "lifetimeValue": "36518"
           }
         ],
         "seasonStatus": [
@@ -3637,7 +3637,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719384101000",
+        "lastActivityTime": "1719384362000",
         "squadPower": 180100,
         "guildJoinTime": "1712604515",
         "galacticPower": "8813391",
@@ -3713,7 +3713,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719384076000",
+        "lastActivityTime": "1719384681000",
         "squadPower": 157224,
         "guildJoinTime": "1715387579",
         "galacticPower": "5024119",
@@ -5238,10 +5238,10 @@
       "leaderboardScore": "0",
       "bannerColorId": "red_white",
       "bannerLogoId": "guild_icon_Rebel",
-      "guildGalacticPower": "372990561",
+      "guildGalacticPower": "372990563",
       "chatChannelId": "guild-{8qYzrHcISr-VJgiyDdMldw}",
       "guildType": "",
-      "guildGalacticPowerForRequirement": "372990561",
+      "guildGalacticPowerForRequirement": "372990563",
       "singleLaunchConfig": {
         "raidId": "speederbike",
         "campaignMissionIdentifier": {
