@@ -91447,7 +91447,7 @@
         },
         {
           "id": "specialskill_PADAWANOBIWAN01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_PADAWANOBIWAN02",
@@ -91458,7 +91458,24 @@
           "tier": 4
         }
       ],
-      "equipment": [],
+      "equipment": [
+        {
+          "equipmentId": "060",
+          "slot": 0
+        },
+        {
+          "equipmentId": "069",
+          "slot": 1
+        },
+        {
+          "equipmentId": "099",
+          "slot": 4
+        },
+        {
+          "equipmentId": "110",
+          "slot": 5
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -92188,11 +92205,11 @@
       "currentXp": 770040,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 6,
+      "currentTier": 7,
       "relic": {
         "currentTier": 1
       },
-      "gp": 7177
+      "gp": 8341
     },
     {
       "skill": [
@@ -143706,7 +143723,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4425071",
+      "value": "4426235",
       "index": 2
     },
     {
@@ -143748,13 +143765,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7760022",
+      "value": "7761186",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "162007",
+      "value": "162031",
       "index": 7
     },
     {
@@ -146682,7 +146699,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719382243000",
+  "lastActivityTime": "1719382453000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
