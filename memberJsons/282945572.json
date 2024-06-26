@@ -143683,7 +143683,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3334989",
+      "value": "3335458",
       "index": 3
     },
     {
@@ -143737,7 +143737,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4426274",
+      "value": "4426402",
       "index": 2
     },
     {
@@ -143779,13 +143779,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7761263",
+      "value": "7761860",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "162059",
+      "value": "162060",
       "index": 7
     },
     {
@@ -144490,7 +144490,7 @@
       "joinTime": "1718658633000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 564
+      "rank": 565
     }
   ],
   "datacron": [
@@ -146713,7 +146713,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719405349000",
+  "lastActivityTime": "1719414684000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
