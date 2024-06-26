@@ -143946,7 +143946,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1270532",
+      "value": "1270659",
       "index": 11
     },
     {
@@ -144520,7 +144520,7 @@
       "joinTime": "1718684290000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 13465
+      "rank": 13462
     }
   ],
   "datacron": [
@@ -144572,7 +144572,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -480,
-  "lastActivityTime": "1719334299000",
+  "lastActivityTime": "1719420643000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SCOUTTROOPER"
   },
