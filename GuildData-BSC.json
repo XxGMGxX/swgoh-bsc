@@ -157,8 +157,8 @@
         "memberContribution": [
           {
             "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "572672"
+            "currentValue": "114",
+            "lifetimeValue": "572786"
           },
           {
             "type": 3,
@@ -167,8 +167,8 @@
           },
           {
             "type": 2,
-            "currentValue": "0",
-            "lifetimeValue": "443730"
+            "currentValue": "260",
+            "lifetimeValue": "443990"
           }
         ],
         "seasonStatus": [
@@ -217,7 +217,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719347295000",
+        "lastActivityTime": "1719400540000",
         "squadPower": 185404,
         "guildJoinTime": "1652378139",
         "galacticPower": "8625786",
