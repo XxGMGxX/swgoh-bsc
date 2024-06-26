@@ -23779,6 +23779,10 @@
           "slot": 2
         },
         {
+          "equipmentId": "117",
+          "slot": 3
+        },
+        {
           "equipmentId": "143",
           "slot": 5
         }
@@ -24518,7 +24522,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 15549
+      "gp": 15726
     },
     {
       "skill": [
@@ -53816,12 +53820,20 @@
       ],
       "equipment": [
         {
+          "equipmentId": "079",
+          "slot": 0
+        },
+        {
           "equipmentId": "108",
           "slot": 1
         },
         {
           "equipmentId": "096",
           "slot": 2
+        },
+        {
+          "equipmentId": "109",
+          "slot": 3
         },
         {
           "equipmentId": "111",
@@ -54555,7 +54567,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 14080
+      "gp": 14365
     },
     {
       "skill": [
@@ -129500,13 +129512,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4458833",
+      "value": "4459295",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "48289",
+      "value": "48310",
       "index": 8
     },
     {
@@ -129542,13 +129554,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7696495",
+      "value": "7696957",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "133740",
+      "value": "133790",
       "index": 7
     },
     {
@@ -129645,7 +129657,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719258980000",
+        "lastSaveTime": "1719370085000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -130239,7 +130251,7 @@
       "joinTime": "1718658068000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 7470
+      "rank": 7472
     }
   ],
   "datacron": [
@@ -130670,7 +130682,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719369704000",
+  "lastActivityTime": "1719370260000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
