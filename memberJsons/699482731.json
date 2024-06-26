@@ -120448,7 +120448,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719282637000",
+        "lastSaveTime": "1719360965000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -121764,7 +121764,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719352872000",
+  "lastActivityTime": "1719361236000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GRANDARENA_ADVANCED"
   },
