@@ -108429,6 +108429,25 @@
       "gp": 10674
     },
     {
+      "skill": [],
+      "equipment": [],
+      "equippedStatModOld": [],
+      "equippedStatMod": [],
+      "purchasedAbilityId": [],
+      "id": "XoTmmncmQeqUFOKU7LUMaQ",
+      "definitionId": "Master Qui-Gon",
+      "currentRarity": 3,
+      "currentLevel": 85,
+      "currentXp": 883025,
+      "promotionRecipeReference": "",
+      "unitStat": null,
+      "currentTier": 1,
+      "relic": {
+        "currentTier": 1
+      },
+      "gp": 2650
+    },
+    {
       "skill": [
         {
           "id": "specialskill_JYNERSO02",
@@ -124860,13 +124879,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4386833",
+      "value": "4389483",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "42554",
+      "value": "42569",
       "index": 8
     },
     {
@@ -124902,13 +124921,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7181226",
+      "value": "7183876",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "117306",
+      "value": "117332",
       "index": 7
     },
     {
@@ -125494,7 +125513,7 @@
       "joinTime": "1718660867000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 10819
+      "rank": 10818
     }
   ],
   "datacron": [
@@ -125535,7 +125554,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719304533000",
+  "lastActivityTime": "1719369694000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SITHTROOPER"
   },
