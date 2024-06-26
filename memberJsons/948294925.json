@@ -14239,6 +14239,10 @@
         {
           "id": "specialskill_KRRSANTAN01",
           "tier": 5
+        },
+        {
+          "id": "leaderskill_KRRSANTAN",
+          "tier": 6
         }
       ],
       "equipment": [],
@@ -14252,11 +14256,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 5,
+      "currentTier": 7,
       "relic": {
         "currentTier": 1
       },
-      "gp": 6462
+      "gp": 8146
     },
     {
       "skill": [
@@ -129514,13 +129518,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4459312",
+      "value": "4460996",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "48370",
+      "value": "48372",
       "index": 8
     },
     {
@@ -129556,13 +129560,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7697012",
+      "value": "7698696",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "133929",
+      "value": "133932",
       "index": 7
     },
     {
@@ -130684,7 +130688,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719433187000",
+  "lastActivityTime": "1719433707000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
