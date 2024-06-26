@@ -130487,6 +130487,19 @@
           "requiredUnitTier": 0,
           "requiredRelicTier": 5,
           "scopeIcon": ""
+        },
+        {
+          "tag": [
+            "darkside",
+            "sith"
+          ],
+          "targetRule": "target_datacron_sith",
+          "abilityId": "datacron_faction_generic_010",
+          "statType": 1,
+          "statValue": "0",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": "tex.datacronui_affix_sith"
         }
       ],
       "rerollOption": [],
@@ -130664,14 +130677,80 @@
     },
     {
       "tag": [],
-      "affix": [],
+      "affix": [
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 53,
+          "statValue": "1112727",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 3,
+          "scopeIcon": ""
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 16,
+          "statValue": "6501249",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 3,
+          "scopeIcon": ""
+        },
+        {
+          "tag": [
+            "lightside"
+          ],
+          "targetRule": "target_datacron_lightside",
+          "abilityId": "datacron_alignment_generic_005",
+          "statType": 1,
+          "statValue": "0",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 3,
+          "scopeIcon": "tex.datacronui_affix_lightside"
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 48,
+          "statValue": "5465809",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": ""
+        },
+        {
+          "tag": [],
+          "targetRule": "",
+          "abilityId": "",
+          "statType": 25,
+          "statValue": "56547399",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": ""
+        },
+        {
+          "tag": [
+            "lightside",
+            "galacticrepublic"
+          ],
+          "targetRule": "target_datacron_galacticrepublic",
+          "abilityId": "datacron_faction_generic_031",
+          "statType": 1,
+          "statValue": "0",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 5,
+          "scopeIcon": "tex.datacronui_affix_galacticrepublic"
+        }
+      ],
       "rerollOption": [],
       "id": "LFJV8PEEQ_K9o1fK88Khgg",
       "setId": 15,
       "templateId": "datacron_set_15_base",
       "locked": false,
       "rerollIndex": 0,
-      "rerollCount": 0
+      "rerollCount": 1
     }
   ],
   "name": "Stebadie",
@@ -130688,7 +130767,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719441672000",
+  "lastActivityTime": "1719441974000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
