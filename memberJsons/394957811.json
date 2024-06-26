@@ -16165,24 +16165,24 @@
       ],
       "equipment": [
         {
-          "equipmentId": "117",
+          "equipmentId": "129",
           "slot": 0
         },
         {
-          "equipmentId": "116",
+          "equipmentId": "142",
           "slot": 1
         },
         {
-          "equipmentId": "129",
+          "equipmentId": "146",
           "slot": 2
         },
         {
-          "equipmentId": "107",
+          "equipmentId": "144",
           "slot": 3
         },
         {
-          "equipmentId": "144",
-          "slot": 5
+          "equipmentId": "149",
+          "slot": 4
         }
       ],
       "equippedStatModOld": [],
@@ -16910,11 +16910,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 10,
+      "currentTier": 11,
       "relic": {
         "currentTier": 1
       },
-      "gp": 19632
+      "gp": 20799
     },
     {
       "skill": [
@@ -97275,7 +97275,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 52902
+      "gp": 54609
     },
     {
       "skill": [
@@ -107577,9 +107577,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 4
+        "currentTier": 5
       },
-      "gp": 23898
+      "gp": 24808
     },
     {
       "skill": [
@@ -124825,7 +124825,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2794393",
+      "value": "2796100",
       "index": 3
     },
     {
@@ -124879,13 +124879,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4389483",
+      "value": "4391560",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "42569",
+      "value": "42584",
       "index": 8
     },
     {
@@ -124921,13 +124921,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7183876",
+      "value": "7187660",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "117332",
+      "value": "117347",
       "index": 7
     },
     {
@@ -125513,7 +125513,7 @@
       "joinTime": "1718660867000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 10770
+      "rank": 10769
     }
   ],
   "datacron": [
@@ -125554,7 +125554,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719369694000",
+  "lastActivityTime": "1719397862000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SITHTROOPER"
   },
