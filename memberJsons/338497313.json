@@ -23507,7 +23507,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "133461",
+      "value": "133530",
       "index": 16
     },
     {
@@ -23525,7 +23525,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "109672",
+      "value": "109685",
       "index": 7
     },
     {
@@ -24040,7 +24040,7 @@
       "league": "BRONZIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 1703,
+      "seasonPoints": 1772,
       "division": 20,
       "joinTime": "1718662189000",
       "endTime": "1720990800000",
@@ -24251,7 +24251,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719418078000",
+  "lastActivityTime": "1719438643000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MANDALORIAN"
   },
