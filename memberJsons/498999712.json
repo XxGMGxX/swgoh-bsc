@@ -108755,7 +108755,7 @@
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1507",
+      "value": "1508",
       "index": 6
     },
     {
@@ -108864,7 +108864,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 265,
+      "rank": 235,
       "squad": {
         "cell": [
           {
@@ -108942,7 +108942,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719354918000",
+        "lastSaveTime": "1719372395000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -109643,7 +109643,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719372083000",
+  "lastActivityTime": "1719372688000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
