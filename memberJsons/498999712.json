@@ -108799,7 +108799,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3400744",
+      "value": "3400768",
       "index": 2
     },
     {
@@ -108841,7 +108841,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6129098",
+      "value": "6129122",
       "index": 1
     },
     {
@@ -109645,7 +109645,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719466763000",
+  "lastActivityTime": "1719520893000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
