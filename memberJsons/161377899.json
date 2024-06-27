@@ -138671,7 +138671,7 @@
       "joinTime": "1718661267000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 23882
+      "rank": 3810
     }
   ],
   "datacron": [
@@ -140183,18 +140183,18 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719521303000",
+  "lastActivityTime": "1719523182000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_OURIDENTITY"
   },
   "lifetimeSeasonScore": "299748",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 3145
+      "skillRating": 3106
     },
     "playerRankStatus": {
       "leagueId": "KYBER",
-      "divisionId": 15
+      "divisionId": 10
     }
   },
   "nucleusId": "1013183379390"
