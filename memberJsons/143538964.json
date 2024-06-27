@@ -93565,7 +93565,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2163750",
+      "value": "2168360",
       "index": 3
     },
     {
@@ -93619,7 +93619,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2936667",
+      "value": "2940153",
       "index": 2
     },
     {
@@ -93637,7 +93637,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "87716",
+      "value": "87830",
       "index": 11
     },
     {
@@ -93661,7 +93661,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5100417",
+      "value": "5108513",
       "index": 1
     },
     {
@@ -94229,7 +94229,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 4809
+      "rank": 1611
     }
   ],
   "datacron": [
@@ -95137,7 +95137,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719520956000",
+  "lastActivityTime": "1719530468000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
