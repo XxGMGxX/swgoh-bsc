@@ -143245,7 +143245,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "198602",
+      "value": "198604",
       "index": 7
     },
     {
@@ -143342,7 +143342,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719454706000",
+        "lastSaveTime": "1719464477000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -144679,7 +144679,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719463900000",
+  "lastActivityTime": "1719464463000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_NIGHTSISTERS_VENTRESS"
   },
