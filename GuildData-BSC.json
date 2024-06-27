@@ -141,7 +141,7 @@
         "playerLevel": 85,
         "memberLevel": 3,
         "guildXp": 0,
-        "lastActivityTime": "1719448872000",
+        "lastActivityTime": "1719449100000",
         "squadPower": 160875,
         "guildJoinTime": "1652378137",
         "galacticPower": "9345491",
@@ -309,8 +309,8 @@
         "memberContribution": [
           {
             "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "510742"
+            "currentValue": "490",
+            "lifetimeValue": "511232"
           },
           {
             "type": 3,
@@ -356,7 +356,7 @@
             "league": "BRONZIUM",
             "wins": 0,
             "losses": 0,
-            "seasonPoints": 1901,
+            "seasonPoints": 2435,
             "division": 20,
             "joinTime": "1718660867000",
             "endTime": "1720990800000",
@@ -369,7 +369,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719397862000",
+        "lastActivityTime": "1719449497000",
         "squadPower": 183753,
         "guildJoinTime": "1652378143",
         "galacticPower": "7187660",
@@ -1205,7 +1205,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719446396000",
+        "lastActivityTime": "1719449246000",
         "squadPower": 176955,
         "guildJoinTime": "1652391094",
         "galacticPower": "9197005",
@@ -2057,8 +2057,8 @@
         "memberContribution": [
           {
             "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "670982"
+            "currentValue": "606",
+            "lifetimeValue": "671588"
           },
           {
             "type": 3,
@@ -2117,7 +2117,7 @@
         "playerLevel": 85,
         "memberLevel": 3,
         "guildXp": 0,
-        "lastActivityTime": "1719439584000",
+        "lastActivityTime": "1719449493000",
         "squadPower": 186215,
         "guildJoinTime": "1652459799",
         "galacticPower": "9106145",
@@ -3713,7 +3713,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719448876000",
+        "lastActivityTime": "1719449510000",
         "squadPower": 157224,
         "guildJoinTime": "1715387579",
         "galacticPower": "5029734",
