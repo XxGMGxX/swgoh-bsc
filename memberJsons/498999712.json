@@ -108866,7 +108866,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 220,
+      "rank": 231,
       "squad": {
         "cell": [
           {
@@ -109431,7 +109431,7 @@
       "joinTime": "1718660515000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 5573
+      "rank": 5587
     }
   ],
   "datacron": [
@@ -109645,14 +109645,14 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719521314000",
+  "lastActivityTime": "1719522653000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
   "lifetimeSeasonScore": "5401",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 2685
+      "skillRating": 2646
     },
     "playerRankStatus": {
       "leagueId": "AURODIUM",
