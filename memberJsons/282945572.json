@@ -3622,14 +3622,14 @@
       "purchasedAbilityId": [],
       "id": "WWA2ZyDZSI-1jTSdt-g-Rw",
       "definitionId": "Marauder",
-      "currentRarity": 6,
+      "currentRarity": 7,
       "currentLevel": 85,
       "currentXp": 873200,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 33471
+      "gp": 36386
     },
     {
       "skill": [
@@ -141334,6 +141334,10 @@
           "slot": 0
         },
         {
+          "equipmentId": "107",
+          "slot": 1
+        },
+        {
           "equipmentId": "120",
           "slot": 3
         },
@@ -142085,7 +142089,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 18154
+      "gp": 18331
     },
     {
       "skill": [],
@@ -143679,7 +143683,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3335458",
+      "value": "3338373",
       "index": 3
     },
     {
@@ -143709,7 +143713,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "16281",
+      "value": "16293",
       "index": 9
     },
     {
@@ -143733,13 +143737,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4426992",
+      "value": "4427169",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53870",
+      "value": "53880",
       "index": 8
     },
     {
@@ -143751,7 +143755,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1474887",
+      "value": "1475462",
       "index": 11
     },
     {
@@ -143775,13 +143779,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7762450",
+      "value": "7765542",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "162098",
+      "value": "162127",
       "index": 7
     },
     {
@@ -146709,7 +146713,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719437462000",
+  "lastActivityTime": "1719467877000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
