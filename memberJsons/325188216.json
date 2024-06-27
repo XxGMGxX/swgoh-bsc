@@ -58288,7 +58288,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 70278
+      "gp": 72443
     },
     {
       "skill": [
@@ -58344,7 +58344,7 @@
         },
         {
           "id": "uniqueskill_FIRSTORDERTROOPER01",
-          "tier": 5
+          "tier": 6
         }
       ],
       "equipment": [],
@@ -59087,7 +59087,7 @@
       "relic": {
         "currentTier": 7
       },
-      "gp": 22416
+      "gp": 24822
     },
     {
       "skill": [
@@ -73415,7 +73415,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2794330",
+      "value": "2796495",
       "index": 3
     },
     {
@@ -73469,13 +73469,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3606269",
+      "value": "3608675",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "26685",
+      "value": "26700",
       "index": 8
     },
     {
@@ -73511,13 +73511,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6400599",
+      "value": "6405170",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "82596",
+      "value": "82621",
       "index": 7
     },
     {
@@ -73614,7 +73614,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719438477000",
+        "lastSaveTime": "1719529889000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -74159,7 +74159,7 @@
       "joinTime": "1718705959000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 8914
+      "rank": 8875
     }
   ],
   "datacron": [
@@ -74301,8 +74301,8 @@
           "tag": [],
           "targetRule": "",
           "abilityId": "",
-          "statType": 54,
-          "statValue": "6871327",
+          "statType": 48,
+          "statValue": "4880220",
           "requiredUnitTier": 0,
           "requiredRelicTier": 3,
           "scopeIcon": ""
@@ -74371,6 +74371,19 @@
           "requiredUnitTier": 0,
           "requiredRelicTier": 5,
           "scopeIcon": ""
+        },
+        {
+          "tag": [
+            "firstorder",
+            "darkside"
+          ],
+          "targetRule": "target_datacron_firstordertrooper",
+          "abilityId": "datacron_character_firstordertrooper_002",
+          "statType": 1,
+          "statValue": "0",
+          "requiredUnitTier": 0,
+          "requiredRelicTier": 7,
+          "scopeIcon": "tex.charui_firstordertrooper"
         }
       ],
       "rerollOption": [],
@@ -74379,7 +74392,7 @@
       "templateId": "datacron_set_15_base",
       "locked": false,
       "rerollIndex": 0,
-      "rerollCount": 4
+      "rerollCount": 6
     }
   ],
   "name": "Cimer",
@@ -74396,7 +74409,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719529290000",
+  "lastActivityTime": "1719529889000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDIKNIGHTLUKE"
   },
