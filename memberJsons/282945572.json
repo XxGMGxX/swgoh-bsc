@@ -123319,7 +123319,7 @@
       "purchasedAbilityId": [],
       "id": "JeU8C7kzQWqhsCUDu4gI1w",
       "definitionId": "Second Sister",
-      "currentRarity": 4,
+      "currentRarity": 5,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -123328,7 +123328,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 10297
+      "gp": 10804
     },
     {
       "skill": [
@@ -143737,7 +143737,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4427169",
+      "value": "4427676",
       "index": 2
     },
     {
@@ -143779,7 +143779,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7765542",
+      "value": "7766049",
       "index": 1
     },
     {
@@ -146713,7 +146713,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719468542000",
+  "lastActivityTime": "1719486317000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
