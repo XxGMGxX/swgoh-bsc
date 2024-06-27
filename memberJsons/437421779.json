@@ -78175,7 +78175,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "18227",
+      "value": "18239",
       "index": 9
     },
     {
@@ -78229,7 +78229,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "311451",
+      "value": "311505",
       "index": 16
     },
     {
@@ -78247,13 +78247,13 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "222734",
+      "value": "222736",
       "index": 7
     },
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "1535",
+      "value": "1536",
       "index": 14
     },
     {
@@ -78931,7 +78931,7 @@
       "league": "KYBER",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 1527,
+      "seasonPoints": 1581,
       "division": 10,
       "joinTime": "1718707712000",
       "endTime": "1720990800000",
@@ -79174,7 +79174,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 120,
-  "lastActivityTime": "1719472889000",
+  "lastActivityTime": "1719473495000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_BD1"
   },
