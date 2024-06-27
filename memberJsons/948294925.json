@@ -130980,7 +130980,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "105640",
+      "value": "105652",
       "index": 16
     },
     {
@@ -130998,7 +130998,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "133964",
+      "value": "133972",
       "index": 7
     },
     {
@@ -131684,7 +131684,7 @@
       "league": "CHROMIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 2867,
+      "seasonPoints": 2879,
       "division": 20,
       "joinTime": "1718658068000",
       "endTime": "1720990800000",
@@ -132199,7 +132199,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719503306000",
+  "lastActivityTime": "1719504110000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
