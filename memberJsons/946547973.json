@@ -141398,7 +141398,7 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "920",
+      "value": "921",
       "index": 5
     },
     {
@@ -141671,7 +141671,7 @@
     },
     {
       "tab": 2,
-      "rank": 17,
+      "rank": 12,
       "squad": {
         "cell": [
           {
@@ -142263,7 +142263,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 420,
-  "lastActivityTime": "1719453113000",
+  "lastActivityTime": "1719455810000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_CHEWBACCA"
   },
