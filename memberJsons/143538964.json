@@ -14327,11 +14327,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 9,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 7
       },
-      "gp": 13362
+      "gp": 22281
     },
     {
       "skill": [],
@@ -24721,6 +24721,42 @@
     {
       "skill": [
         {
+          "id": "specialskill_KITFISTO01",
+          "tier": 5
+        },
+        {
+          "id": "uniqueskill_KITFISTO01",
+          "tier": 5
+        },
+        {
+          "id": "basicskill_KITFISTO",
+          "tier": 5
+        },
+        {
+          "id": "leaderskill_KITFISTO",
+          "tier": 5
+        }
+      ],
+      "equipment": [],
+      "equippedStatModOld": [],
+      "equippedStatMod": [],
+      "purchasedAbilityId": [],
+      "id": "vQzfrNZaSO6wbfCz0iHsJg",
+      "definitionId": "Kit Fisto",
+      "currentRarity": 7,
+      "currentLevel": 85,
+      "currentXp": 883025,
+      "promotionRecipeReference": "",
+      "unitStat": null,
+      "currentTier": 13,
+      "relic": {
+        "currentTier": 7
+      },
+      "gp": 20997
+    },
+    {
+      "skill": [
+        {
           "id": "uniqueskill_HOUNDSTOOTH01",
           "tier": 6
         },
@@ -29968,6 +30004,42 @@
     {
       "skill": [
         {
+          "id": "basicskill_LUMINARAUNDULI",
+          "tier": 5
+        },
+        {
+          "id": "leaderskill_LUMINARAUNDULI",
+          "tier": 5
+        },
+        {
+          "id": "specialskill_LUMINARAUNDULI02",
+          "tier": 5
+        },
+        {
+          "id": "specialskill_LUMINARAUNDULI01",
+          "tier": 5
+        }
+      ],
+      "equipment": [],
+      "equippedStatModOld": [],
+      "equippedStatMod": [],
+      "purchasedAbilityId": [],
+      "id": "1izVVBk4QjuXgI05wtkPQA",
+      "definitionId": "Luminara Unduli",
+      "currentRarity": 7,
+      "currentLevel": 85,
+      "currentXp": 883025,
+      "promotionRecipeReference": "",
+      "unitStat": null,
+      "currentTier": 13,
+      "relic": {
+        "currentTier": 7
+      },
+      "gp": 20997
+    },
+    {
+      "skill": [
+        {
           "id": "basicskill_HOTHREBELSCOUT",
           "tier": 3
         },
@@ -33452,7 +33524,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 52251
+      "gp": 56861
     },
     {
       "skill": [
@@ -35743,9 +35815,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 5
+        "currentTier": 7
       },
-      "gp": 20254
+      "gp": 22303
     },
     {
       "skill": [
@@ -58886,6 +58958,42 @@
         "currentTier": 1
       },
       "gp": 2761
+    },
+    {
+      "skill": [
+        {
+          "id": "basicskill_EETHKOTH",
+          "tier": 5
+        },
+        {
+          "id": "leaderskill_EETHKOTH",
+          "tier": 5
+        },
+        {
+          "id": "specialskill_EETHKOTH01",
+          "tier": 5
+        },
+        {
+          "id": "uniqueskill_EETHKOTH01",
+          "tier": 5
+        }
+      ],
+      "equipment": [],
+      "equippedStatModOld": [],
+      "equippedStatMod": [],
+      "purchasedAbilityId": [],
+      "id": "eQunCum_QWaa3RXwwHxUVA",
+      "definitionId": "Eeth Koth",
+      "currentRarity": 7,
+      "currentLevel": 85,
+      "currentXp": 883025,
+      "promotionRecipeReference": "",
+      "unitStat": null,
+      "currentTier": 13,
+      "relic": {
+        "currentTier": 7
+      },
+      "gp": 20997
     },
     {
       "skill": [
@@ -93511,7 +93619,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2866194",
+      "value": "2936667",
       "index": 2
     },
     {
@@ -93553,13 +93661,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5029944",
+      "value": "5100417",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "39308",
+      "value": "39309",
       "index": 7
     },
     {
@@ -95029,7 +95137,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719495706000",
+  "lastActivityTime": "1719496838000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
