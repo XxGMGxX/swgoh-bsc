@@ -145003,7 +145003,7 @@
     {
       "nameKey": "STAT_SEASON_FULL_CLEAR_ROUND_WINS_NAME",
       "versionKey": "NULL",
-      "value": "134",
+      "value": "135",
       "index": 17
     },
     {
@@ -145063,7 +145063,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "544531",
+      "value": "545270",
       "index": 16
     },
     {
@@ -145087,13 +145087,13 @@
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "2697",
+      "value": "2701",
       "index": 14
     },
     {
       "nameKey": "STAT_SEASON_TERRITORIES_DEFEATED_NAME",
       "versionKey": "NULL",
-      "value": "1018",
+      "value": "1021",
       "index": 19
     }
   ],
@@ -145837,7 +145837,7 @@
       "league": "BRONZIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 3518,
+      "seasonPoints": 4257,
       "division": 25,
       "joinTime": "1718679837000",
       "endTime": "1720990800000",
@@ -145948,7 +145948,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719456082000",
+  "lastActivityTime": "1719456710000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SITHMASTER"
   },
