@@ -16647,6 +16647,10 @@
         },
         {
           "equipmentId": "158",
+          "slot": 1
+        },
+        {
+          "equipmentId": "158",
           "slot": 2
         },
         {
@@ -17385,7 +17389,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 18249
+      "gp": 18459
     },
     {
       "skill": [
@@ -17903,7 +17907,7 @@
         },
         {
           "id": "uniqueskill_NIGHTSISTERZOMBIE01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "uniqueskill_NIGHTSISTERZOMBIE02",
@@ -18620,7 +18624,7 @@
       "relic": {
         "currentTier": 5
       },
-      "gp": 20350
+      "gp": 20560
     },
     {
       "skill": [
@@ -93619,7 +93623,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2940153",
+      "value": "2940573",
       "index": 2
     },
     {
@@ -93661,13 +93665,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5108513",
+      "value": "5108933",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "39339",
+      "value": "39351",
       "index": 7
     },
     {
@@ -94229,7 +94233,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 1613
+      "rank": 1614
     }
   ],
   "datacron": [
@@ -95137,7 +95141,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719531110000",
+  "lastActivityTime": "1719531682000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
