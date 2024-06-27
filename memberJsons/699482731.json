@@ -34838,7 +34838,7 @@
         },
         {
           "id": "specialskill_GHOST03",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "hardwareskill_GHOST01",
@@ -34858,7 +34858,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 65927
+      "gp": 66137
     },
     {
       "skill": [
@@ -37194,7 +37194,7 @@
         },
         {
           "id": "specialskill_MILLENNIUMFALCONPRISTINE01",
-          "tier": 5
+          "tier": 6
         }
       ],
       "equipment": [],
@@ -37210,7 +37210,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 65710
+      "gp": 65920
     },
     {
       "skill": [
@@ -37995,19 +37995,19 @@
       "skill": [
         {
           "id": "basicskill_EBONHAWK",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "uniqueskill_EBONHAWK01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_EBONHAWK01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_EBONHAWK02",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "hardwareskill_EBONHAWK01",
@@ -38027,7 +38027,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 67770
+      "gp": 68610
     },
     {
       "skill": [
@@ -46315,7 +46315,7 @@
       "skill": [
         {
           "id": "specialskill_SCYTHE02",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "basicskill_SCYTHE",
@@ -46347,7 +46347,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 62406
+      "gp": 62616
     },
     {
       "skill": [
@@ -93071,7 +93071,7 @@
         },
         {
           "id": "uniqueskill_PHANTOM201",
-          "tier": 5
+          "tier": 6
         }
       ],
       "equipment": [],
@@ -93087,7 +93087,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 64650
+      "gp": 64860
     },
     {
       "skill": [
@@ -110458,7 +110458,7 @@
         },
         {
           "id": "basicskill_CAPITALFINALIZER",
-          "tier": 3
+          "tier": 4
         },
         {
           "id": "specialskill_CAPITALFINALIZER01",
@@ -110486,7 +110486,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 54352
+      "gp": 54474
     },
     {
       "skill": [
@@ -120249,7 +120249,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3447635",
+      "value": "3449437",
       "index": 3
     },
     {
@@ -120309,7 +120309,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "43628",
+      "value": "43648",
       "index": 8
     },
     {
@@ -120345,13 +120345,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8336114",
+      "value": "8337916",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "165412",
+      "value": "165437",
       "index": 7
     },
     {
@@ -121764,7 +121764,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719448168000",
+  "lastActivityTime": "1719457891000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GRANDARENA_ADVANCED"
   },
