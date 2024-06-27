@@ -93483,7 +93483,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "3336",
+      "value": "3348",
       "index": 9
     },
     {
@@ -93555,7 +93555,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "39234",
+      "value": "39248",
       "index": 7
     },
     {
@@ -95025,7 +95025,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719464477000",
+  "lastActivityTime": "1719465106000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
