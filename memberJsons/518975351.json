@@ -119387,7 +119387,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "503419",
+      "value": "503422",
       "index": 16
     },
     {
@@ -119974,7 +119974,7 @@
       "league": "AURODIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 2590,
+      "seasonPoints": 2593,
       "division": 5,
       "joinTime": "1718663828000",
       "endTime": "1720990800000",
@@ -120185,7 +120185,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719512688000",
+  "lastActivityTime": "1719519709000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },

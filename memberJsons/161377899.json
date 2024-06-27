@@ -137838,7 +137838,7 @@
     {
       "nameKey": "STAT_SEASON_UNDERSIZED_SQUAD_WINS_NAME",
       "versionKey": "NULL",
-      "value": "814",
+      "value": "815",
       "index": 18
     },
     {
@@ -137874,7 +137874,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "380921",
+      "value": "381408",
       "index": 16
     },
     {
@@ -137898,13 +137898,13 @@
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "2438",
+      "value": "2442",
       "index": 14
     },
     {
       "nameKey": "STAT_SEASON_TERRITORIES_DEFEATED_NAME",
       "versionKey": "NULL",
-      "value": "825",
+      "value": "826",
       "index": 19
     }
   ],
@@ -138666,7 +138666,7 @@
       "league": "KYBER",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 4076,
+      "seasonPoints": 4563,
       "division": 15,
       "joinTime": "1718661267000",
       "endTime": "1720990800000",
@@ -140183,7 +140183,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719519077000",
+  "lastActivityTime": "1719519705000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_OURIDENTITY"
   },
