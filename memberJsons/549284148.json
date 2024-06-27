@@ -89381,7 +89381,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "324553",
+      "value": "325061",
       "index": 16
     },
     {
@@ -89405,13 +89405,13 @@
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "943",
+      "value": "948",
       "index": 14
     },
     {
       "nameKey": "STAT_SEASON_TERRITORIES_DEFEATED_NAME",
       "versionKey": "NULL",
-      "value": "402",
+      "value": "403",
       "index": 19
     }
   ],
@@ -90005,7 +90005,7 @@
       "league": "CHROMIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 1639,
+      "seasonPoints": 2147,
       "division": 15,
       "joinTime": "1718668747000",
       "endTime": "1720990800000",
@@ -90083,7 +90083,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719486695000",
+  "lastActivityTime": "1719487298000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },

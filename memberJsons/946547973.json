@@ -141452,7 +141452,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "28652",
+      "value": "28664",
       "index": 8
     },
     {
@@ -141476,7 +141476,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "102476",
+      "value": "102547",
       "index": 16
     },
     {
@@ -141494,13 +141494,13 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "101280",
+      "value": "101319",
       "index": 7
     },
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "611",
+      "value": "612",
       "index": 14
     },
     {
@@ -142151,7 +142151,7 @@
       "league": "AURODIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 1212,
+      "seasonPoints": 1283,
       "division": 10,
       "joinTime": "1718670216000",
       "endTime": "1720990800000",
@@ -142263,7 +142263,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 420,
-  "lastActivityTime": "1719486714000",
+  "lastActivityTime": "1719486966000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_CHEWBACCA"
   },
