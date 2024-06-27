@@ -141240,7 +141240,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4042017",
+      "value": "4042131",
       "index": 2
     },
     {
@@ -141258,7 +141258,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1524330",
+      "value": "1524905",
       "index": 11
     },
     {
@@ -141282,7 +141282,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6449738",
+      "value": "6449852",
       "index": 1
     },
     {
@@ -141963,7 +141963,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719423355000",
+  "lastActivityTime": "1719495672000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDIKNIGHTLUKE"
   },
