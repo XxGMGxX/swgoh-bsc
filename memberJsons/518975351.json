@@ -119363,7 +119363,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "27170",
+      "value": "27184",
       "index": 8
     },
     {
@@ -119387,7 +119387,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "502963",
+      "value": "503033",
       "index": 16
     },
     {
@@ -119405,13 +119405,13 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "72211",
+      "value": "72236",
       "index": 7
     },
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "2584",
+      "value": "2585",
       "index": 14
     },
     {
@@ -119974,7 +119974,7 @@
       "league": "AURODIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 2134,
+      "seasonPoints": 2204,
       "division": 5,
       "joinTime": "1718663828000",
       "endTime": "1720990800000",
@@ -120185,7 +120185,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719457887000",
+  "lastActivityTime": "1719458269000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
