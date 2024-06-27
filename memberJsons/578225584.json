@@ -56115,13 +56115,13 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "425",
+      "value": "426",
       "index": 5
     },
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "354",
+      "value": "355",
       "index": 6
     },
     {
@@ -56139,7 +56139,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "13963",
+      "value": "13975",
       "index": 9
     },
     {
@@ -56169,7 +56169,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "43860",
+      "value": "43873",
       "index": 8
     },
     {
@@ -56181,7 +56181,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1538360",
+      "value": "1538881",
       "index": 11
     },
     {
@@ -56211,7 +56211,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "150231",
+      "value": "150269",
       "index": 7
     },
     {
@@ -56230,7 +56230,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 1142,
+      "rank": 1105,
       "squad": {
         "cell": [
           {
@@ -56316,7 +56316,7 @@
     },
     {
       "tab": 2,
-      "rank": 74,
+      "rank": 62,
       "squad": {
         "cell": [
           {
@@ -56775,7 +56775,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719412399000",
+  "lastActivityTime": "1719455508000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDI_GENERAL"
   },
