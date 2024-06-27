@@ -141039,7 +141039,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4197947",
+      "value": "4197971",
       "index": 2
     },
     {
@@ -141081,7 +141081,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6644989",
+      "value": "6645013",
       "index": 1
     },
     {
@@ -141707,7 +141707,7 @@
       "joinTime": "1718662260000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 20023
+      "rank": 20022
     }
   ],
   "datacron": [
@@ -141880,7 +141880,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 120,
-  "lastActivityTime": "1719526194000",
+  "lastActivityTime": "1719532311000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GIFT_02"
   },

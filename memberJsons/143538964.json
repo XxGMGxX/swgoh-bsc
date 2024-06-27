@@ -24688,15 +24688,15 @@
       "skill": [
         {
           "id": "uniqueskill_CAPITALRADDUS01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_CAPITALRADDUS03",
-          "tier": 0
+          "tier": 1
         },
         {
           "id": "specialskill_CAPITALRADDUS02",
-          "tier": 0
+          "tier": 1
         },
         {
           "id": "specialskill_CAPITALRADDUS01",
@@ -24720,7 +24720,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 45884
+      "gp": 46205
     },
     {
       "skill": [
@@ -81231,9 +81231,9 @@
       "unitStat": null,
       "currentTier": 13,
       "relic": {
-        "currentTier": 8
+        "currentTier": 9
       },
-      "gp": 39852
+      "gp": 41749
     },
     {
       "skill": [
@@ -93569,7 +93569,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2168360",
+      "value": "2168681",
       "index": 3
     },
     {
@@ -93623,7 +93623,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2940573",
+      "value": "2942470",
       "index": 2
     },
     {
@@ -93665,13 +93665,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5108933",
+      "value": "5111151",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "39351",
+      "value": "39370",
       "index": 7
     },
     {
@@ -94233,7 +94233,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 1614
+      "rank": 1611
     }
   ],
   "datacron": [
@@ -95141,7 +95141,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719531682000",
+  "lastActivityTime": "1719532255000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
