@@ -120261,7 +120261,7 @@
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "945",
+      "value": "946",
       "index": 6
     },
     {
@@ -120333,7 +120333,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "207036",
+      "value": "207159",
       "index": 16
     },
     {
@@ -120357,7 +120357,7 @@
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "1207",
+      "value": "1209",
       "index": 14
     },
     {
@@ -120370,7 +120370,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 236,
+      "rank": 199,
       "squad": {
         "cell": [
           {
@@ -121081,7 +121081,7 @@
       "league": "KYBER",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 219,
+      "seasonPoints": 342,
       "division": 10,
       "joinTime": "1718662489000",
       "endTime": "1720990800000",
@@ -121764,7 +121764,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719447098000",
+  "lastActivityTime": "1719447708000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GRANDARENA_ADVANCED"
   },
