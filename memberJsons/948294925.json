@@ -130981,7 +130981,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "134088",
+      "value": "134089",
       "index": 7
     },
     {
@@ -131672,7 +131672,7 @@
       "joinTime": "1718658068000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 7418
+      "rank": 3671
     }
   ],
   "datacron": [
@@ -132182,14 +132182,14 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719521458000",
+  "lastActivityTime": "1719522093000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
   "lifetimeSeasonScore": "0",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 2579
+      "skillRating": 2617
     },
     "playerRankStatus": {
       "leagueId": "CHROMIUM",
