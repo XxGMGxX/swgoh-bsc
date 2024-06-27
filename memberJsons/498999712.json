@@ -43234,20 +43234,22 @@
             {
               "roll": [
                 "0.12479",
-                "0.19311"
+                "0.19311",
+                "0.16099"
               ],
               "unscaledRollValue": [
                 "1061",
-                "1641"
+                "1641",
+                "1368"
               ],
               "stat": {
                 "unitStatId": 49,
-                "statValueDecimal": "270",
-                "unscaledDecimalValue": "2702000",
+                "statValueDecimal": "407",
+                "unscaledDecimalValue": "4071000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 2,
+              "statRolls": 3,
               "statRollerBoundsMin": "850",
               "statRollerBoundsMax": "1700"
             },
@@ -43273,7 +43275,7 @@
           "id": "DYtqfHdST9W4rQQYW4kGqg",
           "definitionId": "451",
           "level": 15,
-          "tier": 4,
+          "tier": 5,
           "sellValue": {
             "currency": 1,
             "quantity": 97200,
@@ -43934,7 +43936,7 @@
       "relic": {
         "currentTier": 5
       },
-      "gp": 25891
+      "gp": 25915
     },
     {
       "skill": [
@@ -108827,7 +108829,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "190550",
+      "value": "190595",
       "index": 16
     },
     {
@@ -108851,7 +108853,7 @@
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "1293",
+      "value": "1294",
       "index": 14
     },
     {
@@ -109424,7 +109426,7 @@
       "league": "AURODIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 1027,
+      "seasonPoints": 1072,
       "division": 10,
       "joinTime": "1718660515000",
       "endTime": "1720990800000",
@@ -109643,7 +109645,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719465712000",
+  "lastActivityTime": "1719466235000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
