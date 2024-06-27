@@ -129925,24 +129925,16 @@
       ],
       "equipment": [
         {
-          "equipmentId": "120",
+          "equipmentId": "159",
           "slot": 0
         },
         {
-          "equipmentId": "120",
+          "equipmentId": "159",
           "slot": 1
         },
         {
-          "equipmentId": "100",
-          "slot": 2
-        },
-        {
-          "equipmentId": "134",
+          "equipmentId": "166",
           "slot": 3
-        },
-        {
-          "equipmentId": "144",
-          "slot": 4
         }
       ],
       "equippedStatModOld": [],
@@ -130656,11 +130648,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 11,
+      "currentTier": 12,
       "relic": {
         "currentTier": 1
       },
-      "gp": 16603
+      "gp": 17431
     },
     {
       "skill": [
@@ -141454,13 +141446,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4269373",
+      "value": "4270201",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "28615",
+      "value": "28642",
       "index": 8
     },
     {
@@ -141496,13 +141488,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7170634",
+      "value": "7171462",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "101208",
+      "value": "101239",
       "index": 7
     },
     {
@@ -142164,7 +142156,7 @@
       "joinTime": "1718670216000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 8020
+      "rank": 8019
     }
   ],
   "datacron": [
@@ -142271,7 +142263,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 420,
-  "lastActivityTime": "1719448314000",
+  "lastActivityTime": "1719448438000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_CHEWBACCA"
   },
