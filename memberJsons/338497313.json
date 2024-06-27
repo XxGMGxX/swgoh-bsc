@@ -2005,7 +2005,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 43779
+      "gp": 44063
     },
     {
       "skill": [
@@ -18837,28 +18837,7 @@
           "tier": 5
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "159",
-          "slot": 0
-        },
-        {
-          "equipmentId": "158",
-          "slot": 1
-        },
-        {
-          "equipmentId": "160",
-          "slot": 2
-        },
-        {
-          "equipmentId": "170",
-          "slot": 3
-        },
-        {
-          "equipmentId": "G12Finisher_CHEWBACCALEGENDARY_A",
-          "slot": 5
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -18869,11 +18848,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 12,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 2
       },
-      "gp": 17437
+      "gp": 17647
     },
     {
       "skill": [
@@ -23423,13 +23402,13 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "1775613",
+      "value": "1775897",
       "index": 3
     },
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "93",
+      "value": "94",
       "index": 5
     },
     {
@@ -23453,7 +23432,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "10584",
+      "value": "10596",
       "index": 9
     },
     {
@@ -23477,13 +23456,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3157397",
+      "value": "3157607",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "22456",
+      "value": "22461",
       "index": 8
     },
     {
@@ -23519,13 +23498,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4933010",
+      "value": "4933504",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "109712",
+      "value": "109732",
       "index": 7
     },
     {
@@ -23630,7 +23609,7 @@
     },
     {
       "tab": 2,
-      "rank": 52,
+      "rank": 42,
       "squad": {
         "cell": [
           {
@@ -24251,7 +24230,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719498698000",
+  "lastActivityTime": "1719499290000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MANDALORIAN"
   },
