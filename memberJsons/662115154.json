@@ -130572,20 +130572,22 @@
             {
               "roll": [
                 "0.12094",
-                "0.15740"
+                "0.15740",
+                "0.13705"
               ],
               "unscaledRollValue": [
                 "1814",
-                "2361"
+                "2361",
+                "2056"
               ],
               "stat": {
                 "unitStatId": 56,
-                "statValueDecimal": "417",
-                "unscaledDecimalValue": "4175000",
+                "statValueDecimal": "623",
+                "unscaledDecimalValue": "6231000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 2,
+              "statRolls": 3,
               "statRollerBoundsMin": "1500",
               "statRollerBoundsMax": "3000"
             },
@@ -130617,21 +130619,19 @@
             },
             {
               "roll": [
-                "0.17067",
-                "0.15871"
+                "0.17067"
               ],
               "unscaledRollValue": [
-                "4266750",
-                "3967750"
+                "4266750"
               ],
               "stat": {
                 "unitStatId": 41,
-                "statValueDecimal": "830000",
-                "unscaledDecimalValue": "8300000000",
+                "statValueDecimal": "430000",
+                "unscaledDecimalValue": "4300000000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 2,
+              "statRolls": 1,
               "statRollerBoundsMin": "2500000",
               "statRollerBoundsMax": "5000000"
             },
@@ -130691,7 +130691,7 @@
           },
           "bonusQuantity": 0,
           "convertedItem": null,
-          "rerolledCount": 1
+          "rerolledCount": 2
         },
         {
           "secondaryStat": [
@@ -141041,7 +141041,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "37404",
+      "value": "37415",
       "index": 8
     },
     {
@@ -141083,7 +141083,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "172259",
+      "value": "172270",
       "index": 7
     },
     {
@@ -141876,7 +141876,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 120,
-  "lastActivityTime": "1719488504000",
+  "lastActivityTime": "1719488898000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GIFT_02"
   },
