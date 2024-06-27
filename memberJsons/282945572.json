@@ -53579,7 +53579,7 @@
         },
         {
           "id": "basicskill_RAZORCREST",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_RAZORCREST01",
@@ -53607,7 +53607,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 39898
+      "gp": 40108
     },
     {
       "skill": [
@@ -143683,7 +143683,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3338373",
+      "value": "3338583",
       "index": 3
     },
     {
@@ -143779,7 +143779,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7766049",
+      "value": "7766259",
       "index": 1
     },
     {
@@ -146713,7 +146713,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719502897000",
+  "lastActivityTime": "1719502935000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
