@@ -108803,7 +108803,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "37846",
+      "value": "37860",
       "index": 8
     },
     {
@@ -108845,7 +108845,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "100944",
+      "value": "100972",
       "index": 7
     },
     {
@@ -109643,7 +109643,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719451302000",
+  "lastActivityTime": "1719451869000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
