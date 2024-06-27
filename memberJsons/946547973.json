@@ -141404,7 +141404,7 @@
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "475",
+      "value": "476",
       "index": 6
     },
     {
@@ -141513,7 +141513,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 182,
+      "rank": 154,
       "squad": {
         "cell": [
           {
@@ -141591,7 +141591,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719378093000",
+        "lastSaveTime": "1719456906000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -142263,7 +142263,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 420,
-  "lastActivityTime": "1719456295000",
+  "lastActivityTime": "1719456969000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_CHEWBACCA"
   },
