@@ -124885,7 +124885,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "42584",
+      "value": "42599",
       "index": 8
     },
     {
@@ -124927,7 +124927,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "117347",
+      "value": "117362",
       "index": 7
     },
     {
@@ -125554,7 +125554,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719449709000",
+  "lastActivityTime": "1719483250000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SITHTROOPER"
   },
