@@ -8677,6 +8677,10 @@
         },
         {
           "equipmentId": "167",
+          "slot": 3
+        },
+        {
+          "equipmentId": "167",
           "slot": 4
         }
       ],
@@ -9427,7 +9431,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 20688
+      "gp": 20898
     },
     {
       "skill": [
@@ -143147,7 +143151,7 @@
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1254",
+      "value": "1255",
       "index": 6
     },
     {
@@ -143165,7 +143169,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "17295",
+      "value": "17307",
       "index": 9
     },
     {
@@ -143189,13 +143193,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4532004",
+      "value": "4532214",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "59551",
+      "value": "59570",
       "index": 8
     },
     {
@@ -143219,7 +143223,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "345226",
+      "value": "345534",
       "index": 16
     },
     {
@@ -143231,32 +143235,32 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7431073",
+      "value": "7431283",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "198476",
+      "value": "198507",
       "index": 7
     },
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "1539",
+      "value": "1541",
       "index": 14
     },
     {
       "nameKey": "STAT_SEASON_TERRITORIES_DEFEATED_NAME",
       "versionKey": "NULL",
-      "value": "640",
+      "value": "641",
       "index": 19
     }
   ],
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 258,
+      "rank": 218,
       "squad": {
         "cell": [
           {
@@ -143334,7 +143338,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719345882000",
+        "lastSaveTime": "1719454706000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -143974,7 +143978,7 @@
       "league": "AURODIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 2382,
+      "seasonPoints": 2690,
       "division": 15,
       "joinTime": "1718658141000",
       "endTime": "1720990800000",
@@ -144671,7 +144675,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719454299000",
+  "lastActivityTime": "1719454917000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_NIGHTSISTERS_VENTRESS"
   },
