@@ -137808,7 +137808,7 @@
     {
       "nameKey": "STAT_SEASON_SUCCESSFUL_DEFENDS_NAME",
       "versionKey": "NULL",
-      "value": "908",
+      "value": "907",
       "index": 15
     },
     {
@@ -137820,7 +137820,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "18030",
+      "value": "18042",
       "index": 9
     },
     {
@@ -137850,7 +137850,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "66123",
+      "value": "66130",
       "index": 8
     },
     {
@@ -137892,7 +137892,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "232183",
+      "value": "232195",
       "index": 7
     },
     {
@@ -140183,7 +140183,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719467083000",
+  "lastActivityTime": "1719468972000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_OURIDENTITY"
   },
