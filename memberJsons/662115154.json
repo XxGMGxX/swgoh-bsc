@@ -17796,20 +17796,22 @@
             {
               "roll": [
                 "0.17296",
-                "0.17672"
+                "0.17672",
+                "0.16148"
               ],
               "unscaledRollValue": [
                 "973",
-                "994"
+                "994",
+                "908"
               ],
               "stat": {
                 "unitStatId": 55,
-                "statValueDecimal": "196",
-                "unscaledDecimalValue": "1967000",
+                "statValueDecimal": "287",
+                "unscaledDecimalValue": "2875000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 2,
+              "statRolls": 3,
               "statRollerBoundsMin": "563",
               "statRollerBoundsMax": "1125"
             },
@@ -17835,7 +17837,7 @@
           "id": "xP22yRoWSJmPHENpcmw1jg",
           "definitionId": "453",
           "level": 15,
-          "tier": 4,
+          "tier": 5,
           "sellValue": {
             "currency": 1,
             "quantity": 97200,
@@ -18254,7 +18256,7 @@
       "relic": {
         "currentTier": 7
       },
-      "gp": 27136
+      "gp": 27160
     },
     {
       "skill": [
@@ -141043,7 +141045,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "37417",
+      "value": "37424",
       "index": 8
     },
     {
@@ -141085,7 +141087,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "172331",
+      "value": "172362",
       "index": 7
     },
     {
@@ -141705,7 +141707,7 @@
       "joinTime": "1718662260000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 20039
+      "rank": 20034
     }
   ],
   "datacron": [
@@ -141878,7 +141880,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 120,
-  "lastActivityTime": "1719525619000",
+  "lastActivityTime": "1719526194000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GIFT_02"
   },
