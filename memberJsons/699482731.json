@@ -120363,7 +120363,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "165614",
+      "value": "165636",
       "index": 7
     },
     {
@@ -121098,7 +121098,7 @@
       "joinTime": "1718662489000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 22845
+      "rank": 22844
     }
   ],
   "datacron": [
@@ -121776,7 +121776,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719602791000",
+  "lastActivityTime": "1719613873000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GRANDARENA_ADVANCED"
   },
