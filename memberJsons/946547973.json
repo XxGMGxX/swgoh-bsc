@@ -21755,7 +21755,16 @@
           "tier": 6
         }
       ],
-      "equipment": [],
+      "equipment": [
+        {
+          "equipmentId": "163",
+          "slot": 2
+        },
+        {
+          "equipmentId": "170",
+          "slot": 4
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -22455,7 +22464,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 15414
+      "gp": 15834
     },
     {
       "skill": [
@@ -34954,7 +34963,12 @@
           "tier": 4
         }
       ],
-      "equipment": [],
+      "equipment": [
+        {
+          "equipmentId": "162",
+          "slot": 2
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -35672,7 +35686,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 16774
+      "gp": 16984
     },
     {
       "skill": [
@@ -75926,7 +75940,16 @@
           "tier": 6
         }
       ],
-      "equipment": [],
+      "equipment": [
+        {
+          "equipmentId": "158",
+          "slot": 1
+        },
+        {
+          "equipmentId": "164",
+          "slot": 2
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -76650,7 +76673,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 16345
+      "gp": 16765
     },
     {
       "skill": [
@@ -141450,7 +141473,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4274401",
+      "value": "4275451",
       "index": 2
     },
     {
@@ -141492,7 +141515,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7179104",
+      "value": "7180154",
       "index": 1
     },
     {
@@ -142160,7 +142183,7 @@
       "joinTime": "1718670216000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 13148
+      "rank": 13144
     }
   ],
   "datacron": [
@@ -142267,7 +142290,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 420,
-  "lastActivityTime": "1719543685000",
+  "lastActivityTime": "1719543817000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_CHEWBACCA"
   },
