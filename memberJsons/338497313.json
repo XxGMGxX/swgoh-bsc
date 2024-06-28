@@ -23474,7 +23474,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "738445",
+      "value": "738655",
       "index": 11
     },
     {
@@ -24024,7 +24024,7 @@
       "joinTime": "1718662189000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 2906
+      "rank": 2907
     }
   ],
   "datacron": [
@@ -24230,7 +24230,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719613100000",
+  "lastActivityTime": "1719616873000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MANDALORIAN"
   },
