@@ -35960,6 +35960,10 @@
       ],
       "equipment": [
         {
+          "equipmentId": "158",
+          "slot": 0
+        },
+        {
           "equipmentId": "162",
           "slot": 1
         },
@@ -36713,7 +36717,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 23550
+      "gp": 23760
     },
     {
       "skill": [
@@ -73048,7 +73052,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 60297
+      "gp": 60769
     },
     {
       "skill": [
@@ -143872,7 +143876,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2179433",
+      "value": "2179905",
       "index": 3
     },
     {
@@ -143926,13 +143930,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3639577",
+      "value": "3639787",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "44385",
+      "value": "44388",
       "index": 8
     },
     {
@@ -143968,13 +143972,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5819010",
+      "value": "5819692",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "155995",
+      "value": "156004",
       "index": 7
     },
     {
@@ -144518,7 +144522,7 @@
       "joinTime": "1718684290000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 4392
+      "rank": 4384
     }
   ],
   "datacron": [
@@ -144570,7 +144574,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -480,
-  "lastActivityTime": "1719553293000",
+  "lastActivityTime": "1719553529000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SCOUTTROOPER"
   },
