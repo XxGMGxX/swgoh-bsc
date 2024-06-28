@@ -145051,13 +145051,13 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1869407",
+      "value": "1869518",
       "index": 11
     },
     {
       "nameKey": "STAT_TOTAL_GUILD_EXCHANGE_DONATIONS_TU07_2",
       "versionKey": "NULL",
-      "value": "6096",
+      "value": "6098",
       "index": 12
     },
     {
@@ -145842,7 +145842,7 @@
       "joinTime": "1718679837000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 695
+      "rank": 239
     }
   ],
   "datacron": [
@@ -145948,7 +145948,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719457373000",
+  "lastActivityTime": "1719547011000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SITHMASTER"
   },
