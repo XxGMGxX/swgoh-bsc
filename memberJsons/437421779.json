@@ -78151,7 +78151,7 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "430",
+      "value": "431",
       "index": 5
     },
     {
@@ -78175,7 +78175,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "18239",
+      "value": "18251",
       "index": 9
     },
     {
@@ -78247,7 +78247,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "222819",
+      "value": "222829",
       "index": 7
     },
     {
@@ -78352,7 +78352,7 @@
     },
     {
       "tab": 2,
-      "rank": 15,
+      "rank": 10,
       "squad": {
         "cell": [
           {
@@ -79174,7 +79174,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 120,
-  "lastActivityTime": "1719606644000",
+  "lastActivityTime": "1719607246000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_BD1"
   },
