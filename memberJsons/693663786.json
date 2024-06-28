@@ -42586,14 +42586,14 @@
       "purchasedAbilityId": [],
       "id": "fM2TZnPZRoKyy3lg4TvFbg",
       "definitionId": "Xanadu Blood",
-      "currentRarity": 3,
+      "currentRarity": 4,
       "currentLevel": 85,
       "currentXp": 873200,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 42151
+      "gp": 43830
     },
     {
       "skill": [
@@ -143872,7 +143872,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2177754",
+      "value": "2179433",
       "index": 3
     },
     {
@@ -143932,7 +143932,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "44369",
+      "value": "44381",
       "index": 8
     },
     {
@@ -143968,13 +143968,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5817331",
+      "value": "5819010",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "155966",
+      "value": "155991",
       "index": 7
     },
     {
@@ -144518,7 +144518,7 @@
       "joinTime": "1718684290000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 4348
+      "rank": 4347
     }
   ],
   "datacron": [
@@ -144570,7 +144570,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -480,
-  "lastActivityTime": "1719537493000",
+  "lastActivityTime": "1719538218000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SCOUTTROOPER"
   },
