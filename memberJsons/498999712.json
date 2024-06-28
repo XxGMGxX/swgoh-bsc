@@ -20238,7 +20238,7 @@
         },
         {
           "id": "leaderskill_TALIA",
-          "tier": 4
+          "tier": 5
         }
       ],
       "equipment": [
@@ -20273,7 +20273,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 10329
+      "gp": 10506
     },
     {
       "skill": [
@@ -108742,7 +108742,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2732493",
+      "value": "2732530",
       "index": 3
     },
     {
@@ -108796,7 +108796,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3405471",
+      "value": "3405900",
       "index": 2
     },
     {
@@ -108838,7 +108838,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6137964",
+      "value": "6138430",
       "index": 1
     },
     {
@@ -109428,7 +109428,7 @@
       "joinTime": "1718660515000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 10990
+      "rank": 10986
     }
   ],
   "datacron": [
@@ -109642,7 +109642,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719546723000",
+  "lastActivityTime": "1719549111000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
