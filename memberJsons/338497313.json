@@ -23408,7 +23408,7 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "94",
+      "value": "95",
       "index": 5
     },
     {
@@ -23504,7 +23504,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "109868",
+      "value": "109890",
       "index": 7
     },
     {
@@ -23609,7 +23609,7 @@
     },
     {
       "tab": 2,
-      "rank": 50,
+      "rank": 42,
       "squad": {
         "cell": [
           {
@@ -24230,7 +24230,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719616873000",
+  "lastActivityTime": "1719617132000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MANDALORIAN"
   },
