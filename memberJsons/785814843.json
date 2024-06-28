@@ -52914,20 +52914,7 @@
           "tier": 5
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "109",
-          "slot": 3
-        },
-        {
-          "equipmentId": "116",
-          "slot": 4
-        },
-        {
-          "equipmentId": "173",
-          "slot": 5
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -52938,11 +52925,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 10,
+      "currentTier": 11,
       "relic": {
         "currentTier": 1
       },
-      "gp": 9390
+      "gp": 9921
     },
     {
       "skill": [
@@ -82036,13 +82023,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2652249",
+      "value": "2652780",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "24035",
+      "value": "24052",
       "index": 8
     },
     {
@@ -82078,13 +82065,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4303637",
+      "value": "4304168",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "131094",
+      "value": "131172",
       "index": 7
     },
     {
@@ -82592,19 +82579,6 @@
   ],
   "seasonStatus": [
     {
-      "seasonId": "4zone_3v3_ga2_c3s1_51a",
-      "eventInstanceId": "GA2_SEASON_51A:O1711400400000",
-      "league": "BRONZIUM",
-      "wins": 0,
-      "losses": 0,
-      "seasonPoints": 2515,
-      "division": 25,
-      "joinTime": "1711406429000",
-      "endTime": "1713733200000",
-      "remove": false,
-      "rank": 8932
-    },
-    {
       "seasonId": "4zone_5v5_ga2_c3s1_52a",
       "eventInstanceId": "GA2_SEASON_52A:O1713819600000",
       "league": "CHROMIUM",
@@ -82629,6 +82603,19 @@
       "endTime": "1718571600000",
       "remove": false,
       "rank": 9556
+    },
+    {
+      "seasonId": "4zone_5v5_ga2_c3s1_54a",
+      "eventInstanceId": "GA2_SEASON_54A:O1718658000000",
+      "league": "BRONZIUM",
+      "wins": 0,
+      "losses": 0,
+      "seasonPoints": 0,
+      "division": 15,
+      "joinTime": "1719536628000",
+      "endTime": "1720990800000",
+      "remove": false,
+      "rank": 2020
     }
   ],
   "datacron": [
@@ -82658,18 +82645,18 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -420,
-  "lastActivityTime": "1718152024000",
+  "lastActivityTime": "1719537091000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_PADMEAMIDALA"
   },
   "lifetimeSeasonScore": "227774",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 2249
+      "skillRating": 2175
     },
     "playerRankStatus": {
       "leagueId": "BRONZIUM",
-      "divisionId": 15
+      "divisionId": 10
     }
   },
   "nucleusId": ""
