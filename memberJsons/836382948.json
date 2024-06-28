@@ -141926,7 +141926,7 @@
       "joinTime": "1718673487000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 4878
+      "rank": 4880
     }
   ],
   "datacron": [
@@ -141967,7 +141967,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719582695000",
+  "lastActivityTime": "1719582745000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDIKNIGHTLUKE"
   },
