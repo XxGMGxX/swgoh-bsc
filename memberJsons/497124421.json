@@ -143113,7 +143113,7 @@
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1256",
+      "value": "1257",
       "index": 6
     },
     {
@@ -143131,7 +143131,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "17319",
+      "value": "17331",
       "index": 9
     },
     {
@@ -143203,7 +143203,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "198708",
+      "value": "198718",
       "index": 7
     },
     {
@@ -143222,7 +143222,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 218,
+      "rank": 184,
       "squad": {
         "cell": [
           {
@@ -143300,7 +143300,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719464477000",
+        "lastSaveTime": "1719608680000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -143945,7 +143945,7 @@
       "joinTime": "1718658141000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 2594
+      "rank": 2595
     }
   ],
   "datacron": [
@@ -144637,7 +144637,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719605730000",
+  "lastActivityTime": "1719608825000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_NIGHTSISTERS_VENTRESS"
   },
