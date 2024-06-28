@@ -22429,7 +22429,7 @@
       "purchasedAbilityId": [],
       "id": "E1YMjDNuTB2CZRsaacKigg",
       "definitionId": "Admiral Raddus",
-      "currentRarity": 2,
+      "currentRarity": 3,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -22438,7 +22438,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 10788
+      "gp": 11013
     },
     {
       "skill": [
@@ -36747,7 +36747,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 49778
+      "gp": 50696
     },
     {
       "skill": [
@@ -52230,24 +52230,8 @@
       ],
       "equipment": [
         {
-          "equipmentId": "129",
-          "slot": 1
-        },
-        {
-          "equipmentId": "138",
+          "equipmentId": "160",
           "slot": 2
-        },
-        {
-          "equipmentId": "139",
-          "slot": 3
-        },
-        {
-          "equipmentId": "116",
-          "slot": 4
-        },
-        {
-          "equipmentId": "142",
-          "slot": 5
         }
       ],
       "equippedStatModOld": [],
@@ -52979,11 +52963,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 11,
+      "currentTier": 12,
       "relic": {
         "currentTier": 1
       },
-      "gp": 19851
+      "gp": 20259
     },
     {
       "skill": [
@@ -94655,19 +94639,19 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2511031",
+      "value": "2511949",
       "index": 3
     },
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "183",
+      "value": "184",
       "index": 5
     },
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "419",
+      "value": "420",
       "index": 6
     },
     {
@@ -94709,13 +94693,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3402332",
+      "value": "3402965",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "32712",
+      "value": "32749",
       "index": 8
     },
     {
@@ -94751,13 +94735,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5913363",
+      "value": "5914914",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "131567",
+      "value": "131632",
       "index": 7
     },
     {
@@ -94776,7 +94760,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 192,
+      "rank": 163,
       "squad": {
         "cell": [
           {
@@ -94854,7 +94838,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1717358535000",
+        "lastSaveTime": "1719561209000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -94934,7 +94918,7 @@
     },
     {
       "tab": 2,
-      "rank": 48,
+      "rank": 41,
       "squad": {
         "cell": [
           {
@@ -95379,7 +95363,7 @@
       "joinTime": "1718739932000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 14555
+      "rank": 14559
     }
   ],
   "datacron": [
@@ -95616,7 +95600,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 360,
-  "lastActivityTime": "1719561089000",
+  "lastActivityTime": "1719561685000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GLKENOBI"
   },
