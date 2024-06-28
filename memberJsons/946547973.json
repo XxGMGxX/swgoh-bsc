@@ -142183,7 +142183,7 @@
       "joinTime": "1718670216000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 13104
+      "rank": 13093
     }
   ],
   "datacron": [
@@ -142290,7 +142290,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 420,
-  "lastActivityTime": "1719553142000",
+  "lastActivityTime": "1719554057000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_CHEWBACCA"
   },
