@@ -3284,6 +3284,10 @@
         {
           "equipmentId": "170",
           "slot": 3
+        },
+        {
+          "equipmentId": "171",
+          "slot": 4
         }
       ],
       "equippedStatModOld": [],
@@ -4023,7 +4027,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 20616
+      "gp": 20826
     },
     {
       "skill": [],
@@ -108796,7 +108800,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3405900",
+      "value": "3406110",
       "index": 2
     },
     {
@@ -108838,7 +108842,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6138430",
+      "value": "6138640",
       "index": 1
     },
     {
@@ -109428,7 +109432,7 @@
       "joinTime": "1718660515000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 10986
+      "rank": 10977
     }
   ],
   "datacron": [
@@ -109642,7 +109646,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719549111000",
+  "lastActivityTime": "1719549645000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
