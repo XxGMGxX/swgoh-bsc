@@ -121090,7 +121090,7 @@
       "joinTime": "1718662489000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 23030
+      "rank": 23031
     }
   ],
   "datacron": [
@@ -121768,7 +121768,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719535001000",
+  "lastActivityTime": "1719535528000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GRANDARENA_ADVANCED"
   },
