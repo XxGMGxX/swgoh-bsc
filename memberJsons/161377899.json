@@ -109661,6 +109661,10 @@
           "slot": 0
         },
         {
+          "equipmentId": "116",
+          "slot": 1
+        },
+        {
           "equipmentId": "173",
           "slot": 3
         },
@@ -110420,7 +110424,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 13275
+      "gp": 13452
     },
     {
       "skill": [
@@ -137804,7 +137808,7 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "547",
+      "value": "548",
       "index": 5
     },
     {
@@ -137852,7 +137856,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4843424",
+      "value": "4843679",
       "index": 2
     },
     {
@@ -137894,13 +137898,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8298254",
+      "value": "8298509",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "232295",
+      "value": "232302",
       "index": 7
     },
     {
@@ -137997,7 +138001,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719446811000",
+        "lastSaveTime": "1719534860000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -138110,7 +138114,7 @@
     },
     {
       "tab": 2,
-      "rank": 19,
+      "rank": 13,
       "squad": {
         "cell": [
           {
@@ -138679,7 +138683,7 @@
       "joinTime": "1718661267000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 3806
+      "rank": 3804
     }
   ],
   "datacron": [
@@ -140191,7 +140195,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719534689000",
+  "lastActivityTime": "1719535245000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_OURIDENTITY"
   },
