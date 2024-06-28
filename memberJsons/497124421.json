@@ -8662,28 +8662,7 @@
           "tier": 6
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "158",
-          "slot": 0
-        },
-        {
-          "equipmentId": "159",
-          "slot": 1
-        },
-        {
-          "equipmentId": "160",
-          "slot": 2
-        },
-        {
-          "equipmentId": "167",
-          "slot": 3
-        },
-        {
-          "equipmentId": "167",
-          "slot": 4
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -9427,11 +9406,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 12,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 5
       },
-      "gp": 20898
+      "gp": 23613
     },
     {
       "skill": [
@@ -143176,13 +143155,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4534605",
+      "value": "4537320",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "59592",
+      "value": "59615",
       "index": 8
     },
     {
@@ -143218,13 +143197,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7433674",
+      "value": "7436389",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "198675",
+      "value": "198708",
       "index": 7
     },
     {
@@ -143966,7 +143945,7 @@
       "joinTime": "1718658141000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 2601
+      "rank": 2599
     }
   ],
   "datacron": [
@@ -144658,7 +144637,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719589079000",
+  "lastActivityTime": "1719605730000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_NIGHTSISTERS_VENTRESS"
   },
