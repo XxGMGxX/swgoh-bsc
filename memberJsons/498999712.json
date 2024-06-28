@@ -108804,7 +108804,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3407097",
+      "value": "3407188",
       "index": 2
     },
     {
@@ -108834,7 +108834,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "190595",
+      "value": "190649",
       "index": 16
     },
     {
@@ -108846,7 +108846,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6139627",
+      "value": "6139718",
       "index": 1
     },
     {
@@ -108858,7 +108858,7 @@
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "1294",
+      "value": "1295",
       "index": 14
     },
     {
@@ -109431,12 +109431,12 @@
       "league": "AURODIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 1072,
+      "seasonPoints": 1126,
       "division": 10,
       "joinTime": "1718660515000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 10937
+      "rank": 10936
     }
   ],
   "datacron": [
@@ -109650,7 +109650,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719594674000",
+  "lastActivityTime": "1719610244000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
