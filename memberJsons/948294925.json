@@ -31427,7 +31427,7 @@
       "purchasedAbilityId": [],
       "id": "YBDK01B8S2C-XpL6enaLfQ",
       "definitionId": "Scout Trooper",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -31436,7 +31436,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 9429
+      "gp": 10569
     },
     {
       "skill": [
@@ -130933,13 +130933,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4466687",
+      "value": "4467827",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "48466",
+      "value": "48524",
       "index": 8
     },
     {
@@ -130975,13 +130975,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7706242",
+      "value": "7707382",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "134109",
+      "value": "134167",
       "index": 7
     },
     {
@@ -131672,7 +131672,7 @@
       "joinTime": "1718658068000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 3560
+      "rank": 3561
     }
   ],
   "datacron": [
@@ -132182,7 +132182,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719588106000",
+  "lastActivityTime": "1719588345000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
