@@ -3268,28 +3268,7 @@
           "tier": 6
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "160",
-          "slot": 0
-        },
-        {
-          "equipmentId": "159",
-          "slot": 1
-        },
-        {
-          "equipmentId": "160",
-          "slot": 2
-        },
-        {
-          "equipmentId": "170",
-          "slot": 3
-        },
-        {
-          "equipmentId": "171",
-          "slot": 4
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -4027,11 +4006,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 12,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 3
       },
-      "gp": 20917
+      "gp": 21886
     },
     {
       "skill": [],
@@ -108774,7 +108753,7 @@
     {
       "nameKey": "STAT_SEASON_FULL_CLEAR_ROUND_WINS_NAME",
       "versionKey": "NULL",
-      "value": "86",
+      "value": "87",
       "index": 17
     },
     {
@@ -108798,19 +108777,19 @@
     {
       "nameKey": "STAT_SEASON_UNDERSIZED_SQUAD_WINS_NAME",
       "versionKey": "NULL",
-      "value": "400",
+      "value": "401",
       "index": 18
     },
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3407188",
+      "value": "3408157",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "37948",
+      "value": "37958",
       "index": 8
     },
     {
@@ -108834,7 +108813,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "191840",
+      "value": "192099",
       "index": 16
     },
     {
@@ -108846,25 +108825,25 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6139718",
+      "value": "6140687",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "101140",
+      "value": "101164",
       "index": 7
     },
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "1304",
+      "value": "1305",
       "index": 14
     },
     {
       "nameKey": "STAT_SEASON_TERRITORIES_DEFEATED_NAME",
       "versionKey": "NULL",
-      "value": "605",
+      "value": "606",
       "index": 19
     }
   ],
@@ -109431,7 +109410,7 @@
       "league": "AURODIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 2317,
+      "seasonPoints": 2576,
       "division": 10,
       "joinTime": "1718660515000",
       "endTime": "1720990800000",
@@ -109650,7 +109629,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719612059000",
+  "lastActivityTime": "1719612676000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
