@@ -29530,7 +29530,7 @@
       "purchasedAbilityId": [],
       "id": "kZZTCQV4SSmezekeQft1Jw",
       "definitionId": "Scout Trooper",
-      "currentRarity": 6,
+      "currentRarity": 7,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -29539,7 +29539,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 8679
+      "gp": 10674
     },
     {
       "skill": [
@@ -108465,7 +108465,7 @@
       "purchasedAbilityId": [],
       "id": "B8cMgkDqS-yGVJdNcnYM9Q",
       "definitionId": "Iden Versio",
-      "currentRarity": 6,
+      "currentRarity": 7,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -108474,7 +108474,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 8959
+      "gp": 10954
     },
     {
       "skill": [
@@ -132216,7 +132216,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 17429
+      "gp": 20871
     },
     {
       "skill": [],
@@ -141392,7 +141392,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2901261",
+      "value": "2904703",
       "index": 3
     },
     {
@@ -141422,7 +141422,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "8656",
+      "value": "8668",
       "index": 9
     },
     {
@@ -141446,13 +141446,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4270201",
+      "value": "4274191",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "28664",
+      "value": "28696",
       "index": 8
     },
     {
@@ -141488,13 +141488,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7171462",
+      "value": "7178894",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "101319",
+      "value": "101356",
       "index": 7
     },
     {
@@ -142156,7 +142156,7 @@
       "joinTime": "1718670216000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 13153
+      "rank": 13157
     }
   ],
   "datacron": [
@@ -142263,7 +142263,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 420,
-  "lastActivityTime": "1719542439000",
+  "lastActivityTime": "1719543105000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_CHEWBACCA"
   },
