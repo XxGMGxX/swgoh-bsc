@@ -129956,6 +129956,10 @@
           "slot": 1
         },
         {
+          "equipmentId": "160",
+          "slot": 2
+        },
+        {
           "equipmentId": "166",
           "slot": 3
         },
@@ -130679,7 +130683,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 17641
+      "gp": 17851
     },
     {
       "skill": [
@@ -141425,7 +141429,7 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "924",
+      "value": "925",
       "index": 5
     },
     {
@@ -141473,13 +141477,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4275451",
+      "value": "4275661",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "28696",
+      "value": "28705",
       "index": 8
     },
     {
@@ -141515,13 +141519,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7180154",
+      "value": "7180364",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "101394",
+      "value": "101441",
       "index": 7
     },
     {
@@ -141698,7 +141702,7 @@
     },
     {
       "tab": 2,
-      "rank": 6,
+      "rank": 4,
       "squad": {
         "cell": [
           {
@@ -142183,7 +142187,7 @@
       "joinTime": "1718670216000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 13094
+      "rank": 13089
     }
   ],
   "datacron": [
@@ -142290,7 +142294,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 420,
-  "lastActivityTime": "1719554057000",
+  "lastActivityTime": "1719572472000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_CHEWBACCA"
   },
