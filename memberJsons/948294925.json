@@ -36168,7 +36168,7 @@
         },
         {
           "id": "leaderskill_GRANDMASTERLUKE",
-          "tier": 0
+          "tier": 1
         },
         {
           "id": "specialskill_GRANDMASTERLUKE02",
@@ -36940,7 +36940,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 16555
+      "gp": 19494
     },
     {
       "skill": [
@@ -130933,7 +130933,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4467827",
+      "value": "4470766",
       "index": 2
     },
     {
@@ -130975,13 +130975,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7707382",
+      "value": "7710321",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "134167",
+      "value": "134168",
       "index": 7
     },
     {
@@ -131672,7 +131672,7 @@
       "joinTime": "1718658068000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 3556
+      "rank": 3554
     }
   ],
   "datacron": [
@@ -132182,7 +132182,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719589231000",
+  "lastActivityTime": "1719591494000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
