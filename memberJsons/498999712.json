@@ -14433,7 +14433,7 @@
       "purchasedAbilityId": [],
       "id": "ZaSi5OY3TP6h9JPcDBl8NQ",
       "definitionId": "Fifth Brother",
-      "currentRarity": 3,
+      "currentRarity": 4,
       "currentLevel": 1,
       "currentXp": 0,
       "promotionRecipeReference": "",
@@ -14442,7 +14442,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 676
+      "gp": 1014
     },
     {
       "skill": [],
@@ -35344,7 +35344,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 44559
+      "gp": 45811
     },
     {
       "skill": [],
@@ -51971,16 +51971,12 @@
       ],
       "equipment": [
         {
-          "equipmentId": "126",
-          "slot": 3
+          "equipmentId": "139",
+          "slot": 0
         },
         {
-          "equipmentId": "060",
+          "equipmentId": "113",
           "slot": 4
-        },
-        {
-          "equipmentId": "086",
-          "slot": 5
         }
       ],
       "equippedStatModOld": [],
@@ -52714,11 +52710,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 10,
+      "currentTier": 11,
       "relic": {
         "currentTier": 1
       },
-      "gp": 15582
+      "gp": 16509
     },
     {
       "skill": [
@@ -72200,7 +72196,7 @@
       "purchasedAbilityId": [],
       "id": "Usie99pWRPGqGj6FmK8KnA",
       "definitionId": "Ninth Sister",
-      "currentRarity": 4,
+      "currentRarity": 5,
       "currentLevel": 1,
       "currentXp": 0,
       "promotionRecipeReference": "",
@@ -72209,7 +72205,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 1014
+      "gp": 1521
     },
     {
       "skill": [
@@ -108745,7 +108741,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2728354",
+      "value": "2729606",
       "index": 3
     },
     {
@@ -108757,7 +108753,7 @@
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1511",
+      "value": "1512",
       "index": 6
     },
     {
@@ -108775,7 +108771,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "11829",
+      "value": "11841",
       "index": 9
     },
     {
@@ -108799,7 +108795,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3400768",
+      "value": "3402540",
       "index": 2
     },
     {
@@ -108841,13 +108837,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6129122",
+      "value": "6132146",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "101041",
+      "value": "101051",
       "index": 7
     },
     {
@@ -108866,7 +108862,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 274,
+      "rank": 231,
       "squad": {
         "cell": [
           {
@@ -109431,7 +109427,7 @@
       "joinTime": "1718660515000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 10966
+      "rank": 10971
     }
   ],
   "datacron": [
@@ -109645,7 +109641,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719544282000",
+  "lastActivityTime": "1719544895000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
