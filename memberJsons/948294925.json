@@ -130885,13 +130885,13 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "287",
+      "value": "288",
       "index": 5
     },
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "349",
+      "value": "350",
       "index": 6
     },
     {
@@ -131000,7 +131000,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 128,
+      "rank": 112,
       "squad": {
         "cell": [
           {
@@ -131078,7 +131078,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719446741000",
+        "lastSaveTime": "1719598969000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -131191,7 +131191,7 @@
     },
     {
       "tab": 2,
-      "rank": 45,
+      "rank": 40,
       "squad": {
         "cell": [
           {
@@ -132182,7 +132182,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719597207000",
+  "lastActivityTime": "1719599215000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },

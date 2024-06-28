@@ -62905,7 +62905,7 @@
       "purchasedAbilityId": [],
       "id": "sgTSmSloQwWCLzY4Vwuv7w",
       "definitionId": "Gungan Boomadier",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -62914,7 +62914,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 5899
+      "gp": 7039
     },
     {
       "skill": [
@@ -78199,13 +78199,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5050135",
+      "value": "5051275",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "48969",
+      "value": "48979",
       "index": 8
     },
     {
@@ -78241,13 +78241,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8625786",
+      "value": "8626926",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "222779",
+      "value": "222796",
       "index": 7
     },
     {
@@ -79174,7 +79174,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 120,
-  "lastActivityTime": "1719592420000",
+  "lastActivityTime": "1719599467000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_BD1"
   },
