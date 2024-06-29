@@ -109415,7 +109415,7 @@
       "joinTime": "1718660515000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 10936
+      "rank": 5318
     }
   ],
   "datacron": [
@@ -109629,14 +109629,14 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719679377000",
+  "lastActivityTime": "1719697844000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
   "lifetimeSeasonScore": "5401",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 2646
+      "skillRating": 2684
     },
     "playerRankStatus": {
       "leagueId": "AURODIUM",

@@ -114999,23 +114999,15 @@
       ],
       "equipment": [
         {
-          "equipmentId": "101",
+          "equipmentId": "129",
           "slot": 0
         },
         {
-          "equipmentId": "106",
-          "slot": 1
-        },
-        {
-          "equipmentId": "101",
-          "slot": 3
-        },
-        {
-          "equipmentId": "106",
+          "equipmentId": "116",
           "slot": 4
         },
         {
-          "equipmentId": "125",
+          "equipmentId": "144",
           "slot": 5
         }
       ],
@@ -115762,11 +115754,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 9,
+      "currentTier": 10,
       "relic": {
         "currentTier": 1
       },
-      "gp": 14320
+      "gp": 14994
     },
     {
       "skill": [
@@ -143155,13 +143147,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4537320",
+      "value": "4537994",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "59615",
+      "value": "59633",
       "index": 8
     },
     {
@@ -143197,13 +143189,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7436389",
+      "value": "7437063",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "198718",
+      "value": "198768",
       "index": 7
     },
     {
@@ -143945,7 +143937,7 @@
       "joinTime": "1718658141000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 2623
+      "rank": 8204
     }
   ],
   "datacron": [
@@ -144637,7 +144629,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719697283000",
+  "lastActivityTime": "1719697847000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_NIGHTSISTERS_VENTRESS"
   },
