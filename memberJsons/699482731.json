@@ -120279,7 +120279,7 @@
     {
       "nameKey": "STAT_SEASON_SUCCESSFUL_DEFENDS_NAME",
       "versionKey": "NULL",
-      "value": "669",
+      "value": "672",
       "index": 15
     },
     {
@@ -120540,7 +120540,7 @@
     },
     {
       "tab": 2,
-      "rank": 13,
+      "rank": 18,
       "squad": {
         "cell": [
           {
@@ -121098,7 +121098,7 @@
       "joinTime": "1718662489000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 22852
+      "rank": 22853
     }
   ],
   "datacron": [
