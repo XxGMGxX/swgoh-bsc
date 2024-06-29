@@ -89357,7 +89357,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "123812",
+      "value": "123824",
       "index": 8
     },
     {
@@ -89381,7 +89381,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "325897",
+      "value": "325968",
       "index": 16
     },
     {
@@ -89399,13 +89399,13 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "212739",
+      "value": "212756",
       "index": 7
     },
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "952",
+      "value": "953",
       "index": 14
     },
     {
@@ -90005,12 +90005,12 @@
       "league": "CHROMIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 2983,
+      "seasonPoints": 3054,
       "division": 15,
       "joinTime": "1718668747000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 338
+      "rank": 337
     }
   ],
   "datacron": [
@@ -90083,7 +90083,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719660365000",
+  "lastActivityTime": "1719692379000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
