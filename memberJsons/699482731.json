@@ -120267,7 +120267,7 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "594",
+      "value": "595",
       "index": 5
     },
     {
@@ -120333,7 +120333,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1032369",
+      "value": "1032579",
       "index": 11
     },
     {
@@ -120460,7 +120460,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719534809000",
+        "lastSaveTime": "1719619497000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -120540,7 +120540,7 @@
     },
     {
       "tab": 2,
-      "rank": 18,
+      "rank": 13,
       "squad": {
         "cell": [
           {
@@ -121098,7 +121098,7 @@
       "joinTime": "1718662489000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 22845
+      "rank": 22846
     }
   ],
   "datacron": [
@@ -121776,7 +121776,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719613931000",
+  "lastActivityTime": "1719619837000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GRANDARENA_ADVANCED"
   },
