@@ -94089,13 +94089,13 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "457",
+      "value": "458",
       "index": 5
     },
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1341",
+      "value": "1342",
       "index": 6
     },
     {
@@ -94113,7 +94113,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "15977",
+      "value": "15989",
       "index": 9
     },
     {
@@ -94185,7 +94185,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "133469",
+      "value": "133471",
       "index": 7
     },
     {
@@ -94204,7 +94204,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 749,
+      "rank": 668,
       "squad": {
         "cell": [
           {
@@ -94282,7 +94282,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719536617000",
+        "lastSaveTime": "1719628967000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -94339,7 +94339,7 @@
     },
     {
       "tab": 2,
-      "rank": 79,
+      "rank": 66,
       "squad": {
         "cell": [
           {
@@ -94781,7 +94781,7 @@
       "joinTime": "1719521136000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 12380
+      "rank": 12383
     }
   ],
   "datacron": [
@@ -94996,7 +94996,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719628818000",
+  "lastActivityTime": "1719629447000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
