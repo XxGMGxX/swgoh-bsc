@@ -69724,7 +69724,7 @@
         },
         {
           "id": "uniqueskill_GRANDINQUISITOR01",
-          "tier": 4
+          "tier": 5
         }
       ],
       "equipment": [
@@ -69763,7 +69763,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 16588
+      "gp": 19171
     },
     {
       "skill": [
@@ -141056,7 +141056,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4205142",
+      "value": "4207725",
       "index": 2
     },
     {
@@ -141098,13 +141098,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6652184",
+      "value": "6654767",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "172587",
+      "value": "172588",
       "index": 7
     },
     {
@@ -141897,7 +141897,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 120,
-  "lastActivityTime": "1719658272000",
+  "lastActivityTime": "1719658718000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GIFT_02"
   },
