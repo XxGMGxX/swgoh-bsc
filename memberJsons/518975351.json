@@ -119309,7 +119309,7 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "505",
+      "value": "506",
       "index": 5
     },
     {
@@ -119381,7 +119381,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_EXCHANGE_DONATIONS_TU07_2",
       "versionKey": "NULL",
-      "value": "948",
+      "value": "950",
       "index": 12
     },
     {
@@ -119510,7 +119510,7 @@
     },
     {
       "tab": 2,
-      "rank": 72,
+      "rank": 59,
       "squad": {
         "cell": [
           {
@@ -119979,7 +119979,7 @@
       "joinTime": "1718663828000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 16233
+      "rank": 16234
     }
   ],
   "datacron": [
@@ -120185,7 +120185,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719687681000",
+  "lastActivityTime": "1719688191000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
