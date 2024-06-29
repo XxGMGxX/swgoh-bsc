@@ -95363,7 +95363,7 @@
       "joinTime": "1718739932000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 14460
+      "rank": 14459
     }
   ],
   "datacron": [
@@ -95600,7 +95600,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 360,
-  "lastActivityTime": "1719678983000",
+  "lastActivityTime": "1719698465000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GLKENOBI"
   },
