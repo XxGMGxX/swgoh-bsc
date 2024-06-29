@@ -4,19 +4,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "458850"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "684384"
           },
           {
             "type": 3,
-            "currentValue": "2",
+            "currentValue": "0",
             "lifetimeValue": "687"
-          },
-          {
-            "type": 2,
-            "currentValue": "566",
-            "lifetimeValue": "458850"
           }
         ],
         "seasonStatus": [
@@ -80,19 +80,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "460994"
+          },
+          {
             "type": 1,
-            "currentValue": "305",
+            "currentValue": "0",
             "lifetimeValue": "770985"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "415"
-          },
-          {
-            "type": 2,
-            "currentValue": "600",
-            "lifetimeValue": "460994"
           }
         ],
         "seasonStatus": [
@@ -156,19 +156,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "445400"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "573631"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "87"
-          },
-          {
-            "type": 2,
-            "currentValue": "428",
-            "lifetimeValue": "445400"
           }
         ],
         "seasonStatus": [
@@ -232,19 +232,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "340070"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "499336"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "84"
-          },
-          {
-            "type": 2,
-            "currentValue": "600",
-            "lifetimeValue": "340070"
           }
         ],
         "seasonStatus": [
@@ -308,6 +308,11 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "228598"
+          },
+          {
             "type": 1,
             "currentValue": "0",
             "lifetimeValue": "511346"
@@ -316,11 +321,6 @@
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "63"
-          },
-          {
-            "type": 2,
-            "currentValue": "0",
-            "lifetimeValue": "228598"
           }
         ],
         "seasonStatus": [
@@ -384,19 +384,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "377306"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "421935"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "156"
-          },
-          {
-            "type": 2,
-            "currentValue": "600",
-            "lifetimeValue": "377306"
           }
         ],
         "seasonStatus": [
@@ -460,19 +460,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "436082"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "677600"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "2239"
-          },
-          {
-            "type": 2,
-            "currentValue": "600",
-            "lifetimeValue": "436082"
           }
         ],
         "seasonStatus": [
@@ -536,19 +536,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "459378"
+          },
+          {
             "type": 1,
-            "currentValue": "305",
+            "currentValue": "0",
             "lifetimeValue": "757318"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "248"
-          },
-          {
-            "type": 2,
-            "currentValue": "600",
-            "lifetimeValue": "459378"
           }
         ],
         "seasonStatus": [
@@ -597,7 +597,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719699685000",
+        "lastActivityTime": "1719700052000",
         "squadPower": 169402,
         "guildJoinTime": "1652378146",
         "galacticPower": "8299741",
@@ -612,19 +612,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "308950"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "439020"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "1042"
-          },
-          {
-            "type": 2,
-            "currentValue": "252",
-            "lifetimeValue": "308950"
           }
         ],
         "seasonStatus": [
@@ -688,19 +688,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "241998"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "483863"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "555"
-          },
-          {
-            "type": 2,
-            "currentValue": "352",
-            "lifetimeValue": "241998"
           }
         ],
         "seasonStatus": [
@@ -764,19 +764,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "432386"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "620152"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "17"
-          },
-          {
-            "type": 2,
-            "currentValue": "600",
-            "lifetimeValue": "432386"
           }
         ],
         "seasonStatus": [
@@ -825,7 +825,7 @@
         "playerLevel": 85,
         "memberLevel": 3,
         "guildXp": 0,
-        "lastActivityTime": "1719699644000",
+        "lastActivityTime": "1719700283000",
         "squadPower": 167460,
         "guildJoinTime": "1652388658",
         "galacticPower": "6656480",
@@ -840,6 +840,11 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "331842"
+          },
+          {
             "type": 1,
             "currentValue": "0",
             "lifetimeValue": "636369"
@@ -848,11 +853,6 @@
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "145"
-          },
-          {
-            "type": 2,
-            "currentValue": "294",
-            "lifetimeValue": "331842"
           }
         ],
         "seasonStatus": [
@@ -916,6 +916,11 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "209908"
+          },
+          {
             "type": 1,
             "currentValue": "0",
             "lifetimeValue": "379045"
@@ -924,11 +929,6 @@
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "206"
-          },
-          {
-            "type": 2,
-            "currentValue": "0",
-            "lifetimeValue": "209908"
           }
         ],
         "seasonStatus": [
@@ -992,19 +992,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "456360"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "681008"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "59"
-          },
-          {
-            "type": 2,
-            "currentValue": "600",
-            "lifetimeValue": "456360"
           }
         ],
         "seasonStatus": [
@@ -1053,7 +1053,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719699680000",
+        "lastActivityTime": "1719700234000",
         "squadPower": 149766,
         "guildJoinTime": "1652389663",
         "galacticPower": "8750361",
@@ -1068,6 +1068,11 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "376344"
+          },
+          {
             "type": 1,
             "currentValue": "0",
             "lifetimeValue": "644543"
@@ -1076,11 +1081,6 @@
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "10"
-          },
-          {
-            "type": 2,
-            "currentValue": "600",
-            "lifetimeValue": "376344"
           }
         ],
         "seasonStatus": [
@@ -1144,19 +1144,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "410868"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "646544"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "30"
-          },
-          {
-            "type": 2,
-            "currentValue": "600",
-            "lifetimeValue": "410868"
           }
         ],
         "seasonStatus": [
@@ -1220,6 +1220,11 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "331116"
+          },
+          {
             "type": 1,
             "currentValue": "0",
             "lifetimeValue": "612290"
@@ -1228,11 +1233,6 @@
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "19"
-          },
-          {
-            "type": 2,
-            "currentValue": "0",
-            "lifetimeValue": "331116"
           }
         ],
         "seasonStatus": [
@@ -1296,19 +1296,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "428292"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "576872"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "1158"
-          },
-          {
-            "type": 2,
-            "currentValue": "600",
-            "lifetimeValue": "428292"
           }
         ],
         "seasonStatus": [
@@ -1372,6 +1372,11 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "284780"
+          },
+          {
             "type": 1,
             "currentValue": "0",
             "lifetimeValue": "525868"
@@ -1380,11 +1385,6 @@
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "258"
-          },
-          {
-            "type": 2,
-            "currentValue": "0",
-            "lifetimeValue": "284780"
           }
         ],
         "seasonStatus": [
@@ -1448,19 +1448,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "284444"
+          },
+          {
             "type": 1,
-            "currentValue": "174",
+            "currentValue": "0",
             "lifetimeValue": "289608"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "59"
-          },
-          {
-            "type": 2,
-            "currentValue": "600",
-            "lifetimeValue": "284444"
           }
         ],
         "seasonStatus": [
@@ -1524,19 +1524,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "142990"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "653596"
           },
           {
             "type": 3,
-            "currentValue": "2",
+            "currentValue": "0",
             "lifetimeValue": "725"
-          },
-          {
-            "type": 2,
-            "currentValue": "142",
-            "lifetimeValue": "142990"
           }
         ],
         "seasonStatus": [
@@ -1600,19 +1600,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "327424"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "503186"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "526"
-          },
-          {
-            "type": 2,
-            "currentValue": "322",
-            "lifetimeValue": "327424"
           }
         ],
         "seasonStatus": [
@@ -1676,19 +1676,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "459844"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "682043"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "2631"
-          },
-          {
-            "type": 2,
-            "currentValue": "600",
-            "lifetimeValue": "459844"
           }
         ],
         "seasonStatus": [
@@ -1752,6 +1752,11 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "397566"
+          },
+          {
             "type": 1,
             "currentValue": "0",
             "lifetimeValue": "609043"
@@ -1760,11 +1765,6 @@
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "946"
-          },
-          {
-            "type": 2,
-            "currentValue": "600",
-            "lifetimeValue": "397566"
           }
         ],
         "seasonStatus": [
@@ -1828,19 +1828,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "374326"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "677615"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "383"
-          },
-          {
-            "type": 2,
-            "currentValue": "492",
-            "lifetimeValue": "374326"
           }
         ],
         "seasonStatus": [
@@ -1904,6 +1904,11 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "357550"
+          },
+          {
             "type": 1,
             "currentValue": "0",
             "lifetimeValue": "641358"
@@ -1912,11 +1917,6 @@
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "637"
-          },
-          {
-            "type": 2,
-            "currentValue": "0",
-            "lifetimeValue": "357550"
           }
         ],
         "seasonStatus": [
@@ -1980,19 +1980,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "450302"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "716957"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "51"
-          },
-          {
-            "type": 2,
-            "currentValue": "600",
-            "lifetimeValue": "450302"
           }
         ],
         "seasonStatus": [
@@ -2056,19 +2056,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "448014"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "671928"
           },
           {
             "type": 3,
-            "currentValue": "2",
+            "currentValue": "0",
             "lifetimeValue": "1761"
-          },
-          {
-            "type": 2,
-            "currentValue": "600",
-            "lifetimeValue": "448014"
           }
         ],
         "seasonStatus": [
@@ -2132,19 +2132,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "362842"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "603669"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "87"
-          },
-          {
-            "type": 2,
-            "currentValue": "332",
-            "lifetimeValue": "362842"
           }
         ],
         "seasonStatus": [
@@ -2208,19 +2208,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "405122"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
-            "lifetimeValue": "675525"
+            "currentValue": "117",
+            "lifetimeValue": "675642"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "36"
-          },
-          {
-            "type": 2,
-            "currentValue": "532",
-            "lifetimeValue": "405122"
           }
         ],
         "seasonStatus": [
@@ -2269,7 +2269,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719692379000",
+        "lastActivityTime": "1719700256000",
         "squadPower": 186754,
         "guildJoinTime": "1653076184",
         "galacticPower": "7900205",
@@ -2284,19 +2284,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "297342"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "480741"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "33"
-          },
-          {
-            "type": 2,
-            "currentValue": "284",
-            "lifetimeValue": "297342"
           }
         ],
         "seasonStatus": [
@@ -2360,19 +2360,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "331540"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "569993"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "91"
-          },
-          {
-            "type": 2,
-            "currentValue": "156",
-            "lifetimeValue": "331540"
           }
         ],
         "seasonStatus": [
@@ -2436,19 +2436,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "299632"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "451311"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "113"
-          },
-          {
-            "type": 2,
-            "currentValue": "384",
-            "lifetimeValue": "299632"
           }
         ],
         "seasonStatus": [
@@ -2512,19 +2512,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "157160"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "381182"
           },
           {
             "type": 3,
-            "currentValue": "2",
+            "currentValue": "0",
             "lifetimeValue": "104"
-          },
-          {
-            "type": 2,
-            "currentValue": "264",
-            "lifetimeValue": "157160"
           }
         ],
         "seasonStatus": [
@@ -2588,6 +2588,11 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "81332"
+          },
+          {
             "type": 1,
             "currentValue": "0",
             "lifetimeValue": "88105"
@@ -2596,11 +2601,6 @@
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "18"
-          },
-          {
-            "type": 2,
-            "currentValue": "0",
-            "lifetimeValue": "81332"
           }
         ],
         "seasonStatus": [
@@ -2664,19 +2664,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "320958"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "424754"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "136"
-          },
-          {
-            "type": 2,
-            "currentValue": "600",
-            "lifetimeValue": "320958"
           }
         ],
         "seasonStatus": [
@@ -2740,19 +2740,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "265764"
+          },
+          {
             "type": 1,
-            "currentValue": "305",
+            "currentValue": "0",
             "lifetimeValue": "352636"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "26"
-          },
-          {
-            "type": 2,
-            "currentValue": "448",
-            "lifetimeValue": "265764"
           }
         ],
         "seasonStatus": [
@@ -2816,19 +2816,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "304730"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "362114"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "177"
-          },
-          {
-            "type": 2,
-            "currentValue": "460",
-            "lifetimeValue": "304730"
           }
         ],
         "seasonStatus": [
@@ -2892,19 +2892,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "173884"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "183342"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "28"
-          },
-          {
-            "type": 2,
-            "currentValue": "600",
-            "lifetimeValue": "173884"
           }
         ],
         "seasonStatus": [
@@ -2968,19 +2968,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "238056"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "133084"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "57"
-          },
-          {
-            "type": 2,
-            "currentValue": "600",
-            "lifetimeValue": "238056"
           }
         ],
         "seasonStatus": [
@@ -3044,19 +3044,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "226480"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "184829"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "754"
-          },
-          {
-            "type": 2,
-            "currentValue": "600",
-            "lifetimeValue": "226480"
           }
         ],
         "seasonStatus": [
@@ -3120,6 +3120,11 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "150436"
+          },
+          {
             "type": 1,
             "currentValue": "0",
             "lifetimeValue": "136324"
@@ -3128,11 +3133,6 @@
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "226"
-          },
-          {
-            "type": 2,
-            "currentValue": "144",
-            "lifetimeValue": "150436"
           }
         ],
         "seasonStatus": [
@@ -3196,19 +3196,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "131450"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "102160"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "67"
-          },
-          {
-            "type": 2,
-            "currentValue": "600",
-            "lifetimeValue": "131450"
           }
         ],
         "seasonStatus": [
@@ -3272,19 +3272,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "107222"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "85363"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "8"
-          },
-          {
-            "type": 2,
-            "currentValue": "600",
-            "lifetimeValue": "107222"
           }
         ],
         "seasonStatus": [
@@ -3348,19 +3348,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "55820"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "71318"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "0"
-          },
-          {
-            "type": 2,
-            "currentValue": "264",
-            "lifetimeValue": "55820"
           }
         ],
         "seasonStatus": [
@@ -3424,6 +3424,11 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "57862"
+          },
+          {
             "type": 1,
             "currentValue": "0",
             "lifetimeValue": "44943"
@@ -3432,11 +3437,6 @@
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "16"
-          },
-          {
-            "type": 2,
-            "currentValue": "0",
-            "lifetimeValue": "57862"
           }
         ],
         "seasonStatus": [
@@ -3500,19 +3500,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "47196"
+          },
+          {
             "type": 1,
-            "currentValue": "210",
+            "currentValue": "0",
             "lifetimeValue": "52445"
           },
           {
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "0"
-          },
-          {
-            "type": 2,
-            "currentValue": "392",
-            "lifetimeValue": "47196"
           }
         ],
         "seasonStatus": [
@@ -3576,6 +3576,11 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "37118"
+          },
+          {
             "type": 1,
             "currentValue": "0",
             "lifetimeValue": "29920"
@@ -3584,11 +3589,6 @@
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "16"
-          },
-          {
-            "type": 2,
-            "currentValue": "0",
-            "lifetimeValue": "37118"
           }
         ],
         "seasonStatus": [
@@ -3652,19 +3652,19 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "29774"
+          },
+          {
             "type": 1,
-            "currentValue": "174",
+            "currentValue": "0",
             "lifetimeValue": "21750"
           },
           {
             "type": 3,
-            "currentValue": "2",
+            "currentValue": "0",
             "lifetimeValue": "25"
-          },
-          {
-            "type": 2,
-            "currentValue": "600",
-            "lifetimeValue": "29774"
           }
         ],
         "seasonStatus": [
@@ -3713,7 +3713,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719699652000",
+        "lastActivityTime": "1719700257000",
         "squadPower": 157224,
         "guildJoinTime": "1715387579",
         "galacticPower": "5140942",
@@ -3728,6 +3728,11 @@
       {
         "memberContribution": [
           {
+            "type": 2,
+            "currentValue": "0",
+            "lifetimeValue": "2434"
+          },
+          {
             "type": 1,
             "currentValue": "0",
             "lifetimeValue": "1266"
@@ -3736,11 +3741,6 @@
             "type": 3,
             "currentValue": "0",
             "lifetimeValue": "2"
-          },
-          {
-            "type": 2,
-            "currentValue": "0",
-            "lifetimeValue": "2434"
           }
         ],
         "seasonStatus": [
@@ -5279,6 +5279,6 @@
     },
     "inventory": null,
     "progress": null,
-    "nextChallengesRefresh": "1719700200"
+    "nextChallengesRefresh": "1719786600"
   }
 }

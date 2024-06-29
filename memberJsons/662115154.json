@@ -69625,19 +69625,21 @@
           "secondaryStat": [
             {
               "roll": [
-                "0.19726"
+                "0.19726",
+                "0.14633"
               ],
               "unscaledRollValue": [
-                "2219"
+                "2219",
+                "1646"
               ],
               "stat": {
                 "unitStatId": 53,
-                "statValueDecimal": "221",
-                "unscaledDecimalValue": "2219000",
+                "statValueDecimal": "386",
+                "unscaledDecimalValue": "3865000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 1,
+              "statRolls": 2,
               "statRollerBoundsMin": "1125",
               "statRollerBoundsMax": "2250"
             },
@@ -69703,7 +69705,7 @@
           "id": "m6tzq9xLSWy4e6ckySVx-Q",
           "definitionId": "252",
           "level": 15,
-          "tier": 3,
+          "tier": 4,
           "sellValue": {
             "currency": 1,
             "quantity": 97200,
@@ -70240,7 +70242,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 21427
+      "gp": 21450
     },
     {
       "skill": [
@@ -141581,7 +141583,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "172691",
+      "value": "172693",
       "index": 7
     },
     {
@@ -142201,7 +142203,7 @@
       "joinTime": "1718662260000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 765
+      "rank": 760
     }
   ],
   "datacron": [
@@ -142374,7 +142376,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 120,
-  "lastActivityTime": "1719699644000",
+  "lastActivityTime": "1719700283000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GIFT_02"
   },
