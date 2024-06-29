@@ -93691,7 +93691,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "51159",
+      "value": "51292",
       "index": 16
     },
     {
@@ -93715,7 +93715,7 @@
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "310",
+      "value": "312",
       "index": 14
     },
     {
@@ -94266,7 +94266,7 @@
       "league": "AURODIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 1637,
+      "seasonPoints": 1770,
       "division": 5,
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
@@ -95179,7 +95179,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719685245000",
+  "lastActivityTime": "1719685881000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
