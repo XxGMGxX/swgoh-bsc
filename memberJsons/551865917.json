@@ -141436,7 +141436,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "230489",
+      "value": "230490",
       "index": 7
     },
     {
@@ -142510,7 +142510,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719674319000",
+  "lastActivityTime": "1719675068000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
