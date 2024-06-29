@@ -12524,6 +12524,10 @@
           "slot": 2
         },
         {
+          "equipmentId": "136",
+          "slot": 4
+        },
+        {
           "equipmentId": "135",
           "slot": 5
         }
@@ -13253,7 +13257,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 17625
+      "gp": 17802
     },
     {
       "skill": [
@@ -44723,6 +44727,10 @@
       ],
       "equipment": [
         {
+          "equipmentId": "164",
+          "slot": 1
+        },
+        {
           "equipmentId": "160",
           "slot": 2
         }
@@ -45472,7 +45480,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 16933
+      "gp": 17143
     },
     {
       "skill": [
@@ -56994,14 +57002,19 @@
       "skill": [
         {
           "id": "basicskill_CALKESTIS",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_CALKESTIS01",
-          "tier": 5
+          "tier": 6
         }
       ],
-      "equipment": [],
+      "equipment": [
+        {
+          "equipmentId": "053",
+          "slot": 0
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -57627,7 +57640,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 5124
+      "gp": 5586
     },
     {
       "skill": [
@@ -65966,7 +65979,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 46980
+      "gp": 47140
     },
     {
       "skill": [
@@ -87535,7 +87548,12 @@
           "tier": 5
         }
       ],
-      "equipment": [],
+      "equipment": [
+        {
+          "equipmentId": "027",
+          "slot": 0
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -88256,7 +88274,7 @@
       "purchasedAbilityId": [],
       "id": "zPJfc-0tTfCGJD1EFLeI5w",
       "definitionId": "Boushh (Leia Organa)",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -88265,7 +88283,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 7144
+      "gp": 8326
     },
     {
       "skill": [
@@ -143857,7 +143875,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2179905",
+      "value": "2180065",
       "index": 3
     },
     {
@@ -143911,13 +143929,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3641093",
+      "value": "3643124",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "44425",
+      "value": "44432",
       "index": 8
     },
     {
@@ -143953,13 +143971,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5820998",
+      "value": "5823189",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "156051",
+      "value": "156071",
       "index": 7
     },
     {
@@ -144503,7 +144521,7 @@
       "joinTime": "1718684290000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 4410
+      "rank": 4411
     }
   ],
   "datacron": [
@@ -144555,7 +144573,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -480,
-  "lastActivityTime": "1719640861000",
+  "lastActivityTime": "1719641156000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SCOUTTROOPER"
   },
