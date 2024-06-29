@@ -62966,7 +62966,7 @@
         },
         {
           "id": "specialskill_ROSETICO02",
-          "tier": 5
+          "tier": 6
         }
       ],
       "equipment": [],
@@ -63681,7 +63681,7 @@
       "relic": {
         "currentTier": 7
       },
-      "gp": 22212
+      "gp": 22422
     },
     {
       "skill": [
@@ -72581,6 +72581,10 @@
           "slot": 1
         },
         {
+          "equipmentId": "173",
+          "slot": 2
+        },
+        {
           "equipmentId": "119",
           "slot": 4
         },
@@ -73316,7 +73320,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 14248
+      "gp": 14425
     },
     {
       "skill": [
@@ -87413,7 +87417,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 29568
+      "gp": 29873
     },
     {
       "skill": [],
@@ -93603,7 +93607,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2195575",
+      "value": "2195880",
       "index": 3
     },
     {
@@ -93657,7 +93661,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2944675",
+      "value": "2945062",
       "index": 2
     },
     {
@@ -93699,13 +93703,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5140250",
+      "value": "5140942",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "39499",
+      "value": "39564",
       "index": 7
     },
     {
@@ -94267,7 +94271,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 1719
+      "rank": 1720
     }
   ],
   "datacron": [
@@ -95175,7 +95179,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719681661000",
+  "lastActivityTime": "1719682245000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
