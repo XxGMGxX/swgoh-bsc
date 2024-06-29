@@ -141336,6 +141336,10 @@
         {
           "equipmentId": "145",
           "slot": 1
+        },
+        {
+          "equipmentId": "129",
+          "slot": 2
         }
       ],
       "equippedStatModOld": [],
@@ -142077,7 +142081,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 18904
+      "gp": 19102
     },
     {
       "skill": [],
@@ -143701,7 +143705,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "16305",
+      "value": "16317",
       "index": 9
     },
     {
@@ -143725,13 +143729,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4428528",
+      "value": "4428726",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53941",
+      "value": "53945",
       "index": 8
     },
     {
@@ -143743,7 +143747,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1475579",
+      "value": "1475789",
       "index": 11
     },
     {
@@ -143755,7 +143759,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "128391",
+      "value": "128452",
       "index": 16
     },
     {
@@ -143767,19 +143771,19 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7767111",
+      "value": "7767309",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "162360",
+      "value": "162381",
       "index": 7
     },
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "889",
+      "value": "890",
       "index": 14
     },
     {
@@ -144473,12 +144477,12 @@
       "league": "KYBER",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 3215,
+      "seasonPoints": 3276,
       "division": 5,
       "joinTime": "1718658633000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 4968
+      "rank": 4967
     }
   ],
   "datacron": [
@@ -146701,7 +146705,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719610129000",
+  "lastActivityTime": "1719633656000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
