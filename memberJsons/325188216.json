@@ -1621,7 +1621,7 @@
         },
         {
           "id": "hardwareskill_RAVENSCLAW",
-          "tier": 0
+          "tier": 1
         }
       ],
       "equipment": [],
@@ -1630,14 +1630,14 @@
       "purchasedAbilityId": [],
       "id": "1JLVKXVpSWCIN68Hy2a5AQ",
       "definitionId": "Raven's Claw",
-      "currentRarity": 4,
+      "currentRarity": 5,
       "currentLevel": 85,
       "currentXp": 873200,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 42017
+      "gp": 47253
     },
     {
       "skill": [
@@ -73415,7 +73415,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2796495",
+      "value": "2801731",
       "index": 3
     },
     {
@@ -73475,7 +73475,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "26709",
+      "value": "26738",
       "index": 8
     },
     {
@@ -73499,7 +73499,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "118255",
+      "value": "118514",
       "index": 16
     },
     {
@@ -73511,25 +73511,25 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6405170",
+      "value": "6410406",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "82640",
+      "value": "82686",
       "index": 7
     },
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "670",
+      "value": "671",
       "index": 14
     },
     {
       "nameKey": "STAT_SEASON_TERRITORIES_DEFEATED_NAME",
       "versionKey": "NULL",
-      "value": "401",
+      "value": "402",
       "index": 19
     }
   ],
@@ -74154,12 +74154,12 @@
       "league": "AURODIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 1555,
+      "seasonPoints": 1814,
       "division": 15,
       "joinTime": "1718705959000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 8660
+      "rank": 8658
     }
   ],
   "datacron": [
@@ -74409,7 +74409,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719661473000",
+  "lastActivityTime": "1719663005000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDIKNIGHTLUKE"
   },
