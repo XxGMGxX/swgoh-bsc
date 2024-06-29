@@ -120339,7 +120339,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_EXCHANGE_DONATIONS_TU07_2",
       "versionKey": "NULL",
-      "value": "1279",
+      "value": "1281",
       "index": 12
     },
     {
@@ -121776,7 +121776,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719678263000",
+  "lastActivityTime": "1719690080000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GRANDARENA_ADVANCED"
   },
