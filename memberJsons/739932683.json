@@ -20645,20 +20645,7 @@
           "tier": 7
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "145",
-          "slot": 2
-        },
-        {
-          "equipmentId": "140",
-          "slot": 3
-        },
-        {
-          "equipmentId": "150",
-          "slot": 5
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -21394,11 +21381,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 11,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 7
       },
-      "gp": 19158
+      "gp": 25566
     },
     {
       "skill": [
@@ -38038,29 +38025,25 @@
       "gp": 4656
     },
     {
-      "skill": [],
-      "equipment": [
+      "skill": [
         {
-          "equipmentId": "003",
-          "slot": 0
+          "id": "specialskill_KITFISTO01",
+          "tier": 6
         },
         {
-          "equipmentId": "011",
-          "slot": 2
+          "id": "uniqueskill_KITFISTO01",
+          "tier": 5
         },
         {
-          "equipmentId": "005",
-          "slot": 3
+          "id": "basicskill_KITFISTO",
+          "tier": 6
         },
         {
-          "equipmentId": "001",
-          "slot": 4
-        },
-        {
-          "equipmentId": "005",
-          "slot": 5
+          "id": "leaderskill_KITFISTO",
+          "tier": 6
         }
       ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -38071,11 +38054,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 1,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 7
       },
-      "gp": 6682
+      "gp": 21627
     },
     {
       "skill": [
@@ -45248,28 +45231,7 @@
           "tier": 5
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "070",
-          "slot": 0
-        },
-        {
-          "equipmentId": "053",
-          "slot": 1
-        },
-        {
-          "equipmentId": "086",
-          "slot": 2
-        },
-        {
-          "equipmentId": "097",
-          "slot": 3
-        },
-        {
-          "equipmentId": "113",
-          "slot": 4
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -45997,11 +45959,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 8,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 7
       },
-      "gp": 14028
+      "gp": 23068
     },
     {
       "skill": [
@@ -52407,7 +52369,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 23940
+      "gp": 55185
     },
     {
       "skill": [
@@ -55542,25 +55504,25 @@
       "gp": 41135
     },
     {
-      "skill": [],
-      "equipment": [
+      "skill": [
         {
-          "equipmentId": "040",
-          "slot": 0
+          "id": "leaderskill_PLOKOON",
+          "tier": 5
         },
         {
-          "equipmentId": "054",
-          "slot": 1
+          "id": "basicskill_PLOKOON",
+          "tier": 6
         },
         {
-          "equipmentId": "065",
-          "slot": 2
+          "id": "specialskill_PLOKOON01",
+          "tier": 6
         },
         {
-          "equipmentId": "075",
-          "slot": 4
+          "id": "specialskill_PLOKOON02",
+          "tier": 6
         }
       ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -55571,11 +55533,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 5,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 7
       },
-      "gp": 7740
+      "gp": 21627
     },
     {
       "skill": [
@@ -93818,21 +93780,25 @@
       "gp": 12520
     },
     {
-      "skill": [],
-      "equipment": [
+      "skill": [
         {
-          "equipmentId": "014",
-          "slot": 0
+          "id": "basicskill_EETHKOTH",
+          "tier": 6
         },
         {
-          "equipmentId": "018",
-          "slot": 1
+          "id": "leaderskill_EETHKOTH",
+          "tier": 5
         },
         {
-          "equipmentId": "028",
-          "slot": 2
+          "id": "specialskill_EETHKOTH01",
+          "tier": 6
+        },
+        {
+          "id": "uniqueskill_EETHKOTH01",
+          "tier": 6
         }
       ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -93843,11 +93809,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 3,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 7
       },
-      "gp": 7017
+      "gp": 21627
     },
     {
       "skill": [],
@@ -144979,7 +144945,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2746261",
+      "value": "2777506",
       "index": 3
     },
     {
@@ -145033,7 +144999,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4507123",
+      "value": "4566013",
       "index": 2
     },
     {
@@ -145075,13 +145041,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7253384",
+      "value": "7343519",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "150921",
+      "value": "150922",
       "index": 7
     },
     {
@@ -145948,7 +145914,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719692471000",
+  "lastActivityTime": "1719692680000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SITHMASTER"
   },
