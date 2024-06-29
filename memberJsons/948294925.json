@@ -2381,7 +2381,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 67080
+      "gp": 67116
     },
     {
       "skill": [
@@ -52261,7 +52261,16 @@
           "tier": 6
         }
       ],
-      "equipment": [],
+      "equipment": [
+        {
+          "equipmentId": "161",
+          "slot": 1
+        },
+        {
+          "equipmentId": "162",
+          "slot": 2
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -52981,7 +52990,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 18985
+      "gp": 19405
     },
     {
       "skill": [
@@ -122575,20 +122584,22 @@
             {
               "roll": [
                 "0.19932",
-                "0.12057"
+                "0.12057",
+                "0.11623"
               ],
               "unscaledRollValue": [
                 "1694",
-                "1025"
+                "1025",
+                "988"
               ],
               "stat": {
                 "unitStatId": 48,
-                "statValueDecimal": "271",
-                "unscaledDecimalValue": "2719000",
+                "statValueDecimal": "370",
+                "unscaledDecimalValue": "3707000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 2,
+              "statRolls": 3,
               "statRollerBoundsMin": "850",
               "statRollerBoundsMax": "1700"
             },
@@ -122636,7 +122647,7 @@
           "id": "zuXdA33eQuCEhp-kPdsdjQ",
           "definitionId": "462",
           "level": 15,
-          "tier": 4,
+          "tier": 5,
           "sellValue": {
             "currency": 1,
             "quantity": 221000,
@@ -123183,7 +123194,7 @@
       "relic": {
         "currentTier": 9
       },
-      "gp": 26565
+      "gp": 26581
     },
     {
       "skill": [
@@ -130879,7 +130890,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3239555",
+      "value": "3239591",
       "index": 3
     },
     {
@@ -130909,7 +130920,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "10971",
+      "value": "10983",
       "index": 9
     },
     {
@@ -130933,13 +130944,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4470766",
+      "value": "4471202",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "48524",
+      "value": "48584",
       "index": 8
     },
     {
@@ -130963,7 +130974,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "105716",
+      "value": "105728",
       "index": 16
     },
     {
@@ -130975,13 +130986,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7710321",
+      "value": "7710793",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "134177",
+      "value": "134250",
       "index": 7
     },
     {
@@ -131667,7 +131678,7 @@
       "league": "CHROMIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 2943,
+      "seasonPoints": 2955,
       "division": 20,
       "joinTime": "1718658068000",
       "endTime": "1720990800000",
@@ -132182,7 +132193,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719675642000",
+  "lastActivityTime": "1719676287000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
