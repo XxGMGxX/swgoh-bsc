@@ -20389,20 +20389,7 @@
           "tier": 5
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "095",
-          "slot": 0
-        },
-        {
-          "equipmentId": "103",
-          "slot": 3
-        },
-        {
-          "equipmentId": "112",
-          "slot": 4
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -20413,11 +20400,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 8,
+      "currentTier": 9,
       "relic": {
         "currentTier": 1
       },
-      "gp": 13702
+      "gp": 14067
     },
     {
       "skill": [
@@ -23456,7 +23443,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3157607",
+      "value": "3157972",
       "index": 2
     },
     {
@@ -23498,7 +23485,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4933504",
+      "value": "4933869",
       "index": 1
     },
     {
@@ -24024,7 +24011,7 @@
       "joinTime": "1718662189000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 1110
+      "rank": 1108
     }
   ],
   "datacron": [
@@ -24230,7 +24217,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719702683000",
+  "lastActivityTime": "1719703065000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MANDALORIAN"
   },
