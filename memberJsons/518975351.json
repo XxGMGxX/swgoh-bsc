@@ -119975,11 +119975,11 @@
       "wins": 0,
       "losses": 0,
       "seasonPoints": 4063,
-      "division": 5,
+      "division": 10,
       "joinTime": "1718663828000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 16291
+      "rank": 16286
     }
   ],
   "datacron": [
@@ -120192,7 +120192,7 @@
   "lifetimeSeasonScore": "368722",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 2602
+      "skillRating": 2637
     },
     "playerRankStatus": {
       "leagueId": "AURODIUM",
