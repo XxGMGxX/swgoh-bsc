@@ -110183,15 +110183,15 @@
           "secondaryStat": [
             {
               "roll": [
-                "0.10532"
+                "0.12711"
               ],
               "unscaledRollValue": [
-                "1185"
+                "1430"
               ],
               "stat": {
                 "unitStatId": 17,
-                "statValueDecimal": "118",
-                "unscaledDecimalValue": "1185000",
+                "statValueDecimal": "143",
+                "unscaledDecimalValue": "1430000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
@@ -110201,68 +110201,68 @@
             },
             {
               "roll": [
-                "0.14807"
+                "0.16609",
+                "0.14802"
               ],
               "unscaledRollValue": [
-                "1666"
+                "1869",
+                "1665"
               ],
               "stat": {
-                "unitStatId": 18,
-                "statValueDecimal": "166",
-                "unscaledDecimalValue": "1666000",
-                "uiDisplayOverrideValue": "-1",
-                "scalar": "0"
-              },
-              "statRolls": 1,
-              "statRollerBoundsMin": "1125",
-              "statRollerBoundsMax": "2250"
-            },
-            {
-              "roll": [
-                "0.19593",
-                "0.13985"
-              ],
-              "unscaledRollValue": [
-                "587790",
-                "419550"
-              ],
-              "stat": {
-                "unitStatId": 5,
-                "statValueDecimal": "100000",
-                "unscaledDecimalValue": "1000000000",
+                "unitStatId": 53,
+                "statValueDecimal": "353",
+                "unscaledDecimalValue": "3534000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
               "statRolls": 2,
+              "statRollerBoundsMin": "1125",
+              "statRollerBoundsMax": "2250"
+            },
+            {
+              "roll": [
+                "0.17184",
+                "0.18788",
+                "0.12898"
+              ],
+              "unscaledRollValue": [
+                "515520",
+                "563640",
+                "386940"
+              ],
+              "stat": {
+                "unitStatId": 5,
+                "statValueDecimal": "140000",
+                "unscaledDecimalValue": "1400000000",
+                "uiDisplayOverrideValue": "-1",
+                "scalar": "0"
+              },
+              "statRolls": 3,
               "statRollerBoundsMin": "300000",
               "statRollerBoundsMax": "600000"
             },
             {
               "roll": [
-                "0.13727",
-                "0.10451",
-                "0.11545",
-                "0.12115"
+                "0.11506",
+                "0.17556"
               ],
               "unscaledRollValue": [
-                "1544",
-                "1176",
-                "1299",
-                "1363"
+                "1294",
+                "1975"
               ],
               "stat": {
-                "unitStatId": 53,
-                "statValueDecimal": "538",
-                "unscaledDecimalValue": "5382000",
+                "unitStatId": 18,
+                "statValueDecimal": "326",
+                "unscaledDecimalValue": "3269000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 4,
+              "statRolls": 2,
               "statRollerBoundsMin": "1125",
               "statRollerBoundsMax": "2250"
             }
           ],
-          "id": "Phjy7IEcS4KuPeYH866RVg",
+          "id": "B1tGp2usROSwhBuN_Kzb0A",
           "definitionId": "455",
           "level": 15,
           "tier": 5,
@@ -140209,7 +140209,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719622267000",
+  "lastActivityTime": "1719622808000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_OURIDENTITY"
   },
