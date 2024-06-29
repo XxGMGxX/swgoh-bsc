@@ -86532,6 +86532,40 @@
     {
       "skill": [
         {
+          "id": "specialskill_TIEREAPER02",
+          "tier": 2
+        },
+        {
+          "id": "specialskill_TIEREAPER01",
+          "tier": 3
+        },
+        {
+          "id": "uniqueskill_TIEREAPER01",
+          "tier": 4
+        },
+        {
+          "id": "basicskill_TIEREAPER",
+          "tier": 3
+        }
+      ],
+      "equipment": [],
+      "equippedStatModOld": [],
+      "equippedStatMod": [],
+      "purchasedAbilityId": [],
+      "id": "dtHYu4zJSeS1u0M1xuSX5A",
+      "definitionId": "TIE Reaper",
+      "currentRarity": 3,
+      "currentLevel": 85,
+      "currentXp": 873200,
+      "promotionRecipeReference": "",
+      "unitStat": null,
+      "currentTier": 1,
+      "relic": null,
+      "gp": 26894
+    },
+    {
+      "skill": [
+        {
           "id": "hardwareskill_HYENABOMBER01",
           "tier": 0
         },
@@ -93569,7 +93603,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2168681",
+      "value": "2195575",
       "index": 3
     },
     {
@@ -93665,7 +93699,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5113356",
+      "value": "5140250",
       "index": 1
     },
     {
@@ -95141,7 +95175,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719681079000",
+  "lastActivityTime": "1719681661000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
