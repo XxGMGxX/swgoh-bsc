@@ -108741,7 +108741,7 @@
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1512",
+      "value": "1513",
       "index": 6
     },
     {
@@ -108759,7 +108759,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "11841",
+      "value": "11853",
       "index": 9
     },
     {
@@ -108831,7 +108831,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "101212",
+      "value": "101222",
       "index": 7
     },
     {
@@ -108850,7 +108850,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 308,
+      "rank": 277,
       "squad": {
         "cell": [
           {
@@ -108928,7 +108928,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719544281000",
+        "lastSaveTime": "1719678923000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -109629,7 +109629,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719678625000",
+  "lastActivityTime": "1719679272000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
