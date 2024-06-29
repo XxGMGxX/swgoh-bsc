@@ -46955,6 +46955,10 @@
         {
           "equipmentId": "136",
           "slot": 3
+        },
+        {
+          "equipmentId": "122",
+          "slot": 5
         }
       ],
       "equippedStatModOld": [],
@@ -47554,7 +47558,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 15793
+      "gp": 15970
     },
     {
       "skill": [
@@ -130896,13 +130900,13 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "288",
+      "value": "289",
       "index": 5
     },
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "350",
+      "value": "351",
       "index": 6
     },
     {
@@ -130944,13 +130948,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4471202",
+      "value": "4471379",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "48584",
+      "value": "48587",
       "index": 8
     },
     {
@@ -130986,13 +130990,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7710793",
+      "value": "7710970",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "134250",
+      "value": "134301",
       "index": 7
     },
     {
@@ -131011,7 +131015,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 112,
+      "rank": 93,
       "squad": {
         "cell": [
           {
@@ -131089,7 +131093,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719598969000",
+        "lastSaveTime": "1719676621000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -131202,7 +131206,7 @@
     },
     {
       "tab": 2,
-      "rank": 40,
+      "rank": 34,
       "squad": {
         "cell": [
           {
@@ -131683,7 +131687,7 @@
       "joinTime": "1718658068000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 3556
+      "rank": 3557
     }
   ],
   "datacron": [
@@ -132193,7 +132197,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719676287000",
+  "lastActivityTime": "1719677414000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },

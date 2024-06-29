@@ -120321,7 +120321,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "43719",
+      "value": "43731",
       "index": 8
     },
     {
@@ -120345,7 +120345,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "207576",
+      "value": "207643",
       "index": 16
     },
     {
@@ -120363,13 +120363,13 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "165687",
+      "value": "165737",
       "index": 7
     },
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "1212",
+      "value": "1213",
       "index": 14
     },
     {
@@ -121093,12 +121093,12 @@
       "league": "KYBER",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 759,
+      "seasonPoints": 826,
       "division": 10,
       "joinTime": "1718662489000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 22853
+      "rank": 22854
     }
   ],
   "datacron": [
@@ -121776,7 +121776,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719661990000",
+  "lastActivityTime": "1719677488000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GRANDARENA_ADVANCED"
   },

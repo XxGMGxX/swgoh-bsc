@@ -143939,7 +143939,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "44455",
+      "value": "44458",
       "index": 8
     },
     {
@@ -143981,7 +143981,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "156107",
+      "value": "156110",
       "index": 7
     },
     {
@@ -144525,7 +144525,7 @@
       "joinTime": "1718684290000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 4433
+      "rank": 4435
     }
   ],
   "datacron": [
@@ -144577,7 +144577,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -480,
-  "lastActivityTime": "1719676268000",
+  "lastActivityTime": "1719676317000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SCOUTTROOPER"
   },
