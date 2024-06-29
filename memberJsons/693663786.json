@@ -11728,7 +11728,7 @@
       "purchasedAbilityId": [],
       "id": "JTtL0td8RYalWdJFa_3uHQ",
       "definitionId": "Droideka",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -11737,7 +11737,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 16119
+      "gp": 17259
     },
     {
       "skill": [
@@ -41038,28 +41038,7 @@
           "tier": 5
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "117",
-          "slot": 0
-        },
-        {
-          "equipmentId": "096",
-          "slot": 2
-        },
-        {
-          "equipmentId": "076",
-          "slot": 3
-        },
-        {
-          "equipmentId": "106",
-          "slot": 4
-        },
-        {
-          "equipmentId": "126",
-          "slot": 5
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -41247,20 +41226,22 @@
             {
               "roll": [
                 "0.13096",
-                "0.13223"
+                "0.13223",
+                "0.17432"
               ],
               "unscaledRollValue": [
                 "2985888",
-                "3014844"
+                "3014844",
+                "3974496"
               ],
               "stat": {
                 "unitStatId": 41,
-                "statValueDecimal": "610000",
-                "unscaledDecimalValue": "6100000000",
+                "statValueDecimal": "1000000",
+                "unscaledDecimalValue": "10000000000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 2,
+              "statRolls": 3,
               "statRollerBoundsMin": "2280000",
               "statRollerBoundsMax": "4560000"
             }
@@ -41268,7 +41249,7 @@
           "id": "1MGI7N0TS1KJukULu-JXbw",
           "definitionId": "452",
           "level": 15,
-          "tier": 4,
+          "tier": 5,
           "sellValue": {
             "currency": 1,
             "quantity": 97200,
@@ -41801,11 +41782,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 9,
+      "currentTier": 10,
       "relic": {
         "currentTier": 1
       },
-      "gp": 12465
+      "gp": 12631
     },
     {
       "skill": [
@@ -143882,7 +143863,7 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "144",
+      "value": "145",
       "index": 5
     },
     {
@@ -143906,7 +143887,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "9679",
+      "value": "9691",
       "index": 9
     },
     {
@@ -143930,13 +143911,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3639787",
+      "value": "3641093",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "44388",
+      "value": "44425",
       "index": 8
     },
     {
@@ -143972,13 +143953,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5819692",
+      "value": "5820998",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "156004",
+      "value": "156051",
       "index": 7
     },
     {
@@ -144083,7 +144064,7 @@
     },
     {
       "tab": 2,
-      "rank": 64,
+      "rank": 61,
       "squad": {
         "cell": [
           {
@@ -144522,7 +144503,7 @@
       "joinTime": "1718684290000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 4412
+      "rank": 4410
     }
   ],
   "datacron": [
@@ -144574,7 +144555,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -480,
-  "lastActivityTime": "1719640252000",
+  "lastActivityTime": "1719640861000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SCOUTTROOPER"
   },
