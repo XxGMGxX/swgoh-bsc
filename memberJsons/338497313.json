@@ -23449,7 +23449,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "22481",
+      "value": "22491",
       "index": 8
     },
     {
@@ -23491,7 +23491,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "109990",
+      "value": "110043",
       "index": 7
     },
     {
@@ -24011,7 +24011,7 @@
       "joinTime": "1718662189000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 1119
+      "rank": 1117
     }
   ],
   "datacron": [
@@ -24217,7 +24217,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719722498000",
+  "lastActivityTime": "1719766834000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MANDALORIAN"
   },
