@@ -96175,13 +96175,13 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "385",
+      "value": "386",
       "index": 5
     },
     {
       "nameKey": "STAT_PVP_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "209",
+      "value": "210",
       "index": 6
     },
     {
@@ -96290,7 +96290,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 49,
+      "rank": 44,
       "squad": {
         "cell": [
           {
@@ -96351,8 +96351,8 @@
           },
           {
             "crewBattleStat": [],
-            "unitId": "6kdnnwNQSUeUL5RKqBEhvg",
-            "unitDefId": "FIRSTORDERTIEPILOT:SEVEN_STAR",
+            "unitId": "Oc68F6_tR_2NIuwxL7gMIw",
+            "unitDefId": "FIRSTORDERSPECIALFORCESPILOT:SEVEN_STAR",
             "cellIndex": 4,
             "unitBattleStat": null,
             "messageReticle": "",
@@ -96368,7 +96368,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719725531000",
+        "lastSaveTime": "1719776329000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -96481,7 +96481,7 @@
     },
     {
       "tab": 2,
-      "rank": 24,
+      "rank": 18,
       "squad": {
         "cell": [
           {
@@ -96514,8 +96514,8 @@
           },
           {
             "crewBattleStat": [],
-            "unitId": "efMgg0qTQ6eOHrerClKybQ",
-            "unitDefId": "FIRSTORDERTIEECHELON:SEVEN_STAR",
+            "unitId": "1whNwGu8RpSs0cp17NGiqg",
+            "unitDefId": "TIEFIGHTERFOSF:SEVEN_STAR",
             "cellIndex": 2,
             "unitBattleStat": null,
             "messageReticle": "",
@@ -96570,8 +96570,8 @@
           },
           {
             "crewBattleStat": [],
-            "unitId": "1whNwGu8RpSs0cp17NGiqg",
-            "unitDefId": "TIEFIGHTERFOSF:SEVEN_STAR",
+            "unitId": "efMgg0qTQ6eOHrerClKybQ",
+            "unitDefId": "FIRSTORDERTIEECHELON:SEVEN_STAR",
             "cellIndex": 6,
             "unitBattleStat": null,
             "messageReticle": "",
@@ -96601,7 +96601,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719725082000",
+        "lastSaveTime": "1719776005000",
         "supportInheritFromDefinitionId": "",
         "datacron": null
       },
@@ -96833,7 +96833,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 13986
+      "rank": 13981
     }
   ],
   "datacron": [
@@ -97741,7 +97741,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719775822000",
+  "lastActivityTime": "1719776460000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
