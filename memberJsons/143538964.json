@@ -93793,8 +93793,8 @@
           },
           {
             "crewBattleStat": [],
-            "unitId": "dUd2KoadTRCtgIlrbNaKPg",
-            "unitDefId": "FOSITHTROOPER:SEVEN_STAR",
+            "unitId": "6kdnnwNQSUeUL5RKqBEhvg",
+            "unitDefId": "FIRSTORDERTIEPILOT:SEVEN_STAR",
             "cellIndex": 4,
             "unitBattleStat": null,
             "messageReticle": "",
@@ -93810,7 +93810,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719682473000",
+        "lastSaveTime": "1719725531000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -93819,8 +93819,8 @@
               "tag": [],
               "targetRule": "",
               "abilityId": "",
-              "statType": 25,
-              "statValue": "41007099",
+              "statType": 16,
+              "statValue": "5525379",
               "requiredUnitTier": 0,
               "requiredRelicTier": 3,
               "scopeIcon": ""
@@ -93829,8 +93829,8 @@
               "tag": [],
               "targetRule": "",
               "abilityId": "",
-              "statType": 25,
-              "statValue": "40110756",
+              "statType": 16,
+              "statValue": "7473553",
               "requiredUnitTier": 0,
               "requiredRelicTier": 3,
               "scopeIcon": ""
@@ -93851,8 +93851,8 @@
               "tag": [],
               "targetRule": "",
               "abilityId": "",
-              "statType": 53,
-              "statValue": "6126532",
+              "statType": 54,
+              "statValue": "12662502",
               "requiredUnitTier": 0,
               "requiredRelicTier": 5,
               "scopeIcon": ""
@@ -93861,8 +93861,8 @@
               "tag": [],
               "targetRule": "",
               "abilityId": "",
-              "statType": 52,
-              "statValue": "17951028",
+              "statType": 54,
+              "statValue": "12432008",
               "requiredUnitTier": 0,
               "requiredRelicTier": 5,
               "scopeIcon": ""
@@ -93873,7 +93873,7 @@
                 "darkside"
               ],
               "targetRule": "target_datacron_firstorder",
-              "abilityId": "datacron_faction_generic_012",
+              "abilityId": "datacron_faction_generic_023",
               "statType": 1,
               "statValue": "0",
               "requiredUnitTier": 0,
@@ -93884,8 +93884,8 @@
               "tag": [],
               "targetRule": "",
               "abilityId": "",
-              "statType": 53,
-              "statValue": "12791881",
+              "statType": 48,
+              "statValue": "10305500",
               "requiredUnitTier": 0,
               "requiredRelicTier": 5,
               "scopeIcon": ""
@@ -93895,7 +93895,7 @@
               "targetRule": "",
               "abilityId": "",
               "statType": 52,
-              "statValue": "22996802",
+              "statValue": "23798923",
               "requiredUnitTier": 0,
               "requiredRelicTier": 5,
               "scopeIcon": ""
@@ -93905,16 +93905,16 @@
                 "firstorder",
                 "darkside"
               ],
-              "targetRule": "target_datacron_supremeleaderkyloren",
-              "abilityId": "datacron_character_generic_030",
+              "targetRule": "target_datacron_firstorderspecialforcespilot",
+              "abilityId": "datacron_character_tiefighterpilot_002",
               "statType": 1,
               "statValue": "0",
               "requiredUnitTier": 0,
               "requiredRelicTier": 7,
-              "scopeIcon": "tex.charui_kyloren_tros"
+              "scopeIcon": "tex.charui_firstorder_pilot"
             }
           ],
-          "id": "1LsyS6KNQ_GqBOYfrA5Rsg",
+          "id": "K-fy7GE0Ske_Cg0DfPSBYw",
           "setId": 15,
           "templateId": "datacron_set_15_base"
         }
@@ -94275,7 +94275,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 14002
+      "rank": 13991
     }
   ],
   "datacron": [
@@ -95183,7 +95183,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719725475000",
+  "lastActivityTime": "1719726049000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
