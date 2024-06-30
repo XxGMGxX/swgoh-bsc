@@ -141296,7 +141296,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "252258",
+      "value": "252321",
       "index": 7
     },
     {
@@ -141930,7 +141930,7 @@
       "joinTime": "1718673487000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 1859
+      "rank": 1862
     }
   ],
   "datacron": [
@@ -141971,7 +141971,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719756073000",
+  "lastActivityTime": "1719756164000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDIKNIGHTLUKE"
   },
