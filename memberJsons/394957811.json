@@ -25823,7 +25823,7 @@
       "purchasedAbilityId": [],
       "id": "sCYeSKHXRB-HgVzf-cdDpA",
       "definitionId": "Scout Trooper",
-      "currentRarity": 3,
+      "currentRarity": 4,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -25832,7 +25832,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 3163
+      "gp": 3501
     },
     {
       "skill": [
@@ -49098,7 +49098,7 @@
       "purchasedAbilityId": [],
       "id": "SX7ewWvtR128SnWbpr2hkQ",
       "definitionId": "Kelleran Beq",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -49107,7 +49107,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 15511
+      "gp": 16651
     },
     {
       "skill": [
@@ -50500,7 +50500,7 @@
       "purchasedAbilityId": [],
       "id": "tBUHAmWPSP25sM38M_gX5Q",
       "definitionId": "Captain Rex",
-      "currentRarity": 3,
+      "currentRarity": 4,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -50509,7 +50509,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 3163
+      "gp": 3501
     },
     {
       "skill": [
@@ -124879,13 +124879,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4391560",
+      "value": "4393376",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "42599",
+      "value": "42614",
       "index": 8
     },
     {
@@ -124921,13 +124921,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7187660",
+      "value": "7189476",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "117362",
+      "value": "117379",
       "index": 7
     },
     {
@@ -125513,7 +125513,7 @@
       "joinTime": "1718660867000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 5789
+      "rank": 10105
     }
   ],
   "datacron": [
@@ -125554,7 +125554,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719670179000",
+  "lastActivityTime": "1719744610000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SITHTROOPER"
   },
