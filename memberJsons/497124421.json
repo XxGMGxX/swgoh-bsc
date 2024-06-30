@@ -143123,7 +143123,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "17331",
+      "value": "17343",
       "index": 9
     },
     {
@@ -143153,7 +143153,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "59633",
+      "value": "59661",
       "index": 8
     },
     {
@@ -143195,7 +143195,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "198768",
+      "value": "198850",
       "index": 7
     },
     {
@@ -143292,7 +143292,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719608680000",
+        "lastSaveTime": "1719757052000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -143937,7 +143937,7 @@
       "joinTime": "1718658141000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 8323
+      "rank": 8329
     }
   ],
   "datacron": [
@@ -144629,7 +144629,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719698110000",
+  "lastActivityTime": "1719757184000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_NIGHTSISTERS_VENTRESS"
   },
