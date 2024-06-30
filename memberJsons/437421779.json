@@ -77279,6 +77279,25 @@
       "gp": 34287
     },
     {
+      "skill": [],
+      "equipment": [],
+      "equippedStatModOld": [],
+      "equippedStatMod": [],
+      "purchasedAbilityId": [],
+      "id": "BSV5bsmXQyihoyihKzuqZw",
+      "definitionId": "IG-12 & Grogu",
+      "currentRarity": 3,
+      "currentLevel": 1,
+      "currentXp": 0,
+      "promotionRecipeReference": "",
+      "unitStat": null,
+      "currentTier": 1,
+      "relic": {
+        "currentTier": 1
+      },
+      "gp": 676
+    },
+    {
       "skill": [
         {
           "id": "uniqueskill_SHAAKTI01",
@@ -78199,13 +78218,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5054821",
+      "value": "5055497",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "49011",
+      "value": "49015",
       "index": 8
     },
     {
@@ -78241,13 +78260,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8630472",
+      "value": "8631148",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "222926",
+      "value": "222930",
       "index": 7
     },
     {
@@ -79174,7 +79193,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 120,
-  "lastActivityTime": "1719727884000",
+  "lastActivityTime": "1719728477000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_BD1"
   },
