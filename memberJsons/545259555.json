@@ -25684,7 +25684,7 @@
       "purchasedAbilityId": [],
       "id": "TUoXZr8MTViWpjDjOblCmg",
       "definitionId": "Merrin",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -25693,7 +25693,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 7818
+      "gp": 8958
     },
     {
       "skill": [],
@@ -121674,7 +121674,7 @@
       "purchasedAbilityId": [],
       "id": "aIMYV08UQ_auebuD55CQFA",
       "definitionId": "Saw Gerrera",
-      "currentRarity": 6,
+      "currentRarity": 7,
       "currentLevel": 50,
       "currentXp": 63540,
       "promotionRecipeReference": "",
@@ -121683,7 +121683,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 3174
+      "gp": 5169
     },
     {
       "skill": [
@@ -125774,13 +125774,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2955243",
+      "value": "2958378",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "23279",
+      "value": "23299",
       "index": 8
     },
     {
@@ -125816,13 +125816,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5273316",
+      "value": "5276451",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "61933",
+      "value": "61953",
       "index": 7
     },
     {
@@ -126448,7 +126448,7 @@
       "joinTime": "1718662379000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 7191
+      "rank": 7186
     }
   ],
   "datacron": [
@@ -126654,7 +126654,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -480,
-  "lastActivityTime": "1719720661000",
+  "lastActivityTime": "1719759045000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_BASTILA"
   },
