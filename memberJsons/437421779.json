@@ -63884,7 +63884,7 @@
         },
         {
           "id": "specialskill_MARAJADE01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_MARAJADE02",
@@ -64635,7 +64635,7 @@
       "relic": {
         "currentTier": 7
       },
-      "gp": 25297
+      "gp": 27703
     },
     {
       "skill": [
@@ -78199,7 +78199,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5052415",
+      "value": "5054821",
       "index": 2
     },
     {
@@ -78217,7 +78217,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1573455",
+      "value": "1573569",
       "index": 11
     },
     {
@@ -78241,13 +78241,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8628066",
+      "value": "8630472",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "222920",
+      "value": "222926",
       "index": 7
     },
     {
@@ -78936,7 +78936,7 @@
       "joinTime": "1718707712000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 12559
+      "rank": 12558
     }
   ],
   "datacron": [
@@ -79174,7 +79174,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 120,
-  "lastActivityTime": "1719699214000",
+  "lastActivityTime": "1719727884000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_BD1"
   },
