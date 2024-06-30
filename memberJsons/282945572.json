@@ -143719,7 +143719,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "54000",
+      "value": "54005",
       "index": 8
     },
     {
@@ -143761,7 +143761,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "162635",
+      "value": "162641",
       "index": 7
     },
     {
@@ -144466,7 +144466,7 @@
       "joinTime": "1718658633000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 657
+      "rank": 656
     }
   ],
   "datacron": [
@@ -146689,7 +146689,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719755118000",
+  "lastActivityTime": "1719762569000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
