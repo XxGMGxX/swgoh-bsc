@@ -13562,24 +13562,7 @@
           "tier": 5
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "067",
-          "slot": 0
-        },
-        {
-          "equipmentId": "040",
-          "slot": 3
-        },
-        {
-          "equipmentId": "039",
-          "slot": 4
-        },
-        {
-          "equipmentId": "051",
-          "slot": 5
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -13590,11 +13573,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 4,
+      "currentTier": 5,
       "relic": {
         "currentTier": 1
       },
-      "gp": 9088
+      "gp": 9199
     },
     {
       "skill": [],
@@ -18686,6 +18669,10 @@
         {
           "id": "uniqueskill_GREEDO01",
           "tier": 5
+        },
+        {
+          "id": "leaderskill_GREEDO",
+          "tier": 5
         }
       ],
       "equipment": [],
@@ -18699,11 +18686,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 2,
+      "currentTier": 5,
       "relic": {
         "currentTier": 1
       },
-      "gp": 8416
+      "gp": 9774
     },
     {
       "skill": [
@@ -23419,7 +23406,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "10620",
+      "value": "10632",
       "index": 9
     },
     {
@@ -23443,7 +23430,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3157972",
+      "value": "3159441",
       "index": 2
     },
     {
@@ -23485,13 +23472,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4933869",
+      "value": "4935338",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "110043",
+      "value": "110065",
       "index": 7
     },
     {
@@ -24217,7 +24204,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719766834000",
+  "lastActivityTime": "1719767478000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MANDALORIAN"
   },
