@@ -23705,7 +23705,7 @@
       "skill": [
         {
           "id": "specialskill_SITHFIGHTER01",
-          "tier": 2
+          "tier": 3
         },
         {
           "id": "basicskill_SITHFIGHTER",
@@ -23733,7 +23733,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 25806
+      "gp": 25919
     },
     {
       "skill": [
@@ -143659,7 +143659,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3339038",
+      "value": "3339151",
       "index": 3
     },
     {
@@ -143755,7 +143755,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7770434",
+      "value": "7770547",
       "index": 1
     },
     {
@@ -146689,7 +146689,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719750076000",
+  "lastActivityTime": "1719750342000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
