@@ -23733,7 +23733,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 25351
+      "gp": 25806
     },
     {
       "skill": [
@@ -127813,24 +127813,8 @@
       ],
       "equipment": [
         {
-          "equipmentId": "111",
-          "slot": 0
-        },
-        {
-          "equipmentId": "108",
+          "equipmentId": "118",
           "slot": 2
-        },
-        {
-          "equipmentId": "113",
-          "slot": 3
-        },
-        {
-          "equipmentId": "109",
-          "slot": 4
-        },
-        {
-          "equipmentId": "079",
-          "slot": 5
         }
       ],
       "equippedStatModOld": [],
@@ -128556,11 +128540,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 8,
+      "currentTier": 9,
       "relic": {
         "currentTier": 1
       },
-      "gp": 12766
+      "gp": 13030
     },
     {
       "skill": [
@@ -143675,7 +143659,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3338583",
+      "value": "3339038",
       "index": 3
     },
     {
@@ -143729,13 +143713,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4431132",
+      "value": "4431396",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53985",
+      "value": "53987",
       "index": 8
     },
     {
@@ -143771,13 +143755,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7769715",
+      "value": "7770434",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "162601",
+      "value": "162606",
       "index": 7
     },
     {
@@ -146705,7 +146689,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719735049000",
+  "lastActivityTime": "1719735500000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
