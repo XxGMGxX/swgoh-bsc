@@ -86554,6 +86554,10 @@
         {
           "id": "basicskill_TIEREAPER",
           "tier": 3
+        },
+        {
+          "id": "hardwareskill_TIEREAPER01",
+          "tier": 0
         }
       ],
       "equipment": [],
@@ -86569,7 +86573,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 26894
+      "gp": 27788
     },
     {
       "skill": [
@@ -93611,7 +93615,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2200755",
+      "value": "2201649",
       "index": 3
     },
     {
@@ -93707,7 +93711,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5147941",
+      "value": "5148835",
       "index": 1
     },
     {
@@ -95183,7 +95187,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719732050000",
+  "lastActivityTime": "1719732596000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
