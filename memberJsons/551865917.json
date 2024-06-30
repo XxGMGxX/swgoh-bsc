@@ -137350,19 +137350,19 @@
         },
         {
           "id": "specialskill_CAPITALPROFUNDITY03",
-          "tier": 3
+          "tier": 4
         },
         {
           "id": "specialskill_CAPITALPROFUNDITY02",
-          "tier": 3
+          "tier": 4
         },
         {
           "id": "specialskill_CAPITALPROFUNDITY01",
-          "tier": 3
+          "tier": 4
         },
         {
           "id": "basicskill_CAPITALPROFUNDITY",
-          "tier": 3
+          "tier": 4
         }
       ],
       "equipment": [],
@@ -137371,14 +137371,14 @@
       "purchasedAbilityId": [],
       "id": "3XrdWnfQTQaKPJjWOEat9g",
       "definitionId": "Profundity",
-      "currentRarity": 4,
+      "currentRarity": 5,
       "currentLevel": 85,
       "currentXp": 1746400,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 67689
+      "gp": 73725
     },
     {
       "skill": [
@@ -141375,7 +141375,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3768892",
+      "value": "3774928",
       "index": 3
     },
     {
@@ -141435,7 +141435,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "61172",
+      "value": "61179",
       "index": 8
     },
     {
@@ -141447,7 +141447,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "2058984",
+      "value": "2059027",
       "index": 11
     },
     {
@@ -141471,13 +141471,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8782341",
+      "value": "8788377",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "230586",
+      "value": "230596",
       "index": 7
     },
     {
@@ -142270,7 +142270,7 @@
       "joinTime": "1718731713000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 10241
+      "rank": 10240
     }
   ],
   "datacron": [
@@ -142551,7 +142551,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719788482000",
+  "lastActivityTime": "1719789065000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },

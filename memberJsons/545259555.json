@@ -16027,11 +16027,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 12,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 3
       },
-      "gp": 18381
+      "gp": 20400
     },
     {
       "skill": [
@@ -125774,7 +125774,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2962143",
+      "value": "2964162",
       "index": 2
     },
     {
@@ -125816,7 +125816,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5280216",
+      "value": "5282235",
       "index": 1
     },
     {
@@ -125919,7 +125919,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719545751000",
+        "lastSaveTime": "1719788590000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -126448,7 +126448,7 @@
       "joinTime": "1718662379000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 7188
+      "rank": 7187
     }
   ],
   "datacron": [
@@ -126654,7 +126654,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -480,
-  "lastActivityTime": "1719788475000",
+  "lastActivityTime": "1719788737000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_BASTILA"
   },

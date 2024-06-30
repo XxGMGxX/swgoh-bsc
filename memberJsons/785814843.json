@@ -30190,13 +30190,18 @@
           "tier": 5
         }
       ],
-      "equipment": [],
+      "equipment": [
+        {
+          "equipmentId": "134",
+          "slot": 3
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
       "id": "18VubTv9RFCxqssYnllNuQ",
       "definitionId": "Captain Rex",
-      "currentRarity": 6,
+      "currentRarity": 7,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -30205,7 +30210,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 11425
+      "gp": 13618
     },
     {
       "skill": [],
@@ -82119,13 +82124,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2653767",
+      "value": "2655960",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "24082",
+      "value": "24092",
       "index": 8
     },
     {
@@ -82161,13 +82166,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4305155",
+      "value": "4307348",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "131346",
+      "value": "131356",
       "index": 7
     },
     {
@@ -82711,7 +82716,7 @@
       "joinTime": "1719536628000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 2018
+      "rank": 2017
     }
   ],
   "datacron": [
@@ -82741,7 +82746,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -420,
-  "lastActivityTime": "1719713486000",
+  "lastActivityTime": "1719788965000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_PADMEAMIDALA"
   },
