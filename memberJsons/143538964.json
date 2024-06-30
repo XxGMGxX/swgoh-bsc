@@ -80881,20 +80881,22 @@
             {
               "roll": [
                 "0.14867",
-                "0.14126"
+                "0.14126",
+                "0.18259"
               ],
               "unscaledRollValue": [
                 "446010",
-                "423780"
+                "423780",
+                "547770"
               ],
               "stat": {
                 "unitStatId": 5,
-                "statValueDecimal": "90000",
-                "unscaledDecimalValue": "900000000",
+                "statValueDecimal": "150000",
+                "unscaledDecimalValue": "1500000000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 2,
+              "statRolls": 3,
               "statRollerBoundsMin": "300000",
               "statRollerBoundsMax": "600000"
             },
@@ -80942,7 +80944,7 @@
           "id": "epb8Jps2SfabRpYA8VScBA",
           "definitionId": "264",
           "level": 15,
-          "tier": 1,
+          "tier": 2,
           "sellValue": {
             "currency": 1,
             "quantity": 221000,
@@ -81237,7 +81239,7 @@
       "relic": {
         "currentTier": 9
       },
-      "gp": 41839
+      "gp": 41856
     },
     {
       "skill": [
@@ -93667,7 +93669,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "12505",
+      "value": "12533",
       "index": 8
     },
     {
@@ -93709,7 +93711,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "39696",
+      "value": "39797",
       "index": 7
     },
     {
@@ -95179,7 +95181,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719724283000",
+  "lastActivityTime": "1719724869000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
