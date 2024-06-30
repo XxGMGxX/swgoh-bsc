@@ -136826,19 +136826,19 @@
         },
         {
           "id": "basicskill_CAPITALPROFUNDITY",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_CAPITALPROFUNDITY01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_CAPITALPROFUNDITY02",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_CAPITALPROFUNDITY03",
-          "tier": 5
+          "tier": 6
         }
       ],
       "equipment": [],
@@ -136847,14 +136847,14 @@
       "purchasedAbilityId": [],
       "id": "55E5LqiITXO2t09RSZErcA",
       "definitionId": "Profundity",
-      "currentRarity": 6,
+      "currentRarity": 7,
       "currentLevel": 85,
       "currentXp": 1746400,
       "promotionRecipeReference": "",
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 79983
+      "gp": 89148
     },
     {
       "skill": [
@@ -141427,7 +141427,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2904703",
+      "value": "2913868",
       "index": 3
     },
     {
@@ -141523,13 +141523,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7180574",
+      "value": "7189739",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "101707",
+      "value": "101709",
       "index": 7
     },
     {
@@ -141712,7 +141712,7 @@
           {
             "crewBattleStat": [],
             "unitId": "55E5LqiITXO2t09RSZErcA",
-            "unitDefId": "CAPITALPROFUNDITY:SIX_STAR",
+            "unitDefId": "CAPITALPROFUNDITY:SEVEN_STAR",
             "cellIndex": 0,
             "unitBattleStat": null,
             "messageReticle": "",
@@ -141806,13 +141806,27 @@
             "selectable": true,
             "overkillItem": false,
             "inheritFromDefinitionId": ""
+          },
+          {
+            "crewBattleStat": [],
+            "unitId": "vgnIzudTRou6rKDKoGF26g",
+            "unitDefId": "XWINGRED3:SEVEN_STAR",
+            "cellIndex": 7,
+            "unitBattleStat": null,
+            "messageReticle": "",
+            "progressItem": true,
+            "squadUnitType": 5,
+            "unitState": null,
+            "selectable": true,
+            "overkillItem": false,
+            "inheritFromDefinitionId": ""
           }
         ],
         "targetingTactic": 1,
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719312140000",
+        "lastSaveTime": "1719737434000",
         "supportInheritFromDefinitionId": "",
         "datacron": null
       },
@@ -142191,7 +142205,7 @@
       "joinTime": "1718670216000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 639
+      "rank": 641
     }
   ],
   "datacron": [
@@ -142298,7 +142312,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 420,
-  "lastActivityTime": "1719736859000",
+  "lastActivityTime": "1719737483000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_CHEWBACCA"
   },
