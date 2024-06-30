@@ -96247,7 +96247,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_EXCHANGE_DONATIONS_TU07_2",
       "versionKey": "NULL",
-      "value": "239",
+      "value": "242",
       "index": 12
     },
     {
@@ -96833,7 +96833,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 13992
+      "rank": 13986
     }
   ],
   "datacron": [
@@ -97741,7 +97741,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719775258000",
+  "lastActivityTime": "1719775822000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
