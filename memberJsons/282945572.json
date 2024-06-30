@@ -143719,7 +143719,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "54008",
+      "value": "54010",
       "index": 8
     },
     {
@@ -143743,7 +143743,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "128610",
+      "value": "128621",
       "index": 16
     },
     {
@@ -143761,7 +143761,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "162657",
+      "value": "162666",
       "index": 7
     },
     {
@@ -144461,7 +144461,7 @@
       "league": "KYBER",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 3434,
+      "seasonPoints": 3445,
       "division": 5,
       "joinTime": "1718658633000",
       "endTime": "1720990800000",
@@ -146689,7 +146689,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719773126000",
+  "lastActivityTime": "1719781858000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
