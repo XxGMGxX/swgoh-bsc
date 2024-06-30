@@ -143937,7 +143937,7 @@
       "joinTime": "1718658141000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 8329
+      "rank": 8323
     }
   ],
   "datacron": [
@@ -144629,7 +144629,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719757184000",
+  "lastActivityTime": "1719757871000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_NIGHTSISTERS_VENTRESS"
   },
