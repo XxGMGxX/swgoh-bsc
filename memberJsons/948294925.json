@@ -36341,19 +36341,21 @@
             },
             {
               "roll": [
-                "0.16716"
+                "0.16716",
+                "0.11911"
               ],
               "unscaledRollValue": [
-                "1881"
+                "1881",
+                "1340"
               ],
               "stat": {
                 "unitStatId": 56,
-                "statValueDecimal": "188",
-                "unscaledDecimalValue": "1881000",
+                "statValueDecimal": "322",
+                "unscaledDecimalValue": "3221000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 1,
+              "statRolls": 2,
               "statRollerBoundsMin": "1125",
               "statRollerBoundsMax": "2250"
             },
@@ -36401,7 +36403,7 @@
           "id": "YLLM3KMZSLq52Vekdt8vcA",
           "definitionId": "152",
           "level": 15,
-          "tier": 4,
+          "tier": 5,
           "sellValue": {
             "currency": 1,
             "quantity": 97200,
@@ -36936,7 +36938,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 20856
+      "gp": 20880
     },
     {
       "skill": [
@@ -130963,7 +130965,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "48645",
+      "value": "48656",
       "index": 8
     },
     {
@@ -131005,7 +131007,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "134482",
+      "value": "134510",
       "index": 7
     },
     {
@@ -131102,7 +131104,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719676621000",
+        "lastSaveTime": "1719765286000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -132206,7 +132208,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719765072000",
+  "lastActivityTime": "1719765332000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
