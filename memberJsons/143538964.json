@@ -3551,7 +3551,7 @@
       "skill": [
         {
           "id": "uniqueskill_RAVENSCLAW02",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "uniqueskill_RAVENSCLAW01",
@@ -3559,7 +3559,7 @@
         },
         {
           "id": "specialskill_RAVENSCLAW01",
-          "tier": 4
+          "tier": 5
         },
         {
           "id": "basicskill_RAVENSCLAW",
@@ -3583,7 +3583,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 43746
+      "gp": 44133
     },
     {
       "skill": [
@@ -93611,7 +93611,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2200368",
+      "value": "2200755",
       "index": 3
     },
     {
@@ -93665,7 +93665,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2947147",
+      "value": "2947186",
       "index": 2
     },
     {
@@ -93707,7 +93707,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5147515",
+      "value": "5147941",
       "index": 1
     },
     {
@@ -94275,7 +94275,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 14023
+      "rank": 14029
     }
   ],
   "datacron": [
@@ -95183,7 +95183,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719731447000",
+  "lastActivityTime": "1719732050000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
