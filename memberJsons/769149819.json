@@ -94155,7 +94155,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1234805",
+      "value": "1234917",
       "index": 11
     },
     {
@@ -94185,7 +94185,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "133561",
+      "value": "133583",
       "index": 7
     },
     {
@@ -94781,7 +94781,7 @@
       "joinTime": "1719521136000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 12187
+      "rank": 12190
     }
   ],
   "datacron": [
@@ -94996,7 +94996,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719713430000",
+  "lastActivityTime": "1719714088000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },

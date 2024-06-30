@@ -141583,7 +141583,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "172725",
+      "value": "172749",
       "index": 7
     },
     {
@@ -142203,7 +142203,7 @@
       "joinTime": "1718662260000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 769
+      "rank": 768
     }
   ],
   "datacron": [
@@ -142376,7 +142376,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 120,
-  "lastActivityTime": "1719708630000",
+  "lastActivityTime": "1719713798000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GIFT_02"
   },
