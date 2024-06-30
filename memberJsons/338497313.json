@@ -51,7 +51,12 @@
           "tier": 5
         }
       ],
-      "equipment": [],
+      "equipment": [
+        {
+          "equipmentId": "G12Finisher_HERMITYODA_B",
+          "slot": 5
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -66,7 +71,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 16387
+      "gp": 16597
     },
     {
       "skill": [
@@ -1981,7 +1986,7 @@
         },
         {
           "id": "specialskill_MILLENNIUMFALCON02",
-          "tier": 2
+          "tier": 6
         },
         {
           "id": "basicskill_MILLENNIUMFALCON",
@@ -2005,7 +2010,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 44063
+      "gp": 44773
     },
     {
       "skill": [
@@ -12083,6 +12088,10 @@
         {
           "equipmentId": "079",
           "slot": 3
+        },
+        {
+          "equipmentId": "093",
+          "slot": 4
         }
       ],
       "equippedStatModOld": [],
@@ -12099,7 +12108,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 10038
+      "gp": 10104
     },
     {
       "skill": [
@@ -15830,11 +15839,11 @@
         },
         {
           "id": "uniqueskill_XWINGRED201",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "hardwareskill_XWINGRED201",
-          "tier": 0
+          "tier": 1
         },
         {
           "id": "specialskill_XWINGRED201",
@@ -15854,7 +15863,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 30474
+      "gp": 33589
     },
     {
       "skill": [
@@ -19800,6 +19809,18 @@
           "slot": 0
         },
         {
+          "equipmentId": "112",
+          "slot": 2
+        },
+        {
+          "equipmentId": "112",
+          "slot": 3
+        },
+        {
+          "equipmentId": "117",
+          "slot": 4
+        },
+        {
           "equipmentId": "118",
           "slot": 5
         }
@@ -19818,7 +19839,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 11592
+      "gp": 11956
     },
     {
       "skill": [
@@ -21688,11 +21709,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 8,
+      "currentTier": 9,
       "relic": {
         "currentTier": 1
       },
-      "gp": 14175
+      "gp": 14904
     },
     {
       "skill": [],
@@ -23376,7 +23397,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "1775897",
+      "value": "1779722",
       "index": 3
     },
     {
@@ -23430,7 +23451,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3159441",
+      "value": "3160810",
       "index": 2
     },
     {
@@ -23472,7 +23493,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4935338",
+      "value": "4940532",
       "index": 1
     },
     {
@@ -24204,7 +24225,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719767478000",
+  "lastActivityTime": "1719768030000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MANDALORIAN"
   },
