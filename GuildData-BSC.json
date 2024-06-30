@@ -466,8 +466,8 @@
           },
           {
             "type": 3,
-            "currentValue": "0",
-            "lifetimeValue": "2239"
+            "currentValue": "3",
+            "lifetimeValue": "2242"
           },
           {
             "type": 1,
@@ -521,16 +521,16 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719780100000",
+        "lastActivityTime": "1719780661000",
         "squadPower": 175250,
         "guildJoinTime": "1652378145",
-        "galacticPower": "8135560",
+        "galacticPower": "8140742",
         "playerTitle": "PLAYERTITLE_GRANDARENA_CHALLENGE_GENERALKENOBI",
         "playerPortrait": "PLAYERPORTRAIT_BD1",
         "lifetimeSeasonScore": "327135",
         "leagueId": "AURODIUM",
-        "shipGalacticPower": "3391873",
-        "characterGalacticPower": "4743687",
+        "shipGalacticPower": "3394094",
+        "characterGalacticPower": "4746648",
         "nucleusId": "1011382011127"
       },
       {
@@ -597,7 +597,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719775213000",
+        "lastActivityTime": "1719780605000",
         "squadPower": 169402,
         "guildJoinTime": "1652378146",
         "galacticPower": "8299939",
@@ -1585,7 +1585,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719780107000",
+        "lastActivityTime": "1719780498000",
         "squadPower": 135621,
         "guildJoinTime": "1652398609",
         "galacticPower": "7518263",
@@ -1753,8 +1753,8 @@
         "memberContribution": [
           {
             "type": 2,
-            "currentValue": "372",
-            "lifetimeValue": "397938"
+            "currentValue": "456",
+            "lifetimeValue": "398022"
           },
           {
             "type": 3,
@@ -1813,7 +1813,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719779542000",
+        "lastActivityTime": "1719780579000",
         "squadPower": 151862,
         "guildJoinTime": "1652406414",
         "galacticPower": "5836542",
@@ -2041,16 +2041,16 @@
         "playerLevel": 85,
         "memberLevel": 3,
         "guildXp": 0,
-        "lastActivityTime": "1719778458000",
+        "lastActivityTime": "1719780618000",
         "squadPower": 177275,
         "guildJoinTime": "1652444079",
-        "galacticPower": "8403176",
+        "galacticPower": "8401193",
         "playerTitle": "",
         "playerPortrait": "",
         "lifetimeSeasonScore": "99683",
         "leagueId": "KYBER",
-        "shipGalacticPower": "3647269",
-        "characterGalacticPower": "4755907",
+        "shipGalacticPower": "3646520",
+        "characterGalacticPower": "4754673",
         "nucleusId": "1013260075685"
       },
       {
@@ -3713,7 +3713,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719780060000",
+        "lastActivityTime": "1719780665000",
         "squadPower": 153475,
         "guildJoinTime": "1715387579",
         "galacticPower": "5154073",
@@ -5238,10 +5238,10 @@
       "leaderboardScore": "0",
       "bannerColorId": "red_white",
       "bannerLogoId": "guild_icon_Rebel",
-      "guildGalacticPower": "373660377",
+      "guildGalacticPower": "373665559",
       "chatChannelId": "guild-{8qYzrHcISr-VJgiyDdMldw}",
       "guildType": "",
-      "guildGalacticPowerForRequirement": "373660377",
+      "guildGalacticPowerForRequirement": "373665559",
       "singleLaunchConfig": {
         "raidId": "speederbike",
         "campaignMissionIdentifier": {
