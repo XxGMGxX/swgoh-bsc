@@ -141313,7 +141313,7 @@
         },
         {
           "id": "basicskill_DARTHBANE",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_DARTHBANE01",
@@ -142081,7 +142081,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 19102
+      "gp": 21508
     },
     {
       "skill": [],
@@ -143705,7 +143705,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "16317",
+      "value": "16329",
       "index": 9
     },
     {
@@ -143729,13 +143729,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4428726",
+      "value": "4431132",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "53974",
+      "value": "53983",
       "index": 8
     },
     {
@@ -143747,7 +143747,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1475789",
+      "value": "1475932",
       "index": 11
     },
     {
@@ -143771,13 +143771,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7767309",
+      "value": "7769715",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "162494",
+      "value": "162575",
       "index": 7
     },
     {
@@ -146705,7 +146705,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719723685000",
+  "lastActivityTime": "1719724081000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
