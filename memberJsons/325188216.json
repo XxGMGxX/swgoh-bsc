@@ -1647,7 +1647,7 @@
         },
         {
           "id": "specialskill_MARAUDER01",
-          "tier": 4
+          "tier": 6
         },
         {
           "id": "specialskill_MARAUDER02",
@@ -1679,7 +1679,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 52251
+      "gp": 53707
     },
     {
       "skill": [
@@ -8092,11 +8092,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 11,
+      "currentTier": 12,
       "relic": {
         "currentTier": 1
       },
-      "gp": 15370
+      "gp": 16558
     },
     {
       "skill": [],
@@ -42678,11 +42678,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 10,
+      "currentTier": 12,
       "relic": {
         "currentTier": 1
       },
-      "gp": 15075
+      "gp": 17325
     },
     {
       "skill": [],
@@ -73415,7 +73415,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2802687",
+      "value": "2805212",
       "index": 3
     },
     {
@@ -73469,13 +73469,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3610925",
+      "value": "3614363",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "26781",
+      "value": "26783",
       "index": 8
     },
     {
@@ -73511,13 +73511,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6413612",
+      "value": "6419575",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "82748",
+      "value": "82750",
       "index": 7
     },
     {
@@ -74409,7 +74409,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719787885000",
+  "lastActivityTime": "1719788291000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDIKNIGHTLUKE"
   },

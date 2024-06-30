@@ -125750,7 +125750,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "10599",
+      "value": "10611",
       "index": 9
     },
     {
@@ -125780,7 +125780,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "23299",
+      "value": "23309",
       "index": 8
     },
     {
@@ -125822,7 +125822,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "61962",
+      "value": "61999",
       "index": 7
     },
     {
@@ -126448,7 +126448,7 @@
       "joinTime": "1718662379000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 7186
+      "rank": 7188
     }
   ],
   "datacron": [
@@ -126654,7 +126654,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -480,
-  "lastActivityTime": "1719778259000",
+  "lastActivityTime": "1719788475000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_BASTILA"
   },
