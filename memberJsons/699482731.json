@@ -120321,7 +120321,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "43761",
+      "value": "43764",
       "index": 8
     },
     {
@@ -120333,7 +120333,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1032702",
+      "value": "1032745",
       "index": 11
     },
     {
@@ -120363,7 +120363,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "165845",
+      "value": "165862",
       "index": 7
     },
     {
@@ -120460,7 +120460,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719703858000",
+        "lastSaveTime": "1719787196000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -121776,7 +121776,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719765980000",
+  "lastActivityTime": "1719787225000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GRANDARENA_ADVANCED"
   },
