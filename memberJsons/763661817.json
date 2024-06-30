@@ -22399,7 +22399,7 @@
         },
         {
           "id": "leaderskill_ADMIRALRADDUS",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_ADMIRALRADDUS02",
@@ -22420,8 +22420,20 @@
           "slot": 0
         },
         {
+          "equipmentId": "117",
+          "slot": 1
+        },
+        {
+          "equipmentId": "105",
+          "slot": 2
+        },
+        {
           "equipmentId": "072",
           "slot": 3
+        },
+        {
+          "equipmentId": "117",
+          "slot": 4
         }
       ],
       "equippedStatModOld": [],
@@ -22438,7 +22450,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 11013
+      "gp": 11377
     },
     {
       "skill": [
@@ -41688,6 +41700,10 @@
         {
           "equipmentId": "169",
           "slot": 3
+        },
+        {
+          "equipmentId": "167",
+          "slot": 4
         }
       ],
       "equippedStatModOld": [],
@@ -42427,7 +42443,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 23131
+      "gp": 23341
     },
     {
       "skill": [
@@ -79796,35 +79812,14 @@
         },
         {
           "id": "uniqueskill_MARAJADE01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "basicskill_MARAJADE",
           "tier": 6
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "158",
-          "slot": 0
-        },
-        {
-          "equipmentId": "165",
-          "slot": 1
-        },
-        {
-          "equipmentId": "161",
-          "slot": 2
-        },
-        {
-          "equipmentId": "168",
-          "slot": 3
-        },
-        {
-          "equipmentId": "170",
-          "slot": 4
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -80566,11 +80561,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 12,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 3
       },
-      "gp": 22899
+      "gp": 23868
     },
     {
       "skill": [
@@ -94693,13 +94688,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3402965",
+      "value": "3404508",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "32749",
+      "value": "32774",
       "index": 8
     },
     {
@@ -94717,7 +94712,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_EXCHANGE_DONATIONS_TU07_2",
       "versionKey": "NULL",
-      "value": "1165",
+      "value": "1168",
       "index": 12
     },
     {
@@ -94735,13 +94730,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5914914",
+      "value": "5916457",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "131646",
+      "value": "131751",
       "index": 7
     },
     {
@@ -95363,7 +95358,7 @@
       "joinTime": "1718739932000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 1861
+      "rank": 1859
     }
   ],
   "datacron": [
@@ -95600,7 +95595,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 360,
-  "lastActivityTime": "1719783630000",
+  "lastActivityTime": "1719784257000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GLKENOBI"
   },
