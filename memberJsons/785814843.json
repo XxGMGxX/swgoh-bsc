@@ -82137,7 +82137,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "970791",
+      "value": "970921",
       "index": 11
     },
     {
@@ -82167,7 +82167,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "131330",
+      "value": "131346",
       "index": 7
     },
     {
@@ -82711,7 +82711,7 @@
       "joinTime": "1719536628000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 2045
+      "rank": 2042
     }
   ],
   "datacron": [
@@ -82741,7 +82741,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -420,
-  "lastActivityTime": "1719690612000",
+  "lastActivityTime": "1719713486000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_PADMEAMIDALA"
   },
