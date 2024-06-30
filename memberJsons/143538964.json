@@ -17146,19 +17146,21 @@
           "secondaryStat": [
             {
               "roll": [
-                "0.18321"
+                "0.18321",
+                "0.14468"
               ],
               "unscaledRollValue": [
-                "1031"
+                "1031",
+                "814"
               ],
               "stat": {
                 "unitStatId": 55,
-                "statValueDecimal": "103",
-                "unscaledDecimalValue": "1031000",
+                "statValueDecimal": "184",
+                "unscaledDecimalValue": "1844000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 1,
+              "statRolls": 2,
               "statRollerBoundsMin": "563",
               "statRollerBoundsMax": "1125"
             },
@@ -17222,7 +17224,7 @@
           "id": "yntxrUSQSQWSbY9K1UzrfA",
           "definitionId": "855",
           "level": 15,
-          "tier": 2,
+          "tier": 3,
           "sellValue": {
             "currency": 1,
             "quantity": 97200,
@@ -17389,7 +17391,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 18459
+      "gp": 18481
     },
     {
       "skill": [
@@ -93996,8 +93998,8 @@
           },
           {
             "crewBattleStat": [],
-            "unitId": "1whNwGu8RpSs0cp17NGiqg",
-            "unitDefId": "TIEFIGHTERFOSF:SEVEN_STAR",
+            "unitId": "XF-w-nFMRbevToU9-HZGQw",
+            "unitDefId": "EBONHAWK:SEVEN_STAR",
             "cellIndex": 5,
             "unitBattleStat": null,
             "messageReticle": "",
@@ -94010,8 +94012,8 @@
           },
           {
             "crewBattleStat": [],
-            "unitId": "XF-w-nFMRbevToU9-HZGQw",
-            "unitDefId": "EBONHAWK:SEVEN_STAR",
+            "unitId": "1whNwGu8RpSs0cp17NGiqg",
+            "unitDefId": "TIEFIGHTERFOSF:SEVEN_STAR",
             "cellIndex": 6,
             "unitBattleStat": null,
             "messageReticle": "",
@@ -94041,7 +94043,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1718192297000",
+        "lastSaveTime": "1719725082000",
         "supportInheritFromDefinitionId": "",
         "datacron": null
       },
@@ -94273,7 +94275,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 14009
+      "rank": 14002
     }
   ],
   "datacron": [
@@ -95181,7 +95183,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719724869000",
+  "lastActivityTime": "1719725475000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
