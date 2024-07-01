@@ -126518,11 +126518,11 @@
       "wins": 0,
       "losses": 0,
       "seasonPoints": 1543,
-      "division": 15,
+      "division": 20,
       "joinTime": "1718662379000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 7166
+      "rank": 7161
     }
   ],
   "datacron": [
@@ -126735,7 +126735,7 @@
   "lifetimeSeasonScore": "0",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 2316
+      "skillRating": 2352
     },
     "playerRankStatus": {
       "leagueId": "BRONZIUM",
