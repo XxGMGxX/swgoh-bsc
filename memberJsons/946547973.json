@@ -141495,7 +141495,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "28793",
+      "value": "28800",
       "index": 8
     },
     {
@@ -141537,7 +141537,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "101878",
+      "value": "101885",
       "index": 7
     },
     {
@@ -142320,7 +142320,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -420,
-  "lastActivityTime": "1719831833000",
+  "lastActivityTime": "1719838885000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_CHEWBACCA"
   },
