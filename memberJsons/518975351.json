@@ -119510,7 +119510,7 @@
     },
     {
       "tab": 2,
-      "rank": 59,
+      "rank": 72,
       "squad": {
         "cell": [
           {
@@ -119979,7 +119979,7 @@
       "joinTime": "1718663828000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 11872
+      "rank": 11873
     }
   ],
   "datacron": [
@@ -120185,7 +120185,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719859244000",
+  "lastActivityTime": "1719861063000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },

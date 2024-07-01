@@ -134415,7 +134415,7 @@
       "purchasedAbilityId": [],
       "id": "EDbgDxdaS9at8TTZce4BWQ",
       "definitionId": "Saw Gerrera",
-      "currentRarity": 6,
+      "currentRarity": 7,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -134424,7 +134424,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 10336
+      "gp": 12331
     },
     {
       "skill": [
@@ -137870,13 +137870,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4846903",
+      "value": "4848898",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "66370",
+      "value": "66377",
       "index": 8
     },
     {
@@ -137912,13 +137912,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8301836",
+      "value": "8303831",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "232846",
+      "value": "232857",
       "index": 7
     },
     {
@@ -140209,7 +140209,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719855770000",
+  "lastActivityTime": "1719861013000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_OURIDENTITY"
   },
