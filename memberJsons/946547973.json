@@ -141630,7 +141630,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719803258000",
+        "lastSaveTime": "1719811873000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -142315,8 +142315,8 @@
     "id": "PLAYERTITLE_GLLUKE_EVENT"
   },
   "guildTypeId": "NORMAL",
-  "localTimeZoneOffsetMinutes": 420,
-  "lastActivityTime": "1719810313000",
+  "localTimeZoneOffsetMinutes": -420,
+  "lastActivityTime": "1719811873000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_CHEWBACCA"
   },
