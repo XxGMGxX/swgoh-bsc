@@ -109547,11 +109547,11 @@
       "wins": 0,
       "losses": 0,
       "seasonPoints": 4129,
-      "division": 10,
+      "division": 15,
       "joinTime": "1718660515000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 5437
+      "rank": 5406
     }
   ],
   "datacron": [
@@ -109765,7 +109765,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719860754000",
+  "lastActivityTime": "1719873490000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
