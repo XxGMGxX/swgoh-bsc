@@ -59074,27 +59074,18 @@
         },
         {
           "id": "specialskill_DARTHTRAYA02",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_DARTHTRAYA01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "basicskill_DARTHTRAYA",
-          "tier": 5
+          "tier": 6
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "095",
-          "slot": 3
-        },
-        {
-          "equipmentId": "095",
-          "slot": 4
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -59105,11 +59096,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 8,
+      "currentTier": 9,
       "relic": {
         "currentTier": 1
       },
-      "gp": 12166
+      "gp": 13282
     },
     {
       "skill": [
@@ -76533,11 +76524,11 @@
         },
         {
           "id": "specialskill_CC222401",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "basicskill_CC2224",
-          "tier": 5
+          "tier": 6
         }
       ],
       "equipment": [],
@@ -77276,7 +77267,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 13047
+      "gp": 13467
     },
     {
       "skill": [
@@ -84465,7 +84456,24 @@
           "tier": 5
         }
       ],
-      "equipment": [],
+      "equipment": [
+        {
+          "equipmentId": "106",
+          "slot": 1
+        },
+        {
+          "equipmentId": "087",
+          "slot": 2
+        },
+        {
+          "equipmentId": "101",
+          "slot": 3
+        },
+        {
+          "equipmentId": "091",
+          "slot": 4
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [],
       "purchasedAbilityId": [],
@@ -84476,11 +84484,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 5,
+      "currentTier": 7,
       "relic": {
         "currentTier": 1
       },
-      "gp": 9774
+      "gp": 11124
     },
     {
       "skill": [
@@ -91949,15 +91957,15 @@
       "skill": [
         {
           "id": "basicskill_JEDIKNIGHTCONSULAR",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_JEDIKNIGHTCONSULAR01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_JEDIKNIGHTCONSULAR02",
-          "tier": 5
+          "tier": 6
         }
       ],
       "equipment": [
@@ -91972,6 +91980,10 @@
         {
           "equipmentId": "165",
           "slot": 2
+        },
+        {
+          "equipmentId": "169",
+          "slot": 4
         }
       ],
       "equippedStatModOld": [],
@@ -92699,7 +92711,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 16108
+      "gp": 16948
     },
     {
       "skill": [
@@ -109767,7 +109779,7 @@
       "skill": [
         {
           "id": "uniqueskill_MARAJADE01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "basicskill_MARAJADE",
@@ -122435,7 +122447,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 43552
+      "gp": 45442
     },
     {
       "skill": [
@@ -130957,7 +130969,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3242072",
+      "value": "3243962",
       "index": 3
     },
     {
@@ -131011,13 +131023,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4483189",
+      "value": "4486915",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "48796",
+      "value": "48799",
       "index": 8
     },
     {
@@ -131053,13 +131065,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7725261",
+      "value": "7730877",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "134774",
+      "value": "134800",
       "index": 7
     },
     {
@@ -132260,7 +132272,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719853310000",
+  "lastActivityTime": "1719857438000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
