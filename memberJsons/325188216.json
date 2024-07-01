@@ -74345,7 +74345,7 @@
       "joinTime": "1718705959000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 2890
+      "rank": 2892
     }
   ],
   "datacron": [
@@ -74595,14 +74595,14 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719866854000",
+  "lastActivityTime": "1719867332000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDIKNIGHTLUKE"
   },
   "lifetimeSeasonScore": "34068",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 2798
+      "skillRating": 2762
     },
     "playerRankStatus": {
       "leagueId": "AURODIUM",

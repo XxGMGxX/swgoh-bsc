@@ -143765,7 +143765,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "162838",
+      "value": "162843",
       "index": 7
     },
     {
@@ -146693,14 +146693,14 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719865684000",
+  "lastActivityTime": "1719867692000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_L337"
   },
   "lifetimeSeasonScore": "80356",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 2964
+      "skillRating": 2927
     },
     "playerRankStatus": {
       "leagueId": "KYBER",

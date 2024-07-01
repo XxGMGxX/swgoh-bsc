@@ -120399,7 +120399,7 @@
   "pvpProfile": [
     {
       "tab": 1,
-      "rank": 199,
+      "rank": 219,
       "squad": {
         "cell": [
           {
@@ -121115,7 +121115,7 @@
       "joinTime": "1718662489000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 17420
+      "rank": 17412
     }
   ],
   "datacron": [
@@ -121800,7 +121800,7 @@
   "lifetimeSeasonScore": "133464",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 3016
+      "skillRating": 2980
     },
     "playerRankStatus": {
       "leagueId": "KYBER",
