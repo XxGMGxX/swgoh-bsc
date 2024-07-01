@@ -73661,7 +73661,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "26783",
+      "value": "26820",
       "index": 8
     },
     {
@@ -73703,7 +73703,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "82752",
+      "value": "82799",
       "index": 7
     },
     {
@@ -73800,7 +73800,7 @@
         "squadType": 5,
         "targetingSetId": "",
         "expireTime": "0",
-        "lastSaveTime": "1719669035000",
+        "lastSaveTime": "1719861674000",
         "supportInheritFromDefinitionId": "",
         "datacron": {
           "tag": [],
@@ -74595,7 +74595,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719853531000",
+  "lastActivityTime": "1719861686000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDIKNIGHTLUKE"
   },
