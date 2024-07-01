@@ -141930,7 +141930,7 @@
       "joinTime": "1718673487000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 1825
+      "rank": 1820
     }
   ],
   "datacron": [
@@ -141978,7 +141978,7 @@
   "lifetimeSeasonScore": "433570",
   "playerRating": {
     "playerSkillRating": {
-      "skillRating": 2639
+      "skillRating": 2603
     },
     "playerRankStatus": {
       "leagueId": "CHROMIUM",
