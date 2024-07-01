@@ -22857,11 +22857,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 9,
+      "currentTier": 10,
       "relic": {
         "currentTier": 1
       },
-      "gp": 10573
+      "gp": 11428
     },
     {
       "skill": [
@@ -36822,20 +36822,22 @@
             {
               "roll": [
                 "0.14252",
-                "0.19620"
+                "0.19620",
+                "0.11192"
               ],
               "unscaledRollValue": [
                 "30542036",
-                "42045660"
+                "42045660",
+                "23984456"
               ],
               "stat": {
                 "unitStatId": 1,
-                "statValueDecimal": "7250000",
-                "unscaledDecimalValue": "72500000000",
+                "statValueDecimal": "9650000",
+                "unscaledDecimalValue": "96500000000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 2,
+              "statRolls": 3,
               "statRollerBoundsMin": "21430000",
               "statRollerBoundsMax": "42860000"
             },
@@ -36901,7 +36903,7 @@
           "id": "ziYqucTqSCijSsqLEkNGQQ",
           "definitionId": "156",
           "level": 15,
-          "tier": 4,
+          "tier": 5,
           "sellValue": {
             "currency": 1,
             "quantity": 97200,
@@ -36950,7 +36952,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 21838
+      "gp": 21862
     },
     {
       "skill": [
@@ -38639,6 +38641,10 @@
         {
           "equipmentId": "099",
           "slot": 2
+        },
+        {
+          "equipmentId": "112",
+          "slot": 3
         }
       ],
       "equippedStatModOld": [],
@@ -38655,7 +38661,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 10923
+      "gp": 11044
     },
     {
       "skill": [
@@ -97406,6 +97412,10 @@
       ],
       "equipment": [
         {
+          "equipmentId": "108",
+          "slot": 0
+        },
+        {
           "equipmentId": "048",
           "slot": 1
         },
@@ -97416,6 +97426,10 @@
         {
           "equipmentId": "118",
           "slot": 4
+        },
+        {
+          "equipmentId": "117",
+          "slot": 5
         }
       ],
       "equippedStatModOld": [],
@@ -98117,7 +98131,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 10312
+      "gp": 10555
     },
     {
       "skill": [
@@ -127748,12 +127762,20 @@
       ],
       "equipment": [
         {
+          "equipmentId": "108",
+          "slot": 0
+        },
+        {
           "equipmentId": "043",
           "slot": 1
         },
         {
           "equipmentId": "063",
           "slot": 2
+        },
+        {
+          "equipmentId": "117",
+          "slot": 4
         },
         {
           "equipmentId": "111",
@@ -127774,7 +127796,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 9961
+      "gp": 10204
     },
     {
       "skill": [
@@ -130979,13 +131001,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4476734",
+      "value": "4478220",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "48667",
+      "value": "48694",
       "index": 8
     },
     {
@@ -131021,13 +131043,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7716325",
+      "value": "7717811",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "134575",
+      "value": "134603",
       "index": 7
     },
     {
@@ -132228,7 +132250,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719797449000",
+  "lastActivityTime": "1719798071000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
