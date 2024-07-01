@@ -7946,24 +7946,20 @@
       ],
       "equipment": [
         {
-          "equipmentId": "111",
+          "equipmentId": "103",
           "slot": 0
         },
         {
-          "equipmentId": "108",
+          "equipmentId": "129",
           "slot": 1
         },
         {
-          "equipmentId": "125",
+          "equipmentId": "100",
           "slot": 2
         },
         {
-          "equipmentId": "113",
+          "equipmentId": "145",
           "slot": 3
-        },
-        {
-          "equipmentId": "118",
-          "slot": 5
         }
       ],
       "equippedStatModOld": [],
@@ -7976,11 +7972,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 9,
+      "currentTier": 10,
       "relic": {
         "currentTier": 1
       },
-      "gp": 13818
+      "gp": 14668
     },
     {
       "skill": [
@@ -120291,7 +120287,7 @@
     {
       "nameKey": "STAT_TOTAL_GALACTIC_WON_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "15470",
+      "value": "15482",
       "index": 9
     },
     {
@@ -120315,7 +120311,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4889766",
+      "value": "4890616",
       "index": 2
     },
     {
@@ -120357,13 +120353,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8339203",
+      "value": "8340053",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "165894",
+      "value": "165903",
       "index": 7
     },
     {
@@ -121776,7 +121772,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719803450000",
+  "lastActivityTime": "1719803711000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GRANDARENA_ADVANCED"
   },

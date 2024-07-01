@@ -19718,15 +19718,7 @@
       ],
       "equipment": [
         {
-          "equipmentId": "082",
-          "slot": 0
-        },
-        {
-          "equipmentId": "091",
-          "slot": 2
-        },
-        {
-          "equipmentId": "112",
+          "equipmentId": "139",
           "slot": 3
         }
       ],
@@ -20457,11 +20449,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 10,
+      "currentTier": 11,
       "relic": {
         "currentTier": 1
       },
-      "gp": 14959
+      "gp": 15688
     },
     {
       "skill": [
@@ -143147,13 +143139,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4538624",
+      "value": "4539353",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "59669",
+      "value": "59674",
       "index": 8
     },
     {
@@ -143189,13 +143181,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7437693",
+      "value": "7438422",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "198875",
+      "value": "198901",
       "index": 7
     },
     {
@@ -144629,7 +144621,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719793419000",
+  "lastActivityTime": "1719804061000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_NIGHTSISTERS_VENTRESS"
   },
