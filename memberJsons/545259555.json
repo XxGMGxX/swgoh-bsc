@@ -125804,7 +125804,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "119301",
+      "value": "119525",
       "index": 16
     },
     {
@@ -125828,13 +125828,13 @@
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "651",
+      "value": "652",
       "index": 14
     },
     {
       "nameKey": "STAT_SEASON_TERRITORIES_DEFEATED_NAME",
       "versionKey": "NULL",
-      "value": "492",
+      "value": "493",
       "index": 19
     }
   ],
@@ -126443,12 +126443,12 @@
       "league": "BRONZIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 1319,
+      "seasonPoints": 1543,
       "division": 15,
       "joinTime": "1718662379000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 7188
+      "rank": 7189
     }
   ],
   "datacron": [
@@ -126654,7 +126654,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -480,
-  "lastActivityTime": "1719800480000",
+  "lastActivityTime": "1719800495000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_BASTILA"
   },
