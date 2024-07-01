@@ -62780,20 +62780,22 @@
             {
               "roll": [
                 "0.18438",
-                "0.17190"
+                "0.17190",
+                "0.10685"
               ],
               "unscaledRollValue": [
                 "553140",
-                "515700"
+                "515700",
+                "320550"
               ],
               "stat": {
                 "unitStatId": 5,
-                "statValueDecimal": "100000",
-                "unscaledDecimalValue": "1000000000",
+                "statValueDecimal": "130000",
+                "unscaledDecimalValue": "1300000000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 2,
+              "statRolls": 3,
               "statRollerBoundsMin": "300000",
               "statRollerBoundsMax": "600000"
             },
@@ -62837,19 +62839,21 @@
             },
             {
               "roll": [
-                "0.10881"
+                "0.10881",
+                "0.15531"
               ],
               "unscaledRollValue": [
-                "23317983"
+                "23317983",
+                "33282933"
               ],
               "stat": {
                 "unitStatId": 1,
-                "statValueDecimal": "2330000",
-                "unscaledDecimalValue": "23300000000",
+                "statValueDecimal": "5660000",
+                "unscaledDecimalValue": "56600000000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 1,
+              "statRolls": 2,
               "statRollerBoundsMin": "21430000",
               "statRollerBoundsMax": "42860000"
             }
@@ -62857,7 +62861,7 @@
           "id": "X2gPIb-oTXWHFnHZGTHsiw",
           "definitionId": "156",
           "level": 15,
-          "tier": 3,
+          "tier": 5,
           "sellValue": {
             "currency": 1,
             "quantity": 97200,
@@ -62906,7 +62910,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 14908
+      "gp": 14955
     },
     {
       "skill": [],
@@ -74218,7 +74222,7 @@
       "joinTime": "1718705959000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 2887
+      "rank": 2888
     }
   ],
   "datacron": [
@@ -74468,7 +74472,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719851063000",
+  "lastActivityTime": "1719852680000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDIKNIGHTLUKE"
   },
