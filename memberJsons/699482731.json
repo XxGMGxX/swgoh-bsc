@@ -34913,7 +34913,28 @@
           "tier": 6
         }
       ],
-      "equipment": [],
+      "equipment": [
+        {
+          "equipmentId": "165",
+          "slot": 0
+        },
+        {
+          "equipmentId": "159",
+          "slot": 1
+        },
+        {
+          "equipmentId": "160",
+          "slot": 2
+        },
+        {
+          "equipmentId": "168",
+          "slot": 3
+        },
+        {
+          "equipmentId": "170",
+          "slot": 4
+        }
+      ],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -35501,11 +35522,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 10,
+      "currentTier": 12,
       "relic": {
         "currentTier": 1
       },
-      "gp": 14356
+      "gp": 17656
     },
     {
       "skill": [
@@ -120311,7 +120332,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4893715",
+      "value": "4897015",
       "index": 2
     },
     {
@@ -120353,13 +120374,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8343152",
+      "value": "8346452",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "165962",
+      "value": "165984",
       "index": 7
     },
     {
@@ -121772,7 +121793,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719850287000",
+  "lastActivityTime": "1719850860000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GRANDARENA_ADVANCED"
   },
