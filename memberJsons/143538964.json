@@ -96031,7 +96031,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "51739",
+      "value": "51778",
       "index": 16
     },
     {
@@ -96055,7 +96055,7 @@
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "316",
+      "value": "317",
       "index": 14
     },
     {
@@ -96391,6 +96391,27 @@
       "id": "PLAYERTITLE_HIGH_MAGISTRATE"
     },
     {
+      "id": "PLAYERTITLE_SEASON001_CHROMIUM_ALL"
+    },
+    {
+      "id": "PLAYERTITLE_GLKYLOREN_EVENT"
+    },
+    {
+      "id": "PLAYERTITLE_GENERAL"
+    },
+    {
+      "id": "PLAYERTITLE_SEASON001_AURODIUM_ALL"
+    },
+    {
+      "id": "PLAYERTITLE_GRANDARENA_ADVANCED"
+    },
+    {
+      "id": "PLAYERTITLE_SEASON001_CARBONITE_ALL"
+    },
+    {
+      "id": "PLAYERTITLE_MARQUEE_CAPTAINREX"
+    },
+    {
       "id": "PLAYERTITLE_GLREY_QUEST_001"
     },
     {
@@ -96409,6 +96430,9 @@
       "id": "PLAYERTITLE_GLSLKR_QUEST_004"
     },
     {
+      "id": "PLAYERTITLE_GRANDARENA_CHALLENGE_DARTHTRAYA"
+    },
+    {
       "id": "PLAYERTITLE_GLSLKR_QUEST_003"
     },
     {
@@ -96424,19 +96448,10 @@
       "id": "PLAYERTITLE_GRANDARENA_INTRO"
     },
     {
-      "id": "PLAYERTITLE_SEASON001_CHROMIUM_ALL"
-    },
-    {
       "id": "PLAYERTITLE_SHADOW_APPRENTICE"
     },
     {
       "id": "PLAYERTITLE_DARKSIDEHISTORIAN"
-    },
-    {
-      "id": "PLAYERTITLE_GLKYLOREN_EVENT"
-    },
-    {
-      "id": "PLAYERTITLE_GENERAL"
     },
     {
       "id": "PLAYERTITLE_GLREY_QUEST_003"
@@ -96445,19 +96460,7 @@
       "id": "PLAYERTITLE_GLREY_QUEST_004"
     },
     {
-      "id": "PLAYERTITLE_SEASON001_AURODIUM_ALL"
-    },
-    {
-      "id": "PLAYERTITLE_GRANDARENA_ADVANCED"
-    },
-    {
       "id": "PLAYERTITLE_SEASON001_BRONZIUM_ALL"
-    },
-    {
-      "id": "PLAYERTITLE_SEASON001_CARBONITE_ALL"
-    },
-    {
-      "id": "PLAYERTITLE_MARQUEE_CAPTAINREX"
     }
   ],
   "unlockedPlayerPortrait": [
@@ -96475,6 +96478,9 @@
     },
     {
       "id": "PLAYERPORTRAIT_VISAS"
+    },
+    {
+      "id": "PLAYERPORTRAIT_GRANDARENA_CHALLENGE_DARTHTRAYA"
     },
     {
       "id": "PLAYERPORTRAIT_STORMTROOPER"
@@ -96606,7 +96612,7 @@
       "league": "AURODIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 2217,
+      "seasonPoints": 2256,
       "division": 5,
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
@@ -97519,7 +97525,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719864657000",
+  "lastActivityTime": "1719865283000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
