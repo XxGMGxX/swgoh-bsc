@@ -141509,7 +141509,7 @@
     {
       "nameKey": "STAT_SEASON_SUCCESSFUL_DEFENDS_NAME",
       "versionKey": "NULL",
-      "value": "688",
+      "value": "689",
       "index": 15
     },
     {
@@ -141551,7 +141551,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "37507",
+      "value": "37534",
       "index": 8
     },
     {
@@ -141593,7 +141593,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "172982",
+      "value": "173011",
       "index": 7
     },
     {
@@ -142386,7 +142386,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 120,
-  "lastActivityTime": "1719844958000",
+  "lastActivityTime": "1719850217000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GIFT_02"
   },

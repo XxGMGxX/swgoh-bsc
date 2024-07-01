@@ -35501,11 +35501,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 7,
+      "currentTier": 10,
       "relic": {
         "currentTier": 1
       },
-      "gp": 12097
+      "gp": 14356
     },
     {
       "skill": [
@@ -120311,13 +120311,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4891456",
+      "value": "4893715",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "43790",
+      "value": "43798",
       "index": 8
     },
     {
@@ -120353,13 +120353,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8340893",
+      "value": "8343152",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "165927",
+      "value": "165962",
       "index": 7
     },
     {
@@ -121772,7 +121772,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719844911000",
+  "lastActivityTime": "1719850287000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GRANDARENA_ADVANCED"
   },
