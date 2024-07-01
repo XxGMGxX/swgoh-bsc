@@ -96255,7 +96255,7 @@
     },
     {
       "tab": 2,
-      "rank": 18,
+      "rank": 24,
       "squad": {
         "cell": [
           {
@@ -96607,7 +96607,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 13994
+      "rank": 13995
     }
   ],
   "datacron": [
@@ -97515,7 +97515,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719798056000",
+  "lastActivityTime": "1719798661000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
