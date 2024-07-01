@@ -7013,7 +7013,7 @@
         },
         {
           "id": "hardwareskill_arc170rex",
-          "tier": 0
+          "tier": 1
         }
       ],
       "equipment": [],
@@ -7029,7 +7029,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 73020
+      "gp": 75106
     },
     {
       "skill": [
@@ -56109,7 +56109,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2694204",
+      "value": "2696290",
       "index": 3
     },
     {
@@ -56181,7 +56181,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1539280",
+      "value": "1539323",
       "index": 11
     },
     {
@@ -56205,13 +56205,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6457518",
+      "value": "6459604",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "150596",
+      "value": "150611",
       "index": 7
     },
     {
@@ -56775,7 +56775,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719808869000",
+  "lastActivityTime": "1719809358000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDI_GENERAL"
   },
