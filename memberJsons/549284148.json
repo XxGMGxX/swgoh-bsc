@@ -52777,7 +52777,7 @@
       "purchasedAbilityId": [],
       "id": "g6WRbYy2SeycWxik31gsaQ",
       "definitionId": "Boss Nass",
-      "currentRarity": 5,
+      "currentRarity": 6,
       "currentLevel": 85,
       "currentXp": 883025,
       "promotionRecipeReference": "",
@@ -52786,7 +52786,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 9727
+      "gp": 10867
     },
     {
       "skill": [
@@ -89351,13 +89351,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4661677",
+      "value": "4662817",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "123915",
+      "value": "123920",
       "index": 8
     },
     {
@@ -89393,13 +89393,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7900205",
+      "value": "7901345",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "212904",
+      "value": "212909",
       "index": 7
     },
     {
@@ -90083,7 +90083,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719831707000",
+  "lastActivityTime": "1719834683000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
