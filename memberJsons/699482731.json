@@ -34894,15 +34894,15 @@
       "skill": [
         {
           "id": "basicskill_NUTEGUNRAY",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_NUTEGUNRAY01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "leaderskill_NUTEGUNRAY",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "uniqueskill_NUTEGUNRAY01",
@@ -34910,7 +34910,7 @@
         },
         {
           "id": "specialskill_NUTEGUNRAY02",
-          "tier": 5
+          "tier": 6
         }
       ],
       "equipment": [],
@@ -35505,7 +35505,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 11257
+      "gp": 12097
     },
     {
       "skill": [
@@ -120311,7 +120311,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4890616",
+      "value": "4891456",
       "index": 2
     },
     {
@@ -120353,7 +120353,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "8340053",
+      "value": "8340893",
       "index": 1
     },
     {
@@ -121094,7 +121094,7 @@
       "joinTime": "1718662489000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 17422
+      "rank": 17421
     }
   ],
   "datacron": [
@@ -121772,7 +121772,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719844875000",
+  "lastActivityTime": "1719844911000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GRANDARENA_ADVANCED"
   },
