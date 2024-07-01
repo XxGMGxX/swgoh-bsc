@@ -24485,7 +24485,7 @@
         },
         {
           "id": "uniqueskill_MERRIN01",
-          "tier": 5
+          "tier": 6
         }
       ],
       "equipment": [
@@ -36188,10 +36188,14 @@
         },
         {
           "id": "basicskill_GRANDMASTERLUKE",
-          "tier": 0
+          "tier": 1
         }
       ],
       "equipment": [
+        {
+          "equipmentId": "143",
+          "slot": 1
+        },
         {
           "equipmentId": "131",
           "slot": 2
@@ -36952,7 +36956,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 21862
+      "gp": 24978
     },
     {
       "skill": [
@@ -131001,13 +131005,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4478220",
+      "value": "4481336",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "48709",
+      "value": "48742",
       "index": 8
     },
     {
@@ -131025,7 +131029,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_EXCHANGE_DONATIONS_TU07_2",
       "versionKey": "NULL",
-      "value": "520",
+      "value": "524",
       "index": 12
     },
     {
@@ -131043,13 +131047,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7717811",
+      "value": "7720927",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "134632",
+      "value": "134676",
       "index": 7
     },
     {
@@ -132250,7 +132254,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719851489000",
+  "lastActivityTime": "1719852087000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
