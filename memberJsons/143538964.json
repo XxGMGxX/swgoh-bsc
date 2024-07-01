@@ -16658,6 +16658,10 @@
           "slot": 2
         },
         {
+          "equipmentId": "169",
+          "slot": 3
+        },
+        {
           "equipmentId": "G12Finisher_MERRIN_C",
           "slot": 5
         }
@@ -17395,7 +17399,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 18481
+      "gp": 18691
     },
     {
       "skill": [
@@ -95997,13 +96001,13 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2952510",
+      "value": "2952720",
       "index": 2
     },
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "12558",
+      "value": "12567",
       "index": 8
     },
     {
@@ -96039,13 +96043,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5154283",
+      "value": "5154493",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "40004",
+      "value": "40026",
       "index": 7
     },
     {
@@ -97515,7 +97519,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719862275000",
+  "lastActivityTime": "1719862866000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
