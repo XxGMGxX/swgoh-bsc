@@ -16644,28 +16644,7 @@
           "tier": 5
         }
       ],
-      "equipment": [
-        {
-          "equipmentId": "165",
-          "slot": 0
-        },
-        {
-          "equipmentId": "158",
-          "slot": 1
-        },
-        {
-          "equipmentId": "158",
-          "slot": 2
-        },
-        {
-          "equipmentId": "169",
-          "slot": 3
-        },
-        {
-          "equipmentId": "G12Finisher_MERRIN_C",
-          "slot": 5
-        }
-      ],
+      "equipment": [],
       "equippedStatModOld": [],
       "equippedStatMod": [
         {
@@ -17395,11 +17374,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 12,
+      "currentTier": 13,
       "relic": {
-        "currentTier": 1
+        "currentTier": 5
       },
-      "gp": 18691
+      "gp": 21406
     },
     {
       "skill": [
@@ -50440,20 +50419,8 @@
       ],
       "equipment": [
         {
-          "equipmentId": "109",
-          "slot": 0
-        },
-        {
-          "equipmentId": "129",
-          "slot": 1
-        },
-        {
-          "equipmentId": "172",
+          "equipmentId": "160",
           "slot": 2
-        },
-        {
-          "equipmentId": "144",
-          "slot": 4
         }
       ],
       "equippedStatModOld": [],
@@ -51199,11 +51166,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 11,
+      "currentTier": 12,
       "relic": {
         "currentTier": 1
       },
-      "gp": 19849
+      "gp": 20455
     },
     {
       "skill": [
@@ -96001,7 +95968,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2952720",
+      "value": "2956041",
       "index": 2
     },
     {
@@ -96043,13 +96010,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5154493",
+      "value": "5157814",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "40031",
+      "value": "40060",
       "index": 7
     },
     {
@@ -96617,7 +96584,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 9110
+      "rank": 9090
     }
   ],
   "datacron": [
@@ -97525,7 +97492,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719876054000",
+  "lastActivityTime": "1719876681000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
