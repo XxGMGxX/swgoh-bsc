@@ -141453,7 +141453,7 @@
     {
       "nameKey": "STAT_SEASON_SUCCESSFUL_DEFENDS_NAME",
       "versionKey": "NULL",
-      "value": "270",
+      "value": "271",
       "index": 15
     },
     {
@@ -141537,7 +141537,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "101944",
+      "value": "101960",
       "index": 7
     },
     {
@@ -142320,7 +142320,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -420,
-  "lastActivityTime": "1719858585000",
+  "lastActivityTime": "1719861972000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_CHEWBACCA"
   },
