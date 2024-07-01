@@ -65210,7 +65210,7 @@
         },
         {
           "id": "specialskill_ROSETICO01",
-          "tier": 5
+          "tier": 6
         },
         {
           "id": "specialskill_ROSETICO02",
@@ -65929,7 +65929,7 @@
       "relic": {
         "currentTier": 7
       },
-      "gp": 22422
+      "gp": 22632
     },
     {
       "skill": [
@@ -95997,7 +95997,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2952300",
+      "value": "2952510",
       "index": 2
     },
     {
@@ -96039,7 +96039,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "5154073",
+      "value": "5154283",
       "index": 1
     },
     {
@@ -96607,7 +96607,7 @@
       "joinTime": "1718658179000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 13979
+      "rank": 13975
     }
   ],
   "datacron": [
@@ -97515,7 +97515,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719855032000",
+  "lastActivityTime": "1719855649000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
