@@ -137822,7 +137822,7 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "554",
+      "value": "555",
       "index": 5
     },
     {
@@ -137876,7 +137876,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "66337",
+      "value": "66346",
       "index": 8
     },
     {
@@ -137918,7 +137918,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "232737",
+      "value": "232753",
       "index": 7
     },
     {
@@ -138128,7 +138128,7 @@
     },
     {
       "tab": 2,
-      "rank": 7,
+      "rank": 4,
       "squad": {
         "cell": [
           {
@@ -140209,7 +140209,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719792585000",
+  "lastActivityTime": "1719794320000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_OURIDENTITY"
   },
