@@ -12431,19 +12431,21 @@
             },
             {
               "roll": [
-                "0.17936"
+                "0.17936",
+                "0.10370"
               ],
               "unscaledRollValue": [
-                "2018"
+                "2018",
+                "1167"
               ],
               "stat": {
                 "unitStatId": 56,
-                "statValueDecimal": "201",
-                "unscaledDecimalValue": "2018000",
+                "statValueDecimal": "318",
+                "unscaledDecimalValue": "3184000",
                 "uiDisplayOverrideValue": "-1",
                 "scalar": "0"
               },
-              "statRolls": 1,
+              "statRolls": 2,
               "statRollerBoundsMin": "1125",
               "statRollerBoundsMax": "2250"
             },
@@ -12469,7 +12471,7 @@
           "id": "R3c9IuGpSOCoM_wFnSBWiQ",
           "definitionId": "152",
           "level": 15,
-          "tier": 4,
+          "tier": 5,
           "sellValue": {
             "currency": 1,
             "quantity": 97200,
@@ -12980,7 +12982,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 14038
+      "gp": 14062
     },
     {
       "skill": [
@@ -46848,7 +46850,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 52603
+      "gp": 52628
     },
     {
       "skill": [
@@ -74466,7 +74468,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719850852000",
+  "lastActivityTime": "1719851063000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDIKNIGHTLUKE"
   },
