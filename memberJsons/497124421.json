@@ -125925,11 +125925,11 @@
       "currentXp": 883025,
       "promotionRecipeReference": "",
       "unitStat": null,
-      "currentTier": 7,
+      "currentTier": 8,
       "relic": {
         "currentTier": 1
       },
-      "gp": 9114
+      "gp": 9789
     },
     {
       "skill": [
@@ -143111,7 +143111,7 @@
     {
       "nameKey": "STAT_SEASON_SUCCESSFUL_DEFENDS_NAME",
       "versionKey": "NULL",
-      "value": "513",
+      "value": "514",
       "index": 15
     },
     {
@@ -143147,7 +143147,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4539728",
+      "value": "4540403",
       "index": 2
     },
     {
@@ -143189,7 +143189,7 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "7438797",
+      "value": "7439472",
       "index": 1
     },
     {
@@ -144629,7 +144629,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719851970000",
+  "lastActivityTime": "1719853852000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_NIGHTSISTERS_VENTRESS"
   },
