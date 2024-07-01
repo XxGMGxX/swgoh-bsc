@@ -137822,7 +137822,7 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "553",
+      "value": "554",
       "index": 5
     },
     {
@@ -138128,7 +138128,7 @@
     },
     {
       "tab": 2,
-      "rank": 11,
+      "rank": 7,
       "squad": {
         "cell": [
           {
@@ -138697,7 +138697,7 @@
       "joinTime": "1718661267000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 23737
+      "rank": 23736
     }
   ],
   "datacron": [
@@ -140209,7 +140209,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719788273000",
+  "lastActivityTime": "1719792585000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_OURIDENTITY"
   },
