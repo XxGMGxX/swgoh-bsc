@@ -130985,7 +130985,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "893368",
+      "value": "893417",
       "index": 11
     },
     {
@@ -132216,7 +132216,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719794657000",
+  "lastActivityTime": "1719795642000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },

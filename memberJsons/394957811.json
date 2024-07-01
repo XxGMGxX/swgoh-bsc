@@ -124909,7 +124909,7 @@
     {
       "nameKey": "STAT_SEASON_BANNERS_EARNED_NAME",
       "versionKey": "NULL",
-      "value": "325269",
+      "value": "326110",
       "index": 16
     },
     {
@@ -124933,13 +124933,13 @@
     {
       "nameKey": "STAT_SEASON_OFFENSIVE_BATTLES_WON_NAME",
       "versionKey": "NULL",
-      "value": "1398",
+      "value": "1403",
       "index": 14
     },
     {
       "nameKey": "STAT_SEASON_TERRITORIES_DEFEATED_NAME",
       "versionKey": "NULL",
-      "value": "549",
+      "value": "552",
       "index": 19
     }
   ],
@@ -125508,12 +125508,12 @@
       "league": "BRONZIUM",
       "wins": 0,
       "losses": 0,
-      "seasonPoints": 2742,
+      "seasonPoints": 3583,
       "division": 20,
       "joinTime": "1718660867000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 10119
+      "rank": 10116
     }
   ],
   "datacron": [
@@ -125554,7 +125554,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719795063000",
+  "lastActivityTime": "1719795598000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_SITHTROOPER"
   },
