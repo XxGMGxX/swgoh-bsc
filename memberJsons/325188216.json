@@ -72557,6 +72557,63 @@
       "gp": 26335
     },
     {
+      "skill": [
+        {
+          "id": "uniqueskill_DARTHBANE01",
+          "tier": 5
+        },
+        {
+          "id": "leaderskill_DARTHBANE",
+          "tier": 5
+        },
+        {
+          "id": "specialskill_DARTHBANE02",
+          "tier": 5
+        },
+        {
+          "id": "specialskill_DARTHBANE01",
+          "tier": 5
+        },
+        {
+          "id": "basicskill_DARTHBANE",
+          "tier": 5
+        }
+      ],
+      "equipment": [
+        {
+          "equipmentId": "110",
+          "slot": 0
+        },
+        {
+          "equipmentId": "084",
+          "slot": 1
+        },
+        {
+          "equipmentId": "117",
+          "slot": 4
+        },
+        {
+          "equipmentId": "111",
+          "slot": 5
+        }
+      ],
+      "equippedStatModOld": [],
+      "equippedStatMod": [],
+      "purchasedAbilityId": [],
+      "id": "HKM1iZnCS52NBQDFHkhd3A",
+      "definitionId": "Darth Bane",
+      "currentRarity": 7,
+      "currentLevel": 85,
+      "currentXp": 883025,
+      "promotionRecipeReference": "",
+      "unitStat": null,
+      "currentTier": 8,
+      "relic": {
+        "currentTier": 1
+      },
+      "gp": 14815
+    },
+    {
       "skill": [],
       "equipment": [],
       "equippedStatModOld": [],
@@ -73469,7 +73526,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3614363",
+      "value": "3629178",
       "index": 2
     },
     {
@@ -73493,7 +73550,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_EXCHANGE_DONATIONS_TU07_2",
       "versionKey": "NULL",
-      "value": "88",
+      "value": "90",
       "index": 12
     },
     {
@@ -73511,13 +73568,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6419575",
+      "value": "6434390",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "82750",
+      "value": "82751",
       "index": 7
     },
     {
@@ -74159,7 +74216,7 @@
       "joinTime": "1718705959000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 2883
+      "rank": 2882
     }
   ],
   "datacron": [
@@ -74409,7 +74466,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": 0,
-  "lastActivityTime": "1719788291000",
+  "lastActivityTime": "1719821919000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDIKNIGHTLUKE"
   },
