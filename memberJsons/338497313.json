@@ -53,6 +53,10 @@
       ],
       "equipment": [
         {
+          "equipmentId": "165",
+          "slot": 2
+        },
+        {
           "equipmentId": "G12Finisher_HERMITYODA_B",
           "slot": 5
         }
@@ -71,7 +75,7 @@
       "relic": {
         "currentTier": 1
       },
-      "gp": 16597
+      "gp": 16807
     },
     {
       "skill": [
@@ -23451,7 +23455,7 @@
     {
       "nameKey": "STAT_CHARACTER_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "3163466",
+      "value": "3163676",
       "index": 2
     },
     {
@@ -23493,13 +23497,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "4943188",
+      "value": "4943398",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "110162",
+      "value": "110174",
       "index": 7
     },
     {
@@ -24019,7 +24023,7 @@
       "joinTime": "1718662189000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 1116
+      "rank": 4190
     }
   ],
   "datacron": [
@@ -24225,7 +24229,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719850350000",
+  "lastActivityTime": "1719872079000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MANDALORIAN"
   },
