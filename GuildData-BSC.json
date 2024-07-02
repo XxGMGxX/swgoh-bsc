@@ -521,7 +521,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719891100000",
+        "lastActivityTime": "1719891356000",
         "squadPower": 175250,
         "guildJoinTime": "1652378145",
         "galacticPower": "8150142",
@@ -901,7 +901,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719809358000",
+        "lastActivityTime": "1719891665000",
         "squadPower": 152755,
         "guildJoinTime": "1652388659",
         "galacticPower": "6459604",
@@ -3045,8 +3045,8 @@
         "memberContribution": [
           {
             "type": 1,
-            "currentValue": "0",
-            "lifetimeValue": "185015"
+            "currentValue": "221",
+            "lifetimeValue": "185236"
           },
           {
             "type": 3,
@@ -3105,7 +3105,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719869298000",
+        "lastActivityTime": "1719891678000",
         "squadPower": 157986,
         "guildJoinTime": "1686252099",
         "galacticPower": "7771000",
@@ -3283,8 +3283,8 @@
           },
           {
             "type": 2,
-            "currentValue": "100",
-            "lifetimeValue": "108522"
+            "currentValue": "212",
+            "lifetimeValue": "108634"
           }
         ],
         "seasonStatus": [
@@ -3333,7 +3333,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719885866000",
+        "lastActivityTime": "1719891401000",
         "squadPower": 174155,
         "guildJoinTime": "1704054010",
         "galacticPower": "7190159",
@@ -3713,7 +3713,7 @@
         "playerLevel": 85,
         "memberLevel": 2,
         "guildXp": 0,
-        "lastActivityTime": "1719891057000",
+        "lastActivityTime": "1719891661000",
         "squadPower": 153475,
         "guildJoinTime": "1715387579",
         "galacticPower": "5157905",
