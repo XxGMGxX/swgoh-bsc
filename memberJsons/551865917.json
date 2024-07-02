@@ -142266,11 +142266,11 @@
       "wins": 0,
       "losses": 0,
       "seasonPoints": 653,
-      "division": 15,
+      "division": 10,
       "joinTime": "1718731713000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 10089
+      "rank": 10084
     }
   ],
   "datacron": [
@@ -142551,7 +142551,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -240,
-  "lastActivityTime": "1719789379000",
+  "lastActivityTime": "1719882125000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_DARTHREVAN"
   },
