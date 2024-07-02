@@ -56115,7 +56115,7 @@
     {
       "nameKey": "STAT_PVP_SHIP_BATTLES_WIN_NAME",
       "versionKey": "NULL",
-      "value": "427",
+      "value": "428",
       "index": 5
     },
     {
@@ -56181,7 +56181,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "1539323",
+      "value": "1539529",
       "index": 11
     },
     {
@@ -56316,7 +56316,7 @@
     },
     {
       "tab": 2,
-      "rank": 63,
+      "rank": 53,
       "squad": {
         "cell": [
           {
@@ -56734,7 +56734,7 @@
       "joinTime": "1718678015000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 9914
+      "rank": 9911
     }
   ],
   "datacron": [
@@ -56775,7 +56775,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -300,
-  "lastActivityTime": "1719892260000",
+  "lastActivityTime": "1719892540000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_JEDI_GENERAL"
   },
