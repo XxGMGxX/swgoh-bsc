@@ -120557,7 +120557,7 @@
     },
     {
       "tab": 2,
-      "rank": 10,
+      "rank": 15,
       "squad": {
         "cell": [
           {
@@ -121115,7 +121115,7 @@
       "joinTime": "1718662489000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 22148
+      "rank": 22144
     }
   ],
   "datacron": [
@@ -121793,7 +121793,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -180,
-  "lastActivityTime": "1719884477000",
+  "lastActivityTime": "1719885073000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GRANDARENA_ADVANCED"
   },
