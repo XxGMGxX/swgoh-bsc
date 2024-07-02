@@ -80665,7 +80665,7 @@
         },
         {
           "id": "uniqueskill_TIEFIGHTERIMPERIAL02",
-          "tier": 1
+          "tier": 2
         }
       ],
       "equipment": [],
@@ -80681,7 +80681,7 @@
       "unitStat": null,
       "currentTier": 1,
       "relic": null,
-      "gp": 33232
+      "gp": 33298
     },
     {
       "skill": [
@@ -119303,7 +119303,7 @@
     {
       "nameKey": "STAT_SHIP_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "2513740",
+      "value": "2513806",
       "index": 3
     },
     {
@@ -119363,7 +119363,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "27273",
+      "value": "27282",
       "index": 8
     },
     {
@@ -119399,13 +119399,13 @@
     {
       "nameKey": "STAT_GALACTIC_POWER_ACQUIRED_NAME",
       "versionKey": "NULL",
-      "value": "6021152",
+      "value": "6021218",
       "index": 1
     },
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "72432",
+      "value": "72447",
       "index": 7
     },
     {
@@ -119979,7 +119979,7 @@
       "joinTime": "1718663828000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 16276
+      "rank": 16273
     }
   ],
   "datacron": [
@@ -120185,7 +120185,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719877901000",
+  "lastActivityTime": "1719884487000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_GENERAL"
   },
