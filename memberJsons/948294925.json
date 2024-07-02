@@ -131050,7 +131050,7 @@
     {
       "nameKey": "STAT_PVE_HARD_BATTLES_WIN_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "48813",
+      "value": "48823",
       "index": 8
     },
     {
@@ -131062,7 +131062,7 @@
     {
       "nameKey": "STAT_TOTAL_GUILD_CONTRIBUTION_NAME_TU07_2",
       "versionKey": "NULL",
-      "value": "893417",
+      "value": "893729",
       "index": 11
     },
     {
@@ -131092,7 +131092,7 @@
     {
       "nameKey": "STAT_PVE_BATTLES_WIN_NAME_TU15",
       "versionKey": "NULL",
-      "value": "134884",
+      "value": "134904",
       "index": 7
     },
     {
@@ -131779,11 +131779,11 @@
       "wins": 0,
       "losses": 0,
       "seasonPoints": 3669,
-      "division": 20,
+      "division": 25,
       "joinTime": "1718658068000",
       "endTime": "1720990800000",
       "remove": false,
-      "rank": 796
+      "rank": 2803
     }
   ],
   "datacron": [
@@ -132293,7 +132293,7 @@
   },
   "guildTypeId": "NORMAL",
   "localTimeZoneOffsetMinutes": -360,
-  "lastActivityTime": "1719858824000",
+  "lastActivityTime": "1719888675000",
   "selectedPlayerPortrait": {
     "id": "PLAYERPORTRAIT_MISSION"
   },
